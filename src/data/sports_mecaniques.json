@@ -1,0 +1,1106 @@
+{
+  "rallye": [
+    {
+      "id": "rallye_1",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel pilote français détient le record absolu du nombre de titres de champion du monde des rallyes (WRC) avec 9 sacres consécutifs ?",
+      "answer": "Sébastien Loeb",
+      "explanation": "Sébastien Loeb a dominé le championnat du monde des rallyes (WRC) de 2004 à 2012 en remportant 9 titres consécutifs avec le constructeur Citroën. Copiloté par Daniel Elena, il est considéré comme l'un des plus grands pilotes de l'histoire du sport automobile mondial. Il s'est également illustré dans d'autres disciplines variées comme le rallye-raid Dakar, les 24 Heures du Mans ou le WTCC."
+    },
+    {
+      "id": "rallye_2",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel rallye-raid légendaire, créé par Thierry Sabine, reliait historiquement l'Europe à la capitale du Sénégal ?",
+      "options": [
+        "Le Monte-Carlo",
+        "Le Paris-Dakar",
+        "Le Safari Rallye",
+        "Le Rallye des Pharaons"
+      ],
+      "answer": "Le Paris-Dakar",
+      "explanation": "Créé en 1978 par le pilote de rallye Thierry Sabine, le Paris-Dakar est la plus célèbre et éprouvante des compétitions de rallye-raid au monde. À l'origine, les concurrents traversaient le désert du Sahara pour rejoindre la ligne d'arrivée située au bord du lac Rose à Dakar. Pour des raisons évidentes de sécurité, l'événement a ensuite migré vers l'Amérique du Sud puis vers l'Arabie saoudite."
+    },
+    {
+      "id": "rallye_3",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle marque automobile détient le record du nombre de titres constructeurs en Championnat du monde des rallyes (WRC) ?",
+      "options": [
+        "Lancia",
+        "Citroën",
+        "Peugeot",
+        "Toyota"
+      ],
+      "answer": "Lancia",
+      "explanation": "Lancia détient le record absolu avec 10 titres de champion du monde des constructeurs remportés entre 1972 et 1992. La marque italienne a brillé avec des modèles légendaires tels que la Stratos, la 037 et la Delta HF Integrale. Bien que retirée du rallye mondial depuis les années 1990, Lancia reste une icône incontestée de la discipline."
+    },
+    {
+      "id": "rallye_4",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel pilote de rallye finlandais, double champion du monde en 2000 et 2002, est célèbre pour son calme olympien et son surnom de 'Bosse' ?",
+      "answer": "Marcus Grönholm",
+      "explanation": "Marcus Grönholm a remporté ses deux titres mondiaux avec l'écurie officielle Peugeot au volant de la rétive 206 WRC. Il est connu pour ses duels intenses avec Sébastien Loeb et ses interviews télévisées mémorables teintées d'humour brut. Après sa retraite du WRC, il a continué à piloter en rallycross avant de devenir consultant et directeur d'équipe."
+    },
+    {
+      "id": "rallye_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle réglementation technique ultra-performante et dangereuse, introduite en 1982, a été bannie du championnat WRC fin 1986 suite à plusieurs accidents mortels ?",
+      "options": [
+        "Groupe B",
+        "Groupe A",
+        "Groupe N",
+        "World Rally Car"
+      ],
+      "answer": "Groupe B",
+      "explanation": "Le Groupe B permettait l'utilisation de technologies de pointe comme la transmission intégrale, la suralimentation et des matériaux composites légers sans limite de puissance. Des monstres de puissance comme la Peugeot 205 Turbo 16 ou l'Audi Quattro ont marqué cette ère de folie technologique. Les accidents tragiques de 1986 ont poussé la fédération internationale à interdire définitivement cette catégorie pour privilégier la sécurité des pilotes et des spectateurs."
+    },
+    {
+      "id": "rallye_6",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel est le prénom du copilote historique de Sébastien Loeb, avec qui il a partagé ses 9 titres de champion du monde des rallyes ?",
+      "answer": "Daniel",
+      "explanation": "Daniel Elena est le copilote monégasque qui a accompagné Sébastien Loeb durant la quasi-totalité de sa carrière professionnelle en WRC. Ensemble, le duo mythique a signé pas moins de 79 victoires en championnat du monde et 9 titres mondiaux consécutifs. Leur complicité exceptionnelle au sein de l'équipe Citroën a fait d'eux l'équipage le plus titré de l'histoire du rallye."
+    },
+    {
+      "id": "rallye_7",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Sur quel revêtement spécifique se dispute l'intégralité du célèbre Rallye de Suède ?",
+      "options": [
+        "La neige et la glace",
+        "L'asphalte pur",
+        "La terre battue",
+        "Le sable désertique"
+      ],
+      "answer": "La neige et la glace",
+      "explanation": "Le Rallye de Suède est l'unique manche du calendrier WRC à se dérouler entièrement sur des routes enneigées et verglacées. Pour obtenir de l'adhérence, les voitures sont équipées de pneus étroits munis de centaines de clous métalliques qui mordent la glace. Les pilotes utilisent habilement les murs de neige bordant la route pour s'appuyer dans les virages à haute vitesse."
+    },
+    {
+      "id": "rallye_8",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle femme pilote française est la seule à avoir remporté des victoires scratch en championnat du monde des rallyes WRC, notamment au volant d'une Audi Quattro ?",
+      "answer": "Michèle Mouton",
+      "explanation": "Michèle Mouton est une figure légendaire du sport automobile mondial, ayant remporté quatre rallyes en championnat du monde entre 1981 et 1982. Elle a d'ailleurs terminé vice-championne du monde des pilotes en 1982 derrière Walter Röhrl. Après sa carrière de pilote, elle a cofondé la Course des Champions et a œuvré activement au sein de la FIA pour la promotion des femmes dans le sport."
+    },
+    {
+      "id": "rallye_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel pilote français, vainqueur de 8 titres de champion du monde des rallyes (WRC), a succédé à Sébastien Loeb au sommet de la discipline ?",
+      "options": [
+        "Sébastien Ogier",
+        "Didier Auriol",
+        "François Delecour",
+        "Adrien Fourmaux"
+      ],
+      "answer": "Sébastien Ogier",
+      "explanation": "Sébastien Ogier a régné sur le WRC en remportant 8 titres de champion du monde avec trois constructeurs différents : Volkswagen, Ford et Toyota. Il s'impose ainsi comme l'un des plus grands tacticiens et pilotes de l'histoire du sport automobile. Sa capacité à s'adapter rapidement à de nouvelles montures et à gérer la pression a forgé sa légende."
+    },
+    {
+      "id": "rallye_10",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle célèbre marque allemande a révolutionné le rallye au début des années 1980 en introduisant avec succès la transmission intégrale (quatre roues motrices) ?",
+      "answer": "Audi",
+      "explanation": "Audi a bouleversé les codes du rallye mondial en lançant la technologie Quattro lors du championnat du monde 1981. Jusqu'alors, la majorité des voitures de rallye utilisaient une propulsion simple ou une traction avant. Grâce à cette innovation, la marque a démontré une motricité et une efficacité insolentes sur la terre, la boue et la neige."
+    },
+    {
+      "id": "rallye_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "En quelle année s'est tenu le tout premier Championnat du monde des rallyes (WRC) officiel pour les pilotes ?",
+      "options": [
+        "1979",
+        "1973",
+        "1977",
+        "1983"
+      ],
+      "answer": "1979",
+      "explanation": "Le championnat du monde des rallyes pour les constructeurs a été créé en 1973, mais le championnat officiel récompensant le meilleur pilote n'a été inauguré qu'en 1979. Le tout premier pilote sacré fut le Suédois Björn Waldegård au volant d'une Ford Escort RS1800 et d'une Mercedes-Benz 450 SLC. Cette reconnaissance a marqué un tournant majeur pour la popularité internationale des pilotes de la discipline."
+    },
+    {
+      "id": "rallye_12",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Dans quel pays se déroule le mythique Rallye Monte-Carlo, bien que le parcours traverse principalement les départements français limitrophes ?",
+      "answer": "Monaco",
+      "explanation": "Le Rallye Monte-Carlo, créé en 1911, prend traditionnellement son départ et célèbre son arrivée dans la Principauté de Monaco. Le tracé mythique emprunte les routes sinueuses et souvent enneigées des Alpes françaises voisines, notamment le célèbre col de Turini. Il s'agit de la manche d'ouverture historique et la plus prestigieuse du championnat WRC."
+    },
+    {
+      "id": "rallye_13",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "De quelle couleur emblématique étaient peintes les célèbres Subaru Impreza sponsorisées par State Express 555 dans les années 1990 ?",
+      "options": [
+        "Bleu",
+        "Rouge",
+        "Vert",
+        "Jaune"
+      ],
+      "answer": "Bleu",
+      "explanation": "Les Subaru Impreza WRC officielles arboraient une livrée bleu vif associée à des jantes dorées et des logos jaunes fluorescents du sponsor 555. Cette combinaison de couleurs est devenue légendaire auprès des amateurs de rallye du monde entier. Elle reste indissociable des exploits de pilotes de renom comme Colin McRae ou Richard Burns."
+    },
+    {
+      "id": "rallye_14",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel rallye d'Afrique de l'Est, réputé pour sa chaleur étouffante, ses pistes cassantes et sa faune sauvage, est considéré comme l'un des plus difficiles de l'histoire ?",
+      "answer": "Le Safari Rallye",
+      "explanation": "Le Safari Rallye, qui se court au Kenya, met à rude épreuve la mécanique des voitures et l'endurance des équipages sur des pistes poussiéreuses ou boueuses très cassantes. Les véhicules y reçoivent souvent des protections spécifiques, comme des pare-buffles et des prises d'air surélevées. Remporter cette épreuve exigeait autant de talent de navigation que de sens de la gestion mécanique."
+    },
+    {
+      "id": "rallye_15",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Qui est le premier pilote non-nordique à avoir remporté le prestigieux Rallye de Finlande (historiquement appelé Rallye des 1000 Lacs) en 1990 ?",
+      "options": [
+        "Carlos Sainz",
+        "Didier Auriol",
+        "Sébastien Loeb",
+        "Walter Röhrl"
+      ],
+      "answer": "Carlos Sainz",
+      "explanation": "Carlos Sainz a brisé la domination absolue des pilotes finlandais et suédois en s'imposant sur leurs terres ultra-rapides en 1990 au volant d'une Toyota Celica GT-Four. Surnommé 'El Matador', le pilote espagnol a fait preuve d'une préparation méthodique hors normes pour maîtriser les célèbres sauts (crests) de l'épreuve. Cet exploit historique a confirmé son statut de géant du rallye mondial."
+    },
+    {
+      "id": "rallye_16",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on le document officiel papier remis à l'équipage, contenant l'itinéraire précis et les horaires à respecter scrupuleusement sous peine de pénalité ?",
+      "answer": "Le carnet de bord",
+      "explanation": "Le carnet de bord, ou carton de pointage, est un élément crucial que le copilote doit faire tamponner à chaque contrôle horaire le long du parcours. Tout retard ou avance par rapport à la minute planifiée entraîne des pénalités en temps qui peuvent ruiner une course. Sa gestion rigoureuse demande une concentration extrême et une excellente organisation temporelle de la part de l'équipage."
+    },
+    {
+      "id": "rallye_17",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel constructeur automobile a remporté le titre de champion du monde des rallyes WRC en 1997 et 1998 avec le pilote finlandais Tommi Mäkinen au volant d'une Lancer Evolution ?",
+      "options": [
+        "Mitsubishi",
+        "Subaru",
+        "Toyota",
+        "Ford"
+      ],
+      "answer": "Mitsubishi",
+      "explanation": "Mitsubishi a dominé la fin des années 1990 grâce aux performances exceptionnelles de Tommi Mäkinen au volant des versions successives de la Lancer Evolution. La marque japonaise a remporté le titre des constructeurs en 1998 en parallèle du sacre individuel de son pilote fétiche. Cette rivalité technologique acharnée face à Subaru a marqué l'âge d'or des berlines japonaises en WRC."
+    },
+    {
+      "id": "rallye_18",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel pilote belge, célèbre pour ses victoires spectaculaires et ses nombreux titres de vice-champion du monde en WRC, roule pour l'écurie Hyundai ?",
+      "answer": "Thierry Neuville",
+      "explanation": "Thierry Neuville est l'un des pilotes les plus rapides et réguliers de sa génération, s'étant illustré à de multiples reprises au sommet du championnat WRC. Pilote phare de l'équipe Hyundai Motorsport, il a mené la marque coréenne à plusieurs titres des constructeurs grâce à son pilotage incisif. Il a également terminé plusieurs fois à la place de dauphin au championnat des pilotes."
+    },
+    {
+      "id": "rallye_19",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel est le nom de la la dernière spéciale d'un rallye WRC qui attribue des points bonus au championnat pour les cinq pilotes les plus rapides ?",
+      "options": [
+        "La Power Stage",
+        "La Super Spéciale",
+        "Le Shakedown",
+        "Le Warm-up"
+      ],
+      "answer": "La Power Stage",
+      "explanation": "Introduite en 2011, la Power Stage est une spéciale télévisée en direct qui clôture généralement le rallye le dimanche midi. Elle offre des points de championnat supplémentaires (de 5 à 1 point) aux pilotes les plus véloces sur ce secteur chronométré. Cette règle incite les concurrents à attaquer au maximum jusqu'aux derniers mètres du rallye."
+    },
+    {
+      "id": "rallye_20",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel pilote de rallye écossais, champion du monde en 1995 et célèbre pour son pilotage extrêmement généreux, a prêté son nom à une célèbre série de jeux vidéo ?",
+      "answer": "Colin McRae",
+      "explanation": "Colin McRae est resté légendaire pour son style de pilotage spectaculaire, résumé par sa devise emblématique 'If in doubt, flat out' (Dans le doute, à fond). Plus jeune champion du monde de l'histoire du WRC à l'âge de 27 ans, sa popularité a explosé auprès du grand public grâce à son jeu vidéo éponyme à succès. Sa disparition tragique dans un accident d'hélicoptère en 2007 a profondément marqué la communauté du sport automobile."
+    },
+    {
+      "id": "rallye_21",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel pilote de rallye finlandais, surnommé 'Le Finlandais Volant', fut le premier à remporter quatre titres de champion du monde des rallyes (WRC) de 1986 à 1993 ?",
+      "answer": "Juha Kankkunen",
+      "explanation": "Juha Kankkunen est l'une des figures majeures de l'histoire du rallye mondial, célèbre pour son style de pilotage coulé et son grand sang-froid. Il est entré dans la légende en devenant le premier pilote à remporter quatre titres mondiaux de WRC avec trois constructeurs différents (Peugeot, Lancia et Toyota), démontrant ainsi une incroyable adaptabilité technique. Il détient également à son palmarès des victoires notables au rallye-raid Paris-Dakar et à la Course des Champions."
+    },
+    {
+      "id": "rallye_22",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle épreuve asphaltée mythique du championnat du monde des rallyes (WRC), surnommée 'Le Rallye des 10 000 Virages', se dispute sur les routes sinueuses de l'Île de Beauté ?",
+      "options": [
+        "Le Tour de Corse",
+        "Le Rallye Sanremo",
+        "Le Rallye de l'Acropole",
+        "Le Rallye d'Alsace"
+      ],
+      "answer": "Le Tour de Corse",
+      "explanation": "Créé en 1956, le Tour de Corse est l'une des manches les plus redoutées et les plus techniques du calendrier WRC, caractérisée par des routes de montagne extrêmement étroites suspendues au-dessus du vide et jalonnées de milliers de virages serrés. Ce tracé sinueux exige une concentration millimétrée de la part des équipages et met à rude épreuve les pneumatiques et les freins des voitures. Surnommé 'Le Rallye des 10 000 Virages', il a vu s'illustrer des spécialistes de l'asphalte comme Didier Auriol ou Sébastien Loeb."
+    },
+    {
+      "id": "rallye_23",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel pilote de rallye norvégien, surnommé 'Hollywood' pour son sens du spectacle et sa décontraction, a remporté le championnat du monde WRC en 2003 au volant d'une Subaru Impreza ?",
+      "answer": "Petter Solberg",
+      "explanation": "Petter Solberg, affectueusement surnommé 'Mr Hollywood', est l'un des pilotes les plus charismatiques et aimés des fans du championnat WRC. En 2003, il a remporté son unique titre de champion du monde des pilotes au terme d'un duel haletant contre le jeune Sébastien Loeb au volant de sa mythique Subaru Impreza WRC bleue et dorée. Après sa carrière de rallye mondial, il a conquis deux titres mondiaux consécutifs en Championnat du monde de rallycross (WRX) en 2014 et 2015, devenant le premier pilote de l'histoire titré par la FIA dans deux disciplines distinctes."
+    },
+    {
+      "id": "rallye_24",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel constructeur automobile français a remporté trois titres constructeurs consécutifs en WRC de 2000 à 2002 grâce à sa redoutable et compacte 206 WRC ?",
+      "options": [
+        "Peugeot",
+        "Citroën",
+        "Renault",
+        "Alpine"
+      ],
+      "answer": "Peugeot",
+      "explanation": "L'écurie Peugeot Sport a dominé le début des années 2000 en WRC sous la direction de Jean-Pierre Nicolas avec sa redoutable 206 WRC. Conçue de manière très compacte pour respecter les dimensions minimales réglementaires d'homologation, elle a remporté trois couronnes constructeurs consécutives et deux titres des pilotes avec le Finlandais Marcus Grönholm. Cette épopée victorieuse succède à celle des mythiques 205 Turbo 16 du Groupe B dans les années 1980."
+    },
+    {
+      "id": "rallye_25",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel pilote français a remporté son premier titre de champion du monde des rallyes (WRC) en 1994 au volant d'une Toyota Celica, devenant ainsi le premier Français sacré de l'histoire ?",
+      "answer": "Didier Auriol",
+      "explanation": "Didier Auriol est entré dans l'histoire du sport automobile français en devenant en 1994 le tout premier champion du monde des rallyes tricolore au terme d'une saison à rebondissements avec l'écurie Toyota. Ancien chauffeur d'ambulance et pilote particulièrement technique sur asphalte, il a signé de nombreuses performances mémorables notamment sur le Tour de Corse qu'il a remporté à six reprises. Son sacre historique a ouvert la voie aux futurs règnes des deux Sébastien (Loeb et Ogier) sur la discipline."
+    },
+    {
+      "id": "rallye_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle manche mythique du championnat du monde des rallyes (WRC), disputée en Grèce, est célèbre pour ses pistes de terre cassantes jonchées de pierres massives et sa chaleur étouffante, mettant à rude épreuve les suspensions des voitures ?",
+      "options": [
+        "Le Rallye de l'Acropole",
+        "Le Rallye de Sardaigne",
+        "Le Rallye du Portugal",
+        "Le Rallye de Turquie"
+      ],
+      "answer": "Le Rallye de l'Acropole",
+      "explanation": "Le Rallye de l'Acropole, qui se déroule en Grèce, est considéré comme l'un des monuments les plus exigeants et les plus cassants du calendrier mondial de WRC. Surnommé 'Le Rallye des Dieux', son parcours sinueux de montagne alterne des pistes de terre poussiéreuses très abrasives et des pierres rocheuses massives qui détruisent les pneus et cassent les suspensions. Remporter cette épreuve exige de la part des équipages une gestion mécanique très fine et une résistance physique exceptionnelle à la chaleur étouffante de l'été grec."
+    },
+    {
+      "id": "rallye_27",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel pilote de rallye estonien a remporté le titre de champion du monde des rallyes (WRC) en 2019 avec Toyota, brisant ainsi la longue hégémonie des pilotes français ?",
+      "answer": "Ott Tänak",
+      "explanation": "Ott Tänak est entré dans l'histoire en 2019 en devenant le premier pilote estonien à remporter le titre de champion du monde des rallyes WRC au volant d'une Toyota Yaris WRC. Copiloté par Martin Järveoja, son pilotage extrêmement rapide et incisif lui a permis de briser la série historique de seize titres consécutifs remportés par les pilotes français Sébastien Loeb et Sébastien Ogier. Cette consécration a déclenché une immense liesse populaire dans son pays d'origine, où le rallye est un véritable sport national."
+    },
+    {
+      "id": "rallye_28",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Dans une voiture de rallye moderne, quel accessoire de sécurité tubulaire en acier soudé à l'intérieur de l'habitacle protège l'équipage en cas de tonneaux ?",
+      "options": [
+        "L'arceau de sécurité (rollcage)",
+        "Le pare-buffles",
+        "Le spoiler arrière",
+        "Le sabot de protection"
+      ],
+      "answer": "L'arceau de sécurité (rollcage)",
+      "explanation": "L'arceau de sécurité, ou 'rollcage', est une structure tridimensionnelle complexe de tubes en acier haute résistance soudés ou boulonnés directement sur le châssis à l'intérieur de l'habitacle de la voiture de rallye. Cette cage indéformable est conçue pour absorber l'énergie d'impacts d'une violence extrême et empêcher l'écrasement du toit en cas de sorties de route à haute vitesse ou de tonneaux répétés. Cet équipement obligatoire sauve régulièrement la vie des pilotes et copilotes lors d'accidents de course spectaculaires."
+    },
+    {
+      "id": "rallye_29",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle équipe de course privée, fondée par le pilote britannique Malcolm Wilson en 1997, conçoit, développe et engage les voitures officielles de la marque Ford en championnat WRC depuis plusieurs décennies ?",
+      "answer": "M-Sport",
+      "explanation": "M-Sport est une structure de sport automobile indépendante de premier plan basée à Dovenby Hall en Angleterre, qui assure le programme officiel de Ford en WRC depuis 1997. Dirigée par Malcolm Wilson, cette structure a conçu des voitures de rallye légendaires telles que la Focus WRC ou la Fiesta WRC. L'équipe a remporté plusieurs titres constructeurs mondiaux et a notamment permis à Sébastien Ogier de décrocher deux de ses couronnes mondiales en 2017 et 2018 au sein d'une structure privée performante."
+    },
+    {
+      "id": "rallye_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel pilote allemand, considéré comme l'un des plus grands techniciens et metteurs au point de la discipline, a remporté deux titres mondiaux en 1980 et 1982 et s'est illustré sur les routes du Monte-Carlo qu'il a remporté avec quatre marques différentes ?",
+      "options": [
+        "Walter Röhrl",
+        "Hannu Mikkola",
+        "Björn Waldegård",
+        "Ari Vatanen"
+      ],
+      "answer": "Walter Röhrl",
+      "explanation": "Walter Röhrl est considéré par ses pairs comme l'un des pilotes les plus complets et méticuleux de l'histoire du sport automobile mondial, réputé pour sa précision chirurgicale de pilotage. Il a remporté deux titres de champion du monde des rallyes (en 1980 sur Fiat 131 Abarth et en 1982 sur Opel Ascona 400) avant de briller au volant de la redoutable Audi Quattro. Il a accompli l'exploit de remporter à quatre reprises le prestigieux et difficile Rallye Monte-Carlo au volant de voitures de quatre marques différentes (Fiat, Opel, Lancia et Audi)."
+    },
+    {
+      "id": "rallye_31",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Dans quelle catégorie de rallye-raid la célèbre compétition du Dakar propose-t-elle des courses de mastodontes de plusieurs tonnes, où la marque Kamaz s'est illustrée de nombreuses fois ?",
+      "answer": "Camions",
+      "explanation": "La catégorie Camions est l'une des plus spectaculaires du rallye-raid Dakar. Lancée en 1980, elle voit s'affronter des monstres mécaniques limités électroniquement à 140 km/h pour des raisons de sécurité. Le constructeur russe Kamaz a historiquement dominé cette catégorie avec plus de 18 victoires."
+    },
+    {
+      "id": "rallye_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel pilote espagnol surnommé 'El Matador', double champion du monde des rallyes (WRC) et quadruple vainqueur du Dakar, est aussi le père d'un pilote de Formule 1 ?",
+      "options": [
+        "Carlos Sainz",
+        "Fernando Alonso",
+        "Dani Sordo",
+        "Luis Moya"
+      ],
+      "answer": "Carlos Sainz",
+      "explanation": "Carlos Sainz Senior est une légende vivante des rallyes. Il a remporté deux titres de champion du monde WRC (1990, 1992) avec Toyota et quatre éditions du Rallye Dakar avec quatre constructeurs différents (Volkswagen, Peugeot, Mini, Audi). Son fils, Carlos Sainz Jr., est un pilote de Formule 1 de premier plan."
+    },
+    {
+      "id": "rallye_33",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel accessoire de protection rigide et résistant, fixé sous le moteur d'une voiture de rallye, protège le carter et les organes vitaux des pierres et des chocs sur la terre ?",
+      "answer": "Le sabot de protection",
+      "explanation": "Le sabot de protection (souvent appelé plaque de protection ou protège-carter) est généralement composé d'aluminium épais, de kevlar ou de titane. Il est indispensable lors des rallyes sur terre pour glisser sur les obstacles et préserver le moteur et la boîte de vitesses des projections rocheuses dévastatrices."
+    },
+    {
+      "id": "rallye_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on la séance d'essais chronométrée officielle, organisée juste avant le départ d'un rallye WRC, permettant de régler la voiture et d'offrir des baptêmes de piste ?",
+      "options": [
+        "Le Shakedown",
+        "La Power Stage",
+        "Le Warm-up",
+        "Le Prologue"
+      ],
+      "answer": "Le Shakedown",
+      "explanation": "Le Shakedown se déroule généralement le jeudi matin précédant le rallye. Il offre aux pilotes l'occasion de tester les réglages de leur véhicule sur un parcours représentatif du rallye à vitesse réelle. C'est également un moment clé pour les médias et les partenaires de l'équipe."
+    },
+    {
+      "id": "rallye_35",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel accessoire de signalisation sonore et lumineuse à faisceau puissant, souvent monté en rampe sur le capot avant des voitures de rallye, est indispensable pour les spéciales nocturnes ?",
+      "answer": "La rampe de phares",
+      "explanation": "La rampe de phares (ou projecteurs longue portée) comprend des optiques à LED ou au xénon d'une puissance phénoménale pour percer l'obscurité. Elle est montée sur le capot avant et orientée pour éclairer non seulement la route rectiligne mais aussi les côtés pour anticiper les virages serrés lors des mythiques spéciales de nuit."
+    },
+    {
+      "id": "rallye_36",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "À quel signal visuel d'avertissement, agité par les commissaires de course sur la piste, les pilotes de rallye doivent-ils immédiatement ralentir et s'arrêter en raison d'un danger imminent ?",
+      "options": [
+        "Un drapeau rouge",
+        "Un drapeau jaune",
+        "Un drapeau vert",
+        "Un drapeau bleu"
+      ],
+      "answer": "Un drapeau rouge",
+      "explanation": "Dans le cadre d'une spéciale de rallye, la présentation d'un drapeau rouge (ou l'affichage d'un signal d'alerte rouge sur la console de bord) impose l'arrêt immédiat des voitures en course. Ce protocole de sécurité strict est déclenché par la direction de course en cas d'accident grave bloquant la route."
+    },
+    {
+      "id": "rallye_37",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel pays d'Océanie, réputé pour ses paysages époustouflants, propose des spéciales de rallye uniques sur des pistes de terre vallonnées et rapides, célèbres pour leur revêtement en billes de terre (camber) ?",
+      "answer": "La Nouvelle-Zélande",
+      "explanation": "Le Rallye de Nouvelle-Zélande est considéré par de nombreux pilotes comme le plus beau rallye sur terre au monde. Ses routes fluides serpentent à travers des collines verdoyantes et offrent des virages relevés uniques (camber), ce qui permet des vitesses de passage spectaculaires."
+    },
+    {
+      "id": "rallye_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel pilote finlandais, champion du monde en 1981, est resté célèbre pour sa victoire historique au Paris-Dakar en 1987 avec Peugeot et pour son élection au Parlement européen ?",
+      "options": [
+        "Ari Vatanen",
+        "Hannu Mikkola",
+        "Timo Salonen",
+        "Markku Alén"
+      ],
+      "answer": "Ari Vatanen",
+      "explanation": "Ari Vatanen est l'une des personnalités les plus respectées du sport automobile. Sacré champion du monde WRC en 1981 sur Ford Escort, il a survécu à un terrible accident en 1985 avant de revenir au sommet en remportant 4 fois le Dakar (1987, 1989, 1990, 1991). Il a ensuite mené une carrière politique en devenant député européen de 1999 à 2009."
+    },
+    {
+      "id": "rallye_39",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel col alpin français, culminant à 1 607 mètres d'altitude, est le théâtre de la plus célèbre spéciale nocturne du Rallye Monte-Carlo ?",
+      "answer": "Col de Turini",
+      "explanation": "Le col de Turini est le point culminant et l'icône absolue du Rallye Monte-Carlo. La spéciale nocturne, traditionnellement appelée la 'Nuit du Turini', rassemble des milliers de spectateurs passionnés au milieu des fumigènes et de la neige pour voir passer les voitures frôlant les murs de pierre à toute vitesse."
+    },
+    {
+      "id": "rallye_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "En quelle année le Championnat du monde des rallyes (WRC) a-t-il introduit pour la première fois des motorisations hybrides (Rally1) combinant moteur thermique et moteur électrique ?",
+      "options": [
+        "2022",
+        "2020",
+        "2018",
+        "2024"
+      ],
+      "answer": "2022",
+      "explanation": "En 2022, le WRC est entré dans une nouvelle ère technologique en introduisant la réglementation 'Rally1'. Ces voitures disposent d'un système hybride standardisé de 100 kW qui fournit un boost de puissance électrique de plus de 130 chevaux, en complément d'un moteur thermique de 1,6 litre turbocompressé alimenté par un carburant 100 % durable."
+    },
+    {
+      "id": "rallye_41",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel pilote français de rallye, révélé par l'opération Rallye Jeunes et devenu pilote officiel M-Sport Ford en catégorie reine, a mis de côté ses études de médecine pour se consacrer au WRC ?",
+      "answer": "Adrien Fourmaux",
+      "explanation": "Adrien Fourmaux a suivi des études de médecine jusqu'en cinquième année avant de se consacrer pleinement à sa carrière professionnelle en rallye. Découvert grâce à la sélection 'Rallye Jeunes' de la FFSA, son talent brut et son sens de l'analyse en font l'un des pilotes phares de l'équipe britannique M-Sport."
+    },
+    {
+      "id": "rallye_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel constructeur italien a conçu la légendaire 'Stratos HF', la toute première voiture de l'histoire spécifiquement dessinée pour le rallye et dotée d'un moteur V6 Ferrari ?",
+      "options": [
+        "Lancia",
+        "Alfa Romeo",
+        "Fiat",
+        "Ferrari"
+      ],
+      "answer": "Lancia",
+      "explanation": "La Lancia Stratos HF, introduite en 1973, se démarque par sa silhouette futuriste en coin dessinée par le carrossier Marcello Gandini pour Bertone. Dotée du moteur V6 Dino d'origine Ferrari en position centrale arrière, elle a remporté trois titres de champion du monde des constructeurs consécutifs de 1974 à 1976."
+    },
+    {
+      "id": "rallye_43",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel équipement technologique installé à bord permet au pilote et au copilote de communiquer clairement au milieu du vacarme assourdissant du moteur ?",
+      "answer": "L'interphone",
+      "explanation": "L'interphone (ou intercom) est relié à des casques ou écouteurs intégrés dans les casques des pilotes. Il est indispensable car le bruit à l'intérieur d'une voiture de rallye (dépouillée d'insonorisation et dotée de transmissions à taille droite très bruyantes) dépasse souvent les 100 décibels, rendant toute discussion impossible sans amplification."
+    },
+    {
+      "id": "rallye_44",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel pilote britannique, champion du monde des rallyes en 2001 avec Subaru, est décédé tragiquement d'une tumeur au cerveau en 2005 à l'âge de 34 ans ?",
+      "options": [
+        "Richard Burns",
+        "Colin McRae",
+        "Alister McRae",
+        "Gwyndaf Evans"
+      ],
+      "answer": "Richard Burns",
+      "explanation": "Richard Burns est devenu le premier Anglais champion du monde des rallyes WRC en 2001 après une lutte acharnée au volant de sa Subaru Impreza. Calme et extrêmement précis, il a été contraint de mettre un terme à sa carrière fin 2003 en raison de la maladie, avant de s'éteindre le 25 novembre 2005, jour anniversaire exact de son sacre mondial."
+    },
+    {
+      "id": "rallye_45",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel pilote italien a remporté le tout premier titre mondial individuel officiel de rallye en 1977, alors appelé la 'Coupe FIA des pilotes', au volant d'une Lancia Stratos HF ?",
+      "answer": "Sandro Munari",
+      "explanation": "Bien que le championnat du monde officiel des pilotes ait été inauguré en 1979 (remporté par Waldegård), la FIA avait créé en 1977 et 1978 la 'Coupe FIA des pilotes' pour préfigurer ce titre. Le premier vainqueur historique de cette coupe en 1977 fut l'Italien Sandro Munari au volant de la mythique Lancia Stratos HF."
+    },
+    {
+      "id": "rallye_46",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle voiture du constructeur Peugeot, conçue pour la réglementation Groupe B, a remporté les deux derniers championnats du monde des rallyes de cette ère en 1985 et 1986 ?",
+      "options": [
+        "205 Turbo 16",
+        "205 GTI",
+        "405 Turbo 16",
+        "306 Maxi"
+      ],
+      "answer": "205 Turbo 16",
+      "explanation": "La Peugeot 205 Turbo 16 (ou T16) a dominé les saisons 1985 et 1986 du Groupe B sous la direction de Jean Todt. Grâce à son architecture à moteur central arrière transversal et sa transmission intégrale, elle a permis à Timo Salonen puis à Juha Kankkunen de décrocher les titres mondiaux avant la fin tragique de cette catégorie."
+    },
+    {
+      "id": "rallye_47",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel copilote finlandais détient le record absolu du nombre de départs en Championnat du monde des rallyes (WRC) avec 220 rallyes disputés aux côtés de Jari-Matti Latvala ?",
+      "answer": "Miikka Anttila",
+      "explanation": "Miikka Anttila est le copilote le plus capé de l'histoire du WRC avec 220 départs à son actif. Il a formé un duo indissociable avec son compatriote Jari-Matti Latvala de 2003 à 2019 chez Ford, Volkswagen et Toyota, remportant ensemble 18 victoires en championnat du monde."
+    },
+    {
+      "id": "rallye_48",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel rallye d'Europe de l'Est, réputé pour ses pistes en asphalte extrêmement étroites et bosselées au milieu des vignobles, a intégré le calendrier WRC pour la première fois en 2023 ?",
+      "options": [
+        "Le Rallye d'Europe centrale",
+        "Le Rallye de Croatie",
+        "Le Rallye d'Estonie",
+        "Le Rallye de Lettonie"
+      ],
+      "answer": "Le Rallye d'Europe centrale",
+      "explanation": "Le Rallye d'Europe centrale a la particularité historique de se disputer sur les territoires de trois pays différents : l'Allemagne, l'Autriche et la République tchèque. Introduit en 2023, ce rallye sur asphalte exigeant met à l'épreuve les pilotes avec des conditions météorologiques automnales très changeantes et des routes piégeuses couvertes de feuilles et de boue."
+    },
+    {
+      "id": "rallye_49",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel rallye italien sur asphalte, historiquement disputé en Ligurie et comprenant des spéciales légendaires comme le col de Langan, a été remplacé par le Rallye de Sardaigne au calendrier WRC en 2004 ?",
+      "answer": "Rallye Sanremo",
+      "explanation": "Le Rallye Sanremo était la manche italienne historique du championnat WRC depuis sa création en 1973. Disputée sur des routes d'asphalte sinueuses et parfois de terre, cette épreuve légendaire a été remplacée en 2004 par le Rallye de Sardaigne, privilégiant une épreuve 100 % terre réclamée par la FIA."
+    },
+    {
+      "id": "rallye_50",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel pilote français, vainqueur de la Coupe du monde des rallyes Tout-Terrain et du Dakar en 1993, a été le premier à s'imposer en WRC au volant d'une voiture de la catégorie Kit Car (deux roues motrices) au Rallye de Catalogne 1999 ?",
+      "options": [
+        "Philippe Bugalski",
+        "François Delecour",
+        "Gilles Panizzi",
+        "Jean Ragnotti"
+      ],
+      "answer": "Philippe Bugalski",
+      "explanation": "Surnommé 'P'tit Phil', Philippe Bugalski a marqué l'histoire du WRC en s'imposant coup sur coup au Rallye de Catalogne et au Tour de Corse 1999 au volant de sa Citroën Xsara Kit Car à deux roues motrices. En battant les voitures WRC à quatre roues motrices sur l'asphalte sec, il a créé une immense sensation et forcé la FIA à revoir la réglementation technique des poids minimaux."
+    }
+  ],
+  "porsche": [
+    {
+      "id": "porsche_1",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel numéro mythique à trois chiffres désigne la voiture de sport la plus emblématique de Porsche, lancée en 1963 ?",
+      "answer": "911",
+      "explanation": "Présentée au salon de Francfort en 1963 sous le nom initial de 901, la Porsche 911 a dû être renommée suite à une réclamation de Peugeot qui possédait les droits sur les numéros à zéro central. Ce coupé sportif légendaire se distingue par son moteur Flat-6 placé en porte-à-faux arrière et sa silhouette inimitable. Il a traversé les décennies tout en conservant son identité visuelle et mécanique unique."
+    },
+    {
+      "id": "porsche_2",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans quelle ville allemande est situé le siège social et l'usine principale historique de Porsche ?",
+      "options": [
+        "Munich",
+        "Stuttgart (Zuffenhausen)",
+        "Wolfsburg",
+        "Berlin"
+      ],
+      "answer": "Stuttgart (Zuffenhausen)",
+      "explanation": "Le constructeur d'automobiles de sport Porsche est profondément ancré à Stuttgart, dans le quartier historique de Zuffenhausen où se situe son usine historique principale. C'est sur ce site mythique que sont assemblés les modèles les plus emblématiques de la marque, à commencer par la Porsche 911. Le complexe abrite également un musée spectaculaire retraçant toute l'épopée technique et sportive de l'entreprise familiale."
+    },
+    {
+      "id": "porsche_3",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel modèle de supercar hybride Porsche, produit en série limitée à 918 exemplaires, rivalisait avec la LaFerrari et la McLaren P1 ?",
+      "options": [
+        "Porsche 918 Spyder",
+        "Porsche Carrera GT",
+        "Porsche 959",
+        "Porsche Mission X"
+      ],
+      "answer": "Porsche 918 Spyder",
+      "explanation": "Présentée en 2013, la Porsche 918 Spyder associe un moteur V8 atmosphérique de course à deux moteurs électriques pour une puissance totale combinée de 887 chevaux. Cette supercar hybride rechargeable a établi un record sur la boucle nord du Nürburgring en passant sous la barre des 7 minutes. Sa production limitée a pris fin en 2015, en faisant un modèle extrêmement recherché par les collectionneurs."
+    },
+    {
+      "id": "porsche_4",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel est le nom du tout premier modèle entièrement électrique de Porsche, commercialisé à partir de 2019 ?",
+      "answer": "Taycan",
+      "explanation": "La Porsche Taycan marque le premier pas majeur du constructeur allemand vers l'électrification totale de sa gamme sportive. Elle utilise une architecture électrique innovante de 800 volts permettant des recharges ultra-rapides et des performances répétables exceptionnelles. Malgré sa motorisation silencieuse, elle conserve le dynamisme et l'ADN de conduite propres aux modèles thermiques de la marque."
+    },
+    {
+      "id": "porsche_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel moteur à plat iconique à six cylindres équipe traditionnellement la Porsche 911 depuis ses débuts ?",
+      "options": [
+        "Le Flat-6",
+        "Le V6",
+        "Le L6 (6 cylindres en ligne)",
+        "Le Flat-4"
+      ],
+      "answer": "Le Flat-6",
+      "explanation": "Le moteur Flat-6 de Porsche dispose de cylindres opposés deux à deux à l'horizontale, offrant un centre de gravité bas et un équilibre dynamique remarquable. Refroidi par air à ses débuts puis par eau depuis la génération 996 en 1997, il produit une sonorité rauque inimitable plébiscitée par les passionnés. Son architecture unique à l'arrière contribue grandement à la motricité légendaire de la Porsche 911."
+    },
+    {
+      "id": "porsche_6",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel est le nom du tout premier modèle commercialisé sous la marque Porsche en 1948, conçu par Ferry Porsche ?",
+      "answer": "356",
+      "explanation": "La Porsche 356 est le modèle fondateur historique de la marque allemande, construit en Autriche puis à Stuttgart à partir de composants issus en partie de la Coccinelle de Volkswagen. Ferry Porsche, fils du fondateur Ferdinand Porsche, a conçu cette voiture de sport légère car il ne trouvait pas sur le marché le modèle de ses rêves. Elle a posé les jalons esthétiques et techniques de ce que deviendra la mythique 911 quinze ans plus tard."
+    },
+    {
+      "id": "porsche_7",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment s'appelle le célèbre SUV de Porsche lancé en 2002, qui a sauvé financièrement la marque en devenant un immense succès commercial ?",
+      "options": [
+        "Cayenne",
+        "Macan",
+        "Panamera",
+        "Cayman"
+      ],
+      "answer": "Cayenne",
+      "explanation": "Le lancement du Porsche Cayenne en 2002 a suscité une vive controverse auprès des puristes qui refusaient de voir un constructeur de voitures de sport fabriquer un véhicule tout-terrain familial. Cependant, ce grand SUV de luxe a rencontré un succès planétaire immédiat et phénoménal, générant des profits massifs indispensables à la survie de la marque. Cette rentabilité a permis à Porsche de continuer à financer le développement de ses modèles sportifs traditionnels comme la 911."
+    },
+    {
+      "id": "porsche_8",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle prestigieuse course d'endurance française Porsche a-t-elle remportée à 19 reprises au classement général, un record absolu ?",
+      "answer": "Les 24 Heures du Mans",
+      "explanation": "Porsche détient le record absolu du nombre de victoires au classement général des 24 Heures du Mans, avec 19 succès remportés entre 1970 et 2017. La marque a brillé à travers des prototypes de légende comme la 917, la 956, la 962 et plus récemment la 919 Hybrid à motorisation hybride. Cette compétition reine de l'endurance sert de laboratoire d'essais grandeur nature pour les technologies routières du constructeur."
+    },
+    {
+      "id": "porsche_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel modèle de voiture de sport à moteur central arrière et carrosserie de coupé deux places a été introduit par Porsche en 2005 à partir du roadster Boxster ?",
+      "options": [
+        "Cayman",
+        "Panamera",
+        "Macan",
+        "Targa"
+      ],
+      "answer": "Cayman",
+      "explanation": "Le Porsche Cayman est un coupé biplace doté d'un moteur en position centrale arrière lui conférant un équilibre routier et une agilité jugés exceptionnels. Issu du développement du roadster Boxster, il s'intercale harmonieusement dans la gamme de prix et de performances entre ce dernier et l'emblématique 911. Depuis 2016, les modèles Boxster et Cayman sont regroupés sous l'appellation commerciale commune Porsche 718."
+    },
+    {
+      "id": "porsche_10",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle déclinaison mythique de la Porsche 911 Carrera, lancée en 1973 avec un aileron arrière en forme de 'queue de canard', est l'une des plus recherchées par les collectionneurs ?",
+      "answer": "2.7 RS",
+      "explanation": "La Porsche 911 Carrera RS 2.7 a été conçue à des fins d'homologation en compétition, ce qui a nécessité une réduction drastique de son poids et des voies élargies. Elle se distingue visuellement par son aileron arrière caractéristique destiné à améliorer la stabilité à haute vitesse et sa bande latérale peinte. Produite à seulement 1580 exemplaires, elle incarne pour beaucoup l'âge d'or des versions de sport pur de la marque."
+    },
+    {
+      "id": "porsche_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur autrichien exceptionnel est le concepteur de la Volkswagen Coccinelle et le fondateur de la marque de voitures de sport qui porte son nom ?",
+      "options": [
+        "Ferdinand Porsche",
+        "Ferry Porsche",
+        "Butzi Porsche",
+        "Alexander Porsche"
+      ],
+      "answer": "Ferdinand Porsche",
+      "explanation": "Ferdinand Porsche a fondé son bureau d'études indépendant à Stuttgart en 1931 après avoir travaillé pour de prestigieux constructeurs comme Daimler. Il est à l'origine de concepts techniques visionnaires, dont la célèbre voiture populaire allemande Volkswagen Coccinelle à moteur arrière refroidi par air. Son fils Ferry et ses petits-enfants poursuivront son œuvre en créant et en développant la marque d'automobiles de sport éponyme."
+    },
+    {
+      "id": "porsche_12",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel est le nom de la version découvrable de la Porsche 911, caractérisée à l'origine par un arceau de sécurité fixe en acier brossé et une lunette arrière en verre ?",
+      "answer": "Targa",
+      "explanation": "Présentée en 1965, la Porsche 911 Targa a été conçue pour répondre aux normes de sécurité américaines très strictes qui menaçaient d'interdire les cabriolets traditionnels. Son nom rend hommage à la Targa Florio, une célèbre course routière sicilienne où Porsche s'est illustré à de multiples reprises. Aujourd'hui encore, le concept Targa séduit les amateurs de conduite en plein air recherchant une silhouette unique et élégante."
+    },
+    {
+      "id": "porsche_13",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle couleur de cadran historique caractérise le compte-tours central de la plupart des tableaux de bord des modèles sportifs de chez Porsche ?",
+      "options": [
+        "Noir",
+        "Rouge",
+        "Blanc",
+        "Jaune"
+      ],
+      "answer": "Noir",
+      "explanation": "Le tableau de bord traditionnel de Porsche place historiquement le compte-tours au centre avec un fond noir pour une lisibilité parfaite dans toutes les conditions de conduite. Bien que des options de personnalisation colorées existent aujourd'hui, le cadran noir reste la configuration standard historique de la marque. Cette disposition ergonomique met en valeur le régime moteur, donnée essentielle pour les conducteurs sportifs."
+    },
+    {
+      "id": "porsche_14",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle supercar de Porsche, lancée en 2004 et propulsée par un moteur V10 atmosphérique hurlant dérivé de la Formule 1, est réputée extrêmement exigeante à piloter ?",
+      "answer": "Carrera GT",
+      "explanation": "La Porsche Carrera GT est considérée comme l'une des dernières supercars analogiques en raison de sa boîte de vitesses manuelle à 6 rapports et de l'absence d'aides électroniques à la conduite. Son moteur V10 de 5,7 litres développant 612 chevaux émet une sonorité stridente unique rappelant les monoplaces de Grand Prix. Sa conduite pointue requiert une grande habileté, ce qui a forgé sa réputation de monstre mécanique intimidant."
+    },
+    {
+      "id": "porsche_15",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment s'appelle la boîte de vitesses à double embrayage ultra-rapide développée à l'origine par Porsche pour la compétition dans les années 1980 ?",
+      "options": [
+        "PDK",
+        "DSG",
+        "S-Tronic",
+        "Tiptronic"
+      ],
+      "answer": "PDK",
+      "explanation": "PDK est l'acronyme de Porsche Doppelkupplungsgetriebe, qui signifie littéralement boîte de vitesses à double embrayage de Porsche. Testée avec succès en course d'endurance sur la Porsche 962, cette technologie permet de présélectionner le rapport suivant pour des changements de vitesses quasi instantanés sans rupture de couple. Elle a été introduite sur les modèles de série à partir de 2008, s'imposant comme une référence absolue sur le marché."
+    },
+    {
+      "id": "porsche_16",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "De quel côté du volant se situe traditionnellement le contacteur d'allumage (clé de contact) sur la quasi-totalité des modèles Porsche ?",
+      "answer": "Gauche",
+      "explanation": "Le contacteur d'allumage placé à gauche du volant est une signature historique de Porsche issue de la compétition automobile, plus particulièrement des départs des 24 Heures du Mans. Cette disposition permettait aux pilotes de démarrer le moteur de la main gauche tout en enclenchant le premier rapport de la main droite pour s'élancer plus rapidement. Cette tradition ergonomique est précieusement conservée sur les modèles modernes, y compris électriques."
+    },
+    {
+      "id": "porsche_17",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle légendaire voiture de course Porsche de 1970, décorée aux couleurs du pétrolier Gulf et dotée d'un Flat-12 de plus de 600 chevaux, est devenue l'icône du film 'Le Mans' avec Steve McQueen ?",
+      "options": [
+        "Porsche 917",
+        "Porsche 956",
+        "Porsche 935",
+        "Porsche 908"
+      ],
+      "answer": "Porsche 917",
+      "explanation": "La Porsche 917 a permis au constructeur allemand de décrocher ses deux premières victoires scratch au classement général des 24 Heures du Mans en 1970 et 1971. Sa silhouette aérodynamique agressive et ses performances hors du commun en ligne droite en ont fait l'une des voitures de course les plus célèbres de tous les temps. Sa présence centrale dans le film culte 'Le Mans' de Steve McQueen a définitivement ancré son statut d'icône automobile mondiale."
+    },
+    {
+      "id": "porsche_18",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle berline sportive de luxe à quatre portes, conçue pour concurrencer les Maserati Quattroporte et Aston Martin Rapide, a été introduite par Porsche en 2009 ?",
+      "answer": "Panamera",
+      "explanation": "La Porsche Panamera est une berline de grand tourisme qui allie des performances de voiture de sport au confort d'une limousine haut de gamme pour quatre occupants. Son design initial a suscité des débats, mais ses qualités routières exceptionnelles et sa polyvalence en ont fait un grand succès commercial pour Porsche. Elle est désormais déclinée en motorisations hybrides rechargeables de pointe offrant une efficacité énergétique remarquable."
+    },
+    {
+      "id": "porsche_19",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle série limitée ultra-exclusive de la Porsche 911 rend directement hommage aux premiers modèles Speedster et à la légendaire 356 ?",
+      "options": [
+        "Speedster",
+        "Targa",
+        "Clubsport",
+        "Carrera T"
+      ],
+      "answer": "Speedster",
+      "explanation": "La désignation Speedster caractérise les modèles découvrables de Porsche dotés d'un pare-brise rabaissé et incliné ainsi que d'un double bosselage distinctif sur le couvre-capote arrière. Lancée pour la première fois sur la 356 en 1954 à la demande de l'importateur américain Max Hoffman, elle symbolise la conduite sportive pure et minimaliste. Les versions modernes de la 911 Speedster sont produites en quantités très limitées et s'arrachent à prix d'or."
+    },
+    {
+      "id": "porsche_20",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel pilote de rallye et d'endurance allemand, considéré comme l'un des plus grands metteurs au point de l'histoire de la marque, a activement développé les supercars Carrera GT et 918 Spyder ?",
+      "answer": "Walter Röhrl",
+      "explanation": "Walter Röhrl, double champion du monde des rallyes, est l'ambassadeur de marque et le pilote d'essai en chef historique de Porsche depuis le début des années 1990. Sa finesse de pilotage légendaire et sa sensibilité technique hors pair ont grandement influencé le comportement dynamique de tous les modèles sportifs récents de la marque. Il est particulièrement reconnu pour avoir peaufiné le comportement extrême de la Carrera GT sur la boucle nord du Nürburgring."
+    },
+    {
+      "id": "porsche_21",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel préparateur automobile allemand indépendant, fondé par Alois Ruf, est célèbre pour ses reconstructions radicales de Porsche comme la mythique 'Yellowbird' (CTR) de 1987 ?",
+      "answer": "RUF (ou RUF Automobile)",
+      "explanation": "RUF Automobile est un constructeur et préparateur allemand indépendant de renom qui travaille exclusivement sur des bases de carrosseries et de châssis Porsche vierges pour en faire des supercars d'une puissance hors normes. Sa création la plus légendaire est la RUF CTR de 1987, surnommée 'Yellowbird' par la presse en raison de sa couleur jaune vif. Cette sportive radicale dotée d'un Flat-6 biturbo de 469 chevaux a battu tous les records de vitesse de l'époque en atteignant 342 km/h sur la piste de Nardò, devenant ainsi la voiture de série la plus rapide du monde."
+    },
+    {
+      "id": "porsche_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel roadster biplace à moteur central arrière, introduit par Porsche en 1996 en entrée de gamme, a sauvé financièrement le constructeur aux côtés du Cayenne ?",
+      "options": [
+        "Boxster",
+        "Cayman",
+        "968",
+        "928"
+      ],
+      "answer": "Boxster",
+      "explanation": "Présenté en 1996, le Porsche Boxster est un roadster léger à deux places doté d'un moteur en position centrale arrière qui offrait un comportement routier d'une grande agilité pour un tarif beaucoup plus accessible que la Porsche 911. Son nom est la contraction originale des mots 'Boxer' (pour le moteur Flat-6 à cylindres opposés) et 'Roadster'. Son immense succès commercial mondial et le partage de nombreuses pièces avec la génération 996 ont permis à Porsche de sortir d'une situation financière extrêmement difficile au milieu des années 1990."
+    },
+    {
+      "id": "porsche_23",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel est le nom de la célèbre ligne droite de 6 kilomètres sur le circuit des 24 Heures du Mans, où la légendaire Porsche 917 a atteint la vitesse record de 396 km/h en 1971 ?",
+      "answer": "Les Hunaudières (ou ligne droite des Hunaudières / Mulsanne Straight)",
+      "explanation": "La ligne droite des Hunaudières, également appelée 'Mulsanne Straight' en anglais, est une portion de route nationale temporairement fermée qui constitue l'une des sections les plus célèbres et redoutées du circuit de la Sarthe. C'est sur ce secteur rectiligne de près de six kilomètres que les prototypes comme la mythique Porsche 917 LH (Longue Queue) pouvaient exploiter pleinement leur aérodynamisme pour dépasser les 390 km/h en course. En 1990, deux chicanes y ont été installées pour limiter la vitesse maximale pour des raisons évidentes de sécurité."
+    },
+    {
+      "id": "porsche_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel modèle de grand tourisme Porsche à moteur V8 situé à l'avant, produit de 1977 à 1995, avait été initialement conçu pour remplacer la mythique 911 ?",
+      "options": [
+        "Porsche 928",
+        "Porsche 944",
+        "Porsche 968",
+        "Porsche Carrera GT"
+      ],
+      "answer": "Porsche 928",
+      "explanation": "La Porsche 928 a été développée au milieu des années 1970 avec l'intention de remplacer à terme la Porsche 911, dont l'architecture de moteur en porte-à-faux arrière était jugée obsolète par la direction. Ce coupé de grand tourisme se distinguait par son moteur V8 moderne en position avant refroidi par eau, son habitacle confortable et son design futuriste avec des phares ronds escamotables originaux. Bien qu'elle ait remporté le prestigieux titre de 'Voiture européenne de l'année' en 1978 (unique sportive à ce jour), la 928 n'a jamais réussi à faire oublier la 911 auprès des puristes, qui ont continué à plébisciter le modèle historique."
+    },
+    {
+      "id": "porsche_25",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel modèle technologique révolutionnaire de Porsche de 1986, doté d'une transmission intégrale permanente et d'un Flat-6 biturbo, fut initialement développé pour le rallye du Groupe B et a remporté le Paris-Dakar ?",
+      "answer": "Porsche 959",
+      "explanation": "La Porsche 959 fut la vitrine technologique absolue de la marque au milieu des années 1980, concentrant des innovations inédites pour l'époque telles qu'une transmission intégrale pilotée électroniquement, des suspensions actives et un Flat-6 biturbo refroidi par eau. Développée à l'origine pour la catégorie de rallye du Groupe B, elle s'est illustrée de manière spectaculaire en remportant le rallye-raid Paris-Dakar en 1986 avec les pilotes René Metge et Jacky Ickx. Produite à seulement 292 exemplaires de route, elle a durablement redéfini le concept de supercar moderne."
+    },
+    {
+      "id": "porsche_26",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Dans quel type de compétition de sport automobile monotype, créée par Porsche en 1986, s'affrontent des pilotes professionnels et amateurs au volant de Porsche 911 GT3 Cup identiques ?",
+      "options": [
+        "La Porsche Carrera Cup",
+        "Le Championnat du monde d'endurance WEC",
+        "La Formule E",
+        "La Porsche Supercup"
+      ],
+      "answer": "La Porsche Carrera Cup",
+      "explanation": "La Porsche Carrera Cup est un championnat monotype extrêmement prestigieux organisé par Porsche à l'échelle nationale et internationale (comme la Porsche Mobil 1 Supercup en ouverture de la Formule 1). Les concurrents s'y affrontent avec des modèles de compétition rigoureusement identiques, les Porsche 911 GT3 Cup, ce qui met pleinement en valeur le talent de pilotage pur et les réglages fins plutôt que la puissance mécanique brute. Créée en 1986 en Allemagne, cette compétition sert de tremplin de choix pour les jeunes pilotes aspirant à intégrer le programme officiel d'endurance de la marque."
+    },
+    {
+      "id": "porsche_27",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel designer de génie, petit-fils de Ferdinand Porsche, a dessiné les lignes intemporelles de la toute première Porsche 911 présentée en 1963 et est surnommé 'Butzi' ?",
+      "answer": "Ferdinand Alexander Porsche (ou Butzi Porsche)",
+      "explanation": "Ferdinand Alexander Porsche, affectueusement surnommé 'Butzi', est le créateur des lignes intemporelles de la Porsche 911 de 1963, dont la silhouette fluide caractérisée par une chute de toit fuyante ('flyline') reste la signature esthétique absolue de la marque depuis plus de soixante ans. Après avoir dirigé le département design de la marque familiale, il a fondé en 1972 le prestigieux studio indépendant Porsche Design, célèbre pour ses créations de montres, de stylos et d'accessoires de luxe au style minimaliste noir mat."
+    },
+    {
+      "id": "porsche_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel est le nom de la version la plus radicale de la Porsche 911 moderne, homologuée pour la route mais orientée pour la piste, dotée d'un imposant aileron arrière mobile à système DRS et d'une aérodynamique extrême ?",
+      "options": [
+        "Porsche 911 GT3 RS",
+        "Porsche 911 Carrera T",
+        "Porsche 911 Turbo S",
+        "Porsche 911 GT3 Cup"
+      ],
+      "answer": "Porsche 911 GT3 RS",
+      "explanation": "La Porsche 911 GT3 RS (Rennsport) est la déclinaison ultime de la 911 à moteur atmosphérique, conçue comme une véritable voiture de course de type GT3 homologuée pour un usage routier. Elle se distingue par une chasse au poids impitoyable et un travail aérodynamique révolutionnaire inspiré de la Formule 1, comprenant des extracteurs d'air imposants et un aileron arrière massif équipé d'un système de réduction de traînée (DRS) actif. Son moteur Flat-6 de 4,0 litres développant 525 chevaux émet un hurlement métallique mémorable jusqu'à son régime maximal de 9 000 tr/min."
+    },
+    {
+      "id": "porsche_29",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle légendaire voiture de course Porsche de 1978, caractérisée par une carrosserie blanche rallongée ultra-profilée et un Flat-6 biturbo crachant plus de 800 chevaux, a été surnommée 'Moby Dick' en raison de sa silhouette de baleine blanche ?",
+      "answer": "Porsche 935/78 (ou Moby Dick)",
+      "explanation": "La Porsche 935/78, surnommée affectueusement 'Moby Dick' par la presse en raison de sa longue silhouette blanche et de ses hanches élargies, est le développement ultime et le plus radical de la Porsche 911 destiné aux courses d'endurance du Groupe 5. Propulsée par un Flat-6 de 3,2 litres biturbo développant plus de 840 chevaux, cette voiture a repoussé les limites du règlement technique grâce à un carénage aérodynamique extrêmement profilé qui lui a permis de signer une pointe à 366 km/h dans la ligne droite des Hunaudières au Mans en 1978."
+    },
+    {
+      "id": "porsche_30",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel animal héraldique, symbole de force et de fierté de la ville de Stuttgart, est situé au cœur même du blason officiel de Porsche ?",
+      "options": [
+        "Un cheval cabré",
+        "Un lion debout",
+        "Un aigle couronné",
+        "Un taureau furieux"
+      ],
+      "answer": "Un cheval cabré",
+      "explanation": "L'écusson officiel de Porsche, conçu au début des années 1950 sous la direction de Ferry Porsche, associe les armoiries de l'ancien État libre populaire de Wurtemberg à celles de la ville de Stuttgart où se situe son siège social. Au centre du blason trône un cheval cabré noir sur fond jaune, symbole héraldique traditionnel de la ville de Stuttgart (fondée à l'origine comme un haras ou 'Stutengarten'). Ce cheval cabré rappelle de manière frappante celui d'une autre célèbre marque sportive italienne, Ferrari, dont l'origine provient également d'un hommage aérien de guerre lié à la même symbolique du cheval."
+    },
+    {
+      "id": "porsche_31",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel modèle de voiture électrique compacte et surélevée de type SUV, plus petit que le Cayenne, a été lancé par Porsche en 2014 et est devenu l'un de ses modèles les plus vendus ?",
+      "answer": "Macan",
+      "explanation": "Le Porsche Macan est un SUV compact premium lancé en 2014. Son nom signifie 'tigre' en indonésien. Proposant une dynamique de conduite très sportive pour un SUV, il s'est vendu à des centaines de milliers d'exemplaires dans le monde, avant de passer à une génération 100 % électrique en 2024."
+    },
+    {
+      "id": "porsche_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel acteur américain légendaire, passionné de course automobile, a perdu la vie en 1955 au volant de sa Porsche 550 Spyder surnommée 'Little Bastard' ?",
+      "options": [
+        "James Dean",
+        "Steve McQueen",
+        "Paul Newman",
+        "Marlon Brando"
+      ],
+      "answer": "James Dean",
+      "explanation": "James Dean est décédé le 30 septembre 1955 à l'âge de 24 ans dans un accident de la route en Californie alors qu'il se rendait à une compétition automobile. Sa Porsche 550 Spyder argentée arborait le numéro 130 et le surnom 'Little Bastard' peint sur le capot, alimentant une véritable légende tragique autour du modèle."
+    },
+    {
+      "id": "porsche_33",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel type de refroidissement caractérisait le moteur Flat-6 de la Porsche 911 de sa création en 1963 jusqu'à l'arrivée de la génération 996 en 1997 ?",
+      "answer": "Par air",
+      "explanation": "Pendant plus de 30 ans, les Porsche 911 ont été fidèles au refroidissement par air (et par huile), ce qui leur conférait une signature sonore unique très métallique. C'est en 1997, avec la génération 996, que Porsche est passé au refroidissement par eau pour répondre aux normes antipollution et de puissance."
+    },
+    {
+      "id": "porsche_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel célèbre sponsor de spiritueux italien, connu pour ses bandes bleues et rouges sur fond blanc ou gris, a habillé les Porsche de course les plus victorieuses des années 1970 ?",
+      "options": [
+        "Martini",
+        "Gulf",
+        "Rothmans",
+        "Mobil 1"
+      ],
+      "answer": "Martini",
+      "explanation": "La livrée Martini Racing, avec ses bandes bleues, bleu clair et rouges, est l'une des plus célèbres de l'histoire du sport automobile. Elle a habillé les Porsche 908, 917, 935 et 936 victorieuses au Mans et en championnat du monde des marques, créant une association visuelle inoubliable."
+    },
+    {
+      "id": "porsche_35",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quelle célèbre course de côte américaine, surnommée 'La course vers les nuages' (Race to the clouds), a été remportée par Porsche en 2020 avec une GT2 RS Clubsport ?",
+      "answer": "Pikes Peak",
+      "explanation": "Pikes Peak est une course de côte mythique se déroulant dans le Colorado, où les concurrents grimpent jusqu'à 4 302 mètres d'altitude. Porsche y détient une longue histoire de succès dans diverses catégories, profitant de la motricité de ses architectures à moteur arrière."
+    },
+    {
+      "id": "porsche_36",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel modèle de voiture de sport Porsche d'entrée de gamme, lancé en 1969 en collaboration avec Volkswagen, se distinguait par son toit amovible et son moteur en position centrale ?",
+      "options": [
+        "Porsche 914",
+        "Porsche 924",
+        "Porsche 944",
+        "Porsche 912"
+      ],
+      "answer": "Porsche 914",
+      "explanation": "Souvent appelée 'VW-Porsche', la 914 était un projet commun destiné à proposer un coupé sportif abordable pour remplacer la Karmann Ghia chez Volkswagen et élargir la clientèle chez Porsche. Sa silhouette originale 'targa' biplace et son excellent équilibre en font aujourd'hui une classique appréciée."
+    },
+    {
+      "id": "porsche_37",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel pilote belge, surnommé 'Monsieur Le Mans', a remporté 6 fois les 24 Heures du Mans, dont 4 victoires au volant de prototypes Porsche (936 et 956) ?",
+      "answer": "Jacky Ickx",
+      "explanation": "Jacky Ickx a forgé une grande partie de sa légende avec Porsche dans les années 1970 et 1980. Il a remporté les 24 Heures du Mans à six reprises au total, devenant l'un des pilotes d'endurance les plus titrés de l'histoire, et a également remporté le Paris-Dakar 1983 au volant d'une Mercedes avant de briller avec la Porsche 959."
+    },
+    {
+      "id": "porsche_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Sous quel nom de code à trois chiffres est connue la fifth génération de la Porsche 911, commercialisée de 1997 à 2004, qui a marqué le passage au refroidissement par eau ?",
+      "options": [
+        "996",
+        "993",
+        "964",
+        "997"
+      ],
+      "answer": "996",
+      "explanation": "La Porsche 911 type 996 a été une rupture historique majeure. Outre le passage au moteur refroidi par eau pour des questions d'émissions et d'efficacité, elle a partagé sa face avant avec le Boxster, ce qui lui a valu de nombreuses critiques sur le design de ses optiques avant dits en 'œuf au plat'."
+    },
+    {
+      "id": "porsche_39",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel type de moteur à pistons opposés à plat, inventé par Ferdinand Porsche pour la Coccinelle et repris sur la 911, est communément appelé moteur 'Boxer' ?",
+      "answer": "Flat-6",
+      "explanation": "Le terme 'Boxer' fait référence au mouvement des pistons qui se déplacent horizontalement comme les poings de deux boxeurs s'affrontant. Cette architecture permet un excellent équilibrage des forces de second ordre et abaisse considérablement le centre de gravité du véhicule."
+    },
+    {
+      "id": "porsche_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel circuit d'essai privé ultra-moderne, construit par Porsche en Italie avec un anneau de vitesse circulaire de 12,6 kilomètres de long, a été racheté par la marque en 2012 ?",
+      "options": [
+        "Le Nardò Technical Center",
+        "Le circuit de Fiorano",
+        "Le circuit d'Imola",
+        "Le circuit de Vallelunga"
+      ],
+      "answer": "Le Nardò Technical Center",
+      "explanation": "Situé dans les Pouilles au sud de l'Italie, le circuit de Nardò est célèbre pour son anneau de vitesse circulaire géant visible depuis l'espace. Il permet de tester des véhicules à des vitesses extrêmes (plus de 400 km/h) sans avoir à tourner le volant grâce à la force centrifuge compensée dans l'inclinaison des virages."
+    },
+    {
+      "id": "porsche_41",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle version de course de la Porsche 911 de 1998, dotée d'un châssis monocoque en carbone et d'un moteur Flat-6 biturbo, a remporté le classement général des 24 Heures du Mans ?",
+      "answer": "Porsche 911 GT1",
+      "explanation": "La Porsche 911 GT1 a été conçue pour la catégorie GT1 à la fin des années 1990. Contrairement aux autres 911, son moteur était placé en position centrale arrière pour des raisons d'aérodynamisme et d'équilibre. En 1998, la version 'GT1-98' a signé un doublé historique au Mans devant Toyota et BMW."
+    },
+    {
+      "id": "porsche_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle couleur emblématique, inspirée d'une teinte de compétition historique de la marque, caractérise les versions 'rubystone' très recherchées sur la génération 964 ?",
+      "options": [
+        "Rose violacé",
+        "Bleu riviera",
+        "Vert menthe",
+        "Orange magma"
+      ],
+      "answer": "Rose violacé",
+      "explanation": "La couleur 'Sternrubin' (Rubystone Red en anglais, code couleur 82N) est devenue l'une des teintes de carrosserie les plus mythiques de Porsche. Introduite sur la 911 type 964 Carrera RS au début des années 1990, ce rose violacé intense et audacieux symbolise l'excentricité de cette époque et s'arrache aujourd'hui chez les collectionneurs."
+    },
+    {
+      "id": "porsche_43",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel film de course automobile de 1971, produit par Steve McQueen et tourné sur le circuit de la Sarthe, met en scène une lutte acharnée entre les écuries Porsche et Ferrari ?",
+      "options": [
+        "Le Mans",
+        "Grand Prix",
+        "Rush",
+        "Le Mans 66"
+      ],
+      "answer": "Le Mans",
+      "explanation": "Le film 'Le Mans' est considéré comme l'un des plus réalistes sur la course automobile, utilisant de véritables séquences filmées pendant l'édition 1970 des 24 Heures du Mans. Steve McQueen y incarne le pilote Michael Delaney au volant d'une Porsche 917 aux couleurs de Gulf."
+    },
+    {
+      "id": "porsche_44",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel système de suspension hydraulique active et antiroulis ultra-perfectionné a été inauguré en série sur la Porsche 959 en 1986 pour adapter la hauteur de caisse en temps réel ?",
+      "answer": "Le correcteur d'assiette automatique",
+      "explanation": "La Porsche 959 disposait d'un système de gestion de la suspension d'avant-garde permettant de faire varier la hauteur de caisse sur trois niveaux différents (de 12 à 18 cm) en fonction de la vitesse et du terrain. Cette innovation a permis à la voiture d'être aussi efficace sur les pistes poussiéreuses du Dakar que sur l'asphalte rapide de l'autoroute."
+    },
+    {
+      "id": "porsche_45",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle entreprise de design et d'ingénierie, fondée par Ferdinand Porsche en 1931 à Stuttgart, a conçu la célèbre boîte de vitesses à synchroniseurs qui a équipé de nombreuses voitures de sport ?",
+      "options": [
+        "Le système de synchronisation Porsche",
+        "ZF Friedrichshafen",
+        "Getrag",
+        "Bosch"
+      ],
+      "answer": "Le système de synchronisation Porsche",
+      "explanation": "Le brevet du système de synchronisation de boîte de vitesses à bague d'arrêt, déposé par Porsche dans les années 1950, a été une révolution industrielle majeure. Il permettait des passages de vitesses rapides et sans craquement. Ce brevet a été vendu et exploité sous licence par des dizaines de constructeurs automobiles mondiaux, générant des royalties colossales pour l'entreprise Porsche."
+    },
+    {
+      "id": "porsche_46",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur légendaire de chez Porsche est le père du moteur de la 911, de la 917 et du moteur TAG Turbo de Formule 1 ?",
+      "answer": "Hans Mezger",
+      "explanation": "Hans Mezger, entré chez Porsche en 1956, est considéré comme l'un des plus grands ingénieurs motoristes du XXe siècle. Il a conçu le Flat-6 original refroidi par air de la 911 (dont le bloc Mezger équipera les versions GT3 et Turbo jusqu'en 2011), le monstrueux Flat-12 de la 917 et le V6 TAG Turbo de Formule 1."
+    },
+    {
+      "id": "porsche_47",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel prototype d'endurance Porsche de la catégorie LMP1, propulsé par un moteur V4 turbo et un système hybride de récupération d'énergie, a remporté trois fois consécutivement les 24 Heures du Mans de 2015 à 2017 ?",
+      "options": [
+        "Porsche 919 Hybrid",
+        "Porsche 918 Spyder",
+        "Porsche 962",
+        "Porsche RS Spyder"
+      ],
+      "answer": "Porsche 919 Hybrid",
+      "explanation": "La Porsche 919 Hybrid a été l'arme absolue de la marque en Championnat du monde d'endurance (WEC) de 2014 à 2017. Elle se démarquait par son architecture moteur originale : un V4 essence turbocompressé de 2,0 litres à haut rendement associé à un système de récupération d'énergie sur l'échappement et au freinage, développant près de 1 000 chevaux au total."
+    },
+    {
+      "id": "porsche_48",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Dans quelle course d'endurance italienne sur route ouverte, disputée en Sicile, Porsche détient-il le record absolu de 11 victoires scratch entre 1956 et 1973 ?",
+      "answer": "La Targa Florio",
+      "explanation": "La Targa Florio était une course de montagne sicilienne d'une exigence extrême, serpentant à travers des centaines de virages et de petits villages. Porsche y a excellé grâce à des voitures agiles et légères comme la 550 Spyder ou la 908. C'est en hommage à cette course mythique que Porsche a créé l'appellation 'Targa' pour ses modèles à arceau de sécurité."
+    },
+    {
+      "id": "porsche_49",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle mythique voiture de course Porsche de 1971, conçue pour l'endurance et surnommée 'le Cochon rose' (Pink Pig) en raison de sa carrosserie peinte en rose avec des tracés de découpe de viande, est exposée au musée Porsche ?",
+      "answer": "Porsche 917/20",
+      "explanation": "La Porsche 917/20 était une version expérimentale de la 917 dotée d'une carrosserie très large et arrondie, conçue pour combiner les avantages aérodynamiques des versions courte et longue. Sa livrée insolite rose pâle, reprenant les parties anatomiques d'un porc selon les découpes de boucherie, a fait sensation aux 24 Heures du Mans 1971 et en a fait l'une des voitures les plus populaires de l'histoire du sport automobile."
+    },
+    {
+      "id": "porsche_50",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle version ultra-rare de la Porsche 911 de route de 1997, construite à seulement une vingtaine d'exemplaires pour l'homologation en catégorie GT1, reprenait la face avant de la génération 996 et l'arrière de la 993 ?",
+      "options": [
+        "Porsche 911 GT1 Strassenversion",
+        "Porsche 911 GT2",
+        "Porsche 911 Carrera RS",
+        "Porsche 911 Turbo S"
+      ],
+      "answer": "Porsche 911 GT1 Strassenversion",
+      "explanation": "La Porsche 911 GT1 Strassenversion (version de route) a été créée pour répondre aux exigences d'homologation de la FIA en championnat GT. Elle associait une structure avant en acier issue de la 911 de série à un berceau arrière tubulaire de course, le tout recouvert d'une carrosserie en carbone ultra-basse. C'est l'une des Porsche de route les plus rares et chères au monde."
+    }
+  ]
+}

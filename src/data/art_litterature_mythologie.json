@@ -1,0 +1,50 @@
+{
+  "Art, Littérature & Mythologie : Mythologies du Monde": [
+    {
+      "id": "art_litterature_mythologie_mythologies_1",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Dans la mythologie grecque, quel est le dieu du ciel et de la foudre, régnant sur le mont Olympe ?",
+      "options": [
+        "Poséidon",
+        "Hadès",
+        "Zeus",
+        "Apollon"
+      ],
+      "answer": "Zeus",
+      "explanation": "Zeus est le souverain suprême des dieux de l'Olympe. Fils de Chronos et de Rhéa, il a vaincu les Titans pour s'imposer comme le maître des cieux. Ses attributs principaux sont la foudre, le sceptre en bois d'aigle et l'aigle lui-même."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_2",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Dans la mythologie nordique, comment s'appelle le pont arc-en-ciel qui relie le monde des hommes (Midgard) à celui des dieux (Asgard) ?",
+      "answer": "Bifröst",
+      "explanation": "Le Bifröst est un pont de lumière arc-en-ciel gardé sans relâche par le dieu Heimdall, doté d'une ouïe et d'une vue prodigieuses. Selon la prophétie du Ragnarök (la fin du monde nordique), ce pont s'effondrera sous le poids des géants de feu menés par Surt."
+    }
+  ],
+  "Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains": [
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_1",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel célèbre peintre espagnol a créé le chef-d'œuvre cubiste 'Guernica' en 1937 pour dénoncer les horreurs de la guerre ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Francisco de Goya"
+      ],
+      "answer": "Pablo Picasso",
+      "explanation": "'Guernica' est l'une des œuvres les plus célèbres et les plus puissantes du XXe siècle. Peinte par Pablo Picasso à la suite du bombardement de Guernica pendant la guerre d'Espagne, cette toile immense exprime la souffrance humaine à travers des formes géométriques et des teintes de gris, noir et blanc."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_2",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel célèbre auteur français a écrit les romans d'aventures 'Vingt Mille Lieues sous les mers' et 'Le Tour du monde en quatre-vingts jours' ?",
+      "answer": "Jules Verne",
+      "explanation": "Jules Verne (1828-1905) est considéré comme l'un des pères de la science-fiction moderne. Ses romans d'aventures et d'anticipation, regroupés sous le titre de 'Voyages extraordinaires', ont fasciné des générations de lecteurs grâce à son imagination visionnaire (il a anticipé les sous-marins électriques ou les voyages sur la Lune)."
+    }
+  ]
+}

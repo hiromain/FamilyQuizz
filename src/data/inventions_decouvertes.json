@@ -1,0 +1,50 @@
+{
+  "Inventions & Découvertes : Grandes Inventions": [
+    {
+      "id": "inventions_decouvertes_grandes_inventions_1",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle invention majeure attribuée à Johannes Gutenberg vers 1440 a révolutionné la diffusion du savoir en Europe ?",
+      "options": [
+        "La boussole",
+        "L'imprimerie",
+        "Le télescope",
+        "Le papier-monnaie"
+      ],
+      "answer": "L'imprimerie",
+      "explanation": "Johannes Gutenberg a perfectionné en Allemagne le procédé de presse typographique avec des caractères métalliques mobiles et une encre grasse. Cette avancée a permis de multiplier rapidement la production de livres et de diffuser massivement la culture et les idées en Europe."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_2",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel ingénieur et physicien visionnaire serbo-américain est célèbre pour ses inventions majeures autour du courant alternatif et de la transmission sans fil ?",
+      "answer": "Nikola Tesla",
+      "explanation": "Nikola Tesla (1856-1943) a déposé de nombreux brevets révolutionnant le génie électrique. Son travail sur le courant alternatif a permis le transport de l'électricité sur de grandes distances, remportant la 'Guerre des courants' face au courant continu défendu par Thomas Edison."
+    }
+  ],
+  "Inventions & Découvertes : Pionniers & Savants": [
+    {
+      "id": "inventions_decouvertes_pionniers_savants_1",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle chercheuse d'origine polonaise a été la première personne au monde à obtenir deux prix Nobel dans des disciplines scientifiques différentes (physique et chimie) ?",
+      "options": [
+        "Marie Curie",
+        "Irène Joliot-Curie",
+        "Rosalind Franklin",
+        "Ada Lovelace"
+      ],
+      "answer": "Marie Curie",
+      "explanation": "Marie Skłodowska-Curie a obtenu le prix Nobel de physique en 1903 pour ses travaux sur la radioactivité, puis le prix Nobel de chimie en 1911 pour sa découverte et l'isolation de deux éléments chimiques hautement radioactifs : le radium et le polonium."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_2",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel physicien et mathématicien anglais du XVIIe siècle a formulé la loi de la gravitation universelle et les trois lois fondamentales du mouvement mécanique ?",
+      "answer": "Isaac Newton",
+      "explanation": "Isaac Newton a publié en 1687 ses 'Principia', posant les bases de la mécanique classique. Sa loi de la gravitation universelle unifie pour la première fois la physique terrestre et les mouvements des corps célestes (les planètes et lunes dans l'espace)."
+    }
+  ]
+}

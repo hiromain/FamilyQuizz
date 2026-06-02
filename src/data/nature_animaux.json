@@ -1,0 +1,50 @@
+{
+  "Nature & Animaux : Le Règne Animal": [
+    {
+      "id": "nature_animaux_regne_animal_1",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le plus grand mammifère vivant sur notre planète, pouvant atteindre 30 mètres de long ?",
+      "options": [
+        "L'éléphant d'Afrique",
+        "La baleine bleue",
+        "Le requin-baleine",
+        "Le calmar géant"
+      ],
+      "answer": "La baleine bleue",
+      "explanation": "La baleine bleue est le plus grand animal ayant jamais vécu sur Terre, dépassant même en taille et en poids les plus grands dinosaures connus. Son cœur fait la taille d'une petite voiture et sa langue pèse autant qu'un éléphant entier. Elle se nourrit presque exclusivement de krill."
+    },
+    {
+      "id": "nature_animaux_regne_animal_2",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel oiseau incapable de voler est le plus grand et le plus rapide du monde sur la terre ferme ?",
+      "answer": "L'autruche",
+      "explanation": "L'autruche d'Afrique peut courir à des vitesses moyennes de 50 km/h et faire des pointes à plus de 70 km/h, effectuant des foulées de plusieurs mètres. Ses œufs sont également les plus gros de toutes les espèces animales vivantes."
+    }
+  ],
+  "Nature & Animaux : Plantes & Écosystèmes": [
+    {
+      "id": "nature_animaux_plantes_ecosystemes_1",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel arbre originaire d'Afrique est célèbre pour son tronc gigantesque capable de stocker l'eau et sa silhouette rappelant des racines pointant vers le ciel ?",
+      "options": [
+        "Le séquoia géant",
+        "Le baobab",
+        "L'eucalyptus",
+        "Le banyan"
+      ],
+      "answer": "Le baobab",
+      "explanation": "Le baobab est capable de stocker des milliers de litres d'eau dans son tronc spongieux pour survivre aux longues saisons sèches. Il est souvent surnommé l'arbre bouteille ou l'arbre à l'envers car ses branches ressemblent à des racines."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_2",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel gaz à effet de serre est capturé en grande quantité par la photosynthèse des forêts, agissant comme des 'puits de carbone' ?",
+      "answer": "Le dioxyde de carbone",
+      "explanation": "Le dioxyde de carbone (CO2) est absorbé par les arbres via la photosynthèse pour être transformé en matière organique tout en rejetant du dioxygène. Les forêts et les océans constituent ainsi d'importants régulateurs naturels du climat."
+    }
+  ]
+}

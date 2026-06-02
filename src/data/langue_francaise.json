@@ -1,0 +1,50 @@
+{
+  "Langue Française : Origine des Expressions": [
+    {
+      "id": "langue_francaise_origine_expressions_1",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie historiquement l'expression 'Passer une nuit blanche' ?",
+      "options": [
+        "Dormir dans des draps blancs",
+        "Passer la nuit sans fermer l'œil",
+        "Faire la fête sous la neige",
+        "Être de garde militaire de nuit"
+      ],
+      "answer": "Passer la nuit sans fermer l'œil",
+      "explanation": "Aujourd'hui, l'expression signifie simplement ne pas dormir du tout de la nuit. Historiquement, cela fait référence à la veillée des futurs chevaliers au Moyen Âge : ils devaient passer une nuit entière en prière, vêtus d'une aube blanche, symbole de pureté, avant leur adoubement le lendemain."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_2",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle expression française d'origine argotique signifie faire faux bond à quelqu'un en ne venant pas à un rendez-vous ?",
+      "answer": "Poser un lapin",
+      "explanation": "À l'origine au XIXe siècle, 'poser un lapin' signifiait ne pas payer les faveurs d'une femme, en référence au lapin de bois posé sur les comptoirs de jeux forains promettant un gain fictif. Aujourd'hui, l'expression désigne le fait de ne pas se présenter à un rendez-vous."
+    }
+  ],
+  "Langue Française : Curiosités & Mots Rares": [
+    {
+      "id": "langue_francaise_curiosites_mots_1",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel terme linguistique désigne un mot qui s'écrit et se lit de la même façon de gauche à droite et de droite à gauche (comme 'Radar' ou 'Kayak') ?",
+      "options": [
+        "Un anagramme",
+        "Un palindrome",
+        "Un acronyme",
+        "Un homonyme"
+      ],
+      "answer": "Un palindrome",
+      "explanation": "Un palindrome est un mot ou une phrase dont l'ordre des lettres reste identique qu'on le lise à l'endroit ou à l'envers. Les exemples les plus connus sont 'radar', 'kayak', 'été', 'ressasser' ou le prénom 'Anna'."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_2",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel adverbe de 26 lettres est traditionnellement réputé pour être le mot le plus long du dictionnaire d'usage de la langue française ?",
+      "answer": "Anticonstitutionnellement",
+      "explanation": "Composé de 26 lettres, 'anticonstitutionnellement' signifie 'd'une façon contraire aux règles de la constitution'. Bien que certains termes de chimie organique soient plus longs, il reste la référence populaire absolue du mot le plus long en français."
+    }
+  ]
+}

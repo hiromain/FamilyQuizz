@@ -1,0 +1,50 @@
+{
+  "Informatique : Culture Numérique & Web": [
+    {
+      "id": "informatique_culture_numerique_1",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Que signifie l'acronyme historique 'WWW' qui précède la plupart des adresses de sites internet ?",
+      "options": [
+        "World Wide Web",
+        "World Wifi Wire",
+        "Wide Web World",
+        "World Web Windows"
+      ],
+      "answer": "World Wide Web",
+      "explanation": "Créé au CERN (Organisation européenne pour la recherche nucléaire) au début des années 1990 par le Britannique Tim Berners-Lee, le 'World Wide Web' (littéralement la toile d'araignée mondiale) est le système qui permet de naviguer de page en page via des liens hypertextes sur le réseau Internet."
+    },
+    {
+      "id": "informatique_culture_numerique_2",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel terme, inspiré de la biologie, désigne un programme malveillant conçu pour s'infiltrer dans un ordinateur à l'insu de son utilisateur afin de s'y dupliquer et de perturber son système ?",
+      "answer": "Un virus",
+      "explanation": "Un virus informatique est un programme capable de s'autorépliquer en insérant son code dans d'autres programmes sains. Le terme a été popularisé au début des années 1980 en raison de ses similitudes avec les agents infectieux biologiques."
+    }
+  ],
+  "Informatique : Histoire & Pionniers": [
+    {
+      "id": "informatique_histoire_pionniers_1",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle mathématicienne du XIXe siècle est universellement reconnue comme ayant écrit le tout premier programme informatique (un algorithme) de l'histoire humaine ?",
+      "options": [
+        "Grace Hopper",
+        "Ada Lovelace",
+        "Margaret Hamilton",
+        "Katherine Johnson"
+      ],
+      "answer": "Ada Lovelace",
+      "explanation": "Ada Lovelace (1815-1852), collaboratrice du mathématicien Charles Babbage, a rédigé en 1843 un algorithme détaillé permettant à la machine analytique mécanique de calculer la suite des nombres de Bernoulli. Ses notes constituent le premier code informatique publié de l'histoire."
+    },
+    {
+      "id": "informatique_histoire_pionniers_2",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel mathématicien et cryptologue britannique est célèbre pour avoir formalisé le concept de machine universelle programmable et aidé à décrypter les codes secrets de la machine allemande Enigma à Bletchley Park ?",
+      "answer": "Alan Turing",
+      "explanation": "Alan Turing (1912-1954) est considéré comme le père fondateur de l'informatique moderne et de l'intelligence artificielle (avec son célèbre test de Turing). Son travail déterminant à Bletchley Park a permis d'intercepter et de déchiffrer les communications de l'armée allemande pendant la Seconde Guerre mondiale."
+    }
+  ]
+}

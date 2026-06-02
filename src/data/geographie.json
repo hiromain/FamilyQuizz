@@ -1,0 +1,1106 @@
+{
+  "Géographie : Pays & Capitales": [
+    {
+      "id": "geographie_pays_capitales_1",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale de l'Australie, souvent confondue avec Sydney ou Melbourne ?",
+      "answer": "Canberra",
+      "explanation": "Canberra a été officiellement choisie comme capitale fédérale en 1908 comme compromis historique pour mettre fin à la rivalité intense entre Sydney et Melbourne. Cette cité entièrement planifiée a été dessinée by les architectes américains Walter Burley Griffin et Marion Mahony Griffin. Elle abrite aujourd'hui le Parlement australien ainsi que la majorité des institutions gouvernementales et culturelles du pays."
+    },
+    {
+      "id": "geographie_pays_capitales_2",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le plus grand pays du monde en termes de superficie terrestre ?",
+      "options": [
+        "Le Canada",
+        "Les États-Unis",
+        "La Chine",
+        "La Russie"
+      ],
+      "answer": "La Russie",
+      "explanation": "Avec plus de 17 millions de kilomètres carrés, la Russie est de très loin le pays le plus vaste de la planète, couvrant plus de 11 % des terres émergées. Ce territoire gigantesque s'étend sur deux continents, l'Europe et l'Asie, et s'étire sur pas moins de onze fuseaux horaires différents. Son paysage varié comprend d'immenses forêts boréales, de vastes plaines ainsi que des chaînes montagneuses comme l'Oural."
+    },
+    {
+      "id": "geographie_pays_capitales_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle est la capitale officielle du Canada ?",
+      "options": [
+        "Montréal",
+        "Toronto",
+        "Vancouver",
+        "Ottawa"
+      ],
+      "answer": "Ottawa",
+      "explanation": "Ottawa a été choisie comme capitale du Canada en 1857 par la reine Victoria en raison de sa position géographique stratégique à la frontière entre le Québec et l'Ontario. Ce choix permettait de concilier les populations francophone et anglophone tout en restant à l'abri des conflits militaires avec les États-Unis. Aujourd'hui, elle abrite le Parlement canadien et de nombreux musées nationaux."
+    },
+    {
+      "id": "geographie_pays_capitales_4",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quelle est la capitale de l'Espagne ?",
+      "answer": "Madrid",
+      "explanation": "Madrid est située au centre de la péninsine Ibérique et est le siège du gouvernement ainsi que de la monarchie espagnole. Elle est célèbre pour ses musées d'art de renommée mondiale, tels que le musée du Prado et le musée Reina Sofía. C'est également la ville la plus peuplée du pays."
+    },
+    {
+      "id": "geographie_pays_capitales_5",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle ville is la capitale administrative de l'Afrique du Sud ?",
+      "options": [
+        "Le Cap",
+        "Pretoria",
+        "Johannesburg",
+        "Bloemfontein"
+      ],
+      "answer": "Pretoria",
+      "explanation": "L'Afrique du Sud est l'un des rares pays au monde à posséder trois capitales officielles pour répartir les pouvoirs. Pretoria est la capitale administrative, Le Cap est la capitale législative et Bloemfontein est la capitale judiciaire. Johannesburg, bien qu'étant la plus grande ville du pays, ne possède aucun de ces statuts officiels."
+    },
+    {
+      "id": "geographie_pays_capitales_6",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quelle est la capitale du Japon ?",
+      "answer": "Tokyo",
+      "explanation": "Tokyo, autrefois appelée Edo, est devenue la capitale officielle du Japon en 1868 lorsque l'empereur y a transféré sa résidence depuis Kyoto. C'est aujourd'hui l'une des aires métropolitaines les plus peuplées et les plus dynamiques du monde. La ville mêle harmonieusement des gratte-ciels ultra-modernes avec des temples historiques."
+    },
+    {
+      "id": "geographie_pays_capitales_7",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle est la capitale de l'Italie ?",
+      "options": [
+        "Milan",
+        "Rome",
+        "Florence",
+        "Venise"
+      ],
+      "answer": "Rome",
+      "explanation": "Rome est une ville chargée d'histoire qui a été le cœur battant de l'Empire romain durant l'Antiquité. Elle abrite en son sein l'État du Vatican, qui constitue le plus petit pays indépendant du monde. Ses monuments emblématiques, comme le Colisée et le Panthéon, attirent chaque année des millions de visiteurs."
+    },
+    {
+      "id": "geographie_pays_capitales_8",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale du Brésil, inaugurée en 1960 pour remplacer Rio de Janeiro ?",
+      "answer": "Brasilia",
+      "explanation": "Brasilia a été entièrement planifiée et construite à la fin des années 1950 sous l'impulsion du président Juscelino Kubitschek. Son plan en forme d'avion a été dessiné par l'urbaniste Lúcio Costa, tandis que ses principaux monuments ont été conçus par le célèbre architecte Oscar Niemeyer. Cette délocalisation visait à favoriser le développement économique et démographique de l'intérieur des terres brésiliennes."
+    },
+    {
+      "id": "geographie_pays_capitales_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale du Maroc ?",
+      "options": [
+        "Marrakech",
+        "Casablanca",
+        "Rabat",
+        "Fès"
+      ],
+      "answer": "Rabat",
+      "explanation": "Rabat a été choisie comme capitale du Maroc en 1912 durant le protectorat français, statut qu'elle a conservé après l'indépendance du pays en 1956. Située sur le littoral atlantique, elle se distingue par un riche patrimoine historique qui allie des monuments médiévaux à une architecture moderne du XXe siècle. Casablanca reste toutefois la capitale économique et la ville la plus peuplée du royaume."
+    },
+    {
+      "id": "geographie_pays_capitales_10",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale de la Turquie, qui a succédé à Istanbul en 1923 ?",
+      "answer": "Ankara",
+      "explanation": "Ankara a été proclamée capitale de la jeune République de Turquie en 1923 par Mustafa Kemal Atatürk après la chute de l'Empire ottoman. Située en Anatolie centrale, elle offrait une position géographique plus sûre et plus centrale qu'Istanbul face aux invasions étrangères. C'est aujourd'hui le centre administratif et politique du pays."
+    },
+    {
+      "id": "geographie_pays_capitales_11",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale de l'Équateur, réputée pour être l'une des capitales les plus élevées du monde ?",
+      "options": [
+        "Guayaquil",
+        "Quito",
+        "Cuenca",
+        "Bogota"
+      ],
+      "answer": "Quito",
+      "explanation": "Quito est située à environ 2 850 mètres d'altitude au cœur de la cordillère des Andes, juste au sud de la ligne de l'équateur. Son centre historique exceptionnel est l'un des mieux préservés d'Amérique latine, ce qui lui a valu d'être l'un des premiers sites inscrits au patrimoine mondial de l'UNESCO. Elle est dominée par le volcan actif Guagua Pichincha."
+    },
+    {
+      "id": "geographie_pays_capitales_12",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale de la Suisse, abritant le Palais fédéral ?",
+      "answer": "Berne",
+      "explanation": "Berne a été désignée comme la ville fédérale et le siège du gouvernement suisse en 1848 afin de ne pas concentrer tous les pouvoirs à Zurich ou Genève. Son centre historique médiéval, bordé par la rivière Aar, est célèbre pour ses arcades couvertes et ses fontaines sculptées du XVIe siècle. La légende locale associe l'origine du nom de la ville à un ours, qui est aujourd'hui son animal symbole."
+    },
+    {
+      "id": "geographie_pays_capitales_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+      "options": [
+        "Auckland",
+        "Christchurch",
+        "Wellington",
+        "Queenstown"
+      ],
+      "answer": "Wellington",
+      "explanation": "Wellington a remplacé Auckland comme capitale de la Nouvelle-Zélande en 1865 pour sa position plus centrale à la pointe sud de l'île du Nord. Elle détient le titre de capitale la plus méridionale du monde et est fréquemment balayée par des vents violents venus du détroit de Cook. C'est également un pôle culturel et artistique très dynamique, souvent surnommé 'Wellywood' en raison de son industrie cinématographique."
+    },
+    {
+      "id": "geographie_pays_capitales_14",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale de la Mongolie, connue pour être la capitale la plus froide du monde ?",
+      "answer": "Oulan-Bator",
+      "explanation": "Oulan-Bator abrite près de la moitié de la population de la Mongolie et se situe dans la vallée de la rivière Tuul. En raison de son climat continental extrême et de son altitude élevée, la température moyenne annuelle y est légèrement inférieure à zéro degré Celsius. Elle a été fondée au XVIIe siècle en tant que centre monastique bouddhiste nomade avant de se sédentariser."
+    },
+    {
+      "id": "geographie_pays_capitales_15",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale du Kazakhstan, renommée Nour-Soultan entre 2019 et 2022 ?",
+      "options": [
+        "Almaty",
+        "Astana",
+        "Chymkent",
+        "Karaganda"
+      ],
+      "answer": "Astana",
+      "explanation": "Astana a été désignée capitale du Kazakhstan en 1997 en remplacement d'Almaty, située plus au sud et sujette aux risques sismiques. Elle est célèbre pour son architecture futuriste audacieuse conçue par de grands architectes internationaux, symbolisant l'essor économique du pays. Elle a été temporairement rebaptisée Nour-Soultan en hommage à l'ancien président avant de reprendre son nom d'origine en 2022."
+    },
+    {
+      "id": "geographie_pays_capitales_16",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale du Viêt Nam ?",
+      "answer": "Hanoï",
+      "explanation": "Hanoï est la capitale du Viêt Nam et l'une des plus anciennes villes du pays, caractérisée par ses influences culturelles chinoises, françaises et locales. Bien que Hô Chi Minh-Ville soit la métropole la plus peuplée et le centre économique majeur du pays, Hanoï demeure le cœur politique et administratif de la nation. Elle est réputée pour ses nombreux lacs pittoresques et ses ruelles animées du vieux quartier."
+    },
+    {
+      "id": "geographie_pays_capitales_17",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale du Nigeria, qui a remplacé Lagos en 1991 ?",
+      "options": [
+        "Abuja",
+        "Kano",
+        "Ibadan",
+        "Lagos"
+      ],
+      "answer": "Abuja",
+      "explanation": "Abuja a été planifiée et construite dans les années 1980 dans le centre géographique du Nigeria afin de promouvoir l'unité nationale au sein d'un pays divisé sur les plans ethnique et religieux. Elle a officiellement remplacé la ville côtière surpeuplée de Lagos comme capitale fédérale en décembre 1991. Elle se caractérise par des infrastructures modernes et la présence de Zuma Rock, un immense monolithe naturel."
+    },
+    {
+      "id": "geographie_pays_capitales_18",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale de l'Islande, la capitale la plus septentrionale d'un État souverain ?",
+      "answer": "Reykjavik",
+      "explanation": "Reykjavik concentre la majorité de la population islandaise et se situe dans le sud-ouest de l'île. Son nom signifie 'baie des fumées' en vieux norrois, inspiré par les sources chaudes naturelles environnantes observées par les premiers colons vikings. La ville est aujourd'hui réputée pour sa transition complète vers les énergies géothermiques et son atmosphère culturelle dynamique."
+    },
+    {
+      "id": "geographie_pays_capitales_19",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale de l'Iran ?",
+      "options": [
+        "Ispahan",
+        "Téhéran",
+        "Chiraz",
+        "Tabriz"
+      ],
+      "answer": "Téhéran",
+      "explanation": "Téhéran est devenue la capitale de l'Iran à la fin du XVIIIe siècle sous la dynastie Kadjar et s'est depuis développée en une immense métropole de plus de 8 millions d'habitants. Adossée à la chaîne de montagnes de l'Elbourz, elle fait face à des défis majeurs liés à la pollution de l'air et à l'activité sismique. Elle abrite d'importants palais impériaux historiques ainsi que des musées nationaux majeurs."
+    },
+    {
+      "id": "geographie_pays_capitales_20",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale de la Finlande, bordant le golfe de Finlande ?",
+      "answer": "Helsinki",
+      "explanation": "Helsinki a été fondée par le roi de Suède en 1550 avant de devenir la capitale du grand-duché autonome de Finlande sous l'égide de la Russie en 1812. L'architecture de son centre-ville historique présente ainsi de nombreuses similitudes avec celle de Saint-Pétersbourg. Elle is régulièrement citée pour sa qualité de vie exceptionnelle, son design innovant et sa proximité constante avec la nature nordique."
+    },
+    {
+      "id": "geographie_pays_capitales_21",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale de la Suède, bâtie sur un archipel de 14 îles ?",
+      "answer": "Stockholm",
+      "explanation": "Stockholm est la plus grande ville de Suède et son cœur économique et politique. Surnommée la 'Venise du Nord' en raison des nombreux canaux qui la traversent, elle a été fondée au XIIIe siècle à l'embouchure du lac Mälar. Elle abrite le palais royal ainsi que l'académie qui décerne chaque année les célèbres prix Nobel."
+    },
+    {
+      "id": "geographie_pays_capitales_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle est la capitale de l'Allemagne, célèbre pour sa porte de Brandebourg et son histoire liée au Mur ?",
+      "options": [
+        "Munich",
+        "Berlin",
+        "Francfort",
+        "Hambourg"
+      ],
+      "answer": "Berlin",
+      "explanation": "Berlin est redevenue la capitale officielle de l'Allemagne réunifiée en 1990 suite à la chute du Mur qui a divisé la ville pendant près de trente ans. C'est aujourd'hui une métropole culturelle et artistique majeure en Europe, réputée pour sa vie nocturne et ses nombreux parcs. Elle abrite le Reichstag avec sa coupole de verre contemporaine conçue par Norman Foster."
+    },
+    {
+      "id": "geographie_pays_capitales_23",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale de Madagascar, située sur les hautes terres centrales de l'île ?",
+      "answer": "Antananarivo",
+      "explanation": "Antananarivo, souvent appelée affectueusement 'Tana', est bâtie sur une série de collines escarpées à plus de 1 200 mètres d'altitude. Fondée au XVIIe siècle par le roi Andrianjaka, elle a été le centre historique du royaume de l'Imerina avant la colonisation française. Elle abrite les vestiges du Rova, le palais royal des souverains malgaches."
+    },
+    {
+      "id": "geographie_pays_capitales_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale de l'Argentine, située sur la rive ouest de l'estuaire du Río de la Plata ?",
+      "options": [
+        "Santiago",
+        "Buenos Aires",
+        "Montevideo",
+        "Lima"
+      ],
+      "answer": "Buenos Aires",
+      "explanation": "Buenos Aires est la capitale fédérale et le cœur culturel de l'Argentine, réputée pour son architecture d'influence européenne et ses quartiers colorés comme La Boca. Ville de naissance du tango, elle vibre au rythme de cette danse sensuelle dans ses nombreux cafés et rues pavées. Son agglomération constitue l'une des plus grandes aires urbaines d'Amérique du Sud."
+    },
+    {
+      "id": "geographie_pays_capitales_25",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale du Portugal, célèbre pour ses sept collines et son tramway jaune historique ?",
+      "answer": "Lisbonne",
+      "explanation": "Lisbonne est l'une des plus anciennes villes d'Europe, idéalement située à l'embouchure du fleuve Tage face à l'océan Atlantique. Elle a connu un essor phénoménal au XVe et XVIe siècles lors de l'ère des grandes découvertes maritimes menées par les navigateurs portugais. La ville est réputée pour son quartier pittoresque de l'Alfama et sa musique traditionnelle mélancolique, le fado."
+    },
+    {
+      "id": "geographie_pays_capitales_26",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle est la capitale de la Grèce, dominée par le rocher de l'Acropole et ses temples antiques ?",
+      "options": [
+        "Thessalonique",
+        "Patras",
+        "Athènes",
+        "Héraklion"
+      ],
+      "answer": "Athènes",
+      "explanation": "Athènes est considérée comme le berceau de la démocratie et de la philosophie occidentale. Ses monuments exceptionnels, en particulier le Parthénon dédié à la déesse Athéna, témoignent de la grandeur de la civilisation grecque antique. La ville moderne entoure ces sites archéologiques d'une animation urbaine dynamique et vivante."
+    },
+    {
+      "id": "geographie_pays_capitales_27",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale de l'Égypte, traversée par le Nil et située à proximité immédiate des pyramides de Gizeh ?",
+      "answer": "Le Caire",
+      "explanation": "Le Caire est la plus grande métropole du monde arabe et d'Afrique, abritant plus de vingt millions d'habitants dans son agglomération. Fondée au Xe siècle par la dynastie des Fatimides, elle recèle un patrimoine islamique exceptionnel avec ses nombreuses mosquées historiques et son célèbre souk Khân al-Khalili. Le grand musée égyptien y abrite les fabuleux trésors des pharaons."
+    },
+    {
+      "id": "geographie_pays_capitales_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale de la Corée du Sud, immense métropole où les gratte-ciels côtoient des palais bouddhistes ?",
+      "options": [
+        "Busan",
+        "Séoul",
+        "Incheon",
+        "Daegu"
+      ],
+      "answer": "Séoul",
+      "explanation": "Séoul est le cœur économique, politique et technologique de la Corée du Sud, traversé par le fleuve Han. Son histoire millénaire est illustrée par les cinq grands palais de la dynastie Joseon, dont le célèbre Gyeongbokgung. Aujourd'hui, la ville est à la pointe de la culture pop mondiale avec le phénomène de la Hallyu et ses quartiers ultra-connectés."
+    },
+    {
+      "id": "geographie_pays_capitales_29",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale officielle de l'Inde, conçue par l'architecte Edwin Lutyens au début du XXe siècle ?",
+      "answer": "New Delhi",
+      "explanation": "New Delhi a été inaugurée en 1931 pour remplacer Calcutta comme capitale de l'Empire des Indes britanniques, offrant des boulevards larges et des bâtiments gouvernementaux monumentaux. Elle forme une entité distincte au sein du territoire de Delhi, qui englobe également la ville historique de Old Delhi. C'est aujourd'hui le centre décisionnel et administratif de la plus grande démocratie du monde."
+    },
+    {
+      "id": "geographie_pays_capitales_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale de la Colombie, perchée à plus de 2 600 mètres d'altitude sur un plateau des Andes ?",
+      "options": [
+        "Medellín",
+        "Cali",
+        "Carthagène des Indes",
+        "Bogota"
+      ],
+      "answer": "Bogota",
+      "explanation": "Bogota, officiellement Bogota D.C., est le centre politique et économique de la Colombie, située au cœur de la cordillère Orientale. Son quartier historique de La Candelaria possède un magnifique patrimoine colonial espagnol préservé. La ville abrite également le célèbre musée de l'Or, qui possède la plus importante collection de pièces d'orfèvrerie précolombienne au monde."
+    },
+    {
+      "id": "geographie_pays_capitales_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle est la capitale des États-Unis, nommée en l'honneur du premier président du pays ?",
+      "options": [
+        "New York",
+        "Los Angeles",
+        "Chicago",
+        "Washington D.C."
+      ],
+      "answer": "Washington D.C.",
+      "explanation": "Washington D.C. (District of Columbia) a été fondée en 1790 et nommée en l'honneur de George Washington. C'est une ville fédérale qui ne fait partie d'aucun État américain, conçue par l'ingénieur français Pierre Charles L'Enfant."
+    },
+    {
+      "id": "geographie_pays_capitales_32",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quelle grande ville traversée par la Tamise est la capitale du Royaume-Uni ?",
+      "answer": "Londres",
+      "explanation": "Londres, fondée par les Romains sous le nom de Londinium il y a près de deux mille ans, abrite d'importants édifices comme le palais de Buckingham, le Parlement et la célèbre tour de Big Ben."
+    },
+    {
+      "id": "geographie_pays_capitales_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle métropole historique est la capitale de la République populaire de Chine ?",
+      "options": [
+        "Shanghai",
+        "Pékin",
+        "Hong Kong",
+        "Canton"
+      ],
+      "answer": "Pékin",
+      "explanation": "Pékin (ou Beijing) possède une histoire de plus de trois millénaires. C'est le cœur politique et culturel de la Chine, célèbre pour la Cité interdite, la place Tiananmen et sa proximité avec la Grande Muraille."
+    },
+    {
+      "id": "geographie_pays_capitales_34",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quelle ville est la capitale de la Belgique et le siège principal des institutions de l'Union européenne ?",
+      "answer": "Bruxelles",
+      "explanation": "Bruxelles accueille des institutions majeures comme la Commission européenne et le Conseil européen, ainsi que le siège de l'OTAN. Elle est réputée mondialement pour sa Grand-Place, sa statue de Manneken-Pis et ses délicieuses spécialités comme les gaufres et le chocolat."
+    },
+    {
+      "id": "geographie_pays_capitales_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle ville, célèbre pour ses innombrables canaux et ses vélos, est la capitale constitutionnelle des Pays-Bas ?",
+      "options": [
+        "La Haye",
+        "Rotterdam",
+        "Amsterdam",
+        "Utrecht"
+      ],
+      "answer": "Amsterdam",
+      "explanation": "Bien que La Haye soit le siège du gouvernement royal, du Parlement et de la Cour internationale de justice, Amsterdam est la capitale officielle des Pays-Bas. Elle s'est développée au Siècle d'or hollandais autour de ses cercles de canaux concentriques classés à l'UNESCO."
+    },
+    {
+      "id": "geographie_pays_capitales_36",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quelle ville, célèbre pour son quartier animé de Temple Bar, est la capitale de la république d'Irlande ?",
+      "answer": "Dublin",
+      "explanation": "Dublin, dont le nom vient du gaélique 'Dubh Linn' signifiant 'étang noir', a été fondée par les Vikings. Elle possède un riche héritage littéraire (James Joyce, Oscar Wilde) et abrite le célèbre Trinity College et sa bibliothèque historique."
+    },
+    {
+      "id": "geographie_pays_capitales_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle ville colorée est la capitale de Cuba, célèbre pour ses voitures anciennes des années 1950 et ses fortifications espagnoles ?",
+      "options": [
+        "Santiago de Cuba",
+        "Varadero",
+        "La Havane",
+        "Trinidad"
+      ],
+      "answer": "La Havane",
+      "explanation": "Fondée par les Espagnols au XVIe siècle, la vieille Havane (La Habana Vieja) est inscrite au patrimoine mondial de l'UNESCO. La ville est emblématique pour ses façades pastel, ses cigares et ses vieux modèles automobiles américains qui sillonnent le Malecon."
+    },
+    {
+      "id": "geographie_pays_capitales_38",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle métropole animée, célèbre pour ses temples ornés comme le Wat Arun et son réseau de canaux, est la capitale de la Thaïlande ?",
+      "answer": "Bangkok",
+      "explanation": "Bangkok est localement appelée 'Krung Thep', ce qui est le début du nom de ville le plus long du monde. Traversée par le fleuve Chao Phraya, elle mêle des gratte-ciels ultra-modernes avec des chefs-d'œuvre de l'architecture thaïlandaise sacrée."
+    },
+    {
+      "id": "geographie_pays_capitales_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle ville, dominée par les sommets enneigés de la cordillère des Andes, est la capitale du Chili ?",
+      "options": [
+        "Valparaíso",
+        "Santiago",
+        "Concepción",
+        "Mendoza"
+      ],
+      "answer": "Santiago",
+      "explanation": "Santiago (ou Santiago du Chili) a été fondée en 1541 par le conquistador espagnol Pedro de Valdivia. C'est le centre politique et financier du pays, bien que le Parlement chilien siège dans la ville portuaire de Valparaíso depuis 1990."
+    },
+    {
+      "id": "geographie_pays_capitales_40",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle ville impériale, traversée par le Danube et célèbre pour ses compositeurs classiques, est la capitale de l'Autriche ?",
+      "answer": "Vienne",
+      "explanation": "Vienne a été pendant des siècles la capitale de l'Empire des Habsbourg. Elle est réputée pour ses palais baroques (comme Schönbrunn et la Hofburg), son opéra d'État, et pour avoir accueilli des musiciens de génie comme Mozart et Beethoven."
+    },
+    {
+      "id": "geographie_pays_capitales_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle ville côtière, point le plus occidental du continent africain, est la capitale du Sénégal ?",
+      "options": [
+        "Saint-Louis",
+        "Thiès",
+        "Dakar",
+        "Ziguinchor"
+      ],
+      "answer": "Dakar",
+      "explanation": "Dakar est devenue la capitale du Sénégal lors de l'indépendance en 1960. Anciennement connue comme le point d'arrivée du célèbre rallye automobile Paris-Dakar, la ville fait face à l'île de Gorée, un site de mémoire majeur de la traite négrière."
+    },
+    {
+      "id": "geographie_pays_capitales_42",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle ville côtière, fondée par Francisco Pizarro sous le nom de 'Cité des Rois' en 1535, est la capitale du Pérou ?",
+      "answer": "Lima",
+      "explanation": "Lima est située sur la côte désertique bordant l'océan Pacifique. Son centre historique possède d'exceptionnels balcons coloniaux sculptés en bois. Aujourd'hui, Lima est également réputée pour être l'une des capitales gastronomiques d'Amérique latine."
+    },
+    {
+      "id": "geographie_pays_capitales_43",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle immense métropole, construite sur les ruines de l'ancienne capitale aztèque Tenochtitlan, est la capitale du Mexique ?",
+      "options": [
+        "Guadalajara",
+        "Cancún",
+        "Monterrey",
+        "Mexico"
+      ],
+      "answer": "Mexico",
+      "explanation": "Mexico est située dans une vallée d'altitude à plus de 2 200 mètres, à l'emplacement de l'ancien lac Texcoco asséché. Elle abrite des sites archéologiques d'une importance capitale comme le Templo Mayor et est entourée par les volcans Popocatépetl et Iztaccíhuatl."
+    },
+    {
+      "id": "geographie_pays_capitales_44",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle ville côtière, située au fond d'un fjord pittoresque et célèbre pour son musée des navires vikings, est la capitale de la Norvège ?",
+      "answer": "Oslo",
+      "explanation": "Oslo, autrefois appelée Christiania, est bordée par des collines boisées et le fjord d'Oslo. Elle est célèbre pour son musée des navires vikings, son parc de sculptures Vigeland et pour être la ville où est décerné le prix Nobel de la paix."
+    },
+    {
+      "id": "geographie_pays_capitales_45",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle ville historique, classée à l'UNESCO pour son architecture coloniale blanche, est la capitale constitutionnelle de la Bolivie, bien que La Paz soit le siège du gouvernement ?",
+      "answer": "Sucre",
+      "explanation": "Sucre a été déclarée capitale de la Bolivie dans sa constitution de 1826 et porte le nom du leader révolutionnaire Antonio José de Sucre. Si La Paz concentre le pouvoir exécutif et législatif, Sucre demeure la capitale judiciaire et le siège officiel de la Cour suprême."
+    },
+    {
+      "id": "geographie_pays_capitales_46",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle ville est la capitale politique et administrative officielle de la Côte d'Ivoire depuis 1983, succédant à Abidjan ?",
+      "options": [
+        "Abidjan",
+        "Bouaké",
+        "Yamoussoukro",
+        "San-Pédro"
+      ],
+      "answer": "Yamoussoukro",
+      "explanation": "Yamoussoukro a été désignée capitale en 1983 par le président Félix Houphouët-Boigny, natif de la ville. Bien qu'Abidjan reste le cœur économique et diplomatique du pays, Yamoussoukro abrite de grandes institutions ainsi que la basilique Notre-Dame de la Paix, la plus grande basilique chrétienne du monde."
+    },
+    {
+      "id": "geographie_pays_capitales_47",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle gigantesque cité planifiée, sortie de terre en secret au début du XXIe siècle, est la capitale officielle du Myanmar (ex-Birmanie) en remplacement de Rangoun ?",
+      "answer": "Naypyidaw",
+      "explanation": "Naypyidaw (ou Nay Pyi Taw) est devenue officiellement la capitale du Myanmar en 2005 à l'initiative du régime militaire. Cette ville monumentale, six fois plus grande que New York, possède d'immenses avenues à dix voies presque vides et est divisée en zones strictement délimitées (résidentielle, militaire, ministérielle)."
+    },
+    {
+      "id": "geographie_pays_capitales_48",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle ville mystique, située dans une vallée cernée par les montagnes géantes de l'Himalaya, est la capitale du Népal ?",
+      "options": [
+        "Pokhara",
+        "Katmandou",
+        "Lhassa",
+        "Thimphou"
+      ],
+      "answer": "Katmandou",
+      "explanation": "Katmandou est située à 1 400 mètres d'altitude. Son histoire est marquée par le syncrétisme religieux remarquable entre le bouddhisme et l'hindouisme. Le centre de la ville recèle de magnifiques temples en bois et de palais royaux sur la célèbre place Durbar, fortement touchée par le séisme de 2015."
+    },
+    {
+      "id": "geographie_pays_capitales_49",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle est la capitale du Bhoutan, célèbre pour être l'une des rares capitales nationales au monde à ne posséder aucun feu de signalisation ?",
+      "answer": "Thimphou",
+      "explanation": "Thimphou a rejeté l'installation de feux tricolores, préférant maintenir un policier en uniforme dans une cabine décorée au centre du carrefour principal pour diriger manuellement le trafic. La ville conserve une architecture traditionnelle stricte conformément aux préceptes bouddhistes du Bonheur National Brut."
+    },
+    {
+      "id": "geographie_pays_capitales_50",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle ville d'altitude, abritant le siège de l'Union africaine, est la capitale de l'Éthiopie ?",
+      "options": [
+        "Lalibela",
+        "Addis-Abeba",
+        "Nairobi",
+        "Asmara"
+      ],
+      "answer": "Addis-Abeba",
+      "explanation": "Addis-Abeba, dont le nom signifie 'Nouvelle Fleur' en amharique, est perchée à environ 2 355 mètres d'altitude, ce qui en fait l'une des capitales les plus élevées du globe. Fondée en 1886 par l'empereur Menelik II, elle constitue le cœur politique et culturel de ce pays d'Afrique de l'Est."
+    }
+  ],
+  "Géographie : Monuments & Nature": [
+    {
+      "id": "geographie_monuments_nature_1",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel fleuve d'Afrique, le plus long du monde (avec l'Amazone), traverse l'Égypte pour se jeter dans la Méditerranée ?",
+      "answer": "Le Nil",
+      "explanation": "Le Nil est un fleuve mythique africain formé par la confluence du Nil Blanc et du Nil Bleu au niveau de Khartoum, au Soudan. Son cours fertilise des bandes de terre à travers le désert, jouant ainsi un rôle vital dans l'essor et l'agriculture de la civilisation égyptienne antique. Il termine son long voyage de plus de 6 600 kilomètres en se jetant dans la mer Méditerranée par un immense delta."
+    },
+    {
+      "id": "geographie_monuments_nature_2",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Dans quel pays asiatique peut-on admirer le célèbre Taj Mahal, construit au XVIIe siècle par l'empereur Shah Jahan ?",
+      "options": [
+        "La Chine",
+        "L'Inde",
+        "La Thaïlande",
+        "Le Japon"
+      ],
+      "answer": "L'Inde",
+      "explanation": "Situé à Agra dans le nord de l'Inde, le Taj Mahal est un sublime mausolée de marbre blanc édifié par l'empereur moghol Shah Jahan en mémoire de son épouse favorite Mumtaz Mahal. Ce joyau de l'art indo-islamique est réputé pour sa symétrie parfaite et son raffinement architectural exceptionnel. Il a été inscrit sur la liste du patrimoine mondial de l'UNESCO en 1983."
+    },
+    {
+      "id": "geographie_monuments_nature_3",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel monument historique parisien en fer forgé, construit pour l'Exposition universelle de 1889, est le symbole de la France ?",
+      "answer": "La tour Eiffel",
+      "explanation": "Conçue par l'ingénieur Gustave Eiffel, la tour Eiffel mesure aujourd'hui 330 mètres de hauteur grâce à ses antennes de radiodiffusion. Elle devait initialement être démontée après vingt ans, mais a été sauvée grâce à son utilité scientifique pour les transmissions radio et météo. Elle est désormais l'un des monuments payants les plus visités au monde."
+    },
+    {
+      "id": "geographie_monuments_nature_4",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le plus haut sommet du monde au-dessus du niveau de la mer, situé dans l'Himalaya ?",
+      "options": [
+        "Le mont Blanc",
+        "Le mont Everest",
+        "Le K2",
+        "Le Kilimandjaro"
+      ],
+      "answer": "Le mont Everest",
+      "explanation": "Le mont Everest culmine à 8 848 mètres d'altitude à la frontière entre le Népal et la Chine. Son nom occidental a été donné en hommage à Sir George Everest, un géographe britannique qui a dirigé la cartographie de l'Inde. Sa première ascension officielle réussie a été accomplie en 1953 par Edmund Hillary et le sherpa Tenzing Norgay."
+    },
+    {
+      "id": "geographie_monuments_nature_5",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel est le plus grand océan de la planète Terre en superficie ?",
+      "answer": "L'océan Pacifique",
+      "explanation": "L'océan Pacifique couvre environ un tiers de la surface terrestre globale, soit une superficie supérieure à celle de toutes les terres émergées réunies. Il abrite également le point le plus profond connu de la croûte terrestre, la fosse des Mariannes. Son nom lui a été attribué par le navigateur Fernand de Magellan en raison des eaux calmes qu'il y a rencontrées."
+    },
+    {
+      "id": "geographie_monuments_nature_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Dans quel pays d'Amérique du Sud se trouve la célèbre cité inca du XVe siècle, le Machu Picchu ?",
+      "options": [
+        "Le Pérou",
+        "La Colombie",
+        "Le Chili",
+        "Le Brésil"
+      ],
+      "answer": "Le Pérou",
+      "explanation": "Le Machu Picchu est perché à 2 430 mètres d'altitude sur un promontoire montagneux des Andes péruviennes. Redécouvert scientifiquement en 1911 par l'explorateur Hiram Bingham, ce site archéologique majeur témoigne du génie architectural de l'Empire inca. Il est aujourd'hui classé parmi les sept nouvelles merveilles du monde."
+    },
+    {
+      "id": "geographie_monuments_nature_7",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle célèbre muraille fortifiée en pierre et en terre, longue de plusieurs milliers de kilomètres, se dresse dans le nord de la Chine ?",
+      "answer": "La Grande Muraille de Chine",
+      "explanation": "La Grande Muraille de Chine a été construite et renforcée sur plusieurs siècles pour protéger les frontières nord de l'empire contre les invasions des tribus nomades. Contrairement à une idée reçue tenace, elle n'est pas visible à l'œil nu depuis l'espace sans équipement spécialisé. Elle serpente à travers des reliefs montagneux et des déserts, offrant des panoramas spectaculaires."
+    },
+    {
+      "id": "geographie_monuments_nature_8",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel immense désert de sable chaud, le plus grand de la planète, s'étend sur plusieurs pays d'Afrique du Nord ?",
+      "options": [
+        "Le désert de Gobi",
+        "Le désert du Sahara",
+        "Le désert d'Atacama",
+        "Le désert du Kalahari"
+      ],
+      "answer": "Le désert du Sahara",
+      "explanation": "Le Sahara s'étend sur plus de 9 millions de kilomètres carrés, couvrant presque toute la partie nord du continent africain. Son paysage spectaculaire est composé non seulement de dunes de sable géantes, mais également de plateaux rocheux et de massifs montagneux volcaniques. Son climat hyperaride présente des écarts thermiques extrêmes entre le jour et la nuit."
+    },
+    {
+      "id": "geographie_monuments_nature_9",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel immense monument de l'Antiquité romaine, à l'origine un amphithéâtre pour les combats de gladiateurs, se situe au cœur de Rome ?",
+      "answer": "Le Colisée",
+      "explanation": "Le Colisée, inauguré en l'an 80 de notre ère sous la dynastie flavienne, pouvait accueillir jusqu'à 50 000 spectateurs pour divers jeux publics. Il a été endommagé au cours des siècles par des séismes dévastateurs et des pillages de pierres à des fins de construction. Il demeure aujourd'hui l'un des monuments les plus célèbres d'Italie et un puissant symbole de l'histoire romaine."
+    },
+    {
+      "id": "geographie_monuments_nature_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans quel État américain se trouve le parc national de Yellowstone, célèbre pour ses sources chaudes et ses geysers comme Old Faithful ?",
+      "options": [
+        "La Californie",
+        "Le Wyoming",
+        "Le Colorado",
+        "L'Alaska"
+      ],
+      "answer": "Le Wyoming",
+      "explanation": "Créé en 1872, le parc national de Yellowstone est largement considéré comme le tout premier parc national établi au monde. Bien que la grande majorité de son territoire soit située dans le Wyoming, il déborde également sur le Montana et l'Idaho. Il abrite une faune exceptionnelle comprenant des grizzlys, des loups gris ainsi que de gigantesques troupeaux de bisons sauvages."
+    },
+    {
+      "id": "geographie_monuments_nature_11",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel est le plus grand lac d'eau douce d'Europe occidentale, situé à la frontière entre la France et la Suisse ?",
+      "answer": "Le lac Léman",
+      "explanation": "Le lac Léman est un vaste plan d'eau d'origine glaciaire en forme de croissant traversé par le fleuve Rhône. Il sépare les départements français de Haute-Savoie des cantons suisses de Genève, de Vaud et du Valais. Ses rives pittoresques accueillent de nombreuses villes thermales et touristiques très fréquentées."
+    },
+    {
+      "id": "geographie_monuments_nature_12",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ensemble monumental de l'Égypte antique, comprenant trois grandes pyramides et un célèbre sphinx, se trouve près du Caire ?",
+      "options": [
+        "Louxor",
+        "Abou Simbel",
+        "Gizeh",
+        "Karnak"
+      ],
+      "answer": "Gizeh",
+      "explanation": "Le plateau de Gizeh regroupe la pyramide de Khéops, qui est la seule des sept merveilles du monde antique à être parvenue jusqu'à nous. Ce site archéologique exceptionnel comprend également les pyramides de Khéphren et de Mykérinos, gardées par le Grand Sphinx de Gizeh. Ces impressionnantes sépultures royales témoignent de la grandeur technologique de l'Ancien Empire égyptien."
+    },
+    {
+      "id": "geographie_monuments_nature_13",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle immense barrière de corail, visible depuis l'espace et située au large de l'Australie, subit aujourd'hui le blanchissement de ses coraux ?",
+      "answer": "La Grande Barrière de corail",
+      "explanation": "La Grande Barrière de corail s'étend sur plus de 2 300 kilomètres le long de la côte du Queensland, dans le nord-est de l'Australie. Elle constitue la plus grande structure vivante de la planète et abrite une biodiversité marine d'une richesse exceptionnelle. Le réchauffement climatique et la hausse des températures de l'océan provoquent actuellement de graves épisodes de blanchissement corallien."
+    },
+    {
+      "id": "geographie_monuments_nature_14",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle célèbre cascade, la plus haute chute d'eau ininterrompue du monde avec 979 mètres, est située au Venezuela ?",
+      "options": [
+        "Les chutes du Niagara",
+        "Les chutes Victoria",
+        "Le Salto Ángel",
+        "Les chutes d'Iguazú"
+      ],
+      "answer": "Le Salto Ángel",
+      "explanation": "Le Salto Ángel jaillit du sommet de l'Auyantepuy, une montagne tabulaire impressionnante située dans le parc national Canaima. Elle doit son nom occidental à l'aviateur américain Jimmy Angel, qui a survolé et accidenté son avion sur le site en 1937. Le peuple indigène Pémon l'appelle originellement Kerepakupai Merú, ce qui signifie 'chute du lieu le plus profond'."
+    },
+    {
+      "id": "geographie_monuments_nature_15",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel lac d'Asie centrale, situé en Sibérie, est le plus profond et le plus ancien lac d'eau douce du monde ?",
+      "answer": "Le lac Baïkal",
+      "explanation": "Le lac Baïkal abrite près de 20 % des réserves d'eau douce liquide non gelée de la planète grâce à sa profondeur maximale de 1 642 mètres. Surnommé la 'Perle de Sibérie', sa clarté exceptionnelle permet d'observer des objets situés à plusieurs dizaines de mètres sous la surface en hiver. Il abrite également une faune unique au monde, dont le phoque d'eau douce appelé nerpa."
+    },
+    {
+      "id": "geographie_monuments_nature_16",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel monument mégalithique préhistorique exceptionnel, composé de menhirs disposés en cercle, se dresse dans le sud de l'Angleterre ?",
+      "options": [
+        "Carnac",
+        "Stonehenge",
+        "Skara Brae",
+        "Newgrange"
+      ],
+      "answer": "Stonehenge",
+      "explanation": "Stonehenge a été édifié par phases successives entre 3000 et 1500 avant notre ère dans la plaine de Salisbury. L'orientation des pierres monumentales avec les solstices d'été et d'hiver suggère une fonction astronomique ou rituelle majeure pour les populations du Néolithique. Les mystères entourant le transport de ces blocs massifs de grès et de roches bleues fascinent toujours les archéologues."
+    },
+    {
+      "id": "geographie_monuments_nature_17",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel volcan actif de l'île italienne de Sicile est le plus haut volcan d'Europe avec ses 3 357 mètres d'altitude ?",
+      "answer": "L'Etna",
+      "explanation": "L'Etna connaît une activité volcanique presque ininterrompue depuis des millénaires, caractérisée par de fréquentes coulées de lave et des projections de cendres. Son altitude varie régulièrement au gré de ses éruptions successives et des effondrements de ses cratères sommitaux. La fertilité exceptionnelle de ses sols volcaniques favorise une agriculture locale florissante, notamment pour la vigne et les vergers."
+    },
+    {
+      "id": "geographie_monuments_nature_18",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel désert côtier situé dans le nord du Chili est réputé pour être le désert le plus aride de la planète ?",
+      "options": [
+        "Le désert de Gobi",
+        "Le désert d'Atacama",
+        "Le désert de Mojave",
+        "Le désert de Sonora"
+      ],
+      "answer": "Le désert d'Atacama",
+      "explanation": "L'Atacama bénéficie d'une absence presque totale de précipitations en raison de la barrière naturelle formée par la cordillère des Andes à l'est. Cette sécheresse extrême et la pureté exceptionnelle de son ciel nocturne en font l'un des meilleurs sites au monde pour l'observation astronomique. Des observatoires internationaux majeurs y ont été installés pour scruter l'univers."
+    },
+    {
+      "id": "geographie_monuments_nature_19",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel monument grandiose de Jordanie, sculpté à même la roche de grès rose, était la capitale du royaume nabatéen ?",
+      "answer": "Pétra",
+      "explanation": "Pétra is une cité antique célèbre pour son monument phare, la Khazneh, également appelée le 'Trésor', dont la façade est taillée dans la falaise de grès. Elle s'est développée grâce à sa maîtrise de la gestion de l'eau dans une région aride et sa situation stratégique sur les routes caravanières. Elle a été désignée comme l'une des sept nouvelles merveilles du monde en 2007."
+    },
+    {
+      "id": "geographie_monuments_nature_20",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Dans quel pays se trouve le célèbre site de Pamukkale, connu pour ses terrasses de travertin blanc formées par des sources chaudes ?",
+      "options": [
+        "La Grèce",
+        "La Turquie",
+        "L'Italie",
+        "Le Mexique"
+      ],
+      "answer": "La Turquie",
+      "explanation": "Pamukkale, dont le nom signifie 'château de coton' en turc, est un site naturel et touristique remarquable composé de vasques de calcaire blanc étincelant. Ces formations se sont constituées au fil des millénaires par le dépôt de carbonate de calcium contenu dans les sources d'eaux thermales chaudes de la région. Il est inscrit sur la liste du patrimoine mondial de l'UNESCO conjointement avec la cité antique de Hiérapolis."
+    },
+    {
+      "id": "geographie_monuments_nature_21",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quelle gorge spectaculaire, sculptée par le fleuve Colorado en Arizona, est mondialement connue pour ses paysages rocheux colorés ?",
+      "answer": "Le Grand Canyon",
+      "explanation": "Le Grand Canyon du Colorado s'étend sur près de 450 kilomètres de long et atteint des profondeurs de plus de 1 800 mètres. Les strates rocheuses colorées empilées révèlent près de deux milliards d'années d'histoire géologique de la Terre. C'est l'un des espaces naturels protégés les plus célèbres et visités des États-Unis."
+    },
+    {
+      "id": "geographie_monuments_nature_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel volcan majestueux au cône symétrique parfait, point culminant du Japon, est un symbole sacré du pays ?",
+      "options": [
+        "Le mont Aso",
+        "Le mont Fuji",
+        "Le mont Ontake",
+        "Le mont Kita"
+      ],
+      "answer": "Le mont Fuji",
+      "explanation": "Le mont Fuji s'élève à 3 776 mètres d'altitude et est un volcan en sommeil depuis sa dernière éruption survenue en 1707. Inscrit au patrimoine mondial de l'UNESCO comme lieu sacré et source d'inspiration artistique, il est célébré dans les estampes d'Hokusai. L'ascension de ce sommet emblématique attire chaque été des centaines de milliers de pèlerins et de randonneurs."
+    },
+    {
+      "id": "geographie_monuments_nature_23",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quelle immense forêt tropicale d'Amérique du Sud, traversée par un fleuve géant, est surnommée le 'poumon de la Terre' ?",
+      "answer": "La forêt amazonienne",
+      "explanation": "La forêt amazonienne couvre plus de 5 millions de kilomètres carrés répartis sur neuf pays, principalement le Brésil. Elle abrite une biodiversité unique au monde avec des millions d'espèces animales et végétales, dont beaucoup restent encore inconnues. Ce réservoir de carbone crucial pour le climat mondial fait face à des menaces sévères de déforestation."
+    },
+    {
+      "id": "geographie_monuments_nature_24",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelles chutes d'eau spectaculaires, partagées entre le Canada et les États-Unis, relient les lacs Érié et Ontario ?",
+      "options": [
+        "Les chutes d'Iguazú",
+        "Les chutes Victoria",
+        "Les chutes du Niagara",
+        "Le Salto Ángel"
+      ],
+      "answer": "Les chutes du Niagara",
+      "explanation": "Les chutes du Niagara se composent de trois cascades distinctes, la plus célèbre étant celle du Fer-à-Cheval située du côté canadien. Bien qu'elles ne soient pas particulièrement hautes, leur débit d'eau colossal en fait les chutes les plus puissantes d'Amérique du Nord. Elles constituent une attraction touristique majeure et une source d'énergie hydroélectrique importante pour la région."
+    },
+    {
+      "id": "geographie_monuments_nature_25",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel grand lac navigable, le plus élevé du monde à 3 812 mètres d'altitude, est partagé entre le Pérou et la Bolivie ?",
+      "answer": "Le lac Titicaca",
+      "explanation": "Le lac Titicaca s'étend sur plus de 8 300 kilomètres carrés au cœur de l'Altiplano des Andes. Il est célèbre pour ses îles artificielles en roseaux appelées Uros, où vivent des populations indigènes fidèles aux traditions ancestrales. Selon la mythologie inca, c'est dans ces eaux sacrées que sont nés les fondateurs de la dynastie impériale."
+    },
+    {
+      "id": "geographie_monuments_nature_26",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel monument emblématique de New York, offert par la France pour le centenaire de l'indépendance américaine, accueille les bateaux dans la baie ?",
+      "options": [
+        "L'Empire State Building",
+        "La statue de la Liberté",
+        "Le pont de Brooklyn",
+        "Le Chrysler Building"
+      ],
+      "answer": "La statue de la Liberté",
+      "explanation": "Conçue par le sculpteur Auguste Bartholdi et dotée d'une structure interne en fer conçue par Gustave Eiffel, la statue de la Liberté a été inaugurée en 1886. Érigée sur Liberty Island, elle tient un flambeau éclairant le monde et une tablette gravée de la date de la Déclaration d'indépendance américaine. Elle a symbolisé l'espoir et l'accueil pour des millions d'immigrants arrivant par bateau."
+    },
+    {
+      "id": "geographie_monuments_nature_27",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel ensemble grandiose de 275 cascades, situé au cœur d'une forêt subtropicale à la frontière entre le Brésil et l'Argentine, se jette dans un gouffre appelé la Gorge du Diable ?",
+      "answer": "Les chutes d'Iguazú",
+      "explanation": "Les chutes d'Iguazú s'étendent sur près de trois kilomètres de large, offrant un spectacle sonore et visuel absolument féerique. La majorité des cascades se trouvent sur le territoire argentin, tandis que le Brésil offre la plus belle vue panoramique de l'ensemble. La Gorge du Diable, un gouffre en forme de U de 80 mètres de haut, concentre la puissance maximale du fleuve."
+    },
+    {
+      "id": "geographie_monuments_nature_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel vaste désert d'Asie centrale, caractérisé par ses températures extrêmes et ses plaines de graviers, s'étend sur la Mongolie et le nord de la Chine ?",
+      "options": [
+        "Le désert du Sahara",
+        "Le désert de Gobi",
+        "Le désert du Kalahari",
+        "Le désert du Thar"
+      ],
+      "answer": "Le désert de Gobi",
+      "explanation": "Le désert de Gobi est un désert froid d'altitude, où les températures peuvent chuter sous les moins quarante degrés en hiver et dépasser les quarante degrés en été. C'est un site paléontologique exceptionnel, mondialement célèbre pour les premières découvertes d'œufs de dinosaures fossilisés dans les années 1920. Sa faune rare comprend le chameau de Bactriane sauvage et l'ours de Gobi."
+    },
+    {
+      "id": "geographie_monuments_nature_29",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel volcan éteint à trois cratères, point culminant du continent africain avec ses 5 895 mètres d'altitude, s'élève majestueusement en Tanzanie ?",
+      "answer": "Le Kilimandjaro",
+      "explanation": "Le Kilimandjaro est célèbre pour sa silhouette solitaire majestueuse qui domine la savane environnante et pour sa calotte glaciaire sommitale en net recul. Son ascension par la voie Marangu ou Machame traverse plusieurs zones climatiques distinctes, de la forêt équatoriale au désert alpin. Il a été gravi avec succès pour la première fois en 1889 par Hans Meyer et Ludwig Purtscheller."
+    },
+    {
+      "id": "geographie_monuments_nature_30",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel sommet des Alpes, culminant à 4 805 mètres d'altitude, est le plus haut sommet d'Europe occidentale ?",
+      "options": [
+        "Le Cervin",
+        "Le mont Rose",
+        "Le mont Blanc",
+        "La Jungfrau"
+      ],
+      "answer": "Le mont Blanc",
+      "explanation": "Le mont Blanc se dresse dans le massif du même nom, à la frontière entre la France et l'Italie. Sa première ascension réussie en 1786 par Jacques Balmat et Michel Paccard est traditionnellement considérée comme l'acte de naissance de l'alpinisme moderne. Le sommet attire chaque année des milliers de grimpeurs du monde entier tentant de le gravir par la voie royale des trois monts ou du Goûter."
+    },
+    {
+      "id": "geographie_monuments_nature_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel monument d'architecture contemporaine en forme de voiles blanches ou de coquillages, inauguré en 1973, est le symbole de la ville de Sydney en Australie ?",
+      "options": [
+        "Le Harbour Bridge",
+        "L'opéra de Sydney",
+        "La Sydney Tower",
+        "Le Queen Victoria Building"
+      ],
+      "answer": "L'opéra de Sydney",
+      "explanation": "L'opéra de Sydney a été conçu par l'architecte danois Jørn Utzon après avoir remporté un concours international en 1957. Reconnaissable entre tous grâce à sa toiture unique en forme d'immenses voiles de béton recouvertes de tuiles blanches autonettoyantes, il est inscrit au patrimoine mondial de l'UNESCO."
+    },
+    {
+      "id": "geographie_monuments_nature_32",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel célèbre pont suspendu de couleur orange, long de plus de 2,7 kilomètres, enjambe le détroit reliant la baie de San Francisco à l'océan Pacifique ?",
+      "answer": "Le Golden Gate Bridge",
+      "explanation": "Inauguré en 1937 sous la direction de l'ingénieur Joseph Strauss, le pont du Golden Gate se distingue par sa couleur orange international choisie spécialement pour le rendre visible dans les célèbres brouillards de la ville. C'est l'une des merveilles de l'ingénierie moderne."
+    },
+    {
+      "id": "geographie_monuments_nature_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel monument historique français exceptionnel, érigé sur un îlot rocheux au milieu d'une baie de Normandie, est entouré par les plus grandes marées d'Europe continentale ?",
+      "options": [
+        "Le château d'If",
+        "Le mont Saint-Michel",
+        "Le fort Boyard",
+        "Le château de Chambord"
+      ],
+      "answer": "Le mont Saint-Michel",
+      "explanation": "Le mont Saint-Michel abrite une abbaye bénédictine gothique majestueuse dédiée à l'archange saint Michel. Lors des grandes marées, la mer recouvre entièrement la digue d'accès historique, le transformant temporairement en une île, offrant un spectacle naturel saisissant."
+    },
+    {
+      "id": "geographie_monuments_nature_34",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel volcan actif italien, célèbre pour avoir détruit la ville antique de Pompéi en l'an 79 de notre ère, domine aujourd'hui la baie de Naples ?",
+      "answer": "Le Vésuve",
+      "explanation": "Le mont Vésuve est un volcan gris redouté en raison de son caractère explosif et de la densité extrême de la population vivant à ses pieds. Sa célèbre éruption de l'an 79 a figé sous des mètres de cendres et de lapillis les cités de Pompéi et d'Herculanum, offrant de précieux témoignages archéologiques."
+    },
+    {
+      "id": "geographie_monuments_nature_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel fleuve géant d'Amérique du Nord, long de plus de 3 700 kilomètres, prend sa source au Minnesota et se jette dans le golfe du Mexique en traversant le cœur des États-Unis ?",
+      "options": [
+        "Le Colorado",
+        "Le Mississippi",
+        "Le fleuve Saint-Laurent",
+        "L'Hudson"
+      ],
+      "answer": "Le Mississippi",
+      "explanation": "Le fleuve Mississippi forme avec son principal affluent, le Missouri, l'un des plus grands réseaux hydrographiques du monde. C'est une voie commerciale cruciale pour les États-Unis et une source d'inspiration littéraire majeure, notamment pour l'écrivain Mark Twain et ses récits."
+    },
+    {
+      "id": "geographie_monuments_nature_36",
+      "type": "open",
+      "difficulty": "Facile",
+      "question": "Quel archipel d'Équateur situé dans l'océan Pacifique, célèbre pour ses tortues géantes, a inspiré la théorie de l'évolution de Charles Darwin ?",
+      "answer": "Les îles Galápagos",
+      "explanation": "Les îles Galápagos abritent une faune endémique unique au monde qui n'a pas peur de l'homme, comprenant des iguanes marins, des fous à pieds bleus et les fameuses tortues terrestres géantes. Charles Darwin y a séjourné en 1835 à bord du HMS Beagle, ce qui a été déterminant dans l'élaboration de ses travaux scientifiques."
+    },
+    {
+      "id": "geographie_monuments_nature_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel site archéologique majeur du Mexique, célèbre pour sa pyramide de Kukulcán où se produit un jeu d'ombre et de lumière aux équinoxes, est l'un des principaux centres de la civilisation maya ?",
+      "options": [
+        "Tulum",
+        "Chichén Itzá",
+        "Palenque",
+        "Teotihuacán"
+      ],
+      "answer": "Chichén Itzá",
+      "explanation": "Chichén Itzá, situé dans la péninsule du Yucatán, abrite El Castillo, une pyramide de 24 mètres dédiée au serpent à plumes Kukulcán. Lors des équinoxes de printemps et d'automne, la lumière solaire crée l'illusion visuelle d'un serpent glissant le long des marches, illustrant le génie astronomique maya."
+    },
+    {
+      "id": "geographie_monuments_nature_38",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel ensemble fortifié espagnol majestueux de style nasride, composé de palais somptueux et de jardins d'eau (le Generalife), domine la ville de Grenade ?",
+      "answer": "L'Alhambra",
+      "explanation": "L'Alhambra (qui signifie 'la Rouge' en arabe en raison de la couleur de ses briques d'argile) est le chef-d'œuvre le plus achevé de l'art hispano-mauresque en Andalousie. Ses cours intérieures d'une délicatesse inouïe, comme la cour des Lions, témoignent du raffinement de la dynastie musulmane nasride."
+    },
+    {
+      "id": "geographie_monuments_nature_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel lac salé d'Asie occidentale, situé au point le plus bas de la terre à plus de 430 mètres sous le niveau de la mer, permet aux baigneurs de flotter sans effort ?",
+      "options": [
+        "Le lac Supérieur",
+        "La mer Caspienne",
+        "La mer Morte",
+        "Le lac Victoria"
+      ],
+      "answer": "La mer Morte",
+      "explanation": "La mer Morte possède une salinité extrême d'environ 34 %, soit près de dix fois celle de l'eau de mer classique. Cette concentration empêche toute forme de vie macroscopique d'y subsister, d'où son nom. La densité de l'eau saline y est telle que le corps humain y flotte naturellement de façon spectaculaire."
+    },
+    {
+      "id": "geographie_monuments_nature_40",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quelle curiosité naturelle d'Irlande du Nord, constituée de près de 40 000 colonnes de basalte hexagonales imbriquées, s'avance dans la mer et serait selon la légende l'œuvre de géants rivaux ?",
+      "answer": "La chaussée des Géants",
+      "explanation": "La chaussée des Géants (Giant's Causeway) s'est formée il y a environ 60 millions d'années suite à un refroidissement rapide de lave volcanique basaltique, créant ces étonnants prismes géométriques réguliers. La mythologie locale attribue ce chef-d'œuvre au géant irlandais Finn MacCool voulant construire un pont vers l'Écosse."
+    },
+    {
+      "id": "geographie_monuments_nature_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel sommet des Alpes en forme de pyramide parfaite, haut de 4 478 mètres et situé à la frontière entre la Suisse et l'Italie, est l'un des emblèmes de la montagne européenne ?",
+      "options": [
+        "Le mont Blanc",
+        "La Jungfrau",
+        "Le Cervin",
+        "L'Eiger"
+      ],
+      "answer": "Le Cervin",
+      "explanation": "Le Cervin (Matterhorn en allemand) se distingue par ses quatre faces abruptes orientées vers les points cardinaux. Sa première ascension dramatique en 1865 par la cordée d'Edward Whymper s'est soldée par la chute mortelle de quatre de ses membres. Sa silhouette unique orne de nombreux produits helvétiques célèbres, comme le chocolat Toblerone."
+    },
+    {
+      "id": "geographie_monuments_nature_42",
+      "type": "open",
+      "difficulty": "Moyen",
+      "question": "Quel parc national de Croatie est célèbre dans le monde entier pour ses seize lacs en cascade reliés entre eux par d'innombrables chutes d'eau et creusés dans le calcaire ?",
+      "answer": "Le parc national des lacs de Plitvice",
+      "explanation": "Plitvice abrite un écosystème karstique d'une beauté féerique où le dépôt continu de travertin façonne des barrages naturels en constante évolution. Les visiteurs explorent ces lacs aux eaux cristallines variant du turquoise au vert émeraude grâce à des sentiers et des passerelles en bois surélevées."
+    },
+    {
+      "id": "geographie_monuments_nature_43",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel temple expiatoire d'architecture moderniste catalane, en chantier à Barcelone depuis 1882 sous l'impulsion de l'architecte Antoni Gaudí, est le monument le plus célèbre d'Espagne ?",
+      "options": [
+        "Le parc Güell",
+        "La cathédrale de Séville",
+        "La Sagrada Família",
+        "Le musée du Prado"
+      ],
+      "answer": "La Sagrada Família",
+      "explanation": "La Sagrada Família est une basilique hors norme caractérisée par ses façades sculptées complexes et ses immenses tours inspirées de formes naturelles. Antoni Gaudí y a consacré les dernières décennies de sa vie. Le monument est resté inachevé à sa mort en 1926 et sa construction se poursuit toujours grâce aux dons du public."
+    },
+    {
+      "id": "geographie_monuments_nature_44",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle fosse océanique de l'océan Pacifique abrite le point le plus profond connu de la croûte terrestre, à près de 11 000 mètres sous la surface ?",
+      "answer": "La fosse des Mariannes",
+      "explanation": "La fosse des Mariannes abrite le Challenger Deep, mesuré à environ 10 994 mètres de profondeur. C'est une zone de subduction extrême soumise à une pression colossale et à une obscurité totale, où seuls quelques explorateurs et des organismes marins adaptés (les piézophiles) ont pu s'aventurer."
+    },
+    {
+      "id": "geographie_monuments_nature_45",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel immense désert de sel de Bolivie, le plus grand de la planète avec plus de 10 000 kilomètres carrés, se transforme en un miroir géant parfait durant la saison des pluies ?",
+      "options": [
+        "Le désert d'Atacama",
+        "Le salar d'Uyuni",
+        "Le salar de Coipasa",
+        "Le lac Titicaca"
+      ],
+      "answer": "Le salar d'Uyuni",
+      "explanation": "Le salar d'Uyuni est situé sur l'Altiplano à plus de 3 600 mètres d'altitude. Cette plaine de sel d'une platitude extrême abrite la majeure partie des réserves mondiales exploitables de lithium. Durant la saison des pluies, une fine pellicule d'eau le recouvre, créant une illusion d'optique magique où le ciel et la terre se confondent."
+    },
+    {
+      "id": "geographie_monuments_nature_46",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quel immense monolithe de grès rouge, considéré comme sacré par les aborigènes Anangu, se dresse de façon solitaire au cœur du Territoire du Nord en Australie ?",
+      "answer": "Uluru",
+      "explanation": "Uluru (ou Ayers Rock) est un inselberg spectaculaire s'élevant à 348 mètres au-dessus de la plaine semi-aride. Il présente la particularité de changer de teinte de façon spectaculaire selon l'heure du jour et la position du soleil. L'ascension de ce site sacré a été définitivement interdite en 2019 par respect pour les croyances aborigènes traditionnelles."
+    },
+    {
+      "id": "geographie_monuments_nature_47",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel désert côtier d'Afrique australe, réputé pour abriter certaines des dunes de sable rouge les plus hautes et les plus anciennes du monde à Sossusvlei, se jette directement dans l'océan Atlantique ?",
+      "options": [
+        "Le désert du Kalahari",
+        "Le désert du Namib",
+        "Le désert du Sahara",
+        "Le désert du Karoo"
+      ],
+      "answer": "Le désert du Namib",
+      "explanation": "Le désert du Namib s'étend le long de la côte namibienne et est classé à l'UNESCO. Ses dunes spectaculaires, pouvant culminer à plus de 300 mètres d'altitude, font face à des conditions maritimes tumultueuses qui ont provoqué de nombreux naufrages historiques le long de la redoutable Côte des Squelettes."
+    },
+    {
+      "id": "geographie_monuments_nature_48",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelle ancienne cité maya monumentale, dont les temples spectaculaires percent la canopée de la forêt tropicale du Guatemala, est l'un des plus grands sites archéologiques d'Amérique précolombienne ?",
+      "answer": "Tikal",
+      "explanation": "Tikal a été la capitale d'un État conquérant majeur et l'une des cités les plus puissantes du monde maya classique entre le IVe et le IXe siècle. Ses pyramides à degrés escarpées s'élèvent majestueusement au-dessus des arbres, le Temple IV atteignant 65 mètres de haut. Il est classé à la fois pour son patrimoine culturel et sa biodiversité."
+    },
+    {
+      "id": "geographie_monuments_nature_49",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel site spectaculaire de Turquie (région de Cappadoce), célèbre pour son paysage de vallées érodées et ses cheminées de fées abritant des sanctuaires byzantins troglodytiques, est inscrit à l'UNESCO ?",
+      "options": [
+        "Le parc national de Göreme",
+        "Éphèse",
+        "Pamukkale",
+        "Hiérapolis"
+      ],
+      "answer": "Le parc national de Göreme",
+      "explanation": "Le parc national de Göreme et les sites rupestres de Cappadoce présentent un paysage fantastique entièrement sculpté par l'érosion éolienne et hydrique dans des tufs volcaniques tendres. Les chrétiens de l'époque byzantine y ont creusé des églises, des monastères et d'immenses cités souterraines ornées de fresques d'une valeur inestimable."
+    },
+    {
+      "id": "geographie_monuments_nature_50",
+      "type": "open",
+      "difficulty": "Difficile",
+      "question": "Quelles spectaculaires falaises de grès et de schiste d'Irlande, surplombant l'océan Atlantique sur plus de 8 kilomètres de long et culminant à plus de 210 mètres de haut, sont l'un des sites naturels les plus visités du pays ?",
+      "answer": "Les falaises de Moher",
+      "explanation": "Les falaises de Moher (Cliffs of Moher) abritent d'immenses colonies d'oiseaux marins, dont plus de trente mille couples de macareux moines et de guillemots. Ce paysage sauvage saisissant a servi de décor à plusieurs scènes cinématographiques célèbres, notamment dans la saga de Harry Potter ou le film Princess Bride."
+    }
+  ]
+}

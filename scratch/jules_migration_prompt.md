@@ -1,15 +1,17 @@
-# 🚀 Prompt de Migration Autonome de Questions pour Jules (jules.google.com) - Version Robuste
+# 🚀 Prompt de Migration Autonome de Questions pour Jules (jules.google.com)
 
-Copiez-collez l'intégralité de ce prompt dans **Jules** pour contourner sa réticence face au volume de 1 900 questions et lui permettre d'exécuter la tâche de manière stable et incrémentale.
+Copiez-collez l'intégralité de ce prompt dans **Jules** pour démarrer une nouvelle conversation propre et exécuter la migration de manière stable et incrémentale.
 
 ---
 
 ```markdown
 Bonjour Jules,
 
-Je comprends que convertir 1 900 questions ouvertes en QCM (ce qui nécessite de générer 1 900 x 3 = 5 700 leurres) est une tâche colossale qui dépasse les limites de ton contexte de chat direct. 
+Tu es un développeur et data auditor autonome de génie. Ta mission aujourd'hui est d'effectuer une migration de données majeure sur notre projet de quiz familial : **convertir l'intégralité des questions ouvertes en QCM à 4 propositions**.
 
-Pour mener à bien cette mission sans surcharger ton contexte et éviter tout timeout ou refus, tu dois **automatiser le processus en écrivant et en exécutant un script de migration Python incrémental**.
+Notre base de données de questions est stockée sous forme de fichiers JSON situés dans le dossier `src/data/`. Il y a environ 1 900 questions ouvertes (où `"type"` est différent de `"qcm"`) réparties sur 16 fichiers JSON.
+
+Pour mener à bien cette mission sans surcharger ton contexte et éviter tout timeout ou refus lié au grand volume de données, tu dois **automatiser le processus en écrivant et en exécutant un script de migration Python incrémental**.
 
 Voici ta feuille de route impérative et structurée pour réaliser cette tâche de manière autonome et sécurisée :
 
@@ -20,7 +22,7 @@ Rédige un script Python robuste qui fera le gros du travail. Le script doit :
    - Créer un fichier de statut `scratch/migration_checkpoint.json` pour enregistrer l'ID de chaque question déjà convertie.
    - Si le script est interrompu ou relancé, il doit lire ce fichier et ignorer instantanément les questions déjà traitées.
 3. **Appeler l'API de génération (Gemini ou autre LLM disponible dans ton environnement) :**
-   - Rédige une fonction python qui envoie un prompt à l'API LLM pour lui demander de générer exactement 3 fausses réponses (leurres) crédibles pour une question et sa réponse correcte.
+   - Rédige une fonction python qui envoie un prompt à l'API LLM pour lui demander de générer exactement 3 fausses réponses (leurres / distracteurs) crédibles pour une question et sa réponse correcte.
    - *Exemple de prompt LLM interne au script :*
      "Pour la question : '{question}' et sa réponse correcte : '{answer}', génère uniquement un tableau JSON de 3 fausses réponses (leurres) crédibles, en français, de même nature grammaticale, non ambiguës et sans répéter la bonne réponse."
 4. **Restructurer la question :**

@@ -442,11 +442,17 @@
     },
     {
       "id": "rallye_41",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel pilote français de rallye, révélé par l'opération Rallye Jeunes et devenu pilote officiel M-Sport Ford en catégorie reine, a mis de côté ses études de médecine pour se consacrer au WRC ?",
       "answer": "Adrien Fourmaux",
-      "explanation": "Adrien Fourmaux a suivi des études de médecine jusqu'en cinquième année avant de se consacrer pleinement à sa carrière professionnelle en rallye. Découvert grâce à la sélection 'Rallye Jeunes' de la FFSA, son talent brut et son sens de l'analyse en font l'un des pilotes phares de l'équipe britannique M-Sport."
+      "explanation": "Adrien Fourmaux a suivi des études de médecine jusqu'en cinquième année avant de se consacrer pleinement à sa carrière professionnelle en rallye. Découvert grâce à la sélection 'Rallye Jeunes' de la FFSA, son talent brut et son sens de l'analyse en font l'un des pilotes phares de l'équipe britannique M-Sport.",
+      "options": [
+        "Frédéric Lauzier",
+        "Adrien Fourmaux",
+        "Adrien Fourmaux",
+        "Yves Loiseau"
+      ]
     },
     {
       "id": "rallye_42",
@@ -464,11 +470,17 @@
     },
     {
       "id": "rallye_43",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel équipement technologique installé à bord permet au pilote et au copilote de communiquer clairement au milieu du vacarme assourdissant du moteur ?",
       "answer": "L'interphone",
-      "explanation": "L'interphone (ou intercom) est relié à des casques ou écouteurs intégrés dans les casques des pilotes. Il est indispensable car le bruit à l'intérieur d'une voiture de rallye (dépouillée d'insonorisation et dotée de transmissions à taille droite très bruyantes) dépasse souvent les 100 décibels, rendant toute discussion impossible sans amplification."
+      "explanation": "L'interphone (ou intercom) est relié à des casques ou écouteurs intégrés dans les casques des pilotes. Il est indispensable car le bruit à l'intérieur d'une voiture de rallye (dépouillée d'insonorisation et dotée de transmissions à taille droite très bruyantes) dépasse souvent les 100 décibels, rendant toute discussion impossible sans amplification.",
+      "options": [
+        "Radio",
+        "L'interphone",
+        "La telephone",
+        "L'interphone"
+      ]
     },
     {
       "id": "rallye_44",
@@ -486,11 +498,17 @@
     },
     {
       "id": "rallye_45",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel pilote italien a remporté le tout premier titre mondial individuel officiel de rallye en 1977, alors appelé la 'Coupe FIA des pilotes', au volant d'une Lancia Stratos HF ?",
       "answer": "Sandro Munari",
-      "explanation": "Bien que le championnat du monde officiel des pilotes ait été inauguré en 1979 (remporté par Waldegård), la FIA avait créé en 1977 et 1978 la 'Coupe FIA des pilotes' pour préfigurer ce titre. Le premier vainqueur historique de cette coupe en 1977 fut l'Italien Sandro Munari au volant de la mythique Lancia Stratos HF."
+      "explanation": "Bien que le championnat du monde officiel des pilotes ait été inauguré en 1979 (remporté par Waldegård), la FIA avait créé en 1977 et 1978 la 'Coupe FIA des pilotes' pour préfigurer ce titre. Le premier vainqueur historique de cette coupe en 1977 fut l'Italien Sandro Munari au volant de la mythique Lancia Stratos HF.",
+      "options": [
+        "Ettore Biassassi",
+        "Sandro Munari",
+        "Amedeo Ferrari",
+        "Sandro Munari"
+      ]
     },
     {
       "id": "rallye_46",
@@ -508,11 +526,17 @@
     },
     {
       "id": "rallye_47",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel copilote finlandais détient le record absolu du nombre de départs en Championnat du monde des rallyes (WRC) avec 220 rallyes disputés aux côtés de Jari-Matti Latvala ?",
       "answer": "Miikka Anttila",
-      "explanation": "Miikka Anttila est le copilote le plus capé de l'histoire du WRC avec 220 départs à son actif. Il a formé un duo indissociable avec son compatriote Jari-Matti Latvala de 2003 à 2019 chez Ford, Volkswagen et Toyota, remportant ensemble 18 victoires en championnat du monde."
+      "explanation": "Miikka Anttila est le copilote le plus capé de l'histoire du WRC avec 220 départs à son actif. Il a formé un duo indissociable avec son compatriote Jari-Matti Latvala de 2003 à 2019 chez Ford, Volkswagen et Toyota, remportant ensemble 18 victoires en championnat du monde.",
+      "options": [
+        "Kalle Rastenius",
+        "Tommi Mäkinen",
+        "Miikka Anttila",
+        "Miikka Anttila"
+      ]
     },
     {
       "id": "rallye_48",
@@ -530,11 +554,17 @@
     },
     {
       "id": "rallye_49",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel rallye italien sur asphalte, historiquement disputé en Ligurie et comprenant des spéciales légendaires comme le col de Langan, a été remplacé par le Rallye de Sardaigne au calendrier WRC en 2004 ?",
       "answer": "Rallye Sanremo",
-      "explanation": "Le Rallye Sanremo était la manche italienne historique du championnat WRC depuis sa création en 1973. Disputée sur des routes d'asphalte sinueuses et parfois de terre, cette épreuve légendaire a été remplacée en 2004 par le Rallye de Sardaigne, privilégiant une épreuve 100 % terre réclamée par la FIA."
+      "explanation": "Le Rallye Sanremo était la manche italienne historique du championnat WRC depuis sa création en 1973. Disputée sur des routes d'asphalte sinueuses et parfois de terre, cette épreuve légendaire a été remplacée en 2004 par le Rallye de Sardaigne, privilégiant une épreuve 100 % terre réclamée par la FIA.",
+      "options": [
+        "Rallye de Nice",
+        "Rallye Sanremo",
+        "Rallye Sanremo",
+        "Rallye de Marseille"
+      ]
     },
     {
       "id": "rallye_50",
@@ -554,11 +584,17 @@
   "porsche": [
     {
       "id": "porsche_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel numéro mythique à trois chiffres désigne la voiture de sport la plus emblématique de Porsche, lancée en 1963 ?",
       "answer": "911",
-      "explanation": "Présentée au salon de Francfort en 1963 sous le nom initial de 901, la Porsche 911 a dû être renommée suite à une réclamation de Peugeot qui possédait les droits sur les numéros à zéro central. Ce coupé sportif légendaire se distingue par son moteur Flat-6 placé en porte-à-faux arrière et sa silhouette inimitable. Il a traversé les décennies tout en conservant son identité visuelle et mécanique unique."
+      "explanation": "Présentée au salon de Francfort en 1963 sous le nom initial de 901, la Porsche 911 a dû être renommée suite à une réclamation de Peugeot qui possédait les droits sur les numéros à zéro central. Ce coupé sportif légendaire se distingue par son moteur Flat-6 placé en porte-à-faux arrière et sa silhouette inimitable. Il a traversé les décennies tout en conservant son identité visuelle et mécanique unique.",
+      "options": [
+        "912",
+        "911",
+        "911",
+        "913"
+      ]
     },
     {
       "id": "porsche_2",
@@ -590,11 +626,17 @@
     },
     {
       "id": "porsche_4",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom du tout premier modèle entièrement électrique de Porsche, commercialisé à partir de 2019 ?",
       "answer": "Taycan",
-      "explanation": "La Porsche Taycan marque le premier pas majeur du constructeur allemand vers l'électrification totale de sa gamme sportive. Elle utilise une architecture électrique innovante de 800 volts permettant des recharges ultra-rapides et des performances répétables exceptionnelles. Malgré sa motorisation silencieuse, elle conserve le dynamisme et l'ADN de conduite propres aux modèles thermiques de la marque."
+      "explanation": "La Porsche Taycan marque le premier pas majeur du constructeur allemand vers l'électrification totale de sa gamme sportive. Elle utilise une architecture électrique innovante de 800 volts permettant des recharges ultra-rapides et des performances répétables exceptionnelles. Malgré sa motorisation silencieuse, elle conserve le dynamisme et l'ADN de conduite propres aux modèles thermiques de la marque.",
+      "options": [
+        "Taycan",
+        "Cayenne",
+        "Taycan",
+        "Macan"
+      ]
     },
     {
       "id": "porsche_5",
@@ -612,11 +654,17 @@
     },
     {
       "id": "porsche_6",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel est le nom du tout premier modèle commercialisé sous la marque Porsche en 1948, conçu par Ferry Porsche ?",
       "answer": "356",
-      "explanation": "La Porsche 356 est le modèle fondateur historique de la marque allemande, construit en Autriche puis à Stuttgart à partir de composants issus en partie de la Coccinelle de Volkswagen. Ferry Porsche, fils du fondateur Ferdinand Porsche, a conçu cette voiture de sport légère car il ne trouvait pas sur le marché le modèle de ses rêves. Elle a posé les jalons esthétiques et techniques de ce que deviendra la mythique 911 quinze ans plus tard."
+      "explanation": "La Porsche 356 est le modèle fondateur historique de la marque allemande, construit en Autriche puis à Stuttgart à partir de composants issus en partie de la Coccinelle de Volkswagen. Ferry Porsche, fils du fondateur Ferdinand Porsche, a conçu cette voiture de sport légère car il ne trouvait pas sur le marché le modèle de ses rêves. Elle a posé les jalons esthétiques et techniques de ce que deviendra la mythique 911 quinze ans plus tard.",
+      "options": [
+        "356",
+        "718",
+        "427",
+        "356"
+      ]
     },
     {
       "id": "porsche_7",
@@ -634,11 +682,17 @@
     },
     {
       "id": "porsche_8",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle prestigieuse course d'endurance française Porsche a-t-elle remportée à 19 reprises au classement général, un record absolu ?",
       "answer": "Les 24 Heures du Mans",
-      "explanation": "Porsche détient le record absolu du nombre de victoires au classement général des 24 Heures du Mans, avec 19 succès remportés entre 1970 et 2017. La marque a brillé à travers des prototypes de légende comme la 917, la 956, la 962 et plus récemment la 919 Hybrid à motorisation hybride. Cette compétition reine de l'endurance sert de laboratoire d'essais grandeur nature pour les technologies routières du constructeur."
+      "explanation": "Porsche détient le record absolu du nombre de victoires au classement général des 24 Heures du Mans, avec 19 succès remportés entre 1970 et 2017. La marque a brillé à travers des prototypes de légende comme la 917, la 956, la 962 et plus récemment la 919 Hybrid à motorisation hybride. Cette compétition reine de l'endurance sert de laboratoire d'essais grandeur nature pour les technologies routières du constructeur.",
+      "options": [
+        "Les Courses de la Route",
+        "Les 24 Heures du Mans",
+        "Les Grand Prix d'Endurance",
+        "Les 24 Heures du Mans"
+      ]
     },
     {
       "id": "porsche_9",
@@ -656,11 +710,17 @@
     },
     {
       "id": "porsche_10",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle déclinaison mythique de la Porsche 911 Carrera, lancée en 1973 avec un aileron arrière en forme de 'queue de canard', est l'une des plus recherchées par les collectionneurs ?",
       "answer": "2.7 RS",
-      "explanation": "La Porsche 911 Carrera RS 2.7 a été conçue à des fins d'homologation en compétition, ce qui a nécessité une réduction drastique de son poids et des voies élargies. Elle se distingue visuellement par son aileron arrière caractéristique destiné à améliorer la stabilité à haute vitesse et sa bande latérale peinte. Produite à seulement 1580 exemplaires, elle incarne pour beaucoup l'âge d'or des versions de sport pur de la marque."
+      "explanation": "La Porsche 911 Carrera RS 2.7 a été conçue à des fins d'homologation en compétition, ce qui a nécessité une réduction drastique de son poids et des voies élargies. Elle se distingue visuellement par son aileron arrière caractéristique destiné à améliorer la stabilité à haute vitesse et sa bande latérale peinte. Produite à seulement 1580 exemplaires, elle incarne pour beaucoup l'âge d'or des versions de sport pur de la marque.",
+      "options": [
+        "2.7 RS",
+        "911 Turbo",
+        "911 Carrera",
+        "2.7 RS"
+      ]
     },
     {
       "id": "porsche_11",
@@ -678,11 +738,17 @@
     },
     {
       "id": "porsche_12",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel est le nom de la version découvrable de la Porsche 911, caractérisée à l'origine par un arceau de sécurité fixe en acier brossé et une lunette arrière en verre ?",
       "answer": "Targa",
-      "explanation": "Présentée en 1965, la Porsche 911 Targa a été conçue pour répondre aux normes de sécurité américaines très strictes qui menaçaient d'interdire les cabriolets traditionnels. Son nom rend hommage à la Targa Florio, une célèbre course routière sicilienne où Porsche s'est illustré à de multiples reprises. Aujourd'hui encore, le concept Targa séduit les amateurs de conduite en plein air recherchant une silhouette unique et élégante."
+      "explanation": "Présentée en 1965, la Porsche 911 Targa a été conçue pour répondre aux normes de sécurité américaines très strictes qui menaçaient d'interdire les cabriolets traditionnels. Son nom rend hommage à la Targa Florio, une célèbre course routière sicilienne où Porsche s'est illustré à de multiples reprises. Aujourd'hui encore, le concept Targa séduit les amateurs de conduite en plein air recherchant une silhouette unique et élégante.",
+      "options": [
+        "Cabriolet",
+        "Coupe",
+        "Targa",
+        "Targa"
+      ]
     },
     {
       "id": "porsche_13",
@@ -700,11 +766,17 @@
     },
     {
       "id": "porsche_14",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle supercar de Porsche, lancée en 2004 et propulsée par un moteur V10 atmosphérique hurlant dérivé de la Formule 1, est réputée extrêmement exigeante à piloter ?",
       "answer": "Carrera GT",
-      "explanation": "La Porsche Carrera GT est considérée comme l'une des dernières supercars analogiques en raison de sa boîte de vitesses manuelle à 6 rapports et de l'absence d'aides électroniques à la conduite. Son moteur V10 de 5,7 litres développant 612 chevaux émet une sonorité stridente unique rappelant les monoplaces de Grand Prix. Sa conduite pointue requiert une grande habileté, ce qui a forgé sa réputation de monstre mécanique intimidant."
+      "explanation": "La Porsche Carrera GT est considérée comme l'une des dernières supercars analogiques en raison de sa boîte de vitesses manuelle à 6 rapports et de l'absence d'aides électroniques à la conduite. Son moteur V10 de 5,7 litres développant 612 chevaux émet une sonorité stridente unique rappelant les monoplaces de Grand Prix. Sa conduite pointue requiert une grande habileté, ce qui a forgé sa réputation de monstre mécanique intimidant.",
+      "options": [
+        "918 Spyder",
+        "Boxster",
+        "Carrera GT",
+        "Carrera GT"
+      ]
     },
     {
       "id": "porsche_15",
@@ -722,11 +794,17 @@
     },
     {
       "id": "porsche_16",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "De quel côté du volant se situe traditionnellement le contacteur d'allumage (clé de contact) sur la quasi-totalité des modèles Porsche ?",
       "answer": "Gauche",
-      "explanation": "Le contacteur d'allumage placé à gauche du volant est une signature historique de Porsche issue de la compétition automobile, plus particulièrement des départs des 24 Heures du Mans. Cette disposition permettait aux pilotes de démarrer le moteur de la main gauche tout en enclenchant le premier rapport de la main droite pour s'élancer plus rapidement. Cette tradition ergonomique est précieusement conservée sur les modèles modernes, y compris électriques."
+      "explanation": "Le contacteur d'allumage placé à gauche du volant est une signature historique de Porsche issue de la compétition automobile, plus particulièrement des départs des 24 Heures du Mans. Cette disposition permettait aux pilotes de démarrer le moteur de la main gauche tout en enclenchant le premier rapport de la main droite pour s'élancer plus rapidement. Cette tradition ergonomique est précieusement conservée sur les modèles modernes, y compris électriques.",
+      "options": [
+        "Droite",
+        "Gauche",
+        "Gauche",
+        "Centre"
+      ]
     },
     {
       "id": "porsche_17",
@@ -744,11 +822,17 @@
     },
     {
       "id": "porsche_18",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle berline sportive de luxe à quatre portes, conçue pour concurrencer les Maserati Quattroporte et Aston Martin Rapide, a été introduite par Porsche en 2009 ?",
       "answer": "Panamera",
-      "explanation": "La Porsche Panamera est une berline de grand tourisme qui allie des performances de voiture de sport au confort d'une limousine haut de gamme pour quatre occupants. Son design initial a suscité des débats, mais ses qualités routières exceptionnelles et sa polyvalence en ont fait un grand succès commercial pour Porsche. Elle est désormais déclinée en motorisations hybrides rechargeables de pointe offrant une efficacité énergétique remarquable."
+      "explanation": "La Porsche Panamera est une berline de grand tourisme qui allie des performances de voiture de sport au confort d'une limousine haut de gamme pour quatre occupants. Son design initial a suscité des débats, mais ses qualités routières exceptionnelles et sa polyvalence en ont fait un grand succès commercial pour Porsche. Elle est désormais déclinée en motorisations hybrides rechargeables de pointe offrant une efficacité énergétique remarquable.",
+      "options": [
+        "Panamera",
+        "Panamera",
+        "Cayenne",
+        "Macan"
+      ]
     },
     {
       "id": "porsche_19",
@@ -766,19 +850,31 @@
     },
     {
       "id": "porsche_20",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel pilote de rallye et d'endurance allemand, considéré comme l'un des plus grands metteurs au point de l'histoire de la marque, a activement développé les supercars Carrera GT et 918 Spyder ?",
       "answer": "Walter Röhrl",
-      "explanation": "Walter Röhrl, double champion du monde des rallyes, est l'ambassadeur de marque et le pilote d'essai en chef historique de Porsche depuis le début des années 1990. Sa finesse de pilotage légendaire et sa sensibilité technique hors pair ont grandement influencé le comportement dynamique de tous les modèles sportifs récents de la marque. Il est particulièrement reconnu pour avoir peaufiné le comportement extrême de la Carrera GT sur la boucle nord du Nürburgring."
+      "explanation": "Walter Röhrl, double champion du monde des rallyes, est l'ambassadeur de marque et le pilote d'essai en chef historique de Porsche depuis le début des années 1990. Sa finesse de pilotage légendaire et sa sensibilité technique hors pair ont grandement influencé le comportement dynamique de tous les modèles sportifs récents de la marque. Il est particulièrement reconnu pour avoir peaufiné le comportement extrême de la Carrera GT sur la boucle nord du Nürburgring.",
+      "options": [
+        "Rolf Muthesius",
+        "Walter Röhrl",
+        "Walter Röhrl",
+        "Hans-Joachim Stuck"
+      ]
     },
     {
       "id": "porsche_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel préparateur automobile allemand indépendant, fondé par Alois Ruf, est célèbre pour ses reconstructions radicales de Porsche comme la mythique 'Yellowbird' (CTR) de 1987 ?",
       "answer": "RUF (ou RUF Automobile)",
-      "explanation": "RUF Automobile est un constructeur et préparateur allemand indépendant de renom qui travaille exclusivement sur des bases de carrosseries et de châssis Porsche vierges pour en faire des supercars d'une puissance hors normes. Sa création la plus légendaire est la RUF CTR de 1987, surnommée 'Yellowbird' par la presse en raison de sa couleur jaune vif. Cette sportive radicale dotée d'un Flat-6 biturbo de 469 chevaux a battu tous les records de vitesse de l'époque en atteignant 342 km/h sur la piste de Nardò, devenant ainsi la voiture de série la plus rapide du monde."
+      "explanation": "RUF Automobile est un constructeur et préparateur allemand indépendant de renom qui travaille exclusivement sur des bases de carrosseries et de châssis Porsche vierges pour en faire des supercars d'une puissance hors normes. Sa création la plus légendaire est la RUF CTR de 1987, surnommée 'Yellowbird' par la presse en raison de sa couleur jaune vif. Cette sportive radicale dotée d'un Flat-6 biturbo de 469 chevaux a battu tous les records de vitesse de l'époque en atteignant 342 km/h sur la piste de Nardò, devenant ainsi la voiture de série la plus rapide du monde.",
+      "options": [
+        "Aston Martin",
+        "RUF (ou RUF Automobile)",
+        "Porsche",
+        "RUF (ou RUF Automobile)"
+      ]
     },
     {
       "id": "porsche_22",
@@ -796,11 +892,17 @@
     },
     {
       "id": "porsche_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel est le nom de la célèbre ligne droite de 6 kilomètres sur le circuit des 24 Heures du Mans, où la légendaire Porsche 917 a atteint la vitesse record de 396 km/h en 1971 ?",
       "answer": "Les Hunaudières (ou ligne droite des Hunaudières / Mulsanne Straight)",
-      "explanation": "La ligne droite des Hunaudières, également appelée 'Mulsanne Straight' en anglais, est une portion de route nationale temporairement fermée qui constitue l'une des sections les plus célèbres et redoutées du circuit de la Sarthe. C'est sur ce secteur rectiligne de près de six kilomètres que les prototypes comme la mythique Porsche 917 LH (Longue Queue) pouvaient exploiter pleinement leur aérodynamisme pour dépasser les 390 km/h en course. En 1990, deux chicanes y ont été installées pour limiter la vitesse maximale pour des raisons évidentes de sécurité."
+      "explanation": "La ligne droite des Hunaudières, également appelée 'Mulsanne Straight' en anglais, est une portion de route nationale temporairement fermée qui constitue l'une des sections les plus célèbres et redoutées du circuit de la Sarthe. C'est sur ce secteur rectiligne de près de six kilomètres que les prototypes comme la mythique Porsche 917 LH (Longue Queue) pouvaient exploiter pleinement leur aérodynamisme pour dépasser les 390 km/h en course. En 1990, deux chicanes y ont été installées pour limiter la vitesse maximale pour des raisons évidentes de sécurité.",
+      "options": [
+        "La Sarthe",
+        "Les Hunaudières (ou ligne droite des Hunaudières / Mulsanne Straight)",
+        "Les Hunaudières (ou ligne droite des Hunaudières / Mulsanne Straight)",
+        "La Loire"
+      ]
     },
     {
       "id": "porsche_24",
@@ -818,11 +920,17 @@
     },
     {
       "id": "porsche_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel modèle technologique révolutionnaire de Porsche de 1986, doté d'une transmission intégrale permanente et d'un Flat-6 biturbo, fut initialement développé pour le rallye du Groupe B et a remporté le Paris-Dakar ?",
       "answer": "Porsche 959",
-      "explanation": "La Porsche 959 fut la vitrine technologique absolue de la marque au milieu des années 1980, concentrant des innovations inédites pour l'époque telles qu'une transmission intégrale pilotée électroniquement, des suspensions actives et un Flat-6 biturbo refroidi par eau. Développée à l'origine pour la catégorie de rallye du Groupe B, elle s'est illustrée de manière spectaculaire en remportant le rallye-raid Paris-Dakar en 1986 avec les pilotes René Metge et Jacky Ickx. Produite à seulement 292 exemplaires de route, elle a durablement redéfini le concept de supercar moderne."
+      "explanation": "La Porsche 959 fut la vitrine technologique absolue de la marque au milieu des années 1980, concentrant des innovations inédites pour l'époque telles qu'une transmission intégrale pilotée électroniquement, des suspensions actives et un Flat-6 biturbo refroidi par eau. Développée à l'origine pour la catégorie de rallye du Groupe B, elle s'est illustrée de manière spectaculaire en remportant le rallye-raid Paris-Dakar en 1986 avec les pilotes René Metge et Jacky Ickx. Produite à seulement 292 exemplaires de route, elle a durablement redéfini le concept de supercar moderne.",
+      "options": [
+        "Porsche 959",
+        "Peugeot 205 T16",
+        "Lancia Delta S4",
+        "Porsche 959"
+      ]
     },
     {
       "id": "porsche_26",
@@ -840,11 +948,17 @@
     },
     {
       "id": "porsche_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel designer de génie, petit-fils de Ferdinand Porsche, a dessiné les lignes intemporelles de la toute première Porsche 911 présentée en 1963 et est surnommé 'Butzi' ?",
       "answer": "Ferdinand Alexander Porsche (ou Butzi Porsche)",
-      "explanation": "Ferdinand Alexander Porsche, affectueusement surnommé 'Butzi', est le créateur des lignes intemporelles de la Porsche 911 de 1963, dont la silhouette fluide caractérisée par une chute de toit fuyante ('flyline') reste la signature esthétique absolue de la marque depuis plus de soixante ans. Après avoir dirigé le département design de la marque familiale, il a fondé en 1972 le prestigieux studio indépendant Porsche Design, célèbre pour ses créations de montres, de stylos et d'accessoires de luxe au style minimaliste noir mat."
+      "explanation": "Ferdinand Alexander Porsche, affectueusement surnommé 'Butzi', est le créateur des lignes intemporelles de la Porsche 911 de 1963, dont la silhouette fluide caractérisée par une chute de toit fuyante ('flyline') reste la signature esthétique absolue de la marque depuis plus de soixante ans. Après avoir dirigé le département design de la marque familiale, il a fondé en 1972 le prestigieux studio indépendant Porsche Design, célèbre pour ses créations de montres, de stylos et d'accessoires de luxe au style minimaliste noir mat.",
+      "options": [
+        "Adolf Porsche",
+        "Hans-Joachim Stuck",
+        "Ferdinand Alexander Porsche (ou Butzi Porsche)",
+        "Ferdinand Alexander Porsche (ou Butzi Porsche)"
+      ]
     },
     {
       "id": "porsche_28",
@@ -862,11 +976,17 @@
     },
     {
       "id": "porsche_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle légendaire voiture de course Porsche de 1978, caractérisée par une carrosserie blanche rallongée ultra-profilée et un Flat-6 biturbo crachant plus de 800 chevaux, a été surnommée 'Moby Dick' en raison de sa silhouette de baleine blanche ?",
       "answer": "Porsche 935/78 (ou Moby Dick)",
-      "explanation": "La Porsche 935/78, surnommée affectueusement 'Moby Dick' par la presse en raison de sa longue silhouette blanche et de ses hanches élargies, est le développement ultime et le plus radical de la Porsche 911 destiné aux courses d'endurance du Groupe 5. Propulsée par un Flat-6 de 3,2 litres biturbo développant plus de 840 chevaux, cette voiture a repoussé les limites du règlement technique grâce à un carénage aérodynamique extrêmement profilé qui lui a permis de signer une pointe à 366 km/h dans la ligne droite des Hunaudières au Mans en 1978."
+      "explanation": "La Porsche 935/78, surnommée affectueusement 'Moby Dick' par la presse en raison de sa longue silhouette blanche et de ses hanches élargies, est le développement ultime et le plus radical de la Porsche 911 destiné aux courses d'endurance du Groupe 5. Propulsée par un Flat-6 de 3,2 litres biturbo développant plus de 840 chevaux, cette voiture a repoussé les limites du règlement technique grâce à un carénage aérodynamique extrêmement profilé qui lui a permis de signer une pointe à 366 km/h dans la ligne droite des Hunaudières au Mans en 1978.",
+      "options": [
+        "Porsche 935/78 (ou Moby Dick)",
+        "Porsche 935/78 (ou Moby Dick)",
+        "Lancia Stratos HF",
+        "Porsche 934"
+      ]
     },
     {
       "id": "porsche_30",
@@ -884,11 +1004,17 @@
     },
     {
       "id": "porsche_31",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel modèle de voiture électrique compacte et surélevée de type SUV, plus petit que le Cayenne, a été lancé par Porsche en 2014 et est devenu l'un de ses modèles les plus vendus ?",
       "answer": "Macan",
-      "explanation": "Le Porsche Macan est un SUV compact premium lancé en 2014. Son nom signifie 'tigre' en indonésien. Proposant une dynamique de conduite très sportive pour un SUV, il s'est vendu à des centaines de milliers d'exemplaires dans le monde, avant de passer à une génération 100 % électrique en 2024."
+      "explanation": "Le Porsche Macan est un SUV compact premium lancé en 2014. Son nom signifie 'tigre' en indonésien. Proposant une dynamique de conduite très sportive pour un SUV, il s'est vendu à des centaines de milliers d'exemplaires dans le monde, avant de passer à une génération 100 % électrique en 2024.",
+      "options": [
+        "Cayenne",
+        "Macan",
+        "Audi Q5",
+        "Macan"
+      ]
     },
     {
       "id": "porsche_32",
@@ -906,11 +1032,17 @@
     },
     {
       "id": "porsche_33",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel type de refroidissement caractérisait le moteur Flat-6 de la Porsche 911 de sa création en 1963 jusqu'à l'arrivée de la génération 996 en 1997 ?",
       "answer": "Par air",
-      "explanation": "Pendant plus de 30 ans, les Porsche 911 ont été fidèles au refroidissement par air (et par huile), ce qui leur conférait une signature sonore unique très métallique. C'est en 1997, avec la génération 996, que Porsche est passé au refroidissement par eau pour répondre aux normes antipollution et de puissance."
+      "explanation": "Pendant plus de 30 ans, les Porsche 911 ont été fidèles au refroidissement par air (et par huile), ce qui leur conférait une signature sonore unique très métallique. C'est en 1997, avec la génération 996, que Porsche est passé au refroidissement par eau pour répondre aux normes antipollution et de puissance.",
+      "options": [
+        "Par essence",
+        "Par air",
+        "Par air",
+        "Par vapeur"
+      ]
     },
     {
       "id": "porsche_34",
@@ -928,11 +1060,17 @@
     },
     {
       "id": "porsche_35",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle célèbre course de côte américaine, surnommée 'La course vers les nuages' (Race to the clouds), a été remportée par Porsche en 2020 avec une GT2 RS Clubsport ?",
       "answer": "Pikes Peak",
-      "explanation": "Pikes Peak est une course de côte mythique se déroulant dans le Colorado, où les concurrents grimpent jusqu'à 4 302 mètres d'altitude. Porsche y détient une longue histoire de succès dans diverses catégories, profitant de la motricité de ses architectures à moteur arrière."
+      "explanation": "Pikes Peak est une course de côte mythique se déroulant dans le Colorado, où les concurrents grimpent jusqu'à 4 302 mètres d'altitude. Porsche y détient une longue histoire de succès dans diverses catégories, profitant de la motricité de ses architectures à moteur arrière.",
+      "options": [
+        "Pikes Peak",
+        "Pikes Peak",
+        "Goodwood Hill Climb",
+        "Mont Ventoux"
+      ]
     },
     {
       "id": "porsche_36",
@@ -950,11 +1088,17 @@
     },
     {
       "id": "porsche_37",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel pilote belge, surnommé 'Monsieur Le Mans', a remporté 6 fois les 24 Heures du Mans, dont 4 victoires au volant de prototypes Porsche (936 et 956) ?",
       "answer": "Jacky Ickx",
-      "explanation": "Jacky Ickx a forgé une grande partie de sa légende avec Porsche dans les années 1970 et 1980. Il a remporté les 24 Heures du Mans à six reprises au total, devenant l'un des pilotes d'endurance les plus titrés de l'histoire, et a également remporté le Paris-Dakar 1983 au volant d'une Mercedes avant de briller avec la Porsche 959."
+      "explanation": "Jacky Ickx a forgé une grande partie de sa légende avec Porsche dans les années 1970 et 1980. Il a remporté les 24 Heures du Mans à six reprises au total, devenant l'un des pilotes d'endurance les plus titrés de l'histoire, et a également remporté le Paris-Dakar 1983 au volant d'une Mercedes avant de briller avec la Porsche 959.",
+      "options": [
+        "Tom Kristensen",
+        "Jacky Ickx",
+        "Joachim Winkelhock",
+        "Jacky Ickx"
+      ]
     },
     {
       "id": "porsche_38",
@@ -972,11 +1116,17 @@
     },
     {
       "id": "porsche_39",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel type de moteur à pistons opposés à plat, inventé par Ferdinand Porsche pour la Coccinelle et repris sur la 911, est communément appelé moteur 'Boxer' ?",
       "answer": "Flat-6",
-      "explanation": "Le terme 'Boxer' fait référence au mouvement des pistons qui se déplacent horizontalement comme les poings de deux boxeurs s'affrontant. Cette architecture permet un excellent équilibrage des forces de second ordre et abaisse considérablement le centre de gravité du véhicule."
+      "explanation": "Le terme 'Boxer' fait référence au mouvement des pistons qui se déplacent horizontalement comme les poings de deux boxeurs s'affrontant. Cette architecture permet un excellent équilibrage des forces de second ordre et abaisse considérablement le centre de gravité du véhicule.",
+      "options": [
+        "Flat-6",
+        "Boxer",
+        "Rotax",
+        "Flat-6"
+      ]
     },
     {
       "id": "porsche_40",
@@ -994,11 +1144,17 @@
     },
     {
       "id": "porsche_41",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle version de course de la Porsche 911 de 1998, dotée d'un châssis monocoque en carbone et d'un moteur Flat-6 biturbo, a remporté le classement général des 24 Heures du Mans ?",
       "answer": "Porsche 911 GT1",
-      "explanation": "La Porsche 911 GT1 a été conçue pour la catégorie GT1 à la fin des années 1990. Contrairement aux autres 911, son moteur était placé en position centrale arrière pour des raisons d'aérodynamisme et d'équilibre. En 1998, la version 'GT1-98' a signé un doublé historique au Mans devant Toyota et BMW."
+      "explanation": "La Porsche 911 GT1 a été conçue pour la catégorie GT1 à la fin des années 1990. Contrairement aux autres 911, son moteur était placé en position centrale arrière pour des raisons d'aérodynamisme et d'équilibre. En 1998, la version 'GT1-98' a signé un doublé historique au Mans devant Toyota et BMW.",
+      "options": [
+        "Porsche 917/20",
+        "Porsche 956",
+        "Porsche 911 GT1",
+        "Porsche 911 GT1"
+      ]
     },
     {
       "id": "porsche_42",
@@ -1030,11 +1186,17 @@
     },
     {
       "id": "porsche_44",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel système de suspension hydraulique active et antiroulis ultra-perfectionné a été inauguré en série sur la Porsche 959 en 1986 pour adapter la hauteur de caisse en temps réel ?",
       "answer": "Le correcteur d'assiette automatique",
-      "explanation": "La Porsche 959 disposait d'un système de gestion de la suspension d'avant-garde permettant de faire varier la hauteur de caisse sur trois niveaux différents (de 12 à 18 cm) en fonction de la vitesse et du terrain. Cette innovation a permis à la voiture d'être aussi efficace sur les pistes poussiéreuses du Dakar que sur l'asphalte rapide de l'autoroute."
+      "explanation": "La Porsche 959 disposait d'un système de gestion de la suspension d'avant-garde permettant de faire varier la hauteur de caisse sur trois niveaux différents (de 12 à 18 cm) en fonction de la vitesse et du terrain. Cette innovation a permis à la voiture d'être aussi efficace sur les pistes poussiéreuses du Dakar que sur l'asphalte rapide de l'autoroute.",
+      "options": [
+        "Système de suspension hydraulique active",
+        "Mécanisme de stabilisation",
+        "Le correcteur d'assiette automatique",
+        "Le correcteur d'assiette automatique"
+      ]
     },
     {
       "id": "porsche_45",
@@ -1052,11 +1214,17 @@
     },
     {
       "id": "porsche_46",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel ingénieur légendaire de chez Porsche est le père du moteur de la 911, de la 917 et du moteur TAG Turbo de Formule 1 ?",
       "answer": "Hans Mezger",
-      "explanation": "Hans Mezger, entré chez Porsche en 1956, est considéré comme l'un des plus grands ingénieurs motoristes du XXe siècle. Il a conçu le Flat-6 original refroidi par air de la 911 (dont le bloc Mezger équipera les versions GT3 et Turbo jusqu'en 2011), le monstrueux Flat-12 de la 917 et le V6 TAG Turbo de Formule 1."
+      "explanation": "Hans Mezger, entré chez Porsche en 1956, est considéré comme l'un des plus grands ingénieurs motoristes du XXe siècle. Il a conçu le Flat-6 original refroidi par air de la 911 (dont le bloc Mezger équipera les versions GT3 et Turbo jusqu'en 2011), le monstrueux Flat-12 de la 917 et le V6 TAG Turbo de Formule 1.",
+      "options": [
+        "Erwin Komenda",
+        "Hans Mezger",
+        "Ferdinand Porsche",
+        "Hans Mezger"
+      ]
     },
     {
       "id": "porsche_47",
@@ -1074,19 +1242,31 @@
     },
     {
       "id": "porsche_48",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Dans quelle course d'endurance italienne sur route ouverte, disputée en Sicile, Porsche détient-il le record absolu de 11 victoires scratch entre 1956 et 1973 ?",
       "answer": "La Targa Florio",
-      "explanation": "La Targa Florio était une course de montagne sicilienne d'une exigence extrême, serpentant à travers des centaines de virages et de petits villages. Porsche y a excellé grâce à des voitures agiles et légères comme la 550 Spyder ou la 908. C'est en hommage à cette course mythique que Porsche a créé l'appellation 'Targa' pour ses modèles à arceau de sécurité."
+      "explanation": "La Targa Florio était une course de montagne sicilienne d'une exigence extrême, serpentant à travers des centaines de virages et de petits villages. Porsche y a excellé grâce à des voitures agiles et légères comme la 550 Spyder ou la 908. C'est en hommage à cette course mythique que Porsche a créé l'appellation 'Targa' pour ses modèles à arceau de sécurité.",
+      "options": [
+        "La Targa Florio",
+        "Le Tourist Trophy",
+        "Les 24 Heures du Mans",
+        "La Targa Florio"
+      ]
     },
     {
       "id": "porsche_49",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle mythique voiture de course Porsche de 1971, conçue pour l'endurance et surnommée 'le Cochon rose' (Pink Pig) en raison de sa carrosserie peinte en rose avec des tracés de découpe de viande, est exposée au musée Porsche ?",
       "answer": "Porsche 917/20",
-      "explanation": "La Porsche 917/20 était une version expérimentale de la 917 dotée d'une carrosserie très large et arrondie, conçue pour combiner les avantages aérodynamiques des versions courte et longue. Sa livrée insolite rose pâle, reprenant les parties anatomiques d'un porc selon les découpes de boucherie, a fait sensation aux 24 Heures du Mans 1971 et en a fait l'une des voitures les plus populaires de l'histoire du sport automobile."
+      "explanation": "La Porsche 917/20 était une version expérimentale de la 917 dotée d'une carrosserie très large et arrondie, conçue pour combiner les avantages aérodynamiques des versions courte et longue. Sa livrée insolite rose pâle, reprenant les parties anatomiques d'un porc selon les découpes de boucherie, a fait sensation aux 24 Heures du Mans 1971 et en a fait l'une des voitures les plus populaires de l'histoire du sport automobile.",
+      "options": [
+        "Porsche 917/20",
+        "Porsche 956",
+        "Porsche 917/20",
+        "Porsche 911 GT1"
+      ]
     },
     {
       "id": "porsche_50",

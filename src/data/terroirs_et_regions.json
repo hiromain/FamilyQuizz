@@ -2,11 +2,17 @@
   "Martinique": [
     {
       "id": "martinique_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel volcan célèbre, situé au nord de la Martinique, est entré en éruption destructrice en 1902 ?",
       "answer": "La montagne Pelée",
-      "explanation": "L'éruption de la montagne Pelée le 8 mai 1902 reste la plus meurtrière du XXe siècle, ayant détruit entièrement la ville de Saint-Pierre en quelques minutes. Elle a fait environ 30 000 victimes et n'a laissé que de très rares survivants directs dans la zone sinistrée. Cette catastrophe majeure a profondément marqué l'histoire de la Martinique et a donné son nom au type d'éruption 'péléen'."
+      "explanation": "L'éruption de la montagne Pelée le 8 mai 1902 reste la plus meurtrière du XXe siècle, ayant détruit entièrement la ville de Saint-Pierre en quelques minutes. Elle a fait environ 30 000 victimes et n'a laissé que de très rares survivants directs dans la zone sinistrée. Cette catastrophe majeure a profondément marqué l'histoire de la Martinique et a donné son nom au type d'éruption 'péléen'.",
+      "options": [
+        "Le volcan de la Martinique",
+        "La montagne de l'Aiguille",
+        "Faux choix 3",
+        "La montagne Pelée"
+      ]
     },
     {
       "id": "martinique_2",
@@ -24,11 +30,17 @@
     },
     {
       "id": "martinique_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel oiseau emblématique de la Martinique, au plumage noir et rouge gorge chez le mâle, est endémique de l'île ?",
       "answer": "Le carouge de la Martinique",
-      "explanation": "Le carouge de la Martinique est une espèce d'oiseau endémique qui vit principalement dans les forêts de l'île. Le mâle se distingue par son plumage noir brillant et sa tache rouge-orangé caractéristique sur la gorge. Cet oiseau est aujourd'hui protégé en raison de la dégradation progressive de son habitat naturel."
+      "explanation": "Le carouge de la Martinique est une espèce d'oiseau endémique qui vit principalement dans les forêts de l'île. Le mâle se distingue par son plumage noir brillant et sa tache rouge-orangé caractéristique sur la gorge. Cet oiseau est aujourd'hui protégé en raison de la dégradation progressive de son habitat naturel.",
+      "options": [
+        "L'aigle noir",
+        "Le papillon de la mer",
+        "Le carouge de la Martinique",
+        "Faux choix 3"
+      ]
     },
     {
       "id": "martinique_4",
@@ -46,11 +58,17 @@
     },
     {
       "id": "martinique_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel nom porte la presqu'île située à l'extrême est de la Martinique, abritant une réserve naturelle remarquable ?",
       "answer": "La presqu'île de la Caravelle",
-      "explanation": "La presqu'île de la Caravelle s'avance dans l'océan Atlantique et propose une incroyable diversité de paysages sauvages sauvages. Elle abrite les ruines du château Dubuc, ancienne habitation sucrière du XVIIIe siècle classée monument historique. C'est aujourd'hui un site d'exception très recherché pour la randonnée et l'observation de la biodiversité marine."
+      "explanation": "La presqu'île de la Caravelle s'avance dans l'océan Atlantique et propose une incroyable diversité de paysages sauvages sauvages. Elle abrite les ruines du château Dubuc, ancienne habitation sucrière du XVIIIe siècle classée monument historique. C'est aujourd'hui un site d'exception très recherché pour la randonnée et l'observation de la biodiversité marine.",
+      "options": [
+        "La presqu'île de l'Amitié",
+        "Faux choix 3",
+        "La presqu'île de la Caravelle",
+        "La presqu'île du Diamant"
+      ]
     },
     {
       "id": "martinique_6",
@@ -68,11 +86,17 @@
     },
     {
       "id": "martinique_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel poète et homme politique martiniquais, cofondateur du concept de négritude, a été maire de Fort-de-France pendant plus de cinquante ans ?",
       "answer": "Aimé Césaire",
-      "explanation": "Aimé Césaire est une figure littéraire et politique majeure de la Martinique et du monde francophone. Il a été l'un des pères fondateurs du mouvement de la négritude aux côtés de Léopold Sédar Senghor. En plus de son immense œuvre poétique, il a exercé les mandats de député et de maire de Fort-de-France pendant plus de cinquante ans."
+      "explanation": "Aimé Césaire est une figure littéraire et politique majeure de la Martinique et du monde francophone. Il a été l'un des pères fondateurs du mouvement de la négritude aux côtés de Léopold Sédar Senghor. En plus de son immense œuvre poétique, il a exercé les mandats de député et de maire de Fort-de-France pendant plus de cinquante ans.",
+      "options": [
+        "Maurice Maeterlinck",
+        "Aimé Césaire",
+        "Faux choix 3",
+        "Gabriel Marcel"
+      ]
     },
     {
       "id": "martinique_8",
@@ -90,11 +114,17 @@
     },
     {
       "id": "martinique_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel rocher volcanique haut de 175 mètres, situé au large de la commune éponyme, fut fortifié par les Britanniques au début du XIXe siècle ?",
       "answer": "Le rocher du Diamant",
-      "explanation": "Le rocher du Diamant is un îlot volcanique inhabité qui s'élève majestueusement au sud-ouest de la Martinique. Durant les guerres napoléoniennes, la marine britannique l'a occupé et fortifié en l'enregistrant comme un navire de guerre sous le nom de HMS Diamond Rock. C'est aujourd'hui un site naturel protégé réputé dans le monde entier pour la plongée sous-marine."
+      "explanation": "Le rocher du Diamant is un îlot volcanique inhabité qui s'élève majestueusement au sud-ouest de la Martinique. Durant les guerres napoléoniennes, la marine britannique l'a occupé et fortifié en l'enregistrant comme un navire de guerre sous le nom de HMS Diamond Rock. C'est aujourd'hui un site naturel protégé réputé dans le monde entier pour la plongée sous-marine.",
+      "options": [
+        "Le rocher de la Mer",
+        "Le rocher de la Reine",
+        "Faux choix 3",
+        "Le rocher du Diamant"
+      ]
     },
     {
       "id": "martinique_10",
@@ -112,11 +142,17 @@
     },
     {
       "id": "martinique_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle danse traditionnelle martiniquaise, caractérisée par un rythme chaloupé, est née de la fusion des cultures africaines et européennes pendant l'esclavage ?",
       "answer": "Le bélé",
-      "explanation": "Le bélé (ou bel air) est un genre musical et une danse traditionnelle martiniquaise rythmée par le tambour bélé et le tibwa. Cette expression artistique puise ses racines dans l'histoire des esclaves et exprime la lutte pour la liberté et la cohésion sociale. Elle associe des chants responsoriaux à des danses collectives codifiées d'une grande intensité."
+      "explanation": "Le bélé (ou bel air) est un genre musical et une danse traditionnelle martiniquaise rythmée par le tambour bélé et le tibwa. Cette expression artistique puise ses racines dans l'histoire des esclaves et exprime la lutte pour la liberté et la cohésion sociale. Elle associe des chants responsoriaux à des danses collectives codifiées d'une grande intensité.",
+      "options": [
+        "Faux choix 3",
+        "Le ballet des plages",
+        "Le bélé",
+        "La danse de la mer"
+      ]
     },
     {
       "id": "martinique_12",
@@ -134,11 +170,17 @@
     },
     {
       "id": "martinique_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel type de sable, issu de l'érosion des roches volcaniques, caractérise les plages du nord de la Martinique ?",
       "answer": "Le sable noir",
-      "explanation": "Les plages du nord de la Martinique, proches de la montagne Pelée, se distinguent par leur sable noir étincelant d'origine volcanique. Ce contraste saisissant avec les plages de sable blanc du sud offre une grande variété de paysages aux visiteurs. C'est le cas notamment des superbes anses de la commune du Carbet ou du Prêcheur."
+      "explanation": "Les plages du nord de la Martinique, proches de la montagne Pelée, se distinguent par leur sable noir étincelant d'origine volcanique. Ce contraste saisissant avec les plages de sable blanc du sud offre une grande variété de paysages aux visiteurs. C'est le cas notamment des superbes anses de la commune du Carbet ou du Prêcheur.",
+      "options": [
+        "Le sable noir",
+        "Faux choix 3",
+        "Le sable blanc",
+        "Le sable de l'Afrique"
+      ]
     },
     {
       "id": "martinique_14",
@@ -156,11 +198,17 @@
     },
     {
       "id": "martinique_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle commune de la Martinique est célèbre pour sa magnifique église, qui est une réplique miniature de la basilique du Sacré-Cœur de Paris ?",
       "answer": "Balata",
-      "explanation": "L'église du Sacré-Cœur de Balata, construite dans les années 1920 sur les hauteurs de Fort-de-France, s'inspire directement de la célèbre basilique parisienne. Elle offre un panorama spectaculaire sur la baie de Fort-de-France et les pitons du Carbet environnants. Ce monument historique témoigne de l'architecture religieuse coloniale de l'époque."
+      "explanation": "L'église du Sacré-Cœur de Balata, construite dans les années 1920 sur les hauteurs de Fort-de-France, s'inspire directement de la célèbre basilique parisienne. Elle offre un panorama spectaculaire sur la baie de Fort-de-France et les pitons du Carbet environnants. Ce monument historique témoigne de l'architecture religieuse coloniale de l'époque.",
+      "options": [
+        "Saint-Pierre",
+        "Fort-de-France",
+        "Faux choix 3",
+        "Balata"
+      ]
     },
     {
       "id": "martinique_16",
@@ -178,11 +226,17 @@
     },
     {
       "id": "martinique_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel écrivain martiniquais a remporté le prestigieux prix Goncourt en 1992 pour son roman 'Texaco' ?",
       "answer": "Patrick Chamoiseau",
-      "explanation": "Patrick Chamoiseau est un célèbre écrivain et essayiste martiniquais, figure majeure du mouvement de la 'Créolité'. Son roman 'Texaco' retrace l'histoire de la Martinique à travers l'évolution d'un quartier informel de Fort-de-France sur three générations. Cette consécration littéraire a permis de faire rayonner la richesse de la langue et de l'identité créoles à l'échelle internationale."
+      "explanation": "Patrick Chamoiseau est un célèbre écrivain et essayiste martiniquais, figure majeure du mouvement de la 'Créolité'. Son roman 'Texaco' retrace l'histoire de la Martinique à travers l'évolution d'un quartier informel de Fort-de-France sur three générations. Cette consécration littéraire a permis de faire rayonner la richesse de la langue et de l'identité créoles à l'échelle internationale.",
+      "options": [
+        "Patrick Chamoiseau",
+        "Faux choix 3",
+        "Jean Rhys",
+        "Édouard Glissant"
+      ]
     },
     {
       "id": "martinique_18",
@@ -200,11 +254,17 @@
     },
     {
       "id": "martinique_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel est le nom de la boisson festive traditionnelle martiniquaise à base de rhum blanc, de sirop de canne et d'un zeste de citron vert ?",
       "answer": "Le ti-punch",
-      "explanation": "Le ti-punch est l'apéritif traditionnel par excellence en Martinique et dans les Antilles françaises, symbolisant l'hospitalité locale. Chaque convive le prépare généralement lui-même selon la formule populaire 'chacun prépare sa propre mort'. Il se déguste à tout moment de la journée, de préférence accompagné d'accras de morue."
+      "explanation": "Le ti-punch est l'apéritif traditionnel par excellence en Martinique et dans les Antilles françaises, symbolisant l'hospitalité locale. Chaque convive le prépare généralement lui-même selon la formule populaire 'chacun prépare sa propre mort'. Il se déguste à tout moment de la journée, de préférence accompagné d'accras de morue.",
+      "options": [
+        "La boisson verte",
+        "La bière de la mer",
+        "Le ti-punch",
+        "Faux choix 3"
+      ]
     },
     {
       "id": "martinique_20",
@@ -222,11 +282,17 @@
     },
     {
       "id": "martinique_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle embarcation traditionnelle martiniquaise à voile, classée au patrimoine immatériel de l'UNESCO, fait l'objet d'un célèbre tour de l'île chaque année ?",
       "answer": "La yole ronde",
-      "explanation": "La yole ronde est une embarcation traditionnelle de pêcheurs à rames et à voiles, spécifique à la Martinique, construite sans quille. Le célèbre Tour de la Martinique des yoles rondes réunit chaque été des équipages passionnés et des milliers de spectateurs sur les plages. Ce sport nautique unique, exigeant force et équilibre sur des perches de bois, a été inscrit par l'UNESCO en 2020."
+      "explanation": "La yole ronde est une embarcation traditionnelle de pêcheurs à rames et à voiles, spécifique à la Martinique, construite sans quille. Le célèbre Tour de la Martinique des yoles rondes réunit chaque été des équipages passionnés et des milliers de spectateurs sur les plages. Ce sport nautique unique, exigeant force et équilibre sur des perches de bois, a été inscrit par l'UNESCO en 2020.",
+      "options": [
+        "La yole ronde",
+        "Faux choix 3",
+        "La yole carrée",
+        "L'embarras du port"
+      ]
     },
     {
       "id": "martinique_22",
@@ -244,11 +310,17 @@
     },
     {
       "id": "martinique_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel ensemble spectaculaire de pics volcaniques très escarpés domine le centre-nord de la Martinique avec plus de 1 100 mètres d'altitude ?",
       "answer": "Les pitons du Carbet",
-      "explanation": "Les pitons du Carbet constituent un massif volcanique de cinq sommets abrupts recouverts d'une forêt tropicale humide dense. Ce site naturel grandiose offre des sentiers de randonnée extrêmement techniques et sportifs réservés aux marcheurs aguerris. Les pitons contribuent de manière majeure aux paysages montagneux emblématiques du nord de la Martinique."
+      "explanation": "Les pitons du Carbet constituent un massif volcanique de cinq sommets abrupts recouverts d'une forêt tropicale humide dense. Ce site naturel grandiose offre des sentiers de randonnée extrêmement techniques et sportifs réservés aux marcheurs aguerris. Les pitons contribuent de manière majeure aux paysages montagneux emblématiques du nord de la Martinique.",
+      "options": [
+        "Les rochers de l'Afrique",
+        "Faux choix 3",
+        "Les pitons du Carbet",
+        "Les monts des Marmousets"
+      ]
     },
     {
       "id": "martinique_24",
@@ -266,11 +338,17 @@
     },
     {
       "id": "martinique_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel chapeau ou coiffe traditionnelle en madras coloré, dont les pointes attachées symbolisent la situation amoureuse de celle qui la porte, est emblématique de la Martinique ?",
       "answer": "La coiffe en madras",
-      "explanation": "La coiffe traditionnelle antillaise en tissu madras est un élément fort du costume créole de cérémonie. Le nombre de pointes dessinées et nouées avec soin exprime un message codé sur la disponibilité amoureuse de la femme. Par exemple, une pointe signifie 'mon cœur est libre' et trois pointes indiquent 'je suis mariée'."
+      "explanation": "La coiffe traditionnelle antillaise en tissu madras est un élément fort du costume créole de cérémonie. Le nombre de pointes dessinées et nouées avec soin exprime un message codé sur la disponibilité amoureuse de la femme. Par exemple, une pointe signifie 'mon cœur est libre' et trois pointes indiquent 'je suis mariée'.",
+      "options": [
+        "La coiffe en madras",
+        "Faux choix 3",
+        "Le turban de la sagesse",
+        "Le chapeau de la mer"
+      ]
     },
     {
       "id": "martinique_26",
@@ -288,11 +366,17 @@
     },
     {
       "id": "martinique_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel plat traditionnel martiniquais très populaire, influencé par l'arrivée des travailleurs indiens au XIXe siècle, consiste en un ragoût de viande épicé au curcuma ?",
       "answer": "Le colombo",
-      "explanation": "Le colombo est le plat emblématique de la cuisine antillaise, généralement préparé à base de poulet, de cabri ou de porc mijoté avec des légumes locaux comme l'aubergine et la patate douce. Son mélange d'épices caractéristique, proche du curry, a été introduit par les immigrants indiens d'origine tamoule après l'abolition de l'esclavage. Il s'accompagne traditionnellement de riz blanc parfumé."
+      "explanation": "Le colombo est le plat emblématique de la cuisine antillaise, généralement préparé à base de poulet, de cabri ou de porc mijoté avec des légumes locaux comme l'aubergine et la patate douce. Son mélange d'épices caractéristique, proche du curry, a été introduit par les immigrants indiens d'origine tamoule après l'abolition de l'esclavage. Il s'accompagne traditionnellement de riz blanc parfumé.",
+      "options": [
+        "Faux choix 3",
+        "Le ragoût de la mer",
+        "Le plat de la colonie",
+        "Le colombo"
+      ]
     },
     {
       "id": "martinique_28",
@@ -310,11 +394,17 @@
     },
     {
       "id": "martinique_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel roman célèbre de l'écrivain martiniquais Joseph Zobel, adapté avec succès au cinéma par Euzhan Palcy, retrace le quotidien difficile d'un jeune garçon dans les plantations de canne à sucre ?",
       "answer": "La Rue Cases-Nègres",
-      "explanation": "Publié en 1950, 'La Rue Cases-Nègres' est un chef-d'œuvre de la littérature antillaise qui décrit la vie semi-féodale des travailleurs agricoles en Martinique dans les années 1930. À travers le regard du jeune orphelin José et de son grand-père M'man Tine, le roman aborde les thèmes de l'éducation, de la pauvreté et de l'émancipation. L'adaptation cinématographique a remporté le Lion d'argent à Venise en 1983."
+      "explanation": "Publié en 1950, 'La Rue Cases-Nègres' est un chef-d'œuvre de la littérature antillaise qui décrit la vie semi-féodale des travailleurs agricoles en Martinique dans les années 1930. À travers le regard du jeune orphelin José et de son grand-père M'man Tine, le roman aborde les thèmes de l'éducation, de la pauvreté et de l'émancipation. L'adaptation cinématographique a remporté le Lion d'argent à Venise en 1983.",
+      "options": [
+        "La Rue Cases-Nègres",
+        "Faux choix 3",
+        "La rue des étoiles",
+        "La rue du soleil"
+      ]
     },
     {
       "id": "martinique_30",
@@ -334,11 +424,17 @@
   "lorraine": [
     {
       "id": "lorraine_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle petite prune jaune et sucrée, emblématique de la région, bénéficie d'une IGP en Lorraine ?",
       "answer": "La mirabelle",
-      "explanation": "La mirabelle de Lorraine bénéficie d'une Indication Géographique Protégée (IGP) garantissant son origine et sa qualité supérieure. La région Lorraine produit à elle seule environ 70 % de la production mondiale de ce fruit d'or très apprécié. Elle se déguste aussi bien fraîche qu'en tarte, en confiture ou encore sous forme d'eau-de-vie traditionnelle."
+      "explanation": "La mirabelle de Lorraine bénéficie d'une Indication Géographique Protégée (IGP) garantissant son origine et sa qualité supérieure. La région Lorraine produit à elle seule environ 70 % de la production mondiale de ce fruit d'or très apprécié. Elle se déguste aussi bien fraîche qu'en tarte, en confiture ou encore sous forme d'eau-de-vie traditionnelle.",
+      "options": [
+        "La prune de l'Afrique",
+        "La pomme de la mer",
+        "Faux choix 3",
+        "La mirabelle"
+      ]
     },
     {
       "id": "lorraine_2",
@@ -356,11 +452,17 @@
     },
     {
       "id": "lorraine_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle célèbre place de Nancy, classée au patrimoine mondial de l'UNESCO, a été construite au XVIIIe siècle ?",
       "answer": "La place Stanislas",
-      "explanation": "La place Stanislas, inaugurée en 1755, a été édifiée sous l'impulsion du dernier duc de Lorraine, Stanislas Leszczynski. Réputée pour ses magnifiques grilles en fer forgé dorées à la feuille d'or, elle relie la vieille ville médiévale à la ville neuve. Ce chef-d'œuvre architectural de style classique est considéré comme l'une des plus belles places du monde."
+      "explanation": "La place Stanislas, inaugurée en 1755, a été édifiée sous l'impulsion du dernier duc de Lorraine, Stanislas Leszczynski. Réputée pour ses magnifiques grilles en fer forgé dorées à la feuille d'or, elle relie la vieille ville médiévale à la ville neuve. Ce chef-d'œuvre architectural de style classique est considéré comme l'une des plus belles places du monde.",
+      "options": [
+        "La place de Nancy",
+        "Faux choix 3",
+        "La place de Metz",
+        "La place Stanislas"
+      ]
     },
     {
       "id": "lorraine_4",
@@ -378,11 +480,17 @@
     },
     {
       "id": "lorraine_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel traité signé en 843 a divisé l'Empire carolingien et donné naissance au territoire de la Lotharingie, ancêtre de la Lorraine ?",
       "answer": "Le traité de Verdun",
-      "explanation": "Le traité de Verdun, signé en 843, a partagé le vaste empire de Charlemagne entre ses trois petits-fils. Lothaire Ier reçut la Francie médiane, qui prit le nom de Lotharingie et évolua au fil des siècles pour devenir le duché de Lorraine. Cet événement historique majeur a jeté les bases géopolitiques de l'Europe occidentale moderne."
+      "explanation": "Le traité de Verdun, signé en 843, a partagé le vaste empire de Charlemagne entre ses trois petits-fils. Lothaire Ier reçut la Francie médiane, qui prit le nom de Lotharingie et évolua au fil des siècles pour devenir le duché de Lorraine. Cet événement historique majeur a jeté les bases géopolitiques de l'Europe occidentale moderne.",
+      "options": [
+        "Le traité de Paris",
+        "Le traité de Verdun",
+        "Faux choix 3",
+        "Le traité d'Amiens"
+      ]
     },
     {
       "id": "lorraine_6",
@@ -400,11 +508,17 @@
     },
     {
       "id": "lorraine_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle petite madeleine au dôme rebondi, originaire de la ville de Commercy, doit son nom à une jeune servante du XVIIIe siècle ?",
       "answer": "La madeleine de Commercy",
-      "explanation": "La madeleine de Commercy est un petit gâteau traditionnel à la forme de coquillage, rendu célèbre à la cour du duc Stanislas en 1755. Selon la légende, une jeune servante nommée Madeleine fabriqua ces douceurs en urgence lors d'une réception ducale. Séduit par ce gâteau moelleux, le duc lui donna le prénom de sa créatrice."
+      "explanation": "La madeleine de Commercy est un petit gâteau traditionnel à la forme de coquillage, rendu célèbre à la cour du duc Stanislas en 1755. Selon la légende, une jeune servante nommée Madeleine fabriqua ces douceurs en urgence lors d'une réception ducale. Séduit par ce gâteau moelleux, le duc lui donna le prénom de sa créatrice.",
+      "options": [
+        "La madeleine de Commercy",
+        "La madeleine de la mer",
+        "La madeleine de l'Afrique",
+        "Faux choix 3"
+      ]
     },
     {
       "id": "lorraine_8",
@@ -422,11 +536,17 @@
     },
     {
       "id": "lorraine_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel grand poète symboliste français du XIXe siècle, auteur des 'Poèmes saturniens', est né à Metz en 1844 ?",
       "answer": "Paul Verlaine",
-      "explanation": "Paul Verlaine est né à Metz le 30 mars 1844 dans une famille de la bourgeoisie militaire lorraine. Sa maison natale, située face au palais de justice, abrite aujourd'hui un espace muséal dédié à sa mémoire et à son œuvre littéraire. Il reste l'un des plus grands poètes de la langue française, réputé pour la musicalité unique de ses vers."
+      "explanation": "Paul Verlaine est né à Metz le 30 mars 1844 dans une famille de la bourgeoisie militaire lorraine. Sa maison natale, située face au palais de justice, abrite aujourd'hui un espace muséal dédié à sa mémoire et à son œuvre littéraire. Il reste l'un des plus grands poètes de la langue française, réputé pour la musicalité unique de ses vers.",
+      "options": [
+        "Paul Verlaine",
+        "Victor Hugo",
+        "Faux choix 3",
+        "Charles Baudelaire"
+      ]
     },
     {
       "id": "lorraine_10",
@@ -444,11 +564,17 @@
     },
     {
       "id": "lorraine_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom du bonbon traditionnel à base de sucre cuit et d'huile essentielle de sapin des Vosges, réputé pour apaiser la gorge ?",
       "answer": "Le bourgeon de sapin",
-      "explanation": "Le bonbon au sapin des Vosges est une confiserie traditionnelle fabriquée artisanalement à partir de sucre cuit infusé à l'huile essentielle locale. Reconnaissable à sa forme de bourgeon et sa couleur verte ou ambrée, il est très apprécié pour ses vertus adoucissantes en hiver. Ce savoir-faire local se transmet de génération en génération dans les Vosges."
+      "explanation": "Le bonbon au sapin des Vosges est une confiserie traditionnelle fabriquée artisanalement à partir de sucre cuit infusé à l'huile essentielle locale. Reconnaissable à sa forme de bourgeon et sa couleur verte ou ambrée, il est très apprécié pour ses vertus adoucissantes en hiver. Ce savoir-faire local se transmet de génération en génération dans les Vosges.",
+      "options": [
+        "Le bourgeon de sapin",
+        "Faux choix 3",
+        "Le sapin de Vosges",
+        "La cèdre du Dauphiné"
+      ]
     },
     {
       "id": "lorraine_12",
@@ -466,11 +592,17 @@
     },
     {
       "id": "lorraine_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle petite prune d'un vert bleuté, moins connue que la mirabelle mais très parfumée, est cultivée en Lorraine ?",
       "answer": "La quetsche",
-      "explanation": "La quetsche de Lorraine est une variété de prune de forme allongée, à la peau violette et à la chair sucrée d'un vert tirant sur le jaune. Bien qu'elle soit moins médiatisée que sa cousine la mirabelle, elle est très populaire dans la région pour confectionner des tartes. Sa récolte a lieu à la fin de l'été, juste après celle des mirabelles."
+      "explanation": "La quetsche de Lorraine est une variété de prune de forme allongée, à la peau violette et à la chair sucrée d'un vert tirant sur le jaune. Bien qu'elle soit moins médiatisée que sa cousine la mirabelle, elle est très populaire dans la région pour confectionner des tartes. Sa récolte a lieu à la fin de l'été, juste après celle des mirabelles.",
+      "options": [
+        "L'armoise",
+        "La sorbe",
+        "Faux choix 3",
+        "La quetsche"
+      ]
     },
     {
       "id": "lorraine_14",
@@ -488,11 +620,17 @@
     },
     {
       "id": "lorraine_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel superbe monument de style baroque situé à Pont-à-Mousson est un ancien monastère de l'ordre de Prémontré reconverti en centre culturel ?",
       "answer": "L'abbaye des Prémontrés",
-      "explanation": "L'abbaye des Prémontrés de Pont-à-Mousson est un chef-d'œuvre de l'architecture baroque monastique du XVIIIe siècle, bordé par la Moselle. Elle possède une magnifique église abbatiale et de remarquables escaliers autoportants en colimaçon. Aujourd'hui restaurée, elle sert de centre culturel, d'hôtel et de lieu d'expositions très prisé dans la région."
+      "explanation": "L'abbaye des Prémontrés de Pont-à-Mousson est un chef-d'œuvre de l'architecture baroque monastique du XVIIIe siècle, bordé par la Moselle. Elle possède une magnifique église abbatiale et de remarquables escaliers autoportants en colimaçon. Aujourd'hui restaurée, elle sert de centre culturel, d'hôtel et de lieu d'expositions très prisé dans la région.",
+      "options": [
+        "L'abbaye des Prémontrés",
+        "Faux choix 3",
+        "Le château d'eau",
+        "La basilique Saint-Étienne"
+      ]
     },
     {
       "id": "lorraine_16",
@@ -510,11 +648,17 @@
     },
     {
       "id": "lorraine_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle ville des Vosges est internationalement connue pour la fabrication de ses images populaires imprimées depuis le XVIIIe siècle ?",
       "answer": "Épinal",
-      "explanation": "L'imagerie d'Épinal a été fondée en 1796 par Jean-Charles Pellerin et produisait des gravures sur bois colorées destinées au grand public. Ces planches illustrées racontaient des récits historiques ou des contes de fées très populaires en France. C'est de là que vient l'expression courante 'une image d'Épinal' pour désigner une vision poétique."
+      "explanation": "L'imagerie d'Épinal a été fondée en 1796 par Jean-Charles Pellerin et produisait des gravures sur bois colorées destinées au grand public. Ces planches illustrées racontaient des récits historiques ou des contes de fées très populaires en France. C'est de là que vient l'expression courante 'une image d'Épinal' pour désigner une vision poétique.",
+      "options": [
+        "Épinal",
+        "Toul",
+        "Nancy",
+        "Faux choix 3"
+      ]
     },
     {
       "id": "lorraine_18",
@@ -532,11 +676,17 @@
     },
     {
       "id": "lorraine_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom de la liqueur traditionnelle lorraine fabriquée à base de la célèbre petite prune jaune locale ?",
       "answer": "L'eau-de-vie de mirabelle",
-      "explanation": "L'eau-de-vie de mirabelle de Lorraine is une boisson spiritueuse obtenue par la distillation des fruits fermentés de la mirabelle. Elle bénéficie d'une appellation réglementée qui garantit l'utilisation exclusive de prunes récoltées et distillées en Lorraine. Ce digestif parfumé et chaleureux est traditionnellement servi à la fin d'un repas."
+      "explanation": "L'eau-de-vie de mirabelle de Lorraine is une boisson spiritueuse obtenue par la distillation des fruits fermentés de la mirabelle. Elle bénéficie d'une appellation réglementée qui garantit l'utilisation exclusive de prunes récoltées et distillées en Lorraine. Ce digestif parfumé et chaleureux est traditionnellement servi à la fin d'un repas.",
+      "options": [
+        "Faux choix 3",
+        "La bière de France",
+        "L'eau-de-vie de mirabelle",
+        "Le vin de Lorraine"
+      ]
     },
     {
       "id": "lorraine_20",
@@ -554,11 +704,17 @@
     },
     {
       "id": "lorraine_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel petit bonbon carré, doré et transparent, parfumé à une essence d'agrume d'Italie, est une spécialité certifiée IGP de la ville de Nancy ?",
       "answer": "La bergamote de Nancy",
-      "explanation": "La bergamote de Nancy est un bonbon de sucre cuit parfumé à l'huile essentielle de bergamote, un agrume cultivé principalement en Calabre. C'est la toute première confiserie en France à avoir obtenu le label d'Indication Géographique Protégée (IGP) en 1996. Son goût inimitable, à la fois doux et légèrement amer, fait la fierté des confiseurs nancéiens depuis le XIXe siècle."
+      "explanation": "La bergamote de Nancy est un bonbon de sucre cuit parfumé à l'huile essentielle de bergamote, un agrume cultivé principalement en Calabre. C'est la toute première confiserie en France à avoir obtenu le label d'Indication Géographique Protégée (IGP) en 1996. Son goût inimitable, à la fois doux et légèrement amer, fait la fierté des confiseurs nancéiens depuis le XIXe siècle.",
+      "options": [
+        "L'orange du sud",
+        "Faux choix 3",
+        "La bergamote de Nancy",
+        "La citronnelle"
+      ]
     },
     {
       "id": "lorraine_22",
@@ -576,11 +732,17 @@
     },
     {
       "id": "lorraine_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel maître verrier et ébéniste nancéien d'exception a été le pionnier de l'Art nouveau en France et le premier président de l'École de Nancy ?",
       "answer": "Émile Gallé",
-      "explanation": "Émile Gallé a révolutionné les arts décoratifs de la fin du XIXe siècle en s'inspirant des sciences naturelles, notamment de la botanique et de l'entomologie. Ses vases en verre multicouches gravés à l'acide ou à la meule témoignent d'une virtuosité technique et d'une poésie exceptionnelles. Il a fondé l'École de Nancy en 1901 pour promouvoir l'union de l'art et de l'industrie d'art."
+      "explanation": "Émile Gallé a révolutionné les arts décoratifs de la fin du XIXe siècle en s'inspirant des sciences naturelles, notamment de la botanique et de l'entomologie. Ses vases en verre multicouches gravés à l'acide ou à la meule témoignent d'une virtuosité technique et d'une poésie exceptionnelles. Il a fondé l'École de Nancy en 1901 pour promouvoir l'union de l'art et de l'industrie d'art.",
+      "options": [
+        "Faux choix 3",
+        "Émile Gallé",
+        "Louis Comfort Tiffany",
+        "René Lalique"
+      ]
     },
     {
       "id": "lorraine_24",
@@ -598,11 +760,17 @@
     },
     {
       "id": "lorraine_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle charcuterie chaude traditionnelle lorraine se compose d'une farce de porc et de veau marinée au vin blanc et cuite sous une enveloppe de pâte feuilletée ?",
       "answer": "Le pâté lorrain",
-      "explanation": "Le pâté lorrain est l'une des plus anciennes spécialités culinaires de la région, mentionnée dans des écrits dès 1392 à Baccarat. Sa farce de porc et de veau est finement émincée et mise à mariner de longues heures avec du vin blanc gris de Toul, de l'échalote, du persil et des épices. Recouvert d'une pâte feuilletée dorée au four, il se déguste traditionnellement chaud en entrée."
+      "explanation": "Le pâté lorrain est l'une des plus anciennes spécialités culinaires de la région, mentionnée dans des écrits dès 1392 à Baccarat. Sa farce de porc et de veau est finement émincée et mise à mariner de longues heures avec du vin blanc gris de Toul, de l'échalote, du persil et des épices. Recouvert d'une pâte feuilletée dorée au four, il se déguste traditionnellement chaud en entrée.",
+      "options": [
+        "Le pâté lorrain",
+        "Faux choix 3",
+        "La saucissonnade",
+        "La charcuterie française"
+      ]
     },
     {
       "id": "lorraine_26",
@@ -620,11 +788,17 @@
     },
     {
       "id": "lorraine_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel saint patron des Lorrains, traditionnellement célébré le 6 décembre par des défilés et la distribution de pain d'épices, est le protecteur des enfants ?",
       "answer": "Saint Nicolas",
-      "explanation": "La fête de Saint Nicolas est une tradition vivante et majeure en Lorraine, supérieure en importance à celle de Noël dans certains villages par le passé. Le saint patron, vêtu de sa mitre et de sa crosse, distribue des friandises aux enfants sages tandis que le Père Fouettard punit les désobéissants. Le grand défilé de la Saint-Nicolas à Nancy rassemble chaque année des dizaines de milliers de spectateurs."
+      "explanation": "La fête de Saint Nicolas est une tradition vivante et majeure en Lorraine, supérieure en importance à celle de Noël dans certains villages par le passé. Le saint patron, vêtu de sa mitre et de sa crosse, distribue des friandises aux enfants sages tandis que le Père Fouettard punit les désobéissants. Le grand défilé de la Saint-Nicolas à Nancy rassemble chaque année des dizaines de milliers de spectateurs.",
+      "options": [
+        "Saint Joseph",
+        "Saint Martin",
+        "Saint Nicolas",
+        "Faux choix 3"
+      ]
     },
     {
       "id": "lorraine_28",
@@ -642,11 +816,17 @@
     },
     {
       "id": "lorraine_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel superbe lac naturel d'origine glaciaire, surnommé 'la Perle des Vosges', est situé sur la commune éponyme au cœur de la montagne vosgienne ?",
       "answer": "Le lac de Gérardmer",
-      "explanation": "Le lac de Gérardmer est le plus grand lac naturel du massif des Vosges, s'élevant à 660 mètres d'altitude. Entouré de sapins majestueux, c'est un pôle de loisirs incontournable en Lorraine, proposant des activités nautiques en été et le ski sur les hauteurs en hiver. La ville de Gérardmer est également réputée pour son artisanat de linge de maison haut de gamme."
+      "explanation": "Le lac de Gérardmer est le plus grand lac naturel du massif des Vosges, s'élevant à 660 mètres d'altitude. Entouré de sapins majestueux, c'est un pôle de loisirs incontournable en Lorraine, proposant des activités nautiques en été et le ski sur les hauteurs en hiver. La ville de Gérardmer est également réputée pour son artisanat de linge de maison haut de gamme.",
+      "options": [
+        "Le lac de Gérardmer",
+        "Faux choix 3",
+        "Le lac de Vougeot",
+        "Le lac de Volvic"
+      ]
     },
     {
       "id": "lorraine_30",
@@ -666,11 +846,17 @@
   "Ardeche": [
     {
       "id": "ardeche_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel célèbre pont naturel en pierre enjambe la rivière Ardèche à l'entrée des gorges ?",
       "answer": "Le Pont d'Arc",
-      "explanation": "Le Pont d'Arc est une arche naturelle monumentale de 54 mètres de haut sculptée au fil des millénaires par le passage de la rivière Ardèche. Situé près de la commune de Vallon-Pont-d'Arc, ce site géologique spectaculaire sert de porte d'entrée naturelle aux célèbres gorges de l'Ardèche. C'est également un point de passage incontournable et extrêmement populaire pour les amateurs de canoë-kayak."
+      "explanation": "Le Pont d'Arc est une arche naturelle monumentale de 54 mètres de haut sculptée au fil des millénaires par le passage de la rivière Ardèche. Situé près de la commune de Vallon-Pont-d'Arc, ce site géologique spectaculaire sert de porte d'entrée naturelle aux célèbres gorges de l'Ardèche. C'est également un point de passage incontournable et extrêmement populaire pour les amateurs de canoë-kayak.",
+      "options": [
+        "Le Pont du Gard",
+        "Le Pont de l'Isère",
+        "Faux choix 3",
+        "Le Pont d'Arc"
+      ]
     },
     {
       "id": "ardeche_2",
@@ -688,11 +874,17 @@
     },
     {
       "id": "ardeche_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quel petit village d'Ardèche se trouve la reconstitution de la grotte Chauvet, appelée la Caverne du Pont d'Arc (ou Chauvet 2) ?",
       "answer": "Vallon-Pont-d'Arc",
-      "explanation": "La grotte Chauvet originale, découverte en 1994, abrite des peintures rupestres datant de 36 000 ans parmi les plus anciennes du monde. Pour protéger ces chefs-d'œuvre préhistoriques fragiles, une réplique grandiose à l'échelle 1:1 a été construite à Vallon-Pont-d'Arc. Ce fac-similé d'une fidélité exceptionnelle permet d'admirer l'art pariétal sans altérer le site d'origine."
+      "explanation": "La grotte Chauvet originale, découverte en 1994, abrite des peintures rupestres datant de 36 000 ans parmi les plus anciennes du monde. Pour protéger ces chefs-d'œuvre préhistoriques fragiles, une réplique grandiose à l'échelle 1:1 a été construite à Vallon-Pont-d'Arc. Ce fac-similé d'une fidélité exceptionnelle permet d'admirer l'art pariétal sans altérer le site d'origine.",
+      "options": [
+        "Vallon-Pont-d'Arc",
+        "Chauvet 2",
+        "La grotte des Écluses",
+        "Faux choix 3"
+      ]
     },
     {
       "id": "ardeche_4",
@@ -710,11 +902,17 @@
     },
     {
       "id": "ardeche_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel sommet volcanique d'Ardèche, culminant à 1551 mètres d'altitude, est célèbre pour abriter les sources de la Loire ?",
       "answer": "Le mont Gerbier-de-Jonc",
-      "explanation": "Le mont Gerbier-de-Jonc est un dôme volcanique spectaculaire issu du volcanisme ancien du Massif central. C'est au pied de ce relief escarpé que se trouvent les trois sources officielles qui donnent naissance au fleuve Loire. Le site attire chaque année de nombreux randonneurs venus gravir sa pente raide pour la vue panoramique."
+      "explanation": "Le mont Gerbier-de-Jonc est un dôme volcanique spectaculaire issu du volcanisme ancien du Massif central. C'est au pied de ce relief escarpé que se trouvent les trois sources officielles qui donnent naissance au fleuve Loire. Le site attire chaque année de nombreux randonneurs venus gravir sa pente raide pour la vue panoramique.",
+      "options": [
+        "Le mont Ventalen",
+        "Le mont Ventoux",
+        "Faux choix 3",
+        "Le mont Gerbier-de-Jonc"
+      ]
     },
     {
       "id": "ardeche_6",
@@ -732,11 +930,17 @@
     },
     {
       "id": "ardeche_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Dans quelle commune d'Ardèche se situe le Bois de Païolive, une forêt de chênes parsemée de roches calcaires aux formes fantastiques ?",
       "answer": "Les Vans",
-      "explanation": "Le Bois de Païolive est une forêt ancienne qui s'étend sur les communes des Vans et de Banne, au sud de l'Ardèche. Ce labyrinthe minéral s'est formé par l'érosion naturelle de la roche calcaire, créant des sculptures géologiques étonnantes. C'est une zone de biodiversité exceptionnelle protégée pour sa faune et sa flore uniques."
+      "explanation": "Le Bois de Païolive est une forêt ancienne qui s'étend sur les communes des Vans et de Banne, au sud de l'Ardèche. Ce labyrinthe minéral s'est formé par l'érosion naturelle de la roche calcaire, créant des sculptures géologiques étonnantes. C'est une zone de biodiversité exceptionnelle protégée pour sa faune et sa flore uniques.",
+      "options": [
+        "Joigny",
+        "Les Vans",
+        "Faux choix 3",
+        "Annonay"
+      ]
     },
     {
       "id": "ardeche_8",
@@ -754,11 +958,17 @@
     },
     {
       "id": "ardeche_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel mode de transport historique et touristique, circulant sur une voie ferrée escarpée dans les gorges du Doux, permet de découvrir l'Ardèche verte ?",
       "answer": "Le Mastrou",
-      "explanation": "Le Mastrou est un train touristique à vapeur centenaire qui relie Tournon-sur-Rhône à Lamastre en serpentant à flanc de falaise. Ce voyage ferroviaire nostalgique permet d'admirer des paysages préservés inaccessibles par la route dans les gorges du Doux. C'est l'une des attractions phares de l'Ardèche septentrionale depuis des décennies."
+      "explanation": "Le Mastrou est un train touristique à vapeur centenaire qui relie Tournon-sur-Rhône à Lamastre en serpentant à flanc de falaise. Ce voyage ferroviaire nostalgique permet d'admirer des paysages préservés inaccessibles par la route dans les gorges du Doux. C'est l'une des attractions phares de l'Ardèche septentrionale depuis des décennies.",
+      "options": [
+        "La ligne de chemin de fer",
+        "Faux choix 3",
+        "Le train à vapeur",
+        "Le Mastrou"
+      ]
     },
     {
       "id": "ardeche_10",
@@ -776,11 +986,17 @@
     },
     {
       "id": "ardeche_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle petite boule de charcuterie traditionnelle à base de viande de porc, d'épinards ou de blettes se désigne sous le nom de ?",
       "answer": "La caillette",
-      "explanation": "La caillette de l'Ardèche est une spécialité culinaire composée de porc haché mélangé à des blettes ou des épinards et entourée de crépine. Cuite au four, elle se mange traditionnellement froide avec du pain ou chaude accompagnée de pommes de terre locales. Chaque artisan de la région possède sa propre recette de famille."
+      "explanation": "La caillette de l'Ardèche est une spécialité culinaire composée de porc haché mélangé à des blettes ou des épinards et entourée de crépine. Cuite au four, elle se mange traditionnellement froide avec du pain ou chaude accompagnée de pommes de terre locales. Chaque artisan de la région possède sa propre recette de famille.",
+      "options": [
+        "L'assemblage",
+        "Faux choix 3",
+        "La caillette",
+        "La bouillie"
+      ]
     },
     {
       "id": "ardeche_12",
@@ -798,11 +1014,17 @@
     },
     {
       "id": "ardeche_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle petite station thermale ardéchoise, célèbre pour son eau minérale naturellement gazeuse riche en bicarbonate, est située dans une vallée verdoyante ?",
       "answer": "Vals-les-Bains",
-      "explanation": "Vals-les-Bains is une station thermale réputée d'Ardèche dont les eaux minérales sont exploitées pour soigner les affections digestives. La ville abrite un magnifique parc d'arbres séculaires et un casino historique typique de la Belle Époque. L'eau gazeuse de Vals est également très appréciée sur les tables pour sa légèreté unique."
+      "explanation": "Vals-les-Bains is une station thermale réputée d'Ardèche dont les eaux minérales sont exploitées pour soigner les affections digestives. La ville abrite un magnifique parc d'arbres séculaires et un casino historique typique de la Belle Époque. L'eau gazeuse de Vals est également très appréciée sur les tables pour sa légèreté unique.",
+      "options": [
+        "Vals-les-Bains",
+        "Annonay",
+        "Rimont",
+        "Faux choix 3"
+      ]
     },
     {
       "id": "ardeche_14",
@@ -820,11 +1042,17 @@
     },
     {
       "id": "ardeche_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel fruit à coque, célébré lors des fêtes des Castagnades en automne, est le produit agricole le plus emblématique de l'Ardèche ?",
       "answer": "La châtaigne",
-      "explanation": "La châtaigne d'Ardèche bénéficie d'une Appellation d'Origine Protégée (AOP) qui valorise le travail des producteurs locaux sur les terrasses escarpées. Ce fruit a longtemps constitué la base de l'alimentation locale, ce qui lui a valu le surnom d'arbre à pain. Les traditionnelles 'Castagnades' célèbrent sa récolte chaque automne dans les villages."
+      "explanation": "La châtaigne d'Ardèche bénéficie d'une Appellation d'Origine Protégée (AOP) qui valorise le travail des producteurs locaux sur les terrasses escarpées. Ce fruit a longtemps constitué la base de l'alimentation locale, ce qui lui a valu le surnom d'arbre à pain. Les traditionnelles 'Castagnades' célèbrent sa récolte chaque automne dans les villages.",
+      "options": [
+        "Les fruits rouges",
+        "Les noix",
+        "La châtaigne",
+        "Faux choix 3"
+      ]
     },
     {
       "id": "ardeche_16",
@@ -842,11 +1070,17 @@
     },
     {
       "id": "ardeche_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel village de caractère d'Ardèche, construit sur une falaise calcaire surplombant la rivière Labeaume, est célèbre pour ses ruelles pavées appelées calades ?",
       "answer": "Labeaume",
-      "explanation": "Labeaume est un magnifique village niché au creux de falaises calcaires creusées d'anciennes grottes troglodytiques. Ses maisons serrées en galets de rivière s'articulent autour d'un réseau pittoresque de ruelles pavées et de passages voûtés. C'est un havre de paix réputé pour son calme et son festival musical estival."
+      "explanation": "Labeaume est un magnifique village niché au creux de falaises calcaires creusées d'anciennes grottes troglodytiques. Ses maisons serrées en galets de rivière s'articulent autour d'un réseau pittoresque de ruelles pavées et de passages voûtés. C'est un havre de paix réputé pour son calme et son festival musical estival.",
+      "options": [
+        "La Roche-de-Ruy",
+        "Labeaume",
+        "Le Pont-l'Abbe",
+        "Faux choix 3"
+      ]
     },
     {
       "id": "ardeche_18",
@@ -864,11 +1098,17 @@
     },
     {
       "id": "ardeche_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel vignoble d'Ardèche, situé sur des terrasses de grès au pied des Cévennes, produit un vin de pays AOP de grande qualité ?",
       "answer": "Les Côtes du Vivarais",
-      "explanation": "L'appellation Côtes du Vivarais s'étend de part et d'autre des spectaculaires gorges de l'Ardèche, sur des sols calcaires arides et ensoleillés. Les vignerons locaux élaborent des vins de caractère issus de cépages traditionnels comme la syrah et le grenache. Ces vins accompagnent à merveille les spécialités de charcuterie fine de la région."
+      "explanation": "L'appellation Côtes du Vivarais s'étend de part et d'autre des spectaculaires gorges de l'Ardèche, sur des sols calcaires arides et ensoleillés. Les vignerons locaux élaborent des vins de caractère issus de cépages traditionnels comme la syrah et le grenache. Ces vins accompagnent à merveille les spécialités de charcuterie fine de la région.",
+      "options": [
+        "Les Côtes de Provence",
+        "Les Côtes du Rhône",
+        "Les Côtes du Vivarais",
+        "Faux choix 3"
+      ]
     },
     {
       "id": "ardeche_20",

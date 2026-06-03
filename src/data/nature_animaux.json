@@ -16,11 +16,17 @@
     },
     {
       "id": "nature_animaux_regne_animal_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel oiseau incapable de voler est le plus grand et le plus rapide du monde sur la terre ferme ?",
       "answer": "L'autruche",
-      "explanation": "L'autruche d'Afrique peut courir à des vitesses moyennes de 50 km/h et faire des pointes à plus de 70 km/h, effectuant des foulées de plusieurs mètres. Ses œufs sont également les plus gros de toutes les espèces animales vivantes."
+      "explanation": "L'autruche d'Afrique peut courir à des vitesses moyennes de 50 km/h et faire des pointes à plus de 70 km/h, effectuant des foulées de plusieurs mètres. Ses œufs sont également les plus gros de toutes les espèces animales vivantes.",
+      "options": [
+        "Leurre 2 : La grenouille",
+        "Leurre 1 : Le préau",
+        "L'autruche",
+        "Leurre 3 : Le cerf-volant"
+      ]
     }
   ],
   "Nature & Animaux : Plantes & Écosystèmes": [
@@ -40,11 +46,17 @@
     },
     {
       "id": "nature_animaux_plantes_ecosystemes_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel gaz à effet de serre est capturé en grande quantité par la photosynthèse des forêts, agissant comme des 'puits de carbone' ?",
       "answer": "Le dioxyde de carbone",
-      "explanation": "Le dioxyde de carbone (CO2) est absorbé par les arbres via la photosynthèse pour être transformé en matière organique tout en rejetant du dioxygène. Les forêts et les océans constituent ainsi d'importants régulateurs naturels du climat."
+      "explanation": "Le dioxyde de carbone (CO2) est absorbé par les arbres via la photosynthèse pour être transformé en matière organique tout en rejetant du dioxygène. Les forêts et les océans constituent ainsi d'importants régulateurs naturels du climat.",
+      "options": [
+        "Le dioxyde de carbone",
+        "Leurre 2 : Le lapin",
+        "Leurre 3 : La tortue",
+        "Leurre 1 : L'écureuil"
+      ]
     }
   ]
 }

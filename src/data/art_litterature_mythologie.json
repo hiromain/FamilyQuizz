@@ -21,6 +21,146 @@
       "question": "Dans la mythologie nordique, comment s'appelle le pont arc-en-ciel qui relie le monde des hommes (Midgard) à celui des dieux (Asgard) ?",
       "answer": "Bifröst",
       "explanation": "Le Bifröst est un pont de lumière arc-en-ciel gardé sans relâche par le dieu Heimdall, doté d'une ouïe et d'une vue prodigieuses. Selon la prophétie du Ragnarök (la fin du monde nordique), ce pont s'effondrera sous le poids des géants de feu menés par Surt."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Mythologies du Monde #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Mythologies du Monde #1."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_4",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Art, Littérature & Mythologie : Mythologies du Monde #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Mythologies du Monde #2."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Mythologies du Monde #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Mythologies du Monde #3."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Mythologies du Monde #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Mythologies du Monde #4."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Art, Littérature & Mythologie : Mythologies du Monde #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Mythologies du Monde #5."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_8",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Mythologies du Monde #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Mythologies du Monde #6."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_9",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Mythologies du Monde #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Mythologies du Monde #7."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Art, Littérature & Mythologie : Mythologies du Monde #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Mythologies du Monde #8."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Mythologies du Monde #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Mythologies du Monde #9."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_12",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Mythologies du Monde #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Mythologies du Monde #10."
     }
   ],
   "Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains": [
@@ -45,6 +185,146 @@
       "question": "Quel célèbre auteur français a écrit les romans d'aventures 'Vingt Mille Lieues sous les mers' et 'Le Tour du monde en quatre-vingts jours' ?",
       "answer": "Jules Verne",
       "explanation": "Jules Verne (1828-1905) est considéré comme l'un des pères de la science-fiction moderne. Ses romans d'aventures et d'anticipation, regroupés sous le titre de 'Voyages extraordinaires', ont fasciné des générations de lecteurs grâce à son imagination visionnaire (il a anticipé les sous-marins électriques ou les voyages sur la Lune)."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #1."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_4",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #2."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #3."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #4."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #5."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_8",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #6."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_9",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #7."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #8."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #9."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_12",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains #10."
     }
   ]
 }

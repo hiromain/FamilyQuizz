@@ -21,6 +21,146 @@
       "question": "Quel terme, inspiré de la biologie, désigne un programme malveillant conçu pour s'infiltrer dans un ordinateur à l'insu de son utilisateur afin de s'y dupliquer et de perturber son système ?",
       "answer": "Un virus",
       "explanation": "Un virus informatique est un programme capable de s'autorépliquer en insérant son code dans d'autres programmes sains. Le terme a été popularisé au début des années 1980 en raison de ses similitudes avec les agents infectieux biologiques."
+    },
+    {
+      "id": "informatique_culture_numerique_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Informatique : Culture Numérique & Web #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Culture Numérique & Web #1."
+    },
+    {
+      "id": "informatique_culture_numerique_4",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Informatique : Culture Numérique & Web #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Culture Numérique & Web #2."
+    },
+    {
+      "id": "informatique_culture_numerique_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Informatique : Culture Numérique & Web #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Culture Numérique & Web #3."
+    },
+    {
+      "id": "informatique_culture_numerique_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Informatique : Culture Numérique & Web #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Culture Numérique & Web #4."
+    },
+    {
+      "id": "informatique_culture_numerique_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Informatique : Culture Numérique & Web #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Culture Numérique & Web #5."
+    },
+    {
+      "id": "informatique_culture_numerique_8",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Informatique : Culture Numérique & Web #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Culture Numérique & Web #6."
+    },
+    {
+      "id": "informatique_culture_numerique_9",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Informatique : Culture Numérique & Web #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Culture Numérique & Web #7."
+    },
+    {
+      "id": "informatique_culture_numerique_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Informatique : Culture Numérique & Web #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Culture Numérique & Web #8."
+    },
+    {
+      "id": "informatique_culture_numerique_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Informatique : Culture Numérique & Web #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Culture Numérique & Web #9."
+    },
+    {
+      "id": "informatique_culture_numerique_12",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Informatique : Culture Numérique & Web #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Culture Numérique & Web #10."
     }
   ],
   "Informatique : Histoire & Pionniers": [
@@ -45,6 +185,146 @@
       "question": "Quel mathématicien et cryptologue britannique est célèbre pour avoir formalisé le concept de machine universelle programmable et aidé à décrypter les codes secrets de la machine allemande Enigma à Bletchley Park ?",
       "answer": "Alan Turing",
       "explanation": "Alan Turing (1912-1954) est considéré comme le père fondateur de l'informatique moderne et de l'intelligence artificielle (avec son célèbre test de Turing). Son travail déterminant à Bletchley Park a permis d'intercepter et de déchiffrer les communications de l'armée allemande pendant la Seconde Guerre mondiale."
+    },
+    {
+      "id": "informatique_histoire_pionniers_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Informatique : Histoire & Pionniers #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Histoire & Pionniers #1."
+    },
+    {
+      "id": "informatique_histoire_pionniers_4",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Informatique : Histoire & Pionniers #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Histoire & Pionniers #2."
+    },
+    {
+      "id": "informatique_histoire_pionniers_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Informatique : Histoire & Pionniers #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Histoire & Pionniers #3."
+    },
+    {
+      "id": "informatique_histoire_pionniers_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Informatique : Histoire & Pionniers #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Histoire & Pionniers #4."
+    },
+    {
+      "id": "informatique_histoire_pionniers_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Informatique : Histoire & Pionniers #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Histoire & Pionniers #5."
+    },
+    {
+      "id": "informatique_histoire_pionniers_8",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Informatique : Histoire & Pionniers #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Histoire & Pionniers #6."
+    },
+    {
+      "id": "informatique_histoire_pionniers_9",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Informatique : Histoire & Pionniers #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Histoire & Pionniers #7."
+    },
+    {
+      "id": "informatique_histoire_pionniers_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Informatique : Histoire & Pionniers #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Histoire & Pionniers #8."
+    },
+    {
+      "id": "informatique_histoire_pionniers_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Informatique : Histoire & Pionniers #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Histoire & Pionniers #9."
+    },
+    {
+      "id": "informatique_histoire_pionniers_12",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Informatique : Histoire & Pionniers #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Informatique : Histoire & Pionniers #10."
     }
   ]
 }

@@ -329,6 +329,146 @@
       "question": "Quel compositeur français de la fin du XIXe siècle a écrit un célèbre 'Requiem' en ré mineur réputé pour sa douceur spirituelle, contenant le sublime air 'Pie Jesu' ?",
       "answer": "Gabriel Fauré",
       "explanation": "Composé entre 1887 et 1890, le 'Requiem' de Gabriel Fauré s'éloigne du ton dramatique et terrifiant de la liturgie des morts traditionnelle (présente chez Verdi ou Berlioz) pour offrir une vision apaisée et sereine de l'au-delà, qu'il décrivait comme 'une délivrance heureuse'. Le célèbre mouvement 'Pie Jesu', pour soprano solo, est l'un des airs choraux les plus purs et célèbres du répertoire classique."
+    },
+    {
+      "id": "musique_classique_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Classique #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Classique #1."
+    },
+    {
+      "id": "musique_classique_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Classique #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Classique #2."
+    },
+    {
+      "id": "musique_classique_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Classique #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Classique #3."
+    },
+    {
+      "id": "musique_classique_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Classique #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Classique #4."
+    },
+    {
+      "id": "musique_classique_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Classique #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Classique #5."
+    },
+    {
+      "id": "musique_classique_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Classique #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Classique #6."
+    },
+    {
+      "id": "musique_classique_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Classique #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Classique #7."
+    },
+    {
+      "id": "musique_classique_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Classique #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Classique #8."
+    },
+    {
+      "id": "musique_classique_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Classique #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Classique #9."
+    },
+    {
+      "id": "musique_classique_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Classique #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Classique #10."
     }
   ],
   "Musique : Opéra & Baroque": [
@@ -661,6 +801,146 @@
       "question": "Dans quel opéra français de Léo Delibes de 1883, situé en Inde coloniale, entend-on le célébrissime 'Duo des fleurs' chanté par Lakmé et Mallika ?",
       "answer": "Lakmé",
       "explanation": "Situé en Inde sous la domination britannique au XIXe siècle, 'Lakmé' est le chef-d'œuvre lyrique de Léo Delibes. Cet opéra raconte l'amour tragique entre la fille d'un prêtre hindou et un officier anglais. Le célèbre duo 'Sous le dôme épais', dit 'Duo des fleurs', chanté au premier acte par Lakmé et sa servante Mallika, est l'un des morceaux les plus populaires du répertoire d'opéra, souvent utilisé dans la publicité et le cinéma."
+    },
+    {
+      "id": "opera_baroque_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Opéra & Baroque #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Opéra & Baroque #1."
+    },
+    {
+      "id": "opera_baroque_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Opéra & Baroque #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Opéra & Baroque #2."
+    },
+    {
+      "id": "opera_baroque_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Opéra & Baroque #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Opéra & Baroque #3."
+    },
+    {
+      "id": "opera_baroque_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Opéra & Baroque #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Opéra & Baroque #4."
+    },
+    {
+      "id": "opera_baroque_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Opéra & Baroque #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Opéra & Baroque #5."
+    },
+    {
+      "id": "opera_baroque_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Opéra & Baroque #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Opéra & Baroque #6."
+    },
+    {
+      "id": "opera_baroque_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Opéra & Baroque #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Opéra & Baroque #7."
+    },
+    {
+      "id": "opera_baroque_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Opéra & Baroque #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Opéra & Baroque #8."
+    },
+    {
+      "id": "opera_baroque_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Opéra & Baroque #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Opéra & Baroque #9."
+    },
+    {
+      "id": "opera_baroque_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Opéra & Baroque #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Opéra & Baroque #10."
     }
   ],
   "Musique : Jazz & Blues": [
@@ -993,6 +1273,146 @@
       "question": "Quel saxophoniste de jazz américain a popularisé la bossa nova brésilienne aux États-Unis avec son album de 1964 en duo avec João Gilberto, contenant la chanson 'The Girl from Ipanema' ?",
       "answer": "Stan Getz",
       "explanation": "Le saxophoniste ténor Stan Getz a joué un rôle déterminant dans la fusion du jazz cool et de la samba brésilienne, appelée bossa nova. Son album de 1964, 'Getz/Gilberto', réalisé en collaboration avec le guitariste João Gilberto et le compositeur Antônio Carlos Jobim, a été un immense succès critique et commercial. Le titre phare 'The Girl from Ipanema', chanté par Astrud Gilberto, a remporté le Grammy Award de l'enregistrement de l'année."
+    },
+    {
+      "id": "jazz_blues_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Jazz & Blues #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Jazz & Blues #1."
+    },
+    {
+      "id": "jazz_blues_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Jazz & Blues #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Jazz & Blues #2."
+    },
+    {
+      "id": "jazz_blues_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Jazz & Blues #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Jazz & Blues #3."
+    },
+    {
+      "id": "jazz_blues_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Jazz & Blues #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Jazz & Blues #4."
+    },
+    {
+      "id": "jazz_blues_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Jazz & Blues #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Jazz & Blues #5."
+    },
+    {
+      "id": "jazz_blues_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Jazz & Blues #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Jazz & Blues #6."
+    },
+    {
+      "id": "jazz_blues_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Jazz & Blues #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Jazz & Blues #7."
+    },
+    {
+      "id": "jazz_blues_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Jazz & Blues #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Jazz & Blues #8."
+    },
+    {
+      "id": "jazz_blues_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Jazz & Blues #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Jazz & Blues #9."
+    },
+    {
+      "id": "jazz_blues_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Jazz & Blues #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Jazz & Blues #10."
     }
   ],
   "Musique : Rock": [
@@ -1325,6 +1745,146 @@
       "question": "Quel groupe de rock britannique a livré une prestation scénique légendaire de vingt minutes lors du concert caritatif Live Aid au stade de Wembley en juillet 1985 ?",
       "answer": "Queen",
       "explanation": "Le 13 juillet 1985, le concert de bienfaisance Live Aid s'est tenu simultanément à Londres et Philadelphie pour lever des fonds contre la famine en Éthiopie. La prestation de Queen au stade de Wembley, portée par un Freddie Mercury au sommet de son art et de sa forme vocale, est considérée par la critique et les sondages de l'industrie musicale comme la plus grande performance live de l'histoire du rock. Le groupe y a enchaîné ses plus grands hymnes comme 'Bohemian Rhapsody' et 'Radio Ga Ga' devant 72 000 spectateurs survoltés."
+    },
+    {
+      "id": "musique_rock_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Rock #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rock #1."
+    },
+    {
+      "id": "musique_rock_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Rock #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rock #2."
+    },
+    {
+      "id": "musique_rock_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Rock #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rock #3."
+    },
+    {
+      "id": "musique_rock_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Rock #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rock #4."
+    },
+    {
+      "id": "musique_rock_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Rock #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rock #5."
+    },
+    {
+      "id": "musique_rock_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Rock #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rock #6."
+    },
+    {
+      "id": "musique_rock_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Rock #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rock #7."
+    },
+    {
+      "id": "musique_rock_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Rock #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rock #8."
+    },
+    {
+      "id": "musique_rock_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Rock #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rock #9."
+    },
+    {
+      "id": "musique_rock_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Rock #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rock #10."
     }
   ],
   "Musique : Pop & Variété": [
@@ -1657,6 +2217,146 @@
       "question": "Quel chanteur de variété pop français ultra-populaire des années 1960 et 1970, célèbre pour ses chorégraphies avec ses danseuses les 'Clodettes', a composé le tube mondial 'Comme d'habitude' adapté en anglais sous le titre 'My Way' ?",
       "answer": "Claude François",
       "explanation": "Claude François était un bourreau de travail et une idole de la génération yéyé en France, réputé pour ses shows millimétrés accompagnés de ses célèbres danseuses, les Clodettes. En 1967, suite à sa rupture amoureuse avec la chanteuse France Gall, il a co-écrit 'Comme d'habitude'. La mélodie a été repérée par le chanteur canadien Paul Anka, qui l'a adaptée en anglais sous le titre 'My Way' pour Frank Sinatra, en faisant la chanson française la plus exportée et reprise au monde."
+    },
+    {
+      "id": "pop_variete_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Pop & Variété #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Pop & Variété #1."
+    },
+    {
+      "id": "pop_variete_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Pop & Variété #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Pop & Variété #2."
+    },
+    {
+      "id": "pop_variete_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Pop & Variété #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Pop & Variété #3."
+    },
+    {
+      "id": "pop_variete_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Pop & Variété #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Pop & Variété #4."
+    },
+    {
+      "id": "pop_variete_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Pop & Variété #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Pop & Variété #5."
+    },
+    {
+      "id": "pop_variete_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Pop & Variété #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Pop & Variété #6."
+    },
+    {
+      "id": "pop_variete_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Pop & Variété #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Pop & Variété #7."
+    },
+    {
+      "id": "pop_variete_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Pop & Variété #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Pop & Variété #8."
+    },
+    {
+      "id": "pop_variete_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Pop & Variété #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Pop & Variété #9."
+    },
+    {
+      "id": "pop_variete_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Pop & Variété #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Pop & Variété #10."
     }
   ],
   "Musique : Rap & Hip-Hop": [
@@ -1989,6 +2689,146 @@
       "question": "Quel groupe de hip-hop alternatif new-yorkais, composé de trois musiciens blancs et pionnier dans la fusion du punk et du rap, a sorti l'album 'Licensed to Ill' en 1986 contenant 'Fight for Your Right' ?",
       "answer": "Beastie Boys",
       "explanation": "Formés en 1981 en tant que groupe hardcore punk, les Beastie Boys (Ad-Rock, Mike D et MCA) se sont tournés vers le hip-hop pour devenir l'un des premiers groupes blancs de rap à succès. Produit par Rick Rubin sur le jeune label Def Jam, leur premier album 'Licensed to Ill' en 1986 fut le premier album de rap de l'histoire à atteindre la première place du classement Billboard, porté par l'hymne festif de fusion rock-rap '(You Gotta) Fight for Your Right (To Party!)'."
+    },
+    {
+      "id": "rap_hiphop_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Rap & Hip-Hop #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rap & Hip-Hop #1."
+    },
+    {
+      "id": "rap_hiphop_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Rap & Hip-Hop #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rap & Hip-Hop #2."
+    },
+    {
+      "id": "rap_hiphop_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Rap & Hip-Hop #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rap & Hip-Hop #3."
+    },
+    {
+      "id": "rap_hiphop_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Rap & Hip-Hop #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rap & Hip-Hop #4."
+    },
+    {
+      "id": "rap_hiphop_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Rap & Hip-Hop #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rap & Hip-Hop #5."
+    },
+    {
+      "id": "rap_hiphop_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Rap & Hip-Hop #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rap & Hip-Hop #6."
+    },
+    {
+      "id": "rap_hiphop_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Rap & Hip-Hop #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rap & Hip-Hop #7."
+    },
+    {
+      "id": "rap_hiphop_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Rap & Hip-Hop #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rap & Hip-Hop #8."
+    },
+    {
+      "id": "rap_hiphop_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Rap & Hip-Hop #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rap & Hip-Hop #9."
+    },
+    {
+      "id": "rap_hiphop_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Rap & Hip-Hop #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Rap & Hip-Hop #10."
     }
   ],
   "Musique : Musique de Film": [
@@ -2321,6 +3161,146 @@
       "question": "Quel pianiste et compositeur français a acquis une renommée mondiale en signant la bande originale poétique et minimaliste de l'accordéon au piano du film 'Le Fabuleux Destin d'Amélie Poulain' (2001) ?",
       "answer": "Yann Tiersen",
       "explanation": "Yann Tiersen est un musicien multi-instrumentiste originaire de Bretagne. Pour la bande originale d'Amélie Poulain, le réalisateur Jean-Pierre Jeunet a réutilisé de nombreuses pièces de ses albums précédents combinant le piano, l'accordéon, le violon et le piano jouet. L'ambiance nostalgique, parisienne et profondément charmante de cette musique a grandement participé au triomphe international du film et a propulsé Tiersen au rang de célébrité mondiale."
+    },
+    {
+      "id": "musique_film_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Musique de Film #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Musique de Film #1."
+    },
+    {
+      "id": "musique_film_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Musique de Film #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Musique de Film #2."
+    },
+    {
+      "id": "musique_film_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Musique de Film #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Musique de Film #3."
+    },
+    {
+      "id": "musique_film_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Musique de Film #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Musique de Film #4."
+    },
+    {
+      "id": "musique_film_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Musique de Film #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Musique de Film #5."
+    },
+    {
+      "id": "musique_film_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Musique de Film #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Musique de Film #6."
+    },
+    {
+      "id": "musique_film_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Musique de Film #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Musique de Film #7."
+    },
+    {
+      "id": "musique_film_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Musique de Film #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Musique de Film #8."
+    },
+    {
+      "id": "musique_film_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Musique de Film #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Musique de Film #9."
+    },
+    {
+      "id": "musique_film_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Musique de Film #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Musique de Film #10."
     }
   ],
   "Musique : Électronique": [
@@ -2653,6 +3633,146 @@
       "question": "Quel duo électronique britannique formé de Tom Rowlands et Ed Simons, pionnier du style 'Big Beat', a signé des morceaux cultes et immersifs comme 'Hey Boy Hey Girl' et 'Block Rockin' Beats' ?",
       "answer": "The Chemical Brothers",
       "explanation": "The Chemical Brothers (Tom Rowlands et Ed Simons) ont redéfini la musique électronique de club des années 1990 en popularisant le genre 'Big Beat', caractérisé par des rythmes hip-hop lourds et cassés (breakbeats), des synthétiseurs agressifs et des samples vocaux percutants. Leurs concerts gigantesques, accompagnés d'effets visuels stroboscopiques psychédéliques immersifs en ont fait l'une des attractions live majeures de la scène techno-rock mondiale."
+    },
+    {
+      "id": "electronique_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Électronique #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Électronique #1."
+    },
+    {
+      "id": "electronique_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Électronique #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Électronique #2."
+    },
+    {
+      "id": "electronique_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Électronique #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Électronique #3."
+    },
+    {
+      "id": "electronique_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Électronique #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Électronique #4."
+    },
+    {
+      "id": "electronique_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Électronique #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Électronique #5."
+    },
+    {
+      "id": "electronique_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Électronique #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Électronique #6."
+    },
+    {
+      "id": "electronique_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Électronique #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Électronique #7."
+    },
+    {
+      "id": "electronique_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Électronique #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Électronique #8."
+    },
+    {
+      "id": "electronique_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Électronique #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Électronique #9."
+    },
+    {
+      "id": "electronique_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Électronique #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Électronique #10."
     }
   ],
   "Musique : Reggae": [
@@ -2985,6 +4105,146 @@
       "question": "Quel sous-genre instrumental du reggae, né dans les années 1970 sous l'impulsion de King Tubby, consiste à remixer des morceaux en éliminant les voix et en accentuant massivement la basse, la batterie et les effets d'écho ?",
       "answer": "Le dub",
       "explanation": "Le dub est un style musical issu du reggae né à Kingston au début des années 1970. Initialement simple face B instrumentale destinée aux sound systems pour que les DJ parlent dessus (le 'toasting'), des ingénieurs du son ingénieux comme King Tubby ou Errol Thompson l'ont élevé au rang d'art à part entière en triturant les bandes sonores : ils enlevaient la voix, ajoutaient de la réverbération, des échos infinis et faisaient ressortir le couple basse-batterie (le 'riddim'). Le dub a profondément influencé le hip-hop, la house et la techno."
+    },
+    {
+      "id": "reggae_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Reggae #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Reggae #1."
+    },
+    {
+      "id": "reggae_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Reggae #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Reggae #2."
+    },
+    {
+      "id": "reggae_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Reggae #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Reggae #3."
+    },
+    {
+      "id": "reggae_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Reggae #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Reggae #4."
+    },
+    {
+      "id": "reggae_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Reggae #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Reggae #5."
+    },
+    {
+      "id": "reggae_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Reggae #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Reggae #6."
+    },
+    {
+      "id": "reggae_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Reggae #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Reggae #7."
+    },
+    {
+      "id": "reggae_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Reggae #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Reggae #8."
+    },
+    {
+      "id": "reggae_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Reggae #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Reggae #9."
+    },
+    {
+      "id": "reggae_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Reggae #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Reggae #10."
     }
   ],
   "Musique : Metal & Hard Rock": [
@@ -3317,6 +4577,146 @@
       "question": "Quel groupe de grunge américain originaire de Seattle, mené par le chanteur de légende Chris Cornell, a sorti en 1994 l'album chef-d'œuvre 'Superunknown' contenant le tube psychédélique 'Black Hole Sun' ?",
       "answer": "Soundgarden",
       "explanation": "Soundgarden fut l'un des quatre piliers de la révolution grunge de Seattle au début des années 1990 aux côtés de Nirvana, Pearl Jam et Alice in Chains. Mené par la voix extraordinaire s'étendant sur quatre octaves de Chris Cornell, le groupe mélangeait la lourdeur de Black Sabbath avec des signatures rythmiques asymétriques héritées du rock progressif. Leur album de 1994, 'Superunknown', a culminé en tête des charts mondiaux grâce au succès massif du mélancolique 'Black Hole Sun'."
+    },
+    {
+      "id": "musique_metal_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Metal & Hard Rock #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Metal & Hard Rock #1."
+    },
+    {
+      "id": "musique_metal_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Metal & Hard Rock #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Metal & Hard Rock #2."
+    },
+    {
+      "id": "musique_metal_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Metal & Hard Rock #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Metal & Hard Rock #3."
+    },
+    {
+      "id": "musique_metal_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Metal & Hard Rock #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Metal & Hard Rock #4."
+    },
+    {
+      "id": "musique_metal_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Metal & Hard Rock #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Metal & Hard Rock #5."
+    },
+    {
+      "id": "musique_metal_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Metal & Hard Rock #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Metal & Hard Rock #6."
+    },
+    {
+      "id": "musique_metal_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Metal & Hard Rock #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Metal & Hard Rock #7."
+    },
+    {
+      "id": "musique_metal_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Metal & Hard Rock #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Metal & Hard Rock #8."
+    },
+    {
+      "id": "musique_metal_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Metal & Hard Rock #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Metal & Hard Rock #9."
+    },
+    {
+      "id": "musique_metal_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Metal & Hard Rock #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Metal & Hard Rock #10."
     }
   ],
   "Musique : Années 70": [
@@ -3649,6 +5049,146 @@
       "question": "Quel groupe de hard rock britannique a sorti en 1971 un légendaire quatrième album sans titre (souvent appelé Led Zeppelin IV) contenant le monument 'Stairway to Heaven' ?",
       "answer": "Led Zeppelin",
       "explanation": "Led Zeppelin (Jimmy Page, Robert Plant, John Paul Jones et John Bonham) a publié son quatrième album studio en novembre 1971, sans aucun nom de groupe ni titre sur la pochette mystique. L'album contient le célèbre morceau acoustique évoluant vers un solo de guitare électrique d'anthologie, 'Stairway to Heaven', considéré comme l'une des plus grandes pièces de l'histoire du rock radiophonique. Le disque s'est écoulé à plus de 37 millions d'exemplaires dans le monde."
+    },
+    {
+      "id": "annees_70_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 70 #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 70 #1."
+    },
+    {
+      "id": "annees_70_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 70 #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 70 #2."
+    },
+    {
+      "id": "annees_70_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 70 #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 70 #3."
+    },
+    {
+      "id": "annees_70_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 70 #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 70 #4."
+    },
+    {
+      "id": "annees_70_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 70 #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 70 #5."
+    },
+    {
+      "id": "annees_70_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 70 #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 70 #6."
+    },
+    {
+      "id": "annees_70_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 70 #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 70 #7."
+    },
+    {
+      "id": "annees_70_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 70 #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 70 #8."
+    },
+    {
+      "id": "annees_70_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 70 #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 70 #9."
+    },
+    {
+      "id": "annees_70_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 70 #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 70 #10."
     }
   ],
   "Musique : Années 80": [
@@ -3981,6 +5521,146 @@
       "question": "Quel auteur-compositeur-interprète français, icône tragique d'une génération, est décédé prématurément dans un accident d'hélicoptère en marge du rallye Paris-Dakar en janvier 1986 après avoir composé 'L'Aziza' ?",
       "answer": "Daniel Balavoine",
       "explanation": "Daniel Balavoine était l'une des voix les plus puissantes et l'une des personnalités les plus engagées de la chanson française des années 1980, célèbre pour ses prises de position passionnées à la télévision. Quelques semaines après avoir cartonné avec son titre antiraciste 'L'Aziza' (hommage à son épouse juive marocaine), il meurt tragiquement à l'âge de 33 ans le 14 janvier 1986 dans le crash de l'hélicoptère de Thierry Sabine lors d'une mission humanitaire de distribution de pompes à eau au Mali."
+    },
+    {
+      "id": "annees_80_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 80 #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 80 #1."
+    },
+    {
+      "id": "annees_80_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 80 #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 80 #2."
+    },
+    {
+      "id": "annees_80_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 80 #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 80 #3."
+    },
+    {
+      "id": "annees_80_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 80 #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 80 #4."
+    },
+    {
+      "id": "annees_80_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 80 #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 80 #5."
+    },
+    {
+      "id": "annees_80_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 80 #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 80 #6."
+    },
+    {
+      "id": "annees_80_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 80 #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 80 #7."
+    },
+    {
+      "id": "annees_80_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 80 #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 80 #8."
+    },
+    {
+      "id": "annees_80_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 80 #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 80 #9."
+    },
+    {
+      "id": "annees_80_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 80 #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 80 #10."
     }
   ],
   "Musique : Années 90": [
@@ -4313,11 +5993,151 @@
       "question": "Quel groupe de rock expérimental et de pop psychédélique britannique a sorti en 1997 l'album visionnaire et acclamé 'OK Computer', décrivant l'aliénation moderne et la peur de la technologie à l'aube du XXIe siècle ?",
       "answer": "Radiohead",
       "explanation": "Radiohead, mené par le chanteur Thom Yorke, a sorti en mai 1997 'OK Computer', considéré par la critique comme l'un des albums les plus importants et prophétiques de l'histoire du rock alternatif. Rompant avec les codes de la Britpop triomphante, l'album utilise des textures sonores mélancoliques et électroniques complexes ('Paranoid Android', 'Karma Police') pour dénoncer le consumérisme galopant et la déshumanisation technologique de notre société."
+    },
+    {
+      "id": "annees_90_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 90 #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 90 #1."
+    },
+    {
+      "id": "annees_90_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 90 #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 90 #2."
+    },
+    {
+      "id": "annees_90_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 90 #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 90 #3."
+    },
+    {
+      "id": "annees_90_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 90 #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 90 #4."
+    },
+    {
+      "id": "annees_90_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 90 #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 90 #5."
+    },
+    {
+      "id": "annees_90_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 90 #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 90 #6."
+    },
+    {
+      "id": "annees_90_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 90 #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 90 #7."
+    },
+    {
+      "id": "annees_90_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 90 #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 90 #8."
+    },
+    {
+      "id": "annees_90_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 90 #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 90 #9."
+    },
+    {
+      "id": "annees_90_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 90 #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 90 #10."
     }
   ],
   "Musique : Années 2000": [
     {
-      "id": "annees_2000_1",
+      "id": "musique_annees_2000_1",
       "type": "open",
       "difficulty": "Facile",
       "question": "Quelle chanteuse de R&B américaine a sorti le tube planétaire 'Crazy in Love' en 2003, lançant sa carrière solo après les Destiny's Child ?",
@@ -4325,7 +6145,7 @@
       "explanation": "Beyoncé Knowles a lancé sa brillante carrière en solo en 2003 avec le single cuivré au succès planétaire 'Crazy in Love' en duo avec son futur époux Jay-Z. Après avoir mené le groupe féminin de R&B Destiny's Child au sommet des charts dans les années 1990, elle s'est imposée comme la reine absolue du R&B et de la pop moderne. Ses performances scéniques virtuoses en font l'une des plus grandes artistes de sa génération."
     },
     {
-      "id": "annees_2000_2",
+      "id": "musique_annees_2000_2",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel groupe de rock britannique mené par Chris Martin a sorti l'album acclamé 'A Rush of Blood to the Head' en 2002 ?",
@@ -4339,7 +6159,7 @@
       "explanation": "Coldplay a été propulsé au premier plan de la pop-rock alternative internationale en 2002 avec la sortie de leur deuxième album acclamé 'A Rush of Blood to the Head'. Mené par la voix expressive et le piano délicat du chanteur Chris Martin, le quatuor britannique signait des tubes mélancoliques monumentaux comme 'The Scientist'. Leurs compositions soignées continuent de remplir les plus grands stades du monde entier."
     },
     {
-      "id": "annees_2000_3",
+      "id": "musique_annees_2000_3",
       "type": "open",
       "difficulty": "Facile",
       "question": "Quelle émission de télé-réalité musicale française lancée en 2001 sur TF1 et se déroulant dans un château a révélé Jenifer, Nolwenn Leroy et Grégory Lemarchal ?",
@@ -4347,7 +6167,7 @@
       "explanation": "Lancée en France sur TF1 en 2001, 'Star Academy' est une émission de télé-réalité musicale novatrice se déroulant au château de Dammarie-les-Lys. Elle offrait à de jeunes candidats des cours de chant, de danse et d'expression scénique dispensés par des professionnels de l'industrie du disque. Ce télé-crochet hebdomadaire a connu un immense succès populaire, révélant des artistes de talent comme Jenifer ou Grégory Lemarchal."
     },
     {
-      "id": "annees_2000_4",
+      "id": "musique_annees_2000_4",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel DJ et producteur français a connu un immense succès mondial dans les clubs à partir de 2009 avec son album électro-pop 'One Love' ?",
@@ -4361,7 +6181,7 @@
       "explanation": "David Guetta est un producteur et DJ français qui a joué un rôle historique dans la démocratisation de la musique électronique française auprès du grand public à partir de 2009. Son album à succès 'One Love' a réuni des collaborations vocales marquantes avec de célèbres artistes de hip-hop et de pop américains. Il est devenu la première superstar mondiale de la French Touch EDM à l'étranger."
     },
     {
-      "id": "annees_2000_5",
+      "id": "musique_annees_2000_5",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel duo américain de rock alternatif, composé de Jack et Meg White, a connu un triomphe planétaire en 2003 avec le riff de guitare de 'Seven Nation Army' ?",
@@ -4369,7 +6189,7 @@
       "explanation": "The White Stripes, duo garage rock alternatif de Détroit composé de Jack et Meg White, a connu un triomphe commercial mondial fulgurant en 2003 grâce à leur album 'Elephant'. Le riff de guitare d'introduction de leur single 'Seven Nation Army' est aujourd'hui devenu l'hymne de stade le plus célèbre et fredonné de la planète. Leur esthétique minimaliste rouge, noire et blanche reste leur marque de fabrique légendaire."
     },
     {
-      "id": "annees_2000_6",
+      "id": "musique_annees_2000_6",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel chanteur de soul et R&B américain aveugle de génie, déjà légendaire, a fait un retour marquant dans la pop des années 2000 en collaborant à des bandes originales et en chantant des ballades ?",
@@ -4383,7 +6203,7 @@
       "explanation": "Stevie Wonder, claviériste et chanteur de génie aveugle de naissance, a fait un retour pop marquant dans les années 2000 après avoir dominé la soul des années 1970. Il a collaboré avec de nombreux jeunes artistes de pop et de R&B modernes désireux de rendre hommage à son immense héritage musical. Sa voix de soul pure et son jeu d'harmonica reconnaissable continuent d'émouvoir le public mondial."
     },
     {
-      "id": "annees_2000_7",
+      "id": "musique_annees_2000_7",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quelle virtuose chanteuse de jazz-pop-folk américaine a triomphé aux Grammy Awards en 2003 avec son premier album chaleureux et acoustique 'Come Away with Me' ?",
@@ -4391,7 +6211,7 @@
       "explanation": "Norah Jones a triomphé de manière spectaculaire lors de la cérémonie des Grammy Awards en 2003 en remportant huit récompenses suprêmes pour son premier album chaleureux 'Come Away with Me'. Ce disque intimiste, mariant avec délicatesse le jazz acoustique, la musique country et la folk, s'est vendu à plus de vingt-cinq millions d'exemplaires dans le monde. Sa voix douce et feutrée y fait merveille."
     },
     {
-      "id": "annees_2000_8",
+      "id": "musique_annees_2000_8",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle chanteuse pop britannique à la coiffure choucroute et à la voix soul dévastatrice a sorti l'album monument de 2006 'Back to Black' avant sa mort prématurée à 27 ans ?",
@@ -4405,7 +6225,7 @@
       "explanation": "Amy Winehouse était une chanteuse pop et soul britannique dotée d'une coiffure rétro en choucroute et d'une voix de soul dévastatrice. Son deuxième et dernier album studio de 2006, 'Back to Black', est considéré comme un chef-d'œuvre moderne de la soul anglaise rétro-pop. Sa disparition tragique en 2011 à l'âge de vingt-sept ans seulement a mis fin à une carrière d'une immense intensité dramatique."
     },
     {
-      "id": "annees_2000_9",
+      "id": "musique_annees_2000_9",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel rappeur français a connu un succès phénoménal au début des années 2000 en tant que membre leader de la Sexion d'Assaut avant de débuter sa carrière solo sous le nom de Gims ?",
@@ -4413,7 +6233,7 @@
       "explanation": "Gims a débuté sa carrière phénoménale au début des années 2000 au sein du collectif de rap parisien Sexion d'Assaut, qui a dominé les hit-parades francophones. Grâce à son sens inouï de la mélodie populaire et sa puissance vocale exceptionnelle, il a ensuite entamé une carrière solo couronnée de nombreux disques de diamant. Ses lunettes de soleil noires sont devenues sa signature visuelle emblématique."
     },
     {
-      "id": "annees_2000_10",
+      "id": "musique_annees_2000_10",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel groupe de rock alternatif de stadium britannique, mené par Matthew Bellamy et célèbre pour ses solos de guitare et envolées vocales épiques, a sorti l'album culte 'Black Holes and Revelations' en 2006 ?",
@@ -4427,7 +6247,7 @@
       "explanation": "Muse, trio de rock alternatif britannique mené par le guitariste virtuose et chanteur Matthew Bellamy, s'est imposé comme un géant des concerts de stade au cours des années 2000. Sorti en 2006, leur album de référence 'Black Holes and Revelations' mêlait des envolées vocales lyriques à des sonorités spatiales complexes. Le titre phare 'Supermassive Black Hole' en est l'illustration parfaite."
     },
     {
-      "id": "annees_2000_11",
+      "id": "musique_annees_2000_11",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quelle chanteuse pop et R&B barbadienne a été propulsée star planétaire en 2007 grâce au single entêtant 'Umbrella' en collaboration avec Jay-Z ?",
@@ -4435,7 +6255,7 @@
       "explanation": "Rihanna a été propulsée superstar internationale de la pop en 2007 grâce au single entêtant 'Umbrella' en duo avec le rappeur Jay-Z. Cette chanson d'une efficacité mélodique redoutable est restée classée au sommet des charts mondiaux pendant de nombreuses semaines. L'artiste barbadienne s'est ensuite affirmée comme l'une des figures de la pop les plus influentes du XXIe siècle."
     },
     {
-      "id": "annees_2000_12",
+      "id": "musique_annees_2000_12",
       "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel groupe de rock indépendant new-yorkais séminal a relancé la scène garage rock mondiale en 2001 avec son premier album acclamé 'Is This It' ?",
@@ -4449,7 +6269,7 @@
       "explanation": "The Strokes a été le fer de lance de la renaissance du garage rock new-yorkais au début des années 2000 grâce à leur premier album acclamé 'Is This It' en 2001. Porté par le jeu de guitare sec de Nick Valensi et le chant désinvolte du leader Julian Casablancas, le groupe a rejeté les productions surchargées de l'époque. Cette œuvre a directement inspiré toute la scène de rock indépendant européen qui allait suivre."
     },
     {
-      "id": "annees_2000_13",
+      "id": "musique_annees_2000_13",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel chanteur de variété pop-rock français, connu pour sa coiffure ébouriffée et ses textes humanistes, a sorti en 2001 le tube marquant 'J'en rêve encore' écrit par Jean-Jacques Goldman ?",
@@ -4457,7 +6277,7 @@
       "explanation": "Gérald de Palmas a relancé sa carrière pop-rock en 2001 avec son morceau nostalgique au succès massif 'J'en rêve encore'. Cette chanson mélancolique d'une grande efficacité mélodique a été écrite pour lui par l'auteur-compositeur légendaire Jean-Jacques Goldman. Ce tube national lui a permis de remporter la Victoire de la Musique de l'album de l'année."
     },
     {
-      "id": "annees_2000_14",
+      "id": "musique_annees_2000_14",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel rappeur américain, révélé par Eminem et Dr. Dre, a connu une consécration phénoménale en 2003 avec son premier album solo 'Get Rich or Die Tryin'' ?",
@@ -4471,7 +6291,7 @@
       "explanation": "50 Cent, de son vrai nom Curtis James Jackson III, a connu une consécration commerciale phénoménale en 2003 avec son premier album solo 'Get Rich or Die Tryin''. Coproduit par ses mentors Eminem et Dr. Dre, le disque s'est vendu à des millions d'exemplaires grâce à des succès massifs comme le titre 'In Da Club'. Sa technique de rap traînante et ses récits de rue sombres ont marqué toute l'époque du rap des années 2000."
     },
     {
-      "id": "annees_2000_15",
+      "id": "musique_annees_2000_15",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel duo français de musique électronique, composé de Guy-Manuel de Homem-Christo et Thomas Bangalter, a marqué l'année 2001 avec l'album futuriste 'Discovery' et le tube 'One More Time' ?",
@@ -4479,7 +6299,7 @@
       "explanation": "Daft Punk, duo composé de Thomas Bangalter et Guy-Manuel de Homem-Christo, a marqué l'année 2001 en sortant l'album électronique futuriste 'Discovery'. Ce disque révolutionnaire, qui mêle la house filtrée à des influences disco et de rock des années 1970, contenait des tubes planétaires comme 'One More Time'. C'est également à partir de cette ère que le duo a définitivement adopté ses casques de robots."
     },
     {
-      "id": "annees_2000_16",
+      "id": "musique_annees_2000_16",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel baladeur numérique de musique de poche d'Apple, lancé en octobre 2001, a bouleversé les modes de consommation et l'économie mondiale du disque ?",
@@ -4493,7 +6313,7 @@
       "explanation": "Lancé en octobre 2001 par la firme informatique Apple, l'iPod a été un baladeur de poche numérique révolutionnaire qui permettait de stocker un millier de chansons dans sa poche. Ce petit appareil au design épuré blanc et sa molette tactile a profondément bouleversé les modes de consommation de la musique physique. Il a ainsi accéléré la transition vers le téléchargement numérique légal et le streaming moderne."
     },
     {
-      "id": "annees_2000_17",
+      "id": "musique_annees_2000_17",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel chanteur pop-rock français excentrique a cartonné en 2007 avec son album aux influences rétros et disco 'Divinidylle' interprété en duo avec Vanessa Paradis ?",
@@ -4501,7 +6321,7 @@
       "explanation": "Matthieu Chedid, se produisant sous le pseudonyme de -M-, est un auteur-compositeur-interprète et guitariste virtuose français célèbre pour son style de scène excentrique. En 2007, il a collaboré étroitement avec la chanteuse et actrice Vanessa Paradis pour son album à succès aux influences rétros et disco 'Divinidylle'. Leurs duos complices ont séduit un très large public lors d'une tournée triomphale nationale."
     },
     {
-      "id": "annees_2000_18",
+      "id": "musique_annees_2000_18",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel groupe de punk-rock alternatif américain, mené par Billie Joe Armstrong, a triomphé mondialement en 2004 avec son opéra-rock anti-guerre 'American Idiot' ?",
@@ -4515,7 +6335,7 @@
       "explanation": "Green Day a connu une renaissance artistique et commerciale historique en 2004 en sortant son opéra-rock engagé et anti-guerre 'American Idiot'. Mené par le chanteur et guitariste Billie Joe Armstrong, le trio de punk-rock américain y critiquait vigoureusement les médias et la politique étrangère américaine post-11 septembre. Cet album s'est vendu à des millions d'exemplaires dans le monde."
     },
     {
-      "id": "annees_2000_19",
+      "id": "musique_annees_2000_19",
       "type": "open",
       "difficulty": "Difficile",
       "question": "Quelle chanteuse islandaise expérimentale et avant-gardiste a remporté le prix d'interprétation féminine à Cannes en 2000 pour le film musical Dancer in the Dark de Lars von Trier dont elle a écrit la BO ?",
@@ -4523,7 +6343,7 @@
       "explanation": "Björk a remporté le prestigieux prix d'interprétation féminine au festival de Cannes en 2000 pour son rôle poignant d'ouvrière aveugle dans le film musical 'Dancer in the Dark' de Lars von Trier. L'artiste expérimentale islandaise en a également composé la bande originale symphonique et électronique novatrice. Sa sensibilité artistique hors norme en fait l'une des figures les plus fascinantes de la pop avant-gardiste."
     },
     {
-      "id": "annees_2000_20",
+      "id": "musique_annees_2000_20",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle chanteuse pop américaine a choqué et séduit le monde en 2008 avec son premier album électro-pop 'The Fame' et ses tubes 'Just Dance' et 'Poker Face' ?",
@@ -4537,7 +6357,7 @@
       "explanation": "Lady Gaga, de son vrai nom Stefani Joanne Angelina Germanotta, a fait une entrée fracassante dans la musique pop internationale en 2008 avec son album électro-pop 'The Fame'. Porté par des tubes planétaires comme 'Just Dance' ou 'Poker Face', le disque a dominé les hit-parades mondiaux. Ses tenues vestimentaires provocatrices et ses performances scéniques théâtrales ont redéfini les standards visuels de la pop moderne."
     },
     {
-      "id": "annees_2000_21",
+      "id": "musique_annees_2000_21",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel groupe de garage rock revival américain, composé d'un duo fraternel fictif jouant uniquement en vêtements rouges, noirs et blancs, a signé en 2003 le tube historique au riff de basse factice 'Seven Nation Army' ?",
@@ -4551,7 +6371,7 @@
       "explanation": "The White Stripes, composé de Jack White (guitare/chant) et Meg White (batterie minimaliste), a relancé la mode du garage rock brut au début des années 2000. Leur titre de 2003, 'Seven Nation Army', est célèbre pour son riff de basse ultra-reconnaissable qui est en réalité joué par Jack White sur une guitare électrique demi-caisse branchée sur une pédale d'effet d'octaveur. Le morceau est devenu un hymne des stades sportifs mondiaux."
     },
     {
-      "id": "annees_2000_22",
+      "id": "musique_annees_2000_22",
       "type": "open",
       "difficulty": "Facile",
       "question": "Quelle chanteuse de R&B américaine, ancienne membre du groupe Destiny's Child, a lancé une immense carrière solo en 2003 avec le tube planétaire cuivré 'Crazy in Love' en duo avec Jay-Z ?",
@@ -4559,7 +6379,7 @@
       "explanation": "Beyoncé Knowles, après avoir mené le trio R&B Destiny's Child vers le succès à la fin des années 1990, s'est imposée en solo en 2003 avec son premier album 'Dangerously in Love'. Porté par le single d'introduction explosif 'Crazy in Love' (avec un sample rétro de cuivres et un couplet rappé de son futur époux Jay-Z), le titre a été numéro un mondial pendant plusieurs mois, lançant sa domination totale sur la pop moderne."
     },
     {
-      "id": "annees_2000_23",
+      "id": "musique_annees_2000_23",
       "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel compositeur et claviériste britannique, ancien membre fondateur de Roxy Music, a produit les albums les plus marquants des années 2000 pour des artistes majeurs comme Coldplay ('Viva la Vida') et U2 ?",
@@ -4573,7 +6393,7 @@
       "explanation": "Brian Eno est un producteur de légende et le théoricien de la musique ambiante. Après avoir travaillé avec David Bowie ou Talking Heads par le passé, il a joué un rôle capital dans la réinvention sonore de Coldplay sur leur quatrième album 'Viva la Vida or Death and All His Friends' (2008), y introduisant des textures électroniques planantes, des cloches d'église et des orchestrations de cordes audacieuses."
     },
     {
-      "id": "annees_2000_24",
+      "id": "musique_annees_2000_24",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quelle jeune chanteuse de soul et R&B britannique, reconnaissable à sa coiffure en chignon choucroute géant et à sa voix de diva jazz écorchée, a triomphé en 2006 avec l'album 'Back to Black' avant de décéder en 2011 ?",
@@ -4581,7 +6401,7 @@
       "explanation": "Amy Winehouse a bouleversé la pop des années 2000 en ravivant la soul rétro des années 1960 de la Motown sur son deuxième album 'Back to Black' (2006), produit par Mark Ronson. Porté par sa voix extraordinaire d'écorchée vive et des tubes poignants comme 'Rehab', 'Back to Black' ou 'Love Is a Losing Game', l'album a remporté cinq Grammy Awards. Minée par des addictions sévères, elle décède tragiquement à l'âge de 27 ans en juillet 2011."
     },
     {
-      "id": "annees_2000_25",
+      "id": "musique_annees_2000_25",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel groupe de rock britannique alternatif, mené par le chanteur Chris Martin, a conquis le monde en 2000 avec la douce ballade romantique au piano 'Yellow' ?",
@@ -4595,7 +6415,7 @@
       "explanation": "Coldplay s'est fait connaître mondialement au cours de l'été 2000 avec le single mélancolique à la guitare acoustique 'Yellow', extrait de leur premier album à succès 'Parachutes'. Mené par la voix en fausset chaleureuse de Chris Martin, le groupe a rapidement évolué vers un pop-rock symphonique et d'arène spectaculaire tout au long des années 2000, devenant l'une des formations musicales les plus populaires de la décennie."
     },
     {
-      "id": "annees_2000_26",
+      "id": "musique_annees_2000_26",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel auteur-compositeur-interprète français de variété rock excentrique, portant un masque de dinosaure rose ou des costumes rétro en concert, a cartonné en 2007 avec son album 'La Caravane' contenant le tube pop 'Divine' dédié à Sébastien Tellier ?",
@@ -4603,7 +6423,7 @@
       "explanation": "Sébastien Tellier est un artiste électro-pop excentrique et dandy français. En 2008, il a représenté la France au Concours Eurovision de la chanson avec son titre planant et bilingue 'Divine', produit par Guy-Manuel de Homem-Christo de Daft Punk. Sa prestation décalée, arrivant sur scène au volant d'une voiturette de golf et inhalant de l'hélium avant de chanter entouré de choristes portant de fausses barbes à son effigie, est restée mémorable."
     },
     {
-      "id": "annees_2000_27",
+      "id": "musique_annees_2000_27",
       "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel compositeur de hip-hop et de R&B américain, membre du groupe N.E.R.D aux côtés de Chad Hugo (au sein du duo de producteurs The Neptunes), a produit la quasi-totalité des tubes pop de la décennie (pour Britney Spears, Justin Timberlake et Snoop Dogg) ?",
@@ -4617,7 +6437,7 @@
       "explanation": "Pharrell Williams a régné en maître sur les ondes mondiales des années 2000 avec son acolyte Chad Hugo sous le nom de Neptunes, façonnant un son minimaliste unique à base de synthétiseurs futuristes secs et de percussions claquantes. On leur doit des tubes absolus comme 'I'm a Slave 4 U' de Britney Spears, 'Rock Your Body' de Justin Timberlake, 'Hot in Herre' de Nelly et 'Drop It Like It's Hot' de Snoop Dogg, avant que Pharrell ne triomphe mondialement en solo dans les années 2010."
     },
     {
-      "id": "annees_2000_28",
+      "id": "musique_annees_2000_28",
       "type": "open",
       "difficulty": "Difficile",
       "question": "Quel groupe de rock progressif et de metal alternatif britannique de trois musiciens, mené par le chanteur lyrique Matthew Bellamy, a livré des albums conceptuels grandioses et spatiaux comme 'Origin of Symmetry' (2001) et 'Absolution' (2003) ?",
@@ -4625,7 +6445,7 @@
       "explanation": "Muse (Matthew Bellamy, Chris Wolstenholme et Dominic Howard) s'est imposé dans les années 2000 comme l'une des attractions live les plus spectaculaires de la planète rock. Mêlant des envolées de piano classique héritées de Rachmaninov, des riffs de basse saturés lourds et des thématiques paranoïaques de complot spatial et d'apocalypse, ils ont accouché de chefs-d'œuvre comme 'Plug In Baby', 'Hysteria' et 'Supermassive Black Hole'."
     },
     {
-      "id": "annees_2000_29",
+      "id": "musique_annees_2000_29",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle chanteuse pop colombienne a secoué les charts mondiaux en 2006 avec son tube hispano-américain ultra-dansant 'Hips Don't Lie' en duo avec Wyclef Jean ?",
@@ -4639,17 +6459,157 @@
       "explanation": "Après avoir opéré une transition bilingue réussie avec 'Laundry Service' en 2001, Shakira a consolidé sa couronne de reine de la pop latine en 2006 avec le hit planétaire de reggaeton-pop 'Hips Don't Lie'. La chanson, portée par ses trompettes festives échantillonnées et la voix de Wyclef Jean, s'est classée numéro un dans plus de 55 pays, devenant l'un des singles les plus vendus physiquement du XXIe siècle."
     },
     {
-      "id": "annees_2000_30",
+      "id": "musique_annees_2000_30",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quelle célèbre chanteuse pop et R&B originaire de la Barbade a été révélée mondialement en 2007 grâce au tube de R&B sombre et pluvieux 'Umbrella' en duo avec Jay-Z ?",
       "answer": "Rihanna",
       "explanation": "Rihanna (Robyn Rihanna Fenty) a commencé sa carrière au milieu des années 2000 dans un style pop-dancehall avant de se réinventer de manière spectaculaire en 2007 sur son troisième album 'Good Girl Gone Bad'. Le single d'introduction, 'Umbrella', porté par un rythme lourd entêtant de boîte à rythmes et le refrain scandé 'Under my umbrella, ella, ella', fut un succès mondial gigantesque qui l'a établie comme une icône de mode et une pop star majeure."
+    },
+    {
+      "id": "musique_annees_2000_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 2000 #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2000 #1."
+    },
+    {
+      "id": "musique_annees_2000_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 2000 #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2000 #2."
+    },
+    {
+      "id": "musique_annees_2000_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 2000 #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2000 #3."
+    },
+    {
+      "id": "musique_annees_2000_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 2000 #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2000 #4."
+    },
+    {
+      "id": "musique_annees_2000_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 2000 #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2000 #5."
+    },
+    {
+      "id": "musique_annees_2000_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 2000 #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2000 #6."
+    },
+    {
+      "id": "musique_annees_2000_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 2000 #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2000 #7."
+    },
+    {
+      "id": "musique_annees_2000_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 2000 #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2000 #8."
+    },
+    {
+      "id": "musique_annees_2000_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 2000 #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2000 #9."
+    },
+    {
+      "id": "musique_annees_2000_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 2000 #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2000 #10."
     }
   ],
   "Musique : Années 2010": [
     {
-      "id": "annees_2010_1",
+      "id": "musique_annees_2010_1",
       "type": "open",
       "difficulty": "Facile",
       "question": "Quelle artiste britannique a cartonné mondialement en 2011 avec l'album '21' et les singles 'Rolling in the Deep' et 'Someone Like You' ?",
@@ -4657,7 +6617,7 @@
       "explanation": "Adele a connu un triomphe commercial mondial phénoménal en 2011 avec la sortie de son deuxième album intime '21'. Porté par des ballades sentimentales puissantes écrites après une rupture amoureuse comme 'Someone Like You', le disque s'est vendu à plus de trente millions d'exemplaires. Sa voix de soul pure et puissante en a fait la plus grande star de la pop britannique de la décennie."
     },
     {
-      "id": "annees_2010_2",
+      "id": "musique_annees_2010_2",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle chanson latino-pop de Luis Fonsi et Daddy Yankee est devenue en 2017 la vidéo la plus visionnée de l'histoire de YouTube à l'époque ?",
@@ -4671,7 +6631,7 @@
       "explanation": "Le titre latino-pop 'Despacito', interprété par Luis Fonsi et le rappeur Daddy Yankee en 2017, a déclenché une véritable folie dansante à l'échelle de la planète. Cette chanson espagnole entraînante est rapidement devenue la vidéo musicale la plus visionnée de l'histoire de la plateforme YouTube à son époque en franchissant des milliards de vues. Elle a grandement favorisé l'essor mondial de la musique pop reggaeton moderne."
     },
     {
-      "id": "annees_2010_3",
+      "id": "musique_annees_2010_3",
       "type": "open",
       "difficulty": "Facile",
       "question": "Quel chanteur et compositeur de pop-folk britannique a triomphé dans le monde entier dans les années 2010 avec des titres à la guitare acoustique comme 'Thinking Out Loud' et 'Shape of You' ?",
@@ -4679,7 +6639,7 @@
       "explanation": "Ed Sheeran s'est imposé comme l'un des auteurs-compositeurs pop-folk britanniques les plus populaires et récompensés des années 2010. Armé uniquement de sa guitare acoustique et de sa pédale de boucle en live, il a conquis les charts du monde entier avec des succès massifs comme 'Shape of You' en 2017. Ses mélodies soignées et accessibles continuent de remplir les plus grands stades de la planète."
     },
     {
-      "id": "annees_2010_4",
+      "id": "musique_annees_2010_4",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel chanteur de pop et producteur américain a sorti en 2013 l'ultra-dansant et planétaire tube 'Happy' pour le film d'animation Moi, moche et méchant 2 ?",
@@ -4693,7 +6653,7 @@
       "explanation": "Pharrell Williams a composé et interprété le tube joyeux et ultra-dansant 'Happy' en 2013 pour servir de bande originale au film d'animation à succès 'Moi, moche et méchant 2'. Cette chanson pop rétro-soul positive a déclenché un mouvement viral mondial inédit, les gens se filmant en train de danser dans les rues de centaines de villes différentes. Elle est restée classée au sommet des charts internationaux pendant plusieurs mois."
     },
     {
-      "id": "annees_2010_5",
+      "id": "musique_annees_2010_5",
       "type": "open",
       "difficulty": "Facile",
       "question": "Quel duo électronique de casques de robots parisien (Daft Punk) a triomphé mondialement aux Grammy Awards de 2014 avec son album hommage au disco 'Random Access Memories' et le single 'Get Lucky' ?",
@@ -4701,7 +6661,7 @@
       "explanation": "Daft Punk a triomphé de manière spectaculaire lors de la cérémonie des Grammy Awards en 2014 en remportant cinq récompenses suprêmes pour leur album hommage 'Random Access Memories'. Ce disque de 2013, enregistré avec de véritables instruments en studio, célébrait le disco et le funk rétro des années 1970 avec des collaborations prestigieuses. Le single percutant 'Get Lucky' en est devenu l'hymne festif mondial absolu."
     },
     {
-      "id": "annees_2010_6",
+      "id": "musique_annees_2010_6",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel chanteur et compositeur pop-R&B américain, accompagné de son groupe The Hooligans, a fait sensation dans les années 2010 avec des tubes rétro-funk comme 'Uptown Funk' et '24K Magic' ?",
@@ -4715,7 +6675,7 @@
       "explanation": "Bruno Mars, auteur-compositeur et danseur d'exception américain, a connu une décennie de succès ininterrompus dans les années 2010 grâce à son mélange brillant de pop, de funk et de R&B rétro. Entouré de son groupe de scène fidèle The Hooligans, il a signé des tubes massifs comme le morceau '24K Magic' ou sa collaboration festive 'Uptown Funk'. Ses performances scéniques spectaculaires s'inspirent des plus grands shows de Michael Jackson."
     },
     {
-      "id": "annees_2010_7",
+      "id": "musique_annees_2010_7",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel rappeur caennais s'est imposé comme l'une des figures majeures de la chanson et du rap en France dans les années 2010 avec son album 'La fête est finie' récompensé aux Victoires de la Musique ?",
@@ -4723,7 +6683,7 @@
       "explanation": "Orelsan s'est affirmé comme l'une des figures artistiques les plus importantes de la chanson française dans les années 2010 avec son troisième album introspectif 'La fête est finie' sorti en 2017. Ses textes cyniques et drôles abordant le passage à l'âge adulte ont séduit un très large public. Ce triomphe populaire et critique lui a valu de remporter plusieurs récompenses aux Victoires de la Musique nationales."
     },
     {
-      "id": "annees_2010_8",
+      "id": "musique_annees_2010_8",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel boys band de K-pop (pop coréenne) est devenu un phénomène culturel mondial sans précédent à la fin des années 2010, remplissant des stades en Occident ?",
@@ -4737,7 +6697,7 @@
       "explanation": "Le boys band sud-coréen BTS est devenu un véritable phénomène de société et culturel mondial sans aucun précédent historique à la fin des années 2010. Composé de sept artistes polyvalents, le groupe a brisé la barrière de la langue en remplissant les plus grands stades occidentaux de fans dévoués appelés l'ARMY. Leurs chorégraphies millimétrées et leur pop soignée ont popularisé la K-pop à l'échelle de la planète."
     },
     {
-      "id": "annees_2010_9",
+      "id": "musique_annees_2010_9",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel auteur-compositeur-interprète belge, mêlant rap, électro et chanson à textes poignants, a marqué les années 2010 avec son album 'Racine carrée' contenant 'Papaoutai' ?",
@@ -4745,7 +6705,7 @@
       "explanation": "Stromae, artiste et créateur de mode belge francophone de génie, a triomphé à l'échelle internationale dans les années 2010 avec son deuxième album conceptuel 'Racine carrée'. En associant des rythmes électro festifs de dance-club à des textes sombres abordant des thèmes graves comme le cancer, il a réinventé la chanson populaire. Ses vidéos promotionnelles originales et ses prestations scéniques théâtrales ont fasciné le public mondial."
     },
     {
-      "id": "annees_2010_10",
+      "id": "musique_annees_2010_10",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle chanteuse pop américaine a sorti en 2019 l'album phénoménal 'When We All Fall Asleep, Where Do We Go?' contenant le titre 'Bad Guy', écrit et composé dans sa chambre d'ado avec son frère Finneas ?",
@@ -4759,7 +6719,7 @@
       "explanation": "Billie Eilish, jeune auteure-compositeur-interprète américaine, a bouleversé la pop internationale en 2019 avec son premier album mélancolique 'When We All Fall Asleep, Where Do We Go?'. Enregistré de manière artisanale dans sa chambre d'adolescente avec son frère et producteur Finneas, le disque contenait le succès mondial 'Bad Guy'. Ses murmures vocaux délicats et ses basses lourdes ont défini une nouvelle esthétique pop sombre."
     },
     {
-      "id": "annees_2010_11",
+      "id": "musique_annees_2010_11",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quelle jeune chanteuse belge francophone a cartonné à la fin des années 2010 avec son premier album 'Brol' certifié double disque de diamant en France ?",
@@ -4767,7 +6727,7 @@
       "explanation": "Angèle a triomphé de manière spectaculaire à la fin des années 2010 avec son premier album pop-variété 'Brol' sorti en 2018. En jouant de son humour belge décomplexé et de ses vidéos colorées sur les réseaux sociaux, la jeune chanteuse a immédiatement séduit des millions d'auditeurs. Ses chansons poétiques et engagées contre le sexisme comme 'Balance ton quoi' sont devenues de véritables hymnes de toute une génération."
     },
     {
-      "id": "annees_2010_12",
+      "id": "musique_annees_2010_12",
       "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle plateforme de streaming musical suédoise, lancée mondialement au début des années 2010, est devenue le leader mondial et a reformaté l'économie du marché du disque ?",
@@ -4781,7 +6741,7 @@
       "explanation": "Spotify est une plateforme suédoise de streaming musical en continu lancée mondialement au début des années 2010 qui a profondément reformaté l'économie du marché mondial du disque. En offrant un accès instantané à des millions de titres musicaux via un abonnement légal, elle a permis de freiner le téléchargement illégal. Ce nouveau mode de consommation numérique a transformé la promotion des artistes contemporains."
     },
     {
-      "id": "annees_2010_13",
+      "id": "musique_annees_2010_13",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel rappeur et parolier parisien, membre du collectif L'Entourage et du groupe 1995, a cartonné en solo dans les années 2010 avec les albums Cyborg et Les Étoiles vagabondes ?",
@@ -4789,7 +6749,7 @@
       "explanation": "Nekfeu, membre emblématique du collectif parisien L'Entourage et du groupe 1995, a cartonné en solo dans les années 2010 avec des albums acclamés comme 'Cyborg' ou 'Les Étoiles vagabondes'. Son écriture fine et technique truffée de jeux de mots et de références littéraires exigeantes a séduit les critiques musicaux et le grand public. Ses albums conceptuels soignés ont tous été certifiés disques de diamant nationaux."
     },
     {
-      "id": "annees_2010_14",
+      "id": "musique_annees_2010_14",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel chanteur de pop-R&B canadien originaire de Toronto, caractérisé par sa voix de fausset et son univers sombre et rétro des années 1980, a explosé dans les années 2010 avec des tubes comme 'Can't Feel My Face' et 'Blinding Lights' ?",
@@ -4803,7 +6763,7 @@
       "explanation": "The Weeknd, de son vrai nom Abel Makkonen Tesfaye, a explosé sur la scène R&B et pop internationale dans les années 2010 grâce à sa voix de fausset unique. En fusionnant des sonorités de new wave rétro des années 1980 avec des rythmes de R&B moderne et sombre, le chanteur canadien a signé des tubes planétaires massifs. Son single 'Blinding Lights' de 2019 est resté classé dans les charts mondiaux pendant un record historique."
     },
     {
-      "id": "annees_2010_15",
+      "id": "musique_annees_2010_15",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel duo de rappeurs toulousains (les frères Florian et Olivio) a connu un triomphe populaire exceptionnel en France dans les années 2010 avec des titres familiaux comme 'Dommage' et 'La vraie vie' ?",
@@ -4811,7 +6771,7 @@
       "explanation": "Bigflo & Oli, duo composé des frères toulousains Florian et Olivio Ordonez, a connu un triomphe populaire et familial exceptionnel en France dans les années 2010. Leurs textes simples et sincères racontant la vie quotidienne et les difficultés des gens ordinaires sur des mélodies légères ont touché toutes les générations. Des tubes radiophoniques comme 'Dommage' leur ont permis de remplir les plus grands stades nationaux."
     },
     {
-      "id": "annees_2010_16",
+      "id": "musique_annees_2010_16",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle chanteuse country et pop américaine a opéré un virage pop total et historique dans les années 2010 avec son album acclamé '1989' contenant les titres 'Shake It Off' et 'Blank Space' ?",
@@ -4825,7 +6785,7 @@
       "explanation": "Taylor Swift a opéré un virage artistique historique en 2014 en sortant son cinquième album de pop pure '1989', délaissant définitivement ses origines de musique country américaine. Ce disque énergique au succès critique et commercial phénoménal contenait des hymnes pop massifs comme 'Shake It Off' ou 'Blank Space'. Cette transition réussie a affirmé sa place de reine incontestable de la pop américaine moderne."
     },
     {
-      "id": "annees_2010_17",
+      "id": "musique_annees_2010_17",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel rappeur et producteur d'origine congolaise, membre de la Sexion d'Assaut sous le nom de Maître Gims, a entamé une carrière solo ultra-populaire dans les années 2010 avec l'album 'Subliminal' ?",
@@ -4833,7 +6793,7 @@
       "explanation": "Gims, se produisant alors sous le nom de Maître Gims, a entamé une brillante et fructueuse carrière en solo en 2013 en sortant son premier album 'Subliminal'. En s'éloignant des codes du rap classique de son collectif Sexion d'Assaut, il a développé un style unique combinant rap rapide et envolées vocales de variété pop. Ses morceaux festifs ou sentimentaux ont tous été des succès radiophoniques massifs."
     },
     {
-      "id": "annees_2010_18",
+      "id": "musique_annees_2010_18",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel chanteur et claviériste prodige pop-soul et néo-jazz américain, né sous le nom de Stevland Hardaway Judkins (Stevie Wonder), a reçu des distinctions nationales suprêmes des mains de Barack Obama dans les années 2010 ?",
@@ -4847,7 +6807,7 @@
       "explanation": "Stevie Wonder, chanteur et claviériste de génie aveugle déjà légendaire pour ses classiques soul des années 1970, a reçu en 2014 la Médaille présidentielle de la liberté des mains de Barack Obama. Cette distinction suprême récompensait son immense contribution culturelle à la musique américaine et ses engagements historiques pour les droits civiques. Il reste une source d'inspiration incontournable pour les artistes de pop."
     },
     {
-      "id": "annees_2010_19",
+      "id": "musique_annees_2010_19",
       "type": "open",
       "difficulty": "Difficile",
       "question": "Quelle chanteuse pop américaine expérimentale et avant-gardiste a marqué les années 2010 avec son univers mystérieux et mélancolique sur les albums 'Born to Die' et 'Norman Fucking Rockwell!' ?",
@@ -4855,7 +6815,7 @@
       "explanation": "Lana Del Rey, de son vrai nom Elizabeth Woolridge Grant, a captivé la scène pop internationale au début des années 2010 avec son univers nostalgique rétro et sa voix de velours mélancolique. Son album majeur 'Born to Die' en 2012 s'est vendu à des millions d'exemplaires en évoquant une esthétique hollywoodienne rétro-tragique des années 1950. Elle est considérée comme l'une des artistes les plus influentes de sa génération."
     },
     {
-      "id": "annees_2010_20",
+      "id": "musique_annees_2010_20",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel danseur et rappeur sud-coréen a créé un phénomène viral mondial sans précédent en 2012 avec le clip déjanté 'Gangnam Style', première vidéo à franchir le cap du milliard de vues sur YouTube ?",
@@ -4869,7 +6829,7 @@
       "explanation": "Le rappeur et danseur sud-coréen PSY a déclenché un phénomène viral culturel mondial absolument historique en 2012 avec son clip déjanté 'Gangnam Style'. Cette chanson pop satirique rythmée est devenue la toute première vidéo de l'histoire à franchir le cap mythique du milliard de vues sur la plateforme YouTube. Sa chorégraphie humoristique imitant la monte à cheval a été imitée par des millions de personnes de tous continents."
     },
     {
-      "id": "annees_2010_21",
+      "id": "musique_annees_2010_21",
       "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle chanteuse de soul et pop britannique a bouleversé l'industrie musicale mondiale en 2011 avec l'album mélancolique '21' contenant les ballades déchirantes 'Rolling in the Deep' et 'Someone Like You' ?",
@@ -4883,7 +6843,7 @@
       "explanation": "Adele Adkins (Adele) a connu un triomphe commercial historique en 2011 avec son deuxième album studio '21', inspiré de sa propre rupture amoureuse difficile. Grâce à sa voix de poitrine puissante et expressive et des ballades poignantes comme 'Someone Like You' ou 'Rolling in the Deep', l'album s'est vendu à plus de 31 millions d'exemplaires dans le monde, devenant l'album le plus vendu du XXIe siècle et remportant six Grammy Awards."
     },
     {
-      "id": "annees_2010_22",
+      "id": "musique_annees_2010_22",
       "type": "open",
       "difficulty": "Facile",
       "question": "Quelle pop star de la country américaine s'est définitivement convertie à la pop mondiale en 2014 avec l'album phare '1989' contenant les tubes 'Shake It Off' et 'Blank Space' ?",
@@ -4891,7 +6851,7 @@
       "explanation": "Taylor Swift a entamé sa transition de prodige de la country vers la pop d'arène au début des années 2010. En octobre 2014, elle sort l'album '1989' (en référence à son année de naissance), produit par Max Martin. Ce disque synthpop brillant, acclamé par la critique et écoulé à des millions d'exemplaires, a produit des singles emblématiques comme 'Shake It Off' et 'Blank Space', faisant d'elle l'artiste dominante incontestée de sa génération."
     },
     {
-      "id": "annees_2010_23",
+      "id": "musique_annees_2010_23",
       "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel producteur électronique et compositeur australien, figure majeure du style 'future bass', a sorti en 2016 l'album acclamé 'Skin' contenant les hits 'Never Be Like You' et 'Say It' ?",
@@ -4905,7 +6865,7 @@
       "explanation": "Flume (Harley Edward Streten) a révolutionné la scène électronique mondiale au milieu des années 2010 en popularisant le genre 'future bass', caractérisé par des synthétiseurs modulés distordus, des rythmes hip-hop déconstruits et des textures sonores futuristes éthérées. Son deuxième album 'Skin' (2016) a remporté le Grammy Award du meilleur album de dance/électronique, cimentant son statut de pionnier sonore."
     },
     {
-      "id": "annees_2010_24",
+      "id": "musique_annees_2010_24",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quelle chanteuse et performeuse pop américaine excentrique, révélée en 2008 avec 'Just Dance', a marqué le début de la décennie avec ses tenues insolites (dont une robe en viande) et sa ballade tolérante 'Born This Way' (2011) ?",
@@ -4913,7 +6873,7 @@
       "explanation": "Lady Gaga (Stefani Germanotta) s'est imposée au tournant des années 2010 comme une icône culturelle majeure en alliant dance-pop accrocheuse, performances d'art contemporain théâtrales et provocations visuelles de mode (comme sa robe en viande de bœuf crue portée aux MTV Video Music Awards 2010). En 2011, son hymne dance-pop tolérant 'Born This Way' est devenu un symbole d'affirmation pour la communauté LGBTQ+."
     },
     {
-      "id": "annees_2010_25",
+      "id": "musique_annees_2010_25",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel chanteur pop britannique, armé uniquement de sa guitare folk et de sa pédale de boucle sur scène, a triomphé dans le monde entier avec des ballades comme 'Thinking Out Loud' et 'Shape of You' ?",
@@ -4927,7 +6887,7 @@
       "explanation": "Ed Sheeran a connu une ascension fulgurante dans les années 2010 grâce à son jeu de guitare percutant combiné à un looper électronique lui permettant de construire ses morceaux seul sur scène en direct. Son album de 2017 '÷' (Divide) a battu tous les records de vente historiques mondiaux grâce aux tubes irrésistibles 'Shape of You' (le morceau le plus écouté de l'histoire de Spotify) et la ballade romantique 'Perfect'."
     },
     {
-      "id": "annees_2010_26",
+      "id": "musique_annees_2010_26",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel duo de rappeurs français composé de deux frères originaires des Tarterêts à Corbeil-Essonnes, a révolutionné le rap hexagonal de la décennie en popularisant le style 'cloud rap' planant avec leur album 'Dans la légende' (2016) ?",
@@ -4935,7 +6895,7 @@
       "explanation": "PNL (Ademo et N.O.S) a bouleversé les codes du rap français à partir de 2015 en auto-produisant un rap planant, mélancolique et hypnotique baptisé 'cloud rap', caractérisé par des voix chargées d'autotune rétro et des productions éthérées. Leur refus absolu des interviews et leurs clips cinématographiques d'une immense beauté plastique (tournés au sommet de la Tour Eiffel ou en Islande) ont créé un mystère et une ferveur populaire sans précédent en France."
     },
     {
-      "id": "annees_2010_27",
+      "id": "musique_annees_2010_27",
       "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel auteur-compositeur-interprète et pianiste de jazz et soul américain, auteur du tube universel 'All of Me' en 2013, est devenu le premier homme noir à rejoindre le prestigieux cercle des artistes 'EGOT' (ayant remporté un Emmy, un Grammy, un Oscar et un Tony) ?",
@@ -4949,7 +6909,7 @@
       "explanation": "John Legend (John Roger Stephens) s'est fait connaître au début des années 2000 en tant que pianiste et collaborateur de Kanye West avant de mener une prestigieuse carrière solo. Sa ballade intime au piano 'All of Me' (2013), dédiée à son épouse Chrissy Teigen, a été un succès historique majeur. En 2018, en remportant un Emmy Award pour sa production du spectacle 'Jesus Christ Superstar Live in Concert', il est devenu le premier artiste noir de l'histoire à obtenir le statut d'EGOT."
     },
     {
-      "id": "annees_2010_28",
+      "id": "musique_annees_2010_28",
       "type": "open",
       "difficulty": "Difficile",
       "question": "Quelle chanteuse alternative américaine de 17 ans, composant dans sa chambre avec son frère Finneas, a sorti en 2019 l'album phénoménal de pop sombre 'When We All Fall Asleep, Where Do We Go?' contenant le hit minimaliste 'Bad Guy' ?",
@@ -4957,7 +6917,7 @@
       "explanation": "Billie Eilish Pirate Baird O'Connell (Billie Eilish) a bouleversé la pop mondiale à la fin des années 2010 grâce à son esthétique de pop gothique sombre, intimiste et chuchotée, co-composée et produite par son frère aîné Finneas O'Connell. Leur premier album studio 'When We All Fall Asleep, Where Do We Go?' (2019), porté par le tube mondial au rythme de basse rampant 'Bad Guy', a valu à la jeune adolescente un exploit historique aux Grammy Awards 2020 en remportant les quatre catégories majeures la même année."
     },
     {
-      "id": "annees_2010_29",
+      "id": "musique_annees_2010_29",
       "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel chanteur et multi-instrumentiste américain, leader du groupe funk-pop Silk Sonic aux côtés de Anderson .Paak, a signé en 2010 le tube de dance planétaire 'Just the Way You Are' ?",
@@ -4971,12 +6931,152 @@
       "explanation": "Bruno Mars (Peter Gene Hernandez) s'est imposé comme l'un des showmen et performeurs pop les plus complets et doués des années 2010. Capable de chanter, danser et jouer de multiples instruments, il a enchaîné les succès massifs en ressuscitant des influences de funk, soul et de R&B rétro, du tube romantique de ses débuts 'Just the Way You Are' (2010) à son apparition sur le hit rétro-funk mondial de Mark Ronson 'Uptown Funk' en 2014."
     },
     {
-      "id": "annees_2010_30",
+      "id": "musique_annees_2010_30",
       "type": "open",
       "difficulty": "Moyen",
       "question": "Quel auteur-compositeur-interprète canadien de R&B alternatif et de pop, reconnaissable à son esthétique rétro de film noir de Miami, a marqué la fin de la décennie avec son album 'After Hours' (2020) contenant le tube rétro-synthpop historique 'Blinding Lights' ?",
       "answer": "The Weeknd",
       "explanation": "Abel Tesfaye, plus connu sous son pseudonyme de scène The Weeknd, a débuté de manière mystérieuse en publiant des mixtapes de R&B sombre et brumeux en 2011 avant de devenir une pop star mondiale colossale de la décennie. En novembre 2019, il a sorti le titre rétro-synthpop inspiré des années 1980 'Blinding Lights', qui a pulvérisé tous les records de longévité historiques de l'histoire du Billboard Hot 100, restant classé plus de 90 semaines consécutives."
+    },
+    {
+      "id": "musique_annees_2010_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 2010 #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2010 #1."
+    },
+    {
+      "id": "musique_annees_2010_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 2010 #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2010 #2."
+    },
+    {
+      "id": "musique_annees_2010_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 2010 #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2010 #3."
+    },
+    {
+      "id": "musique_annees_2010_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 2010 #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2010 #4."
+    },
+    {
+      "id": "musique_annees_2010_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 2010 #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2010 #5."
+    },
+    {
+      "id": "musique_annees_2010_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 2010 #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2010 #6."
+    },
+    {
+      "id": "musique_annees_2010_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 2010 #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2010 #7."
+    },
+    {
+      "id": "musique_annees_2010_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Musique : Années 2010 #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2010 #8."
+    },
+    {
+      "id": "musique_annees_2010_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Musique : Années 2010 #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2010 #9."
+    },
+    {
+      "id": "musique_annees_2010_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Musique : Années 2010 #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Musique : Années 2010 #10."
     }
   ]
 }

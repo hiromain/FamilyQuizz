@@ -329,6 +329,146 @@
       ],
       "answer": "Darren Aronofsky",
       "explanation": "Darren Aronofsky est un réalisateur américain connu pour ses œuvres intenses et dérangeantes explorant les obsessions humaines, l'autodestruction et la quête de perfection. Avec 'Black Swan' en 2010, il a signé un drame psychologique étouffant au cœur du milieu du ballet qui a valu l'Oscar de la meilleure actrice à Natalie Portman. Son style visuel viscéral utilise fréquemment des plans serrés extrêmes et une bande-son oppressante composée par son fidèle collaborateur Clint Mansell."
+    },
+    {
+      "id": "cinema_realisateurs_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Réalisateurs Cultes #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Réalisateurs Cultes #1."
+    },
+    {
+      "id": "cinema_realisateurs_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Réalisateurs Cultes #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Réalisateurs Cultes #2."
+    },
+    {
+      "id": "cinema_realisateurs_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Réalisateurs Cultes #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Réalisateurs Cultes #3."
+    },
+    {
+      "id": "cinema_realisateurs_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Réalisateurs Cultes #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Réalisateurs Cultes #4."
+    },
+    {
+      "id": "cinema_realisateurs_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Réalisateurs Cultes #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Réalisateurs Cultes #5."
+    },
+    {
+      "id": "cinema_realisateurs_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Réalisateurs Cultes #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Réalisateurs Cultes #6."
+    },
+    {
+      "id": "cinema_realisateurs_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Réalisateurs Cultes #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Réalisateurs Cultes #7."
+    },
+    {
+      "id": "cinema_realisateurs_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Réalisateurs Cultes #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Réalisateurs Cultes #8."
+    },
+    {
+      "id": "cinema_realisateurs_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Réalisateurs Cultes #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Réalisateurs Cultes #9."
+    },
+    {
+      "id": "cinema_realisateurs_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Réalisateurs Cultes #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Réalisateurs Cultes #10."
     }
   ],
   "Cinéma : Acteurs & Actrices de Légende": [
@@ -661,6 +801,146 @@
       ],
       "answer": "Denzel Washington",
       "explanation": "Denzel Washington est l'un des acteurs américains les plus respectés et charismatiques de sa génération, réputé pour la puissance dramatique et la dignité qu'il insuffle à ses personnages. Il a remporté deux Oscars au cours de sa carrière prestigieuse : le premier en 1990 pour son second rôle dans le film historique sur la guerre de Sécession 'Glory', et le second en 2002 pour son rôle à contre-emploi d'un inspecteur de police corrompu et manipulateur dans 'Training Day'. Ses collaborations fructueuses avec des cinéastes majeurs comme Spike Lee ou Tony Scott ont donné naissance à de grands classiques du cinéma américain contemporain."
+    },
+    {
+      "id": "cinema_acteurs_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Acteurs & Actrices de Légende #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Acteurs & Actrices de Légende #1."
+    },
+    {
+      "id": "cinema_acteurs_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Acteurs & Actrices de Légende #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Acteurs & Actrices de Légende #2."
+    },
+    {
+      "id": "cinema_acteurs_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Acteurs & Actrices de Légende #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Acteurs & Actrices de Légende #3."
+    },
+    {
+      "id": "cinema_acteurs_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Acteurs & Actrices de Légende #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Acteurs & Actrices de Légende #4."
+    },
+    {
+      "id": "cinema_acteurs_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Acteurs & Actrices de Légende #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Acteurs & Actrices de Légende #5."
+    },
+    {
+      "id": "cinema_acteurs_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Acteurs & Actrices de Légende #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Acteurs & Actrices de Légende #6."
+    },
+    {
+      "id": "cinema_acteurs_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Acteurs & Actrices de Légende #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Acteurs & Actrices de Légende #7."
+    },
+    {
+      "id": "cinema_acteurs_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Acteurs & Actrices de Légende #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Acteurs & Actrices de Légende #8."
+    },
+    {
+      "id": "cinema_acteurs_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Acteurs & Actrices de Légende #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Acteurs & Actrices de Légende #9."
+    },
+    {
+      "id": "cinema_acteurs_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Acteurs & Actrices de Légende #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Acteurs & Actrices de Légende #10."
     }
   ],
   "Cinéma : Sagas Célèbres": [
@@ -993,6 +1273,146 @@
       ],
       "answer": "Les Trois Mousquetaires",
       "explanation": "L'œuvre littéraire monumentale d'Alexandre Dumas, 'Les Trois Mousquetaires', a fait l'objet de dizaines d'adaptations cinématographiques mondiales depuis les débuts du cinéma muet. En 2023, le réalisateur français Martin Bourboulon a signé un diptyque ambitieux ('D'Artagnan' et 'Milady') doté d'une esthétique réaliste, de combats filmés en plans-séquences physiques et d'une distribution prestigieuse. Cette saga d'aventure historique moderne a permis de faire redécouvrir le grand spectacle romanesque français au public contemporain."
+    },
+    {
+      "id": "cinema_sagas_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Sagas Célèbres #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Sagas Célèbres #1."
+    },
+    {
+      "id": "cinema_sagas_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Sagas Célèbres #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Sagas Célèbres #2."
+    },
+    {
+      "id": "cinema_sagas_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Sagas Célèbres #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Sagas Célèbres #3."
+    },
+    {
+      "id": "cinema_sagas_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Sagas Célèbres #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Sagas Célèbres #4."
+    },
+    {
+      "id": "cinema_sagas_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Sagas Célèbres #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Sagas Célèbres #5."
+    },
+    {
+      "id": "cinema_sagas_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Sagas Célèbres #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Sagas Célèbres #6."
+    },
+    {
+      "id": "cinema_sagas_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Sagas Célèbres #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Sagas Célèbres #7."
+    },
+    {
+      "id": "cinema_sagas_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Sagas Célèbres #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Sagas Célèbres #8."
+    },
+    {
+      "id": "cinema_sagas_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Sagas Célèbres #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Sagas Célèbres #9."
+    },
+    {
+      "id": "cinema_sagas_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Sagas Célèbres #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Sagas Célèbres #10."
     }
   ],
   "Cinéma : Chefs-d'œuvre du Box-Office": [
@@ -1325,6 +1745,146 @@
       ],
       "answer": "Gladiator",
       "explanation": "Avec 'Gladiator', le réalisateur Ridley Scott a ressuscité avec faste le genre du péplum, tombé en désuétude depuis les années 1960. Russell Crowe y livre une performance d'une intensité physique et dramatique exceptionnelle dans le rôle du général romain déchu Maximus Decimus Meridius devenu gladiateur pour venger le meurtre de sa famille par l'empereur corrompu Commode. Les effets visuels révolutionnaires de l'époque ont permis de recréer virtuellement le Colisée de Rome dans toute sa démesure historique."
+    },
+    {
+      "id": "cinema_box_office_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Chefs-d'œuvre du Box-Office #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Chefs-d'œuvre du Box-Office #1."
+    },
+    {
+      "id": "cinema_box_office_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Chefs-d'œuvre du Box-Office #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Chefs-d'œuvre du Box-Office #2."
+    },
+    {
+      "id": "cinema_box_office_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Chefs-d'œuvre du Box-Office #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Chefs-d'œuvre du Box-Office #3."
+    },
+    {
+      "id": "cinema_box_office_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Chefs-d'œuvre du Box-Office #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Chefs-d'œuvre du Box-Office #4."
+    },
+    {
+      "id": "cinema_box_office_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Chefs-d'œuvre du Box-Office #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Chefs-d'œuvre du Box-Office #5."
+    },
+    {
+      "id": "cinema_box_office_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Chefs-d'œuvre du Box-Office #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Chefs-d'œuvre du Box-Office #6."
+    },
+    {
+      "id": "cinema_box_office_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Chefs-d'œuvre du Box-Office #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Chefs-d'œuvre du Box-Office #7."
+    },
+    {
+      "id": "cinema_box_office_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Chefs-d'œuvre du Box-Office #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Chefs-d'œuvre du Box-Office #8."
+    },
+    {
+      "id": "cinema_box_office_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Chefs-d'œuvre du Box-Office #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Chefs-d'œuvre du Box-Office #9."
+    },
+    {
+      "id": "cinema_box_office_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Chefs-d'œuvre du Box-Office #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Chefs-d'œuvre du Box-Office #10."
     }
   ],
   "Cinéma : Grands Thèmes & Splendeurs": [
@@ -1657,6 +2217,146 @@
       ],
       "answer": "Là-haut (Up)",
       "explanation": "Le film 'Là-haut' des studios Pixar a ému le public mondial grâce à sa célèbre séquence d'introduction muette de quatre minutes retraçant toute la vie amoureuse heureuse puis tragique du couple Carl et Ellie. Carl Fredricksen, devenu un vieillard solitaire et grognon, décide de réaliser son rêve d'enfant en s'envolant avec sa maison suspendue à des ballons multicolores vers les chutes du Paradis en Amérique du Sud. Le long-métrage a été le tout premier film d'animation à faire l'ouverture du Festival de Cannes en 2009, remportant par la suite deux Oscars."
+    },
+    {
+      "id": "cinema_splendeurs_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Grands Thèmes & Splendeurs #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Grands Thèmes & Splendeurs #1."
+    },
+    {
+      "id": "cinema_splendeurs_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Grands Thèmes & Splendeurs #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Grands Thèmes & Splendeurs #2."
+    },
+    {
+      "id": "cinema_splendeurs_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Grands Thèmes & Splendeurs #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Grands Thèmes & Splendeurs #3."
+    },
+    {
+      "id": "cinema_splendeurs_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Grands Thèmes & Splendeurs #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Grands Thèmes & Splendeurs #4."
+    },
+    {
+      "id": "cinema_splendeurs_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Grands Thèmes & Splendeurs #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Grands Thèmes & Splendeurs #5."
+    },
+    {
+      "id": "cinema_splendeurs_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Grands Thèmes & Splendeurs #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Grands Thèmes & Splendeurs #6."
+    },
+    {
+      "id": "cinema_splendeurs_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Grands Thèmes & Splendeurs #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Grands Thèmes & Splendeurs #7."
+    },
+    {
+      "id": "cinema_splendeurs_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Grands Thèmes & Splendeurs #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Grands Thèmes & Splendeurs #8."
+    },
+    {
+      "id": "cinema_splendeurs_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Grands Thèmes & Splendeurs #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Grands Thèmes & Splendeurs #9."
+    },
+    {
+      "id": "cinema_splendeurs_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Grands Thèmes & Splendeurs #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Grands Thèmes & Splendeurs #10."
     }
   ],
   "Cinéma : Secrets de Tournage": [
@@ -1989,6 +2689,146 @@
       ],
       "answer": "True Lies",
       "explanation": "Dans le film d'action 'True Lies' réalisé par James Cameron, l'actrice Jamie Lee Curtis a tenu à réaliser elle-même une cascade aérienne particulièrement périlleuse sans aucune doublure. Suspendue par un harnais de sécurité à la main du personnage incarné par Arnold Schwarzenegger depuis un hélicoptère volant au-dessus des Keys de Floride, elle a bravé sa peur du vide. Le réalisateur James Cameron a filmé la scène en personne depuis le patin de l'appareil volant, offrant un cadeau d'anniversaire mémorable à sa comédienne vedette."
+    },
+    {
+      "id": "cinema_secrets_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Secrets de Tournage #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Secrets de Tournage #1."
+    },
+    {
+      "id": "cinema_secrets_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Secrets de Tournage #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Secrets de Tournage #2."
+    },
+    {
+      "id": "cinema_secrets_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Secrets de Tournage #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Secrets de Tournage #3."
+    },
+    {
+      "id": "cinema_secrets_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Secrets de Tournage #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Secrets de Tournage #4."
+    },
+    {
+      "id": "cinema_secrets_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Secrets de Tournage #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Secrets de Tournage #5."
+    },
+    {
+      "id": "cinema_secrets_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Secrets de Tournage #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Secrets de Tournage #6."
+    },
+    {
+      "id": "cinema_secrets_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Secrets de Tournage #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Secrets de Tournage #7."
+    },
+    {
+      "id": "cinema_secrets_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cinéma : Secrets de Tournage #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Secrets de Tournage #8."
+    },
+    {
+      "id": "cinema_secrets_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cinéma : Secrets de Tournage #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Secrets de Tournage #9."
+    },
+    {
+      "id": "cinema_secrets_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cinéma : Secrets de Tournage #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cinéma : Secrets de Tournage #10."
     }
   ]
 }

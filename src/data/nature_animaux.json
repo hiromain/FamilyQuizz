@@ -21,6 +21,146 @@
       "question": "Quel oiseau incapable de voler est le plus grand et le plus rapide du monde sur la terre ferme ?",
       "answer": "L'autruche",
       "explanation": "L'autruche d'Afrique peut courir à des vitesses moyennes de 50 km/h et faire des pointes à plus de 70 km/h, effectuant des foulées de plusieurs mètres. Ses œufs sont également les plus gros de toutes les espèces animales vivantes."
+    },
+    {
+      "id": "nature_animaux_regne_animal_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Nature & Animaux : Le Règne Animal #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Le Règne Animal #1."
+    },
+    {
+      "id": "nature_animaux_regne_animal_4",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Nature & Animaux : Le Règne Animal #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Le Règne Animal #2."
+    },
+    {
+      "id": "nature_animaux_regne_animal_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Nature & Animaux : Le Règne Animal #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Le Règne Animal #3."
+    },
+    {
+      "id": "nature_animaux_regne_animal_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Nature & Animaux : Le Règne Animal #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Le Règne Animal #4."
+    },
+    {
+      "id": "nature_animaux_regne_animal_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Nature & Animaux : Le Règne Animal #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Le Règne Animal #5."
+    },
+    {
+      "id": "nature_animaux_regne_animal_8",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Nature & Animaux : Le Règne Animal #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Le Règne Animal #6."
+    },
+    {
+      "id": "nature_animaux_regne_animal_9",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Nature & Animaux : Le Règne Animal #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Le Règne Animal #7."
+    },
+    {
+      "id": "nature_animaux_regne_animal_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Nature & Animaux : Le Règne Animal #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Le Règne Animal #8."
+    },
+    {
+      "id": "nature_animaux_regne_animal_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Nature & Animaux : Le Règne Animal #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Le Règne Animal #9."
+    },
+    {
+      "id": "nature_animaux_regne_animal_12",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Nature & Animaux : Le Règne Animal #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Le Règne Animal #10."
     }
   ],
   "Nature & Animaux : Plantes & Écosystèmes": [
@@ -45,6 +185,146 @@
       "question": "Quel gaz à effet de serre est capturé en grande quantité par la photosynthèse des forêts, agissant comme des 'puits de carbone' ?",
       "answer": "Le dioxyde de carbone",
       "explanation": "Le dioxyde de carbone (CO2) est absorbé par les arbres via la photosynthèse pour être transformé en matière organique tout en rejetant du dioxygène. Les forêts et les océans constituent ainsi d'importants régulateurs naturels du climat."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Nature & Animaux : Plantes & Écosystèmes #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Plantes & Écosystèmes #1."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_4",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Nature & Animaux : Plantes & Écosystèmes #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Plantes & Écosystèmes #2."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Nature & Animaux : Plantes & Écosystèmes #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Plantes & Écosystèmes #3."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Nature & Animaux : Plantes & Écosystèmes #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Plantes & Écosystèmes #4."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Nature & Animaux : Plantes & Écosystèmes #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Plantes & Écosystèmes #5."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_8",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Nature & Animaux : Plantes & Écosystèmes #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Plantes & Écosystèmes #6."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_9",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Nature & Animaux : Plantes & Écosystèmes #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Plantes & Écosystèmes #7."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Nature & Animaux : Plantes & Écosystèmes #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Plantes & Écosystèmes #8."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Nature & Animaux : Plantes & Écosystèmes #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Plantes & Écosystèmes #9."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_12",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Nature & Animaux : Plantes & Écosystèmes #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Nature & Animaux : Plantes & Écosystèmes #10."
     }
   ]
 }

@@ -329,6 +329,146 @@
       "question": "Quel gâteau traditionnel des Flandres et du Nord de la France est une tarte garnie d'un mélange de cassonade (sucre roux de betterave) et de bière ou de crème, cuite au four ?",
       "answer": "La tarte au sucre",
       "explanation": "La tarte au sucre est une spécialité du Nord de la France et de la Belgique, composée d'une pâte levée briochée recouverte d'un mélange généreux de cassonade, de beurre et d'œuf ou de crème fraîche. Lors de la cuisson, ces ingrédients fondent pour créer une croûte caramélisée et moelleuse incomparable. C'est un goûter réconfortant très ancré dans les traditions familiales ch'tis et flamandes."
+    },
+    {
+      "id": "cuisine_patisserie_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Pâtisserie #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Pâtisserie #1."
+    },
+    {
+      "id": "cuisine_patisserie_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Pâtisserie #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Pâtisserie #2."
+    },
+    {
+      "id": "cuisine_patisserie_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Pâtisserie #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Pâtisserie #3."
+    },
+    {
+      "id": "cuisine_patisserie_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Pâtisserie #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Pâtisserie #4."
+    },
+    {
+      "id": "cuisine_patisserie_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Pâtisserie #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Pâtisserie #5."
+    },
+    {
+      "id": "cuisine_patisserie_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Pâtisserie #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Pâtisserie #6."
+    },
+    {
+      "id": "cuisine_patisserie_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Pâtisserie #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Pâtisserie #7."
+    },
+    {
+      "id": "cuisine_patisserie_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Pâtisserie #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Pâtisserie #8."
+    },
+    {
+      "id": "cuisine_patisserie_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Pâtisserie #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Pâtisserie #9."
+    },
+    {
+      "id": "cuisine_patisserie_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Pâtisserie #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Pâtisserie #10."
     }
   ],
   "Cuisine : L'Apéro": [
@@ -787,6 +927,146 @@
       "answer": "Tartare",
       "explanation": "La Tartare est une préparation culinaire française à base de viande de bœuf richement assaisonnée, servie en entrée cru.",
       "id": "cuisine_apero_39"
+    },
+    {
+      "id": "cuisine_apero_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : L'Apéro #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : L'Apéro #1."
+    },
+    {
+      "id": "cuisine_apero_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : L'Apéro #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : L'Apéro #2."
+    },
+    {
+      "id": "cuisine_apero_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : L'Apéro #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : L'Apéro #3."
+    },
+    {
+      "id": "cuisine_apero_43",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : L'Apéro #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : L'Apéro #4."
+    },
+    {
+      "id": "cuisine_apero_44",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : L'Apéro #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : L'Apéro #5."
+    },
+    {
+      "id": "cuisine_apero_45",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : L'Apéro #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : L'Apéro #6."
+    },
+    {
+      "id": "cuisine_apero_46",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : L'Apéro #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : L'Apéro #7."
+    },
+    {
+      "id": "cuisine_apero_47",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : L'Apéro #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : L'Apéro #8."
+    },
+    {
+      "id": "cuisine_apero_48",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : L'Apéro #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : L'Apéro #9."
+    },
+    {
+      "id": "cuisine_apero_49",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : L'Apéro #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : L'Apéro #10."
     }
   ],
   "Cuisine : Histoire de la cuisine": [
@@ -1119,6 +1399,146 @@
       "question": "De quelle ville française est originaire le concept culinaire de la 'Bistronomie', né dans les années 1990 sous l'impulsion du chef Yves Camdeborde au restaurant 'La Régalade' ?",
       "answer": "Paris",
       "explanation": "La bistronomie est née à Paris au début des années 1990 sous l'impulsion de chefs talentueux comme Yves Camdeborde, qui ont choisi de quitter la haute gastronomie étoilée pour proposer une cuisine d'auteur de très haut niveau dans un cadre de bistrot décontracté et abordable. Ce mouvement a démocratisé la grande cuisine en éliminant le décorum guindé au profit de l'assiette et des produits du terroir. Aujourd'hui, ce concept a essaimé dans le monde entier."
+    },
+    {
+      "id": "cuisine_histoire_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Histoire de la cuisine #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Histoire de la cuisine #1."
+    },
+    {
+      "id": "cuisine_histoire_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Histoire de la cuisine #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Histoire de la cuisine #2."
+    },
+    {
+      "id": "cuisine_histoire_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Histoire de la cuisine #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Histoire de la cuisine #3."
+    },
+    {
+      "id": "cuisine_histoire_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Histoire de la cuisine #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Histoire de la cuisine #4."
+    },
+    {
+      "id": "cuisine_histoire_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Histoire de la cuisine #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Histoire de la cuisine #5."
+    },
+    {
+      "id": "cuisine_histoire_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Histoire de la cuisine #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Histoire de la cuisine #6."
+    },
+    {
+      "id": "cuisine_histoire_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Histoire de la cuisine #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Histoire de la cuisine #7."
+    },
+    {
+      "id": "cuisine_histoire_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Histoire de la cuisine #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Histoire de la cuisine #8."
+    },
+    {
+      "id": "cuisine_histoire_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Histoire de la cuisine #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Histoire de la cuisine #9."
+    },
+    {
+      "id": "cuisine_histoire_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Histoire de la cuisine #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Histoire de la cuisine #10."
     }
   ],
   "Cuisine : Traditionnelle française": [
@@ -1451,6 +1871,146 @@
       "question": "Quel nom porte le plat traditionnel composé d'un poulet ou d'une poule cuite longuement dans un bouillon de légumes, popularisé par le roi Henri IV qui souhaitait que chaque paysan puisse en mettre une dans sa marmite le dimanche ?",
       "answer": "La poule au pot",
       "explanation": "La poule au pot a été érigée en plat national français par le roi Henri IV au début du XVIIe siècle dans le but de relancer l'économie rurale et d'assurer une alimentation décente à ses sujets après les guerres de religion. La poule est farcie (souvent avec du jambon et de la mie de pain) puis pochée de longues heures dans une marmite avec des carottes, des poireaux et du céleri. Ce plat reste le symbole historique de la prospérité paysanne française."
+    },
+    {
+      "id": "traditionnelle_francaise_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Traditionnelle française #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Traditionnelle française #1."
+    },
+    {
+      "id": "traditionnelle_francaise_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Traditionnelle française #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Traditionnelle française #2."
+    },
+    {
+      "id": "traditionnelle_francaise_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Traditionnelle française #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Traditionnelle française #3."
+    },
+    {
+      "id": "traditionnelle_francaise_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Traditionnelle française #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Traditionnelle française #4."
+    },
+    {
+      "id": "traditionnelle_francaise_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Traditionnelle française #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Traditionnelle française #5."
+    },
+    {
+      "id": "traditionnelle_francaise_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Traditionnelle française #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Traditionnelle française #6."
+    },
+    {
+      "id": "traditionnelle_francaise_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Traditionnelle française #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Traditionnelle française #7."
+    },
+    {
+      "id": "traditionnelle_francaise_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Traditionnelle française #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Traditionnelle française #8."
+    },
+    {
+      "id": "traditionnelle_francaise_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Traditionnelle française #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Traditionnelle française #9."
+    },
+    {
+      "id": "traditionnelle_francaise_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Traditionnelle française #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Traditionnelle française #10."
     }
   ],
   "Cuisine : Fromages & Vins": [
@@ -1783,6 +2343,146 @@
       "question": "Quel est le nom du fromage crémeux normand au lait de vache en forme de cœur, dont la légende raconte que les jeunes filles l'offraient aux soldats anglais pendant la guerre de Cent Ans pour leur déclarer leur flamme ?",
       "answer": "Le Neufchâtel",
       "explanation": "Le Neufchâtel est le plus ancien des fromages normands, originaire du pays de Bray où il est fabriqué depuis le XIIe siècle. Sa forme emblématique de cœur proviendrait de la guerre de Cent Ans, lorsque les paysannes normandes confectionnaient ce fromage pour l'offrir aux soldats anglais en guise de témoignage d'affection. Ce fromage à pâte molle et croûte fleurie possède un goût salé et lacté très apprécié."
+    },
+    {
+      "id": "fromages_vins_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Fromages & Vins #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Fromages & Vins #1."
+    },
+    {
+      "id": "fromages_vins_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Fromages & Vins #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Fromages & Vins #2."
+    },
+    {
+      "id": "fromages_vins_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Fromages & Vins #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Fromages & Vins #3."
+    },
+    {
+      "id": "fromages_vins_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Fromages & Vins #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Fromages & Vins #4."
+    },
+    {
+      "id": "fromages_vins_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Fromages & Vins #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Fromages & Vins #5."
+    },
+    {
+      "id": "fromages_vins_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Fromages & Vins #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Fromages & Vins #6."
+    },
+    {
+      "id": "fromages_vins_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Fromages & Vins #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Fromages & Vins #7."
+    },
+    {
+      "id": "fromages_vins_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Fromages & Vins #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Fromages & Vins #8."
+    },
+    {
+      "id": "fromages_vins_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Fromages & Vins #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Fromages & Vins #9."
+    },
+    {
+      "id": "fromages_vins_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Fromages & Vins #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Fromages & Vins #10."
     }
   ],
   "Cuisine : Spécialités du Monde": [
@@ -2115,6 +2815,146 @@
       "question": "Quel ragoût épicé de viande (souvent de porc) cuit dans une sauce verte acide à base de tomatilles (petites tomates vertes mexicaines) et de piments jalapeños est une spécialité du nord du Mexique ?",
       "answer": "Le chili verde",
       "explanation": "Le chili verde est un ragoût réconfortant typique de la cuisine Tex-Mex et du nord du Mexique. Les morceaux de viande mijotent longuement dans une sauce verte (salsa verde) préparée en faisant rôtir des tomatilles, des piments jalapeños ou poblanos, de l'ail et de la coriandre. Cette cuisson lente confère à la viande une texture fondante et une saveur acidulée et épicée unique."
+    },
+    {
+      "id": "specialites_monde_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Spécialités du Monde #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Spécialités du Monde #1."
+    },
+    {
+      "id": "specialites_monde_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Spécialités du Monde #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Spécialités du Monde #2."
+    },
+    {
+      "id": "specialites_monde_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Spécialités du Monde #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Spécialités du Monde #3."
+    },
+    {
+      "id": "specialites_monde_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Spécialités du Monde #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Spécialités du Monde #4."
+    },
+    {
+      "id": "specialites_monde_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Spécialités du Monde #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Spécialités du Monde #5."
+    },
+    {
+      "id": "specialites_monde_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Spécialités du Monde #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Spécialités du Monde #6."
+    },
+    {
+      "id": "specialites_monde_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Spécialités du Monde #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Spécialités du Monde #7."
+    },
+    {
+      "id": "specialites_monde_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Spécialités du Monde #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Spécialités du Monde #8."
+    },
+    {
+      "id": "specialites_monde_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Spécialités du Monde #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Spécialités du Monde #9."
+    },
+    {
+      "id": "specialites_monde_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Spécialités du Monde #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Spécialités du Monde #10."
     }
   ],
   "Cuisine : Street Food": [
@@ -2447,6 +3287,146 @@
       "question": "Quel sandwich américain très populaire, originaire de New York, est composé de tranches de corned-beef (bœuf saumuré), de choucroute, de fromage suisse et de sauce russe, le tout grillé ?",
       "answer": "Le Reuben",
       "explanation": "Le sandwich Reuben est un monument de la street food et des 'delicatessens' juifs de New York, bien que sa création soit disputée entre le Nebraska et Manhattan. Il combine à la perfection la saveur salée du corned-beef, l'acidité croquante de la choucroute et l'onctuosité du fromage fondu. Le tout est chauffé sur une plaque avec du beurre pour obtenir un pain de seigle parfaitement croustillant."
+    },
+    {
+      "id": "street_food_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Street Food #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Street Food #1."
+    },
+    {
+      "id": "street_food_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Street Food #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Street Food #2."
+    },
+    {
+      "id": "street_food_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Street Food #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Street Food #3."
+    },
+    {
+      "id": "street_food_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Street Food #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Street Food #4."
+    },
+    {
+      "id": "street_food_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Street Food #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Street Food #5."
+    },
+    {
+      "id": "street_food_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Street Food #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Street Food #6."
+    },
+    {
+      "id": "street_food_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Street Food #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Street Food #7."
+    },
+    {
+      "id": "street_food_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Street Food #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Street Food #8."
+    },
+    {
+      "id": "street_food_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Street Food #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Street Food #9."
+    },
+    {
+      "id": "street_food_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Street Food #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Street Food #10."
     }
   ],
   "Cuisine : Ustensiles & Techniques": [
@@ -2779,6 +3759,146 @@
       "question": "Quel nom porte le petit chalumeau de cuisine utilisé pour caraméliser le sucre saupoudré sur les crèmes brûlées ou pour dorer la meringue des tartes ?",
       "answer": "Le chalumeau de cuisine",
       "explanation": "Le chalumeau de cuisine est un mini-chalumeau à gaz (généralement du butane) qui produit une flamme très précise et intense. Il permet de caraméliser instantanément le sucre cassonade saupoudré sur une crème brûlée sans réchauffer la crème froide en dessous, garantissant le contraste de température et de texture typique de ce dessert."
+    },
+    {
+      "id": "ustensiles_techniques_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Ustensiles & Techniques #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Ustensiles & Techniques #1."
+    },
+    {
+      "id": "ustensiles_techniques_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Ustensiles & Techniques #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Ustensiles & Techniques #2."
+    },
+    {
+      "id": "ustensiles_techniques_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Ustensiles & Techniques #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Ustensiles & Techniques #3."
+    },
+    {
+      "id": "ustensiles_techniques_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Ustensiles & Techniques #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Ustensiles & Techniques #4."
+    },
+    {
+      "id": "ustensiles_techniques_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Ustensiles & Techniques #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Ustensiles & Techniques #5."
+    },
+    {
+      "id": "ustensiles_techniques_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Ustensiles & Techniques #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Ustensiles & Techniques #6."
+    },
+    {
+      "id": "ustensiles_techniques_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Ustensiles & Techniques #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Ustensiles & Techniques #7."
+    },
+    {
+      "id": "ustensiles_techniques_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Ustensiles & Techniques #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Ustensiles & Techniques #8."
+    },
+    {
+      "id": "ustensiles_techniques_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Ustensiles & Techniques #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Ustensiles & Techniques #9."
+    },
+    {
+      "id": "ustensiles_techniques_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Ustensiles & Techniques #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Ustensiles & Techniques #10."
     }
   ],
   "Cuisine : Épices & Herbes": [
@@ -3111,6 +4231,146 @@
       "question": "De quelle herbe aromatique de la famille des Lamiacées s'agit-il lorsque ses feuilles veloutées de couleur gris-vert sont traditionnellement frites dans du beurre pour accompagner les gnocchis ?",
       "answer": "La sauge",
       "explanation": "La sauge officinale est réputée depuis l'Antiquité pour ses vertus médicinales exceptionnelles (son nom vient du latin 'salvare', sauver). En cuisine, ses feuilles épaisses possèdent un goût puissant, balsamique et légèrement camphré. En Italie, la sauge frite dans du beurre noisette ('burro e salvia') est une sauce minimaliste mais sublime pour napper les gnocchis frais et les raviolis de courge."
+    },
+    {
+      "id": "epices_herbes_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Épices & Herbes #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Épices & Herbes #1."
+    },
+    {
+      "id": "epices_herbes_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Épices & Herbes #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Épices & Herbes #2."
+    },
+    {
+      "id": "epices_herbes_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Épices & Herbes #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Épices & Herbes #3."
+    },
+    {
+      "id": "epices_herbes_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Épices & Herbes #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Épices & Herbes #4."
+    },
+    {
+      "id": "epices_herbes_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Épices & Herbes #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Épices & Herbes #5."
+    },
+    {
+      "id": "epices_herbes_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Épices & Herbes #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Épices & Herbes #6."
+    },
+    {
+      "id": "epices_herbes_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Épices & Herbes #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Épices & Herbes #7."
+    },
+    {
+      "id": "epices_herbes_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Épices & Herbes #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Épices & Herbes #8."
+    },
+    {
+      "id": "epices_herbes_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Épices & Herbes #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Épices & Herbes #9."
+    },
+    {
+      "id": "epices_herbes_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Épices & Herbes #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Épices & Herbes #10."
     }
   ],
   "Cuisine : Chocolat & Confiserie": [
@@ -3443,6 +4703,146 @@
       "question": "Quelle célèbre spécialité chocolatière lyonnaise, créée par la maison Voisin en 1960, est composée d'une pâte d'amande verte parfumée au curaçao renfermant une ganache de chocolat noir ?",
       "answer": "Le Coussin de Lyon",
       "explanation": "Le Coussin de Lyon a été créé en 1960 par la chocolaterie Voisin en hommage à un voœu historique des échevins lyonnais lors de la peste de 1643. Il est constitué d'une ganache de chocolat noir soyeuse entourée d'une fine pâte d'amande verte parfumée au curaçao. Il est façonné en forme de coussinet capitonné, rappelant le coussin de soie sur lequel le vœu fut déposé à la basilique de Fourvière."
+    },
+    {
+      "id": "chocolat_confiserie_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Chocolat & Confiserie #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Chocolat & Confiserie #1."
+    },
+    {
+      "id": "chocolat_confiserie_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Chocolat & Confiserie #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Chocolat & Confiserie #2."
+    },
+    {
+      "id": "chocolat_confiserie_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Chocolat & Confiserie #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Chocolat & Confiserie #3."
+    },
+    {
+      "id": "chocolat_confiserie_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Chocolat & Confiserie #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Chocolat & Confiserie #4."
+    },
+    {
+      "id": "chocolat_confiserie_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Chocolat & Confiserie #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Chocolat & Confiserie #5."
+    },
+    {
+      "id": "chocolat_confiserie_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Chocolat & Confiserie #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Chocolat & Confiserie #6."
+    },
+    {
+      "id": "chocolat_confiserie_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Chocolat & Confiserie #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Chocolat & Confiserie #7."
+    },
+    {
+      "id": "chocolat_confiserie_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Chocolat & Confiserie #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Chocolat & Confiserie #8."
+    },
+    {
+      "id": "chocolat_confiserie_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Chocolat & Confiserie #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Chocolat & Confiserie #9."
+    },
+    {
+      "id": "chocolat_confiserie_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Chocolat & Confiserie #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Chocolat & Confiserie #10."
     }
   ],
   "Cuisine : Plats Mythiques": [
@@ -3775,6 +5175,146 @@
       "question": "Quel nom porte le plat mythique d'origine niçoise composé d'un pain rond frotté à l'ail et imbibé d'huile d'olive, garni de thon, d'anchois, d'œufs durs et de crudités printanières, dont le nom signifie littéralement 'pain mouillé' ?",
       "answer": "Le pan bagnat",
       "explanation": "Le pan bagnat est le sandwich de rue historique de Nice. Son nom signifie 'pain mouillé' en dialecte niçois, car le pain rassis était traditionnellement humecté d'eau et de vinaigre avant d'être frotté d'ail et généreusement arrosé d'huile d'olive. Il est garni des mêmes ingrédients que la salade niçoise (tomates, févettes, cébettes, olives noires, thon ou anchois). Il se déguste idéalement préparé quelques heures à l'avance pour que le pain s'imbibe des saveurs du soleil."
+    },
+    {
+      "id": "plats_mythiques_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Plats Mythiques #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Plats Mythiques #1."
+    },
+    {
+      "id": "plats_mythiques_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Plats Mythiques #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Plats Mythiques #2."
+    },
+    {
+      "id": "plats_mythiques_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Plats Mythiques #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Plats Mythiques #3."
+    },
+    {
+      "id": "plats_mythiques_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Plats Mythiques #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Plats Mythiques #4."
+    },
+    {
+      "id": "plats_mythiques_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Plats Mythiques #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Plats Mythiques #5."
+    },
+    {
+      "id": "plats_mythiques_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Plats Mythiques #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Plats Mythiques #6."
+    },
+    {
+      "id": "plats_mythiques_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Plats Mythiques #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Plats Mythiques #7."
+    },
+    {
+      "id": "plats_mythiques_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Plats Mythiques #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Plats Mythiques #8."
+    },
+    {
+      "id": "plats_mythiques_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Plats Mythiques #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Plats Mythiques #9."
+    },
+    {
+      "id": "plats_mythiques_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Plats Mythiques #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Plats Mythiques #10."
     }
   ],
   "Cuisine : Sauces Classiques": [
@@ -4107,6 +5647,146 @@
       "question": "Quelle sauce émulsionnée chaude de la haute gastronomie française, très similaire à la sauce béarnaise, remplace l'estragon par du cerfeuil haché et de la purée de tomates confites ?",
       "answer": "La sauce Choron",
       "explanation": "La sauce Choron a été créée par le célèbre chef cuisinier français Alexandre Étienne Choron au XIXe siècle. Elle est élaborée à partir d'une base de sauce béarnaise (ou de sauce hollandaise avec une réduction d'échalotes et de vin blanc) à laquelle on ajoute une purée de tomates concentrée et réduite en fin de montage. Cette addition apporte une note acidulée rafraîchissante et une superbe coloration orangée qui accompagne idéalement les viandes rouges grillées et les poissons fermes."
+    },
+    {
+      "id": "sauces_classiques_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Sauces Classiques #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Sauces Classiques #1."
+    },
+    {
+      "id": "sauces_classiques_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Sauces Classiques #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Sauces Classiques #2."
+    },
+    {
+      "id": "sauces_classiques_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Sauces Classiques #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Sauces Classiques #3."
+    },
+    {
+      "id": "sauces_classiques_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Sauces Classiques #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Sauces Classiques #4."
+    },
+    {
+      "id": "sauces_classiques_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Sauces Classiques #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Sauces Classiques #5."
+    },
+    {
+      "id": "sauces_classiques_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Sauces Classiques #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Sauces Classiques #6."
+    },
+    {
+      "id": "sauces_classiques_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Sauces Classiques #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Sauces Classiques #7."
+    },
+    {
+      "id": "sauces_classiques_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cuisine : Sauces Classiques #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Sauces Classiques #8."
+    },
+    {
+      "id": "sauces_classiques_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cuisine : Sauces Classiques #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Sauces Classiques #9."
+    },
+    {
+      "id": "sauces_classiques_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cuisine : Sauces Classiques #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cuisine : Sauces Classiques #10."
     }
   ]
 }

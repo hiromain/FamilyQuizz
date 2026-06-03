@@ -329,6 +329,146 @@
       ],
       "answer": "60 minutes",
       "explanation": "Un match officiel de handball senior se divise en deux mi-temps de 30 minutes chacune, séparées par une pause de 10 à 15 minutes. En cas d'égalité lors de matchs à élimination directe, des prolongations de deux fois cinq minutes sont jouées."
+    },
+    {
+      "id": "sport_collectifs_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Collectifs #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Collectifs #1."
+    },
+    {
+      "id": "sport_collectifs_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Sports Collectifs #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Collectifs #2."
+    },
+    {
+      "id": "sport_collectifs_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Sports Collectifs #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Collectifs #3."
+    },
+    {
+      "id": "sport_collectifs_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Collectifs #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Collectifs #4."
+    },
+    {
+      "id": "sport_collectifs_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Sports Collectifs #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Collectifs #5."
+    },
+    {
+      "id": "sport_collectifs_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Sports Collectifs #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Collectifs #6."
+    },
+    {
+      "id": "sport_collectifs_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Collectifs #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Collectifs #7."
+    },
+    {
+      "id": "sport_collectifs_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Sports Collectifs #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Collectifs #8."
+    },
+    {
+      "id": "sport_collectifs_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Sports Collectifs #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Collectifs #9."
+    },
+    {
+      "id": "sport_collectifs_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Collectifs #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Collectifs #10."
     }
   ],
   "Sport : Jeux Olympiques": [
@@ -661,6 +801,146 @@
       ],
       "answer": "La Polynésie française",
       "explanation": "L'épreuve de surf des JO de Paris 2024 s'est déroulée à Tahiti, en Polynésie française. La célèbre vague de Teahupo'o a offert des conditions de compétition spectaculaires et exigeantes, sacrant le Français Kauli Vaast chez les hommes."
+    },
+    {
+      "id": "sport_jeux_olympiques_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Jeux Olympiques #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Jeux Olympiques #1."
+    },
+    {
+      "id": "sport_jeux_olympiques_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Jeux Olympiques #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Jeux Olympiques #2."
+    },
+    {
+      "id": "sport_jeux_olympiques_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Jeux Olympiques #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Jeux Olympiques #3."
+    },
+    {
+      "id": "sport_jeux_olympiques_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Jeux Olympiques #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Jeux Olympiques #4."
+    },
+    {
+      "id": "sport_jeux_olympiques_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Jeux Olympiques #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Jeux Olympiques #5."
+    },
+    {
+      "id": "sport_jeux_olympiques_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Jeux Olympiques #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Jeux Olympiques #6."
+    },
+    {
+      "id": "sport_jeux_olympiques_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Jeux Olympiques #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Jeux Olympiques #7."
+    },
+    {
+      "id": "sport_jeux_olympiques_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Jeux Olympiques #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Jeux Olympiques #8."
+    },
+    {
+      "id": "sport_jeux_olympiques_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Jeux Olympiques #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Jeux Olympiques #9."
+    },
+    {
+      "id": "sport_jeux_olympiques_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Jeux Olympiques #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Jeux Olympiques #10."
     }
   ],
   "Sport : Légendes du Sport": [
@@ -993,6 +1273,146 @@
       ],
       "answer": "Marcel Cerdan",
       "explanation": "Surnommé 'Le Bombardier Marocain', Marcel Cerdan a été l'un des plus grands sportifs français du XXe siècle. Sa relation passionnée avec la chanteuse Édith Piaf a captivé le public, et sa disparition précoce en 1949 dans l'archipel des Açores a suscité une vive émotion nationale."
+    },
+    {
+      "id": "sport_legendes_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Légendes du Sport #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Légendes du Sport #1."
+    },
+    {
+      "id": "sport_legendes_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Légendes du Sport #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Légendes du Sport #2."
+    },
+    {
+      "id": "sport_legendes_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Légendes du Sport #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Légendes du Sport #3."
+    },
+    {
+      "id": "sport_legendes_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Légendes du Sport #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Légendes du Sport #4."
+    },
+    {
+      "id": "sport_legendes_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Légendes du Sport #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Légendes du Sport #5."
+    },
+    {
+      "id": "sport_legendes_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Légendes du Sport #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Légendes du Sport #6."
+    },
+    {
+      "id": "sport_legendes_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Légendes du Sport #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Légendes du Sport #7."
+    },
+    {
+      "id": "sport_legendes_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Légendes du Sport #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Légendes du Sport #8."
+    },
+    {
+      "id": "sport_legendes_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Légendes du Sport #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Légendes du Sport #9."
+    },
+    {
+      "id": "sport_legendes_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Légendes du Sport #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Légendes du Sport #10."
     }
   ],
   "Sport : Sports Individuels": [
@@ -1325,6 +1745,146 @@
       ],
       "answer": "Le revers",
       "explanation": "Le revers est un coup fondamental du tennis. Historiquement frappé à une main avec beaucoup de relâchement (comme le faisait Roger Federer), le revers à deux mains s'est largement imposé chez les joueurs modernes pour offrir plus de contrôle et de puissance à l'impact."
+    },
+    {
+      "id": "sport_individuels_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Individuels #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Individuels #1."
+    },
+    {
+      "id": "sport_individuels_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Sports Individuels #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Individuels #2."
+    },
+    {
+      "id": "sport_individuels_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Sports Individuels #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Individuels #3."
+    },
+    {
+      "id": "sport_individuels_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Individuels #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Individuels #4."
+    },
+    {
+      "id": "sport_individuels_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Sports Individuels #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Individuels #5."
+    },
+    {
+      "id": "sport_individuels_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Sports Individuels #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Individuels #6."
+    },
+    {
+      "id": "sport_individuels_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Individuels #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Individuels #7."
+    },
+    {
+      "id": "sport_individuels_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Sports Individuels #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Individuels #8."
+    },
+    {
+      "id": "sport_individuels_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Sports Individuels #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Individuels #9."
+    },
+    {
+      "id": "sport_individuels_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Individuels #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Individuels #10."
     }
   ],
   "Sport : Sports Mécaniques": [
@@ -1657,6 +2217,146 @@
       ],
       "answer": "Porsche",
       "explanation": "Porsche a forgé sa légende en endurance grâce à des modèles mythiques comme la 917, la 956 ou la 919 Hybrid. Avec 19 victoires au général, le constructeur de Stuttgart devance Audi (13 victoires) et Ferrari (11 victoires) au palmarès de la prestigieuse course sarthoise."
+    },
+    {
+      "id": "sport_mecaniques_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Mécaniques #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Mécaniques #1."
+    },
+    {
+      "id": "sport_mecaniques_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Sports Mécaniques #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Mécaniques #2."
+    },
+    {
+      "id": "sport_mecaniques_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Sports Mécaniques #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Mécaniques #3."
+    },
+    {
+      "id": "sport_mecaniques_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Mécaniques #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Mécaniques #4."
+    },
+    {
+      "id": "sport_mecaniques_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Sports Mécaniques #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Mécaniques #5."
+    },
+    {
+      "id": "sport_mecaniques_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Sports Mécaniques #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Mécaniques #6."
+    },
+    {
+      "id": "sport_mecaniques_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Mécaniques #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Mécaniques #7."
+    },
+    {
+      "id": "sport_mecaniques_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Sports Mécaniques #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Mécaniques #8."
+    },
+    {
+      "id": "sport_mecaniques_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Sports Mécaniques #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Mécaniques #9."
+    },
+    {
+      "id": "sport_mecaniques_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Sports Mécaniques #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Sports Mécaniques #10."
     }
   ],
   "Sport : Année 1998": [
@@ -1989,6 +2689,146 @@
       ],
       "answer": "Le RC Lens",
       "explanation": "Emmené par l'entraîneur Daniel Leclercq, surnommé 'Le Druide', le Racing Club de Lens a décroché son unique titre de champion de France en 1998. La décision s'est faite lors de la dernière journée grâce à un match nul (1-1) obtenu à Auxerre."
+    },
+    {
+      "id": "sport_annee_1998_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 1998 #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 1998 #1."
+    },
+    {
+      "id": "sport_annee_1998_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Année 1998 #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 1998 #2."
+    },
+    {
+      "id": "sport_annee_1998_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Année 1998 #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 1998 #3."
+    },
+    {
+      "id": "sport_annee_1998_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 1998 #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 1998 #4."
+    },
+    {
+      "id": "sport_annee_1998_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Année 1998 #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 1998 #5."
+    },
+    {
+      "id": "sport_annee_1998_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Année 1998 #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 1998 #6."
+    },
+    {
+      "id": "sport_annee_1998_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 1998 #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 1998 #7."
+    },
+    {
+      "id": "sport_annee_1998_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Année 1998 #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 1998 #8."
+    },
+    {
+      "id": "sport_annee_1998_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Année 1998 #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 1998 #9."
+    },
+    {
+      "id": "sport_annee_1998_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 1998 #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 1998 #10."
     }
   ],
   "Sport : Année 2018": [
@@ -2321,6 +3161,146 @@
       ],
       "answer": "L'Olympique de Marseille",
       "explanation": "Porté par une ferveur populaire incroyable tout au long de sa campagne européenne, l'Olympique de Marseille s'est hissé en finale de la Ligue Europa en 2018. Malheureusement pour les Olympiens, ils ont buté sur un Atlético de Madrid impérial emmené par Antoine Griezmann."
+    },
+    {
+      "id": "sport_annee_2018_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 2018 #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2018 #1."
+    },
+    {
+      "id": "sport_annee_2018_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Année 2018 #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2018 #2."
+    },
+    {
+      "id": "sport_annee_2018_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Année 2018 #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2018 #3."
+    },
+    {
+      "id": "sport_annee_2018_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 2018 #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2018 #4."
+    },
+    {
+      "id": "sport_annee_2018_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Année 2018 #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2018 #5."
+    },
+    {
+      "id": "sport_annee_2018_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Année 2018 #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2018 #6."
+    },
+    {
+      "id": "sport_annee_2018_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 2018 #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2018 #7."
+    },
+    {
+      "id": "sport_annee_2018_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Année 2018 #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2018 #8."
+    },
+    {
+      "id": "sport_annee_2018_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Année 2018 #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2018 #9."
+    },
+    {
+      "id": "sport_annee_2018_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 2018 #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2018 #10."
     }
   ],
   "Sport : Année 2024": [
@@ -2653,6 +3633,146 @@
       ],
       "answer": "L'Espagne",
       "explanation": "L'Espagne a complété son été footballistique triomphal en remportant l'or olympique en août 2024 à Paris. Au terme d'une finale spectaculaire et riche en rebondissements contre l'équipe de France entraînée par Thierry Henry, la Rojita s'est imposée 5-3 en prolongations."
+    },
+    {
+      "id": "sport_annee_2024_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 2024 #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2024 #1."
+    },
+    {
+      "id": "sport_annee_2024_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Année 2024 #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2024 #2."
+    },
+    {
+      "id": "sport_annee_2024_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Année 2024 #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2024 #3."
+    },
+    {
+      "id": "sport_annee_2024_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 2024 #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2024 #4."
+    },
+    {
+      "id": "sport_annee_2024_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Année 2024 #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2024 #5."
+    },
+    {
+      "id": "sport_annee_2024_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Année 2024 #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2024 #6."
+    },
+    {
+      "id": "sport_annee_2024_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 2024 #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2024 #7."
+    },
+    {
+      "id": "sport_annee_2024_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Année 2024 #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2024 #8."
+    },
+    {
+      "id": "sport_annee_2024_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Année 2024 #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2024 #9."
+    },
+    {
+      "id": "sport_annee_2024_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Année 2024 #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Année 2024 #10."
     }
   ],
   "Sport : Records Insolites": [
@@ -2985,6 +4105,146 @@
       ],
       "answer": "472 mètres",
       "explanation": "Mike Crean a réalisé l'exploit le plus chanceux et incroyable de l'histoire du golf en réussissant un trou en un sur le trou numéro 9 (un par 5) du Green Valley Ranch Golf Club à Denver. Sa balle a parcouru 472 mètres (517 yards), bien aidée par l'altitude et la sécheresse de l'air du Colorado."
+    },
+    {
+      "id": "sport_records_insolites_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Records Insolites #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Records Insolites #1."
+    },
+    {
+      "id": "sport_records_insolites_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Records Insolites #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Records Insolites #2."
+    },
+    {
+      "id": "sport_records_insolites_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Records Insolites #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Records Insolites #3."
+    },
+    {
+      "id": "sport_records_insolites_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Records Insolites #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Records Insolites #4."
+    },
+    {
+      "id": "sport_records_insolites_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Records Insolites #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Records Insolites #5."
+    },
+    {
+      "id": "sport_records_insolites_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Records Insolites #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Records Insolites #6."
+    },
+    {
+      "id": "sport_records_insolites_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Records Insolites #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Records Insolites #7."
+    },
+    {
+      "id": "sport_records_insolites_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Records Insolites #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Records Insolites #8."
+    },
+    {
+      "id": "sport_records_insolites_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Records Insolites #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Records Insolites #9."
+    },
+    {
+      "id": "sport_records_insolites_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Records Insolites #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Records Insolites #10."
     }
   ],
   "Sport : Événements Historiques": [
@@ -3317,6 +4577,146 @@
       ],
       "answer": "La Juventus de Turin",
       "explanation": "Le scandale d'arbitrage du Calciopoli a profondément secoué le football italien en 2006. La Juventus, reconnue coupable d'avoir influencé la désignation des arbitres, a été déchue de ses titres de champion 2005 et 2006 et a été rétrogradée en deuxième division avec des points de pénalité."
+    },
+    {
+      "id": "sport_evenements_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Événements Historiques #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Événements Historiques #1."
+    },
+    {
+      "id": "sport_evenements_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Événements Historiques #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Événements Historiques #2."
+    },
+    {
+      "id": "sport_evenements_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Événements Historiques #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Événements Historiques #3."
+    },
+    {
+      "id": "sport_evenements_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Événements Historiques #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Événements Historiques #4."
+    },
+    {
+      "id": "sport_evenements_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Événements Historiques #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Événements Historiques #5."
+    },
+    {
+      "id": "sport_evenements_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Événements Historiques #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Événements Historiques #6."
+    },
+    {
+      "id": "sport_evenements_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Événements Historiques #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Événements Historiques #7."
+    },
+    {
+      "id": "sport_evenements_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Sport : Événements Historiques #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Événements Historiques #8."
+    },
+    {
+      "id": "sport_evenements_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Sport : Événements Historiques #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Événements Historiques #9."
+    },
+    {
+      "id": "sport_evenements_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Sport : Événements Historiques #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Sport : Événements Historiques #10."
     }
   ]
 }

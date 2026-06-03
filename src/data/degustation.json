@@ -329,6 +329,146 @@
       ],
       "answer": "Fumé (ou tourbé)",
       "explanation": "Les notes fumées et tourbées qui caractérisent certains Scotch whiskies proviennent du séchage traditionnel des grains d'orge germés au-dessus d'un feu de tourbe. Lors de cette étape du maltage, la fumée dense pénètre l'écorce des grains et y dépose des molécules aromatiques appelées phénols. L'intensité de cette signature fumée est mesurée en parties par million (PPM) de phénols, allant de distillats très légers à des profils extrêmement puissants et médicinaux typiques de l'île d'Islay."
+    },
+    {
+      "id": "whisky_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour whisky #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour whisky #1."
+    },
+    {
+      "id": "whisky_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour whisky #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour whisky #2."
+    },
+    {
+      "id": "whisky_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour whisky #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour whisky #3."
+    },
+    {
+      "id": "whisky_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour whisky #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour whisky #4."
+    },
+    {
+      "id": "whisky_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour whisky #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour whisky #5."
+    },
+    {
+      "id": "whisky_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour whisky #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour whisky #6."
+    },
+    {
+      "id": "whisky_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour whisky #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour whisky #7."
+    },
+    {
+      "id": "whisky_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour whisky #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour whisky #8."
+    },
+    {
+      "id": "whisky_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour whisky #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour whisky #9."
+    },
+    {
+      "id": "whisky_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour whisky #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour whisky #10."
     }
   ],
   "rhum": [
@@ -661,6 +801,146 @@
       ],
       "answer": "Blanc",
       "explanation": "Tous les rhums du monde, quelle que soit leur matière première (mélasse ou jus de canne) ou leur style de distillation, sortent de l'alambic sous la forme d'un liquide parfaitement limpide, transparent et incolore. C'est le séjour prolongé dans des fûts de bois de chêne qui va progressivement lui conférer sa belle couleur ambrée ou brune au fil des ans par extraction des tannins du bois. Certains rhums blancs de dégustation subissent néanmoins un court passage sous bois de quelques mois avant d'être filtrés au charbon actif pour retrouver leur blancheur d'origine tout en conservant une texture plus grasse en bouche."
+    },
+    {
+      "id": "rhum_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour rhum #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rhum #1."
+    },
+    {
+      "id": "rhum_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour rhum #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rhum #2."
+    },
+    {
+      "id": "rhum_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour rhum #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rhum #3."
+    },
+    {
+      "id": "rhum_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour rhum #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rhum #4."
+    },
+    {
+      "id": "rhum_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour rhum #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rhum #5."
+    },
+    {
+      "id": "rhum_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour rhum #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rhum #6."
+    },
+    {
+      "id": "rhum_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour rhum #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rhum #7."
+    },
+    {
+      "id": "rhum_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour rhum #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rhum #8."
+    },
+    {
+      "id": "rhum_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour rhum #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rhum #9."
+    },
+    {
+      "id": "rhum_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour rhum #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rhum #10."
     }
   ],
   "Cépages": [
@@ -883,6 +1163,146 @@
       "question": "Quel cépage blanc d'origine suisse, cultivé presque exclusivement dans le canton du Valais, est célèbre pour ses arômes complexes de rhubarbe, de sureau et sa finale saline typique ?",
       "answer": "La Petite Arvine",
       "explanation": "La Petite Arvine est le cépage blanc noble par excellence du Valais suisse, où elle est mentionnée dès 1602. Très exigeante, elle ne s'épanouit que sur les meilleurs coteaux ensoleillés à l'abri du vent. Elle produit des vins d'une élégance rare, secs ou liquoreux, caractérisés par une vivacité nerveuse, des notes d'agrumes (pamplemousse), de glycine et de rhubarbe, s'achevant toujours sur une finale iodée et saline très distinctive."
+    },
+    {
+      "id": "cepages_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cépages #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cépages #1."
+    },
+    {
+      "id": "cepages_22",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cépages #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cépages #2."
+    },
+    {
+      "id": "cepages_23",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cépages #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cépages #3."
+    },
+    {
+      "id": "cepages_24",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cépages #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cépages #4."
+    },
+    {
+      "id": "cepages_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cépages #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cépages #5."
+    },
+    {
+      "id": "cepages_26",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cépages #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cépages #6."
+    },
+    {
+      "id": "cepages_27",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cépages #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cépages #7."
+    },
+    {
+      "id": "cepages_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Cépages #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cépages #8."
+    },
+    {
+      "id": "cepages_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Cépages #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cépages #9."
+    },
+    {
+      "id": "cepages_30",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Cépages #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Cépages #10."
     }
   ],
   "Accords mets et vins": [
@@ -1105,6 +1525,146 @@
       "question": "Quel vin rouge de Galice (Espagne), issu du cépage Mencia très floral et frais, est un accord original et d'exception pour accompagner un poulpe grillé à la galicienne ?",
       "answer": "Un Bierzo (cépage Mencia)",
       "explanation": "Le poulpe à la galicienne est un plat de caractère, associant la texture ferme du poulpe, le gras de l'huile d'olive et la fumée épicée du pimentón (paprika espagnol). L'accord traditionnel blanc est l'Albariño, mais pour un accord rouge d'exception, les vins de l'appellation Bierzo (100% cépage Mencia) sont magiques. La Mencia offre une robe rubis claire, une acidité rafraîchissante proche d'un Pinot Noir, mais avec des notes épicées sauvages et une minéralité de schiste qui soulignent superbement la fumée du paprika sans écraser la chair délicate du poulpe."
+    },
+    {
+      "id": "accords_mets_vins_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Accords mets et vins #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Accords mets et vins #1."
+    },
+    {
+      "id": "accords_mets_vins_22",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Accords mets et vins #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Accords mets et vins #2."
+    },
+    {
+      "id": "accords_mets_vins_23",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Accords mets et vins #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Accords mets et vins #3."
+    },
+    {
+      "id": "accords_mets_vins_24",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Accords mets et vins #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Accords mets et vins #4."
+    },
+    {
+      "id": "accords_mets_vins_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Accords mets et vins #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Accords mets et vins #5."
+    },
+    {
+      "id": "accords_mets_vins_26",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Accords mets et vins #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Accords mets et vins #6."
+    },
+    {
+      "id": "accords_mets_vins_27",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Accords mets et vins #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Accords mets et vins #7."
+    },
+    {
+      "id": "accords_mets_vins_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Accords mets et vins #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Accords mets et vins #8."
+    },
+    {
+      "id": "accords_mets_vins_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Accords mets et vins #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Accords mets et vins #9."
+    },
+    {
+      "id": "accords_mets_vins_30",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Accords mets et vins #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Accords mets et vins #10."
     }
   ]
 }

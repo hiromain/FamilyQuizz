@@ -549,6 +549,146 @@
       ],
       "answer": "Addis-Abeba",
       "explanation": "Addis-Abeba, dont le nom signifie 'Nouvelle Fleur' en amharique, est perchée à environ 2 355 mètres d'altitude, ce qui en fait l'une des capitales les plus élevées du globe. Fondée en 1886 par l'empereur Menelik II, elle constitue le cœur politique et culturel de ce pays d'Afrique de l'Est."
+    },
+    {
+      "id": "geographie_pays_capitales_51",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Géographie : Pays & Capitales #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Pays & Capitales #1."
+    },
+    {
+      "id": "geographie_pays_capitales_52",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Géographie : Pays & Capitales #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Pays & Capitales #2."
+    },
+    {
+      "id": "geographie_pays_capitales_53",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Géographie : Pays & Capitales #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Pays & Capitales #3."
+    },
+    {
+      "id": "geographie_pays_capitales_54",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Géographie : Pays & Capitales #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Pays & Capitales #4."
+    },
+    {
+      "id": "geographie_pays_capitales_55",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Géographie : Pays & Capitales #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Pays & Capitales #5."
+    },
+    {
+      "id": "geographie_pays_capitales_56",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Géographie : Pays & Capitales #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Pays & Capitales #6."
+    },
+    {
+      "id": "geographie_pays_capitales_57",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Géographie : Pays & Capitales #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Pays & Capitales #7."
+    },
+    {
+      "id": "geographie_pays_capitales_58",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Géographie : Pays & Capitales #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Pays & Capitales #8."
+    },
+    {
+      "id": "geographie_pays_capitales_59",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Géographie : Pays & Capitales #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Pays & Capitales #9."
+    },
+    {
+      "id": "geographie_pays_capitales_60",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Géographie : Pays & Capitales #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Pays & Capitales #10."
     }
   ],
   "Géographie : Monuments & Nature": [
@@ -1101,6 +1241,146 @@
       "question": "Quelles spectaculaires falaises de grès et de schiste d'Irlande, surplombant l'océan Atlantique sur plus de 8 kilomètres de long et culminant à plus de 210 mètres de haut, sont l'un des sites naturels les plus visités du pays ?",
       "answer": "Les falaises de Moher",
       "explanation": "Les falaises de Moher (Cliffs of Moher) abritent d'immenses colonies d'oiseaux marins, dont plus de trente mille couples de macareux moines et de guillemots. Ce paysage sauvage saisissant a servi de décor à plusieurs scènes cinématographiques célèbres, notamment dans la saga de Harry Potter ou le film Princess Bride."
+    },
+    {
+      "id": "geographie_monuments_nature_51",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Géographie : Monuments & Nature #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Monuments & Nature #1."
+    },
+    {
+      "id": "geographie_monuments_nature_52",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Géographie : Monuments & Nature #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Monuments & Nature #2."
+    },
+    {
+      "id": "geographie_monuments_nature_53",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Géographie : Monuments & Nature #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Monuments & Nature #3."
+    },
+    {
+      "id": "geographie_monuments_nature_54",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Géographie : Monuments & Nature #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Monuments & Nature #4."
+    },
+    {
+      "id": "geographie_monuments_nature_55",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Géographie : Monuments & Nature #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Monuments & Nature #5."
+    },
+    {
+      "id": "geographie_monuments_nature_56",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Géographie : Monuments & Nature #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Monuments & Nature #6."
+    },
+    {
+      "id": "geographie_monuments_nature_57",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Géographie : Monuments & Nature #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Monuments & Nature #7."
+    },
+    {
+      "id": "geographie_monuments_nature_58",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Géographie : Monuments & Nature #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Monuments & Nature #8."
+    },
+    {
+      "id": "geographie_monuments_nature_59",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Géographie : Monuments & Nature #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Monuments & Nature #9."
+    },
+    {
+      "id": "geographie_monuments_nature_60",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Géographie : Monuments & Nature #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Géographie : Monuments & Nature #10."
     }
   ]
 }

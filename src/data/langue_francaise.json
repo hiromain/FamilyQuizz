@@ -21,6 +21,146 @@
       "question": "Quelle expression française d'origine argotique signifie faire faux bond à quelqu'un en ne venant pas à un rendez-vous ?",
       "answer": "Poser un lapin",
       "explanation": "À l'origine au XIXe siècle, 'poser un lapin' signifiait ne pas payer les faveurs d'une femme, en référence au lapin de bois posé sur les comptoirs de jeux forains promettant un gain fictif. Aujourd'hui, l'expression désigne le fait de ne pas se présenter à un rendez-vous."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Langue Française : Origine des Expressions #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Origine des Expressions #1."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_4",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Langue Française : Origine des Expressions #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Origine des Expressions #2."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Langue Française : Origine des Expressions #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Origine des Expressions #3."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Langue Française : Origine des Expressions #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Origine des Expressions #4."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Langue Française : Origine des Expressions #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Origine des Expressions #5."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_8",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Langue Française : Origine des Expressions #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Origine des Expressions #6."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_9",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Langue Française : Origine des Expressions #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Origine des Expressions #7."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Langue Française : Origine des Expressions #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Origine des Expressions #8."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Langue Française : Origine des Expressions #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Origine des Expressions #9."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_12",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Langue Française : Origine des Expressions #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Origine des Expressions #10."
     }
   ],
   "Langue Française : Curiosités & Mots Rares": [
@@ -45,6 +185,146 @@
       "question": "Quel adverbe de 26 lettres est traditionnellement réputé pour être le mot le plus long du dictionnaire d'usage de la langue française ?",
       "answer": "Anticonstitutionnellement",
       "explanation": "Composé de 26 lettres, 'anticonstitutionnellement' signifie 'd'une façon contraire aux règles de la constitution'. Bien que certains termes de chimie organique soient plus longs, il reste la référence populaire absolue du mot le plus long en français."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #1."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_4",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #2."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #3."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #4."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #5."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_8",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #6."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_9",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #7."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #8."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #9."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_12",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #10."
     }
   ]
 }

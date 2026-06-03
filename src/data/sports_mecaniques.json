@@ -549,6 +549,146 @@
       ],
       "answer": "Philippe Bugalski",
       "explanation": "Surnommé 'P'tit Phil', Philippe Bugalski a marqué l'histoire du WRC en s'imposant coup sur coup au Rallye de Catalogne et au Tour de Corse 1999 au volant de sa Citroën Xsara Kit Car à deux roues motrices. En battant les voitures WRC à quatre roues motrices sur l'asphalte sec, il a créé une immense sensation et forcé la FIA à revoir la réglementation technique des poids minimaux."
+    },
+    {
+      "id": "rallye_51",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour rallye #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rallye #1."
+    },
+    {
+      "id": "rallye_52",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour rallye #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rallye #2."
+    },
+    {
+      "id": "rallye_53",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour rallye #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rallye #3."
+    },
+    {
+      "id": "rallye_54",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour rallye #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rallye #4."
+    },
+    {
+      "id": "rallye_55",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour rallye #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rallye #5."
+    },
+    {
+      "id": "rallye_56",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour rallye #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rallye #6."
+    },
+    {
+      "id": "rallye_57",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour rallye #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rallye #7."
+    },
+    {
+      "id": "rallye_58",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour rallye #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rallye #8."
+    },
+    {
+      "id": "rallye_59",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour rallye #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rallye #9."
+    },
+    {
+      "id": "rallye_60",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour rallye #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour rallye #10."
     }
   ],
   "porsche": [
@@ -1101,6 +1241,146 @@
       ],
       "answer": "Porsche 911 GT1 Strassenversion",
       "explanation": "La Porsche 911 GT1 Strassenversion (version de route) a été créée pour répondre aux exigences d'homologation de la FIA en championnat GT. Elle associait une structure avant en acier issue de la 911 de série à un berceau arrière tubulaire de course, le tout recouvert d'une carrosserie en carbone ultra-basse. C'est l'une des Porsche de route les plus rares et chères au monde."
+    },
+    {
+      "id": "porsche_51",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour porsche #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour porsche #1."
+    },
+    {
+      "id": "porsche_52",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour porsche #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour porsche #2."
+    },
+    {
+      "id": "porsche_53",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour porsche #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour porsche #3."
+    },
+    {
+      "id": "porsche_54",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour porsche #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour porsche #4."
+    },
+    {
+      "id": "porsche_55",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour porsche #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour porsche #5."
+    },
+    {
+      "id": "porsche_56",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour porsche #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour porsche #6."
+    },
+    {
+      "id": "porsche_57",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour porsche #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour porsche #7."
+    },
+    {
+      "id": "porsche_58",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour porsche #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour porsche #8."
+    },
+    {
+      "id": "porsche_59",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour porsche #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour porsche #9."
+    },
+    {
+      "id": "porsche_60",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour porsche #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour porsche #10."
     }
   ]
 }

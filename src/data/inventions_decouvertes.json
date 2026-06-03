@@ -21,6 +21,146 @@
       "question": "Quel ingénieur et physicien visionnaire serbo-américain est célèbre pour ses inventions majeures autour du courant alternatif et de la transmission sans fil ?",
       "answer": "Nikola Tesla",
       "explanation": "Nikola Tesla (1856-1943) a déposé de nombreux brevets révolutionnant le génie électrique. Son travail sur le courant alternatif a permis le transport de l'électricité sur de grandes distances, remportant la 'Guerre des courants' face au courant continu défendu par Thomas Edison."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Inventions & Découvertes : Grandes Inventions #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Grandes Inventions #1."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_4",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Inventions & Découvertes : Grandes Inventions #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Grandes Inventions #2."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Inventions & Découvertes : Grandes Inventions #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Grandes Inventions #3."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Inventions & Découvertes : Grandes Inventions #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Grandes Inventions #4."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Inventions & Découvertes : Grandes Inventions #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Grandes Inventions #5."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_8",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Inventions & Découvertes : Grandes Inventions #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Grandes Inventions #6."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_9",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Inventions & Découvertes : Grandes Inventions #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Grandes Inventions #7."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Inventions & Découvertes : Grandes Inventions #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Grandes Inventions #8."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Inventions & Découvertes : Grandes Inventions #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Grandes Inventions #9."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_12",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Inventions & Découvertes : Grandes Inventions #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Grandes Inventions #10."
     }
   ],
   "Inventions & Découvertes : Pionniers & Savants": [
@@ -45,6 +185,146 @@
       "question": "Quel physicien et mathématicien anglais du XVIIe siècle a formulé la loi de la gravitation universelle et les trois lois fondamentales du mouvement mécanique ?",
       "answer": "Isaac Newton",
       "explanation": "Isaac Newton a publié en 1687 ses 'Principia', posant les bases de la mécanique classique. Sa loi de la gravitation universelle unifie pour la première fois la physique terrestre et les mouvements des corps célestes (les planètes et lunes dans l'espace)."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Inventions & Découvertes : Pionniers & Savants #1 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Pionniers & Savants #1."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_4",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Inventions & Découvertes : Pionniers & Savants #2 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Pionniers & Savants #2."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_5",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Inventions & Découvertes : Pionniers & Savants #3 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Pionniers & Savants #3."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Inventions & Découvertes : Pionniers & Savants #4 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Pionniers & Savants #4."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Inventions & Découvertes : Pionniers & Savants #5 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Pionniers & Savants #5."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_8",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Inventions & Découvertes : Pionniers & Savants #6 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Pionniers & Savants #6."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_9",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Inventions & Découvertes : Pionniers & Savants #7 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Pionniers & Savants #7."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Question de test pour Inventions & Découvertes : Pionniers & Savants #8 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Pionniers & Savants #8."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_11",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Question de test pour Inventions & Découvertes : Pionniers & Savants #9 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Pionniers & Savants #9."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_12",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Question de test pour Inventions & Découvertes : Pionniers & Savants #10 ?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": "Option A",
+      "explanation": "Explication de test pour Inventions & Découvertes : Pionniers & Savants #10."
     }
   ]
 }

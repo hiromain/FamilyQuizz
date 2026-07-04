@@ -2,11 +2,17 @@
   "chirurgie cardiaque": [
     {
       "id": "chirurgie_cardiaque_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel chirurgien sud-africain a réalisé la toute première transplantation cardiaque humaine en 1967 ?",
       "answer": "Christiaan Barnard",
-      "explanation": "Le docteur Christiaan Barnard a marqué l'histoire de la médecine moderne le 3 décembre 1967 en réalisant cette greffe pionnière à l'hôpital Groote Schuur du Cap. Le patient, Louis Washkansky, a survécu 18 jours à l'intervention avant de succomber à une pneumonie causée par le traitement immunosuppresseur obligatoire. Cet exploit technique a ouvert la voie à la chirurgie des greffes cardiaques à travers le monde."
+      "explanation": "Le docteur Christiaan Barnard a marqué l'histoire de la médecine moderne le 3 décembre 1967 en réalisant cette greffe pionnière à l'hôpital Groote Schuur du Cap. Le patient, Louis Washkansky, a survécu 18 jours à l'intervention avant de succomber à une pneumonie causée par le traitement immunosuppresseur obligatoire. Cet exploit technique a ouvert la voie à la chirurgie des greffes cardiaques à travers le monde.",
+      "options": [
+        "William DeVries",
+        "Christiaan Barnard",
+        "Robert Sutton",
+        "Adrian Kantrowitz"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_2",
@@ -38,11 +44,17 @@
     },
     {
       "id": "chirurgie_cardiaque_4",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel organe vital est directement traité par une opération de chirurgie cardiaque ?",
       "answer": "Le cœur",
-      "explanation": "La chirurgie cardiaque se concentre spécifiquement sur le traitement des pathologies du cœur et des gros vaisseaux thoraciques. Elle permet de réparer des valves défectueuses, de corriger des malformations congénitales ou de contourner des artères obstruées. Cet organe assure la circulation du sang dans tout l'organisme."
+      "explanation": "La chirurgie cardiaque se concentre spécifiquement sur le traitement des pathologies du cœur et des gros vaisseaux thoraciques. Elle permet de réparer des valves défectueuses, de corriger des malformations congénitales ou de contourner des artères obstruées. Cet organe assure la circulation du sang dans tout l'organisme.",
+      "options": [
+        "Le foie",
+        "Les poumons",
+        "Les reins",
+        "Le cœur"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_5",
@@ -60,11 +72,17 @@
     },
     {
       "id": "chirurgie_cardiaque_6",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel nom porte la valve cardiaque située entre l'oreillette gauche et le ventricule gauche du cœur ?",
       "answer": "La valve mitrale",
-      "explanation": "La valve mitrale, appelée ainsi en raison de sa ressemblance avec la mitre d'un évêque, empêche le reflux du sang vers l'oreillette gauche lors de la contraction du ventricule gauche. En cas de dysfonctionnement, le chirurgien peut réaliser une réparation plastique (plastie mitrale) ou procéder à son remplacement complet. Cette valve joue un rôle crucial dans la circulation systémique."
+      "explanation": "La valve mitrale, appelée ainsi en raison de sa ressemblance avec la mitre d'un évêque, empêche le reflux du sang vers l'oreillette gauche lors de la contraction du ventricule gauche. En cas de dysfonctionnement, le chirurgien peut réaliser une réparation plastique (plastie mitrale) ou procéder à son remplacement complet. Cette valve joue un rôle crucial dans la circulation systémique.",
+      "options": [
+        "La valve aortique",
+        "La valve tricuspide",
+        "La valve mitrale",
+        "La valve pulmonaire"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_7",
@@ -82,11 +100,17 @@
     },
     {
       "id": "chirurgie_cardiaque_8",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Comment appelle-t-on le rétrécissement d'une artère ou d'une valve cardiaque, limitant le passage du sang ?",
       "answer": "Une sténose",
-      "explanation": "La sténose correspond à un rétrécissement pathologique d'un canal, d'un vaisseau ou d'un orifice valvulaire cardiaque comme la valve aortique. Ce rétrécissement impose un travail supplémentaire au cœur pour éjecter le sang, ce qui peut conduire à terme à une insuffisance cardiaque. Le traitement chirurgical consiste souvent à dilater la zone concernée ou à remplacer la structure malade."
+      "explanation": "La sténose correspond à un rétrécissement pathologique d'un canal, d'un vaisseau ou d'un orifice valvulaire cardiaque comme la valve aortique. Ce rétrécissement impose un travail supplémentaire au cœur pour éjecter le sang, ce qui peut conduire à terme à une insuffisance cardiaque. Le traitement chirurgical consiste souvent à dilater la zone concernée ou à remplacer la structure malade.",
+      "options": [
+        "Une hypertension",
+        "Une sténose",
+        "Une thrombose",
+        "Une arythmie"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_9",
@@ -104,11 +128,17 @@
     },
     {
       "id": "chirurgie_cardiaque_10",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "En quelle année a été implanté pour la toute première fois le cœur artificiel total Carmat chez un être humain ?",
       "answer": "2013",
-      "explanation": "Le cœur artificiel bioprothétique Carmat a été implanté pour la première fois le 18 décembre 2013 par l'équipe du professeur Christian Latrémouille à l'hôpital européen Georges-Pompidou à Paris. Ce dispositif hautement technologique utilise des matériaux biologiques pour réduire les risques de rejets et de caillots sanguins. Cette prouesse médicale française offre une alternative prometteuse pour les patients souffrant d'insuffisance cardiaque biventriculaire terminale."
+      "explanation": "Le cœur artificiel bioprothétique Carmat a été implanté pour la première fois le 18 décembre 2013 par l'équipe du professeur Christian Latrémouille à l'hôpital européen Georges-Pompidou à Paris. Ce dispositif hautement technologique utilise des matériaux biologiques pour réduire les risques de rejets et de caillots sanguins. Cette prouesse médicale française offre une alternative prometteuse pour les patients souffrant d'insuffisance cardiaque biventriculaire terminale.",
+      "options": [
+        "2008",
+        "2017",
+        "2010",
+        "2013"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_11",
@@ -126,11 +156,17 @@
     },
     {
       "id": "chirurgie_cardiaque_12",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel chirurgien français a été le pionnier européen des transplantations cardiaques en réalisant la première greffe en Europe en avril 1968 ?",
       "answer": "Christian Cabrol",
-      "explanation": "Le professeur Christian Cabrol a marqué l'histoire de la médecine européenne en effectuant la première greffe cardiaque sur le continent à l'hôpital de la Pitié-Salpêtrière à Paris le 27 avril 1968. Il a également réalisé la première greffe cardiopulmonaire en Europe en 1982 ainsi que la première implantation d'un cœur artificiel temporaire en 1986. Ce pionnier a consacré sa vie au développement de la chirurgie cardiaque et au don d'organes."
+      "explanation": "Le professeur Christian Cabrol a marqué l'histoire de la médecine européenne en effectuant la première greffe cardiaque sur le continent à l'hôpital de la Pitié-Salpêtrière à Paris le 27 avril 1968. Il a également réalisé la première greffe cardiopulmonaire en Europe en 1982 ainsi que la première implantation d'un cœur artificiel temporaire en 1986. Ce pionnier a consacré sa vie au développement de la chirurgie cardiaque et au don d'organes.",
+      "options": [
+        "Christian Cabrol",
+        "Alain Carpentier",
+        "Pierre-Louis Jacquet",
+        "Jean-Félix Toussaint"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_13",
@@ -148,11 +184,17 @@
     },
     {
       "id": "chirurgie_cardiaque_14",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel terme désigne l'arrêt temporaire et provoqué du cœur par l'injection d'une solution froide enrichie en potassium lors d'une opération sous CEC ?",
       "answer": "La cardioplégie",
-      "explanation": "La cardioplégie est une technique indispensable consistant à injecter une solution chimique spécifique pour paralyser momentanément le muscle cardiaque en phase de relaxation (diastole). Cette solution protège également le tissu myocardique contre le manque d'oxygène durant l'interruption de sa propre circulation sanguine. Grâce à cette immobilisation complète du cœur, le chirurgien peut intervenir avec une extrême précision sur les structures internes."
+      "explanation": "La cardioplégie est une technique indispensable consistant à injecter une solution chimique spécifique pour paralyser momentanément le muscle cardiaque en phase de relaxation (diastole). Cette solution protège également le tissu myocardique contre le manque d'oxygène durant l'interruption de sa propre circulation sanguine. Grâce à cette immobilisation complète du cœur, le chirurgien peut intervenir avec une extrême précision sur les structures internes.",
+      "options": [
+        "La vasoconstriction coronarienne",
+        "La cardioplégie",
+        "La fibrillation diastolique",
+        "L'hypothermie contrôlée"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_15",
@@ -170,11 +212,17 @@
     },
     {
       "id": "chirurgie_cardiaque_16",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Dans le contexte d'une transplantation cardiaque, quel terme médical désigne le fait que le cœur du donneur est implanté à la place du cœur natif du receveur, qui est préalablement retiré ?",
       "answer": "Orthotopique",
-      "explanation": "La transplantation cardiaque orthotopique est la technique chirurgicale standard où le cœur malade du receveur est entièrement retiré pour que le greffon sain soit suturé à sa place anatomique exacte. Par opposition, la greffe hétérotopique, beaucoup plus rare, consiste à ajouter le cœur du donneur à côté du cœur natif sans retirer ce dernier. Cette approche orthotopique assure une restauration optimale de l'hémodynamique du patient."
+      "explanation": "La transplantation cardiaque orthotopique est la technique chirurgicale standard où le cœur malade du receveur est entièrement retiré pour que le greffon sain soit suturé à sa place anatomique exacte. Par opposition, la greffe hétérotopique, beaucoup plus rare, consiste à ajouter le cœur du donneur à côté du cœur natif sans retirer ce dernier. Cette approche orthotopique assure une restauration optimale de l'hémodynamique du patient.",
+      "options": [
+        "Transposition valvulaire",
+        "Hétérotransplantation",
+        "Bi-cardiaque",
+        "Orthotopique"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_17",
@@ -192,11 +240,17 @@
     },
     {
       "id": "chirurgie_cardiaque_18",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle classe de médicaments antirejet est indispensable après une transplantation cardiaque pour éviter que le système immunitaire n'attaque le nouveau cœur ?",
       "answer": "Les immunosuppresseurs",
-      "explanation": "Les immunosuppresseurs sont prescrits à vie pour inhiber les réactions naturelles de défense de l'organisme contre l'organe greffé, perçu comme un corps étranger. Ce traitement nécessite un dosage minutieux pour trouver le bon équilibre entre la prévention du rejet et le maintien de défenses immunitaires minimales. Grâce à l'amélioration de ces molécules depuis les années 1980, l'espérance de vie des patients greffés s'est considérablement allongée."
+      "explanation": "Les immunosuppresseurs sont prescrits à vie pour inhiber les réactions naturelles de défense de l'organisme contre l'organe greffé, perçu comme un corps étranger. Ce traitement nécessite un dosage minutieux pour trouver le bon équilibre entre la prévention du rejet et le maintien de défenses immunitaires minimales. Grâce à l'amélioration de ces molécules depuis les années 1980, l'espérance de vie des patients greffés s'est considérablement allongée.",
+      "options": [
+        "Les immunosuppresseurs",
+        "Les anticoagulants",
+        "Les antibiotiques",
+        "Les antiémétiques"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_19",
@@ -214,19 +268,31 @@
     },
     {
       "id": "chirurgie_cardiaque_20",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle maladie infectieuse grave des valves cardiaques, provoquée par des bactéries ou des champignons, peut nécessiter une chirurgie valvulaire d'urgence ?",
       "answer": "L'endocardite",
-      "explanation": "L'endocardite infectieuse est une infection de la paroi interne du cœur (l'endocarde), touchant le plus souvent les valves cardiaques saines ou déjà lésées. Elle est causée par des micro-organismes qui se propagent par la circulation sanguine et viennent se fixer sur les structures cardiaques, y créant des végétations destructrices. Une intervention chirurgicale rapide est requise lorsque l'infection détruit les valves ou résiste aux antibiotiques, entraînant une insuffisance cardiaque aiguë."
+      "explanation": "L'endocardite infectieuse est une infection de la paroi interne du cœur (l'endocarde), touchant le plus souvent les valves cardiaques saines ou déjà lésées. Elle est causée par des micro-organismes qui se propagent par la circulation sanguine et viennent se fixer sur les structures cardiaques, y créant des végétations destructrices. Une intervention chirurgicale rapide est requise lorsque l'infection détruit les valves ou résiste aux antibiotiques, entraînant une insuffisance cardiaque aiguë.",
+      "options": [
+        "L'athérosclérose",
+        "L'endocardite",
+        "La péricardite",
+        "La myocardite"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel médecin et chercheur français a inventé le stéthoscope en 1816, permettant d'écouter les battements cardiaques et pulmonaires à travers le thorax ?",
       "answer": "René Laennec",
-      "explanation": "Le médecin breton René Laennec invente le stéthoscope en 1816 à l'hôpital Necker de Paris en enroulant une feuille de papier cartonné pour ausculter une jeune patiente sans gêne. Il perfectionne rapidement son invention sous la forme d'un cylindre en bois démontable appelé le pectoral. Cette innovation clinique majeure permet d'écouter et d'analyser scientifiquement les bruits internes du cœur et des poumons, jetant les bases de la cardiologie et de la pneumologie moderne."
+      "explanation": "Le médecin breton René Laennec invente le stéthoscope en 1816 à l'hôpital Necker de Paris en enroulant une feuille de papier cartonné pour ausculter une jeune patiente sans gêne. Il perfectionne rapidement son invention sous la forme d'un cylindre en bois démontable appelé le pectoral. Cette innovation clinique majeure permet d'écouter et d'analyser scientifiquement les bruits internes du cœur et des poumons, jetant les bases de la cardiologie et de la pneumologie moderne.",
+      "options": [
+        "René Laennec",
+        "Antoine Lavoisier",
+        "Louis Pasteur",
+        "Jean-François Champollion"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_22",
@@ -244,11 +310,17 @@
     },
     {
       "id": "chirurgie_cardiaque_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel terme médical désigne le rétrécissement ou l'occlusion d'une artère coronaire, provoquant un manque d'oxygénation du muscle cardiaque et pouvant mener à l'infarctus ?",
       "answer": "Une ischémie",
-      "explanation": "L'ischémie myocardique correspond à une baisse de l'irrigation sanguine d'une partie du muscle cardiaque, le plus souvent causée par le rétrécissement d'une artère coronaire par des plaques d'athérome (coronaropathie). Si le flux sanguin est complètement interrompu, l'absence d'oxygène provoque la mort des cellules musculaires cardiaques, constituant un infarctus du myocarde. Le traitement chirurgical d'urgence consiste à dilater l'artère par angioplastie ou à réaliser un pontage."
+      "explanation": "L'ischémie myocardique correspond à une baisse de l'irrigation sanguine d'une partie du muscle cardiaque, le plus souvent causée par le rétrécissement d'une artère coronaire par des plaques d'athérome (coronaropathie). Si le flux sanguin est complètement interrompu, l'absence d'oxygène provoque la mort des cellules musculaires cardiaques, constituant un infarctus du myocarde. Le traitement chirurgical d'urgence consiste à dilater l'artère par angioplastie ou à réaliser un pontage.",
+      "options": [
+        "Une hypertension",
+        "Une ischémie",
+        "Une thrombose",
+        "Une arythmie"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_24",
@@ -266,11 +338,17 @@
     },
     {
       "id": "chirurgie_cardiaque_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel chirurgien américain de génie, pionnier de la chirurgie cardiaque pédiatrique à l'université Johns Hopkins, a conçu en 1944 l'opération historique permettant de corriger la tétralogie de Fallot (la maladie des 'bébés bleus') ?",
       "answer": "Alfred Blalock",
-      "explanation": "Le docteur Alfred Blalock a marqué l'histoire de la chirurgie cardiaque en réalisant en novembre 1944 la première dérivation chirurgicale réussie entre l'artère sous-clavière et l'artère pulmonaire (le shunt de Blalock-Taussig). Conçue avec la cardiologue Helen Taussig et son assistant technique Vivien Thomas, cette intervention historique a permis de sauver des milliers d'enfants souffrant de cardiopathie congénitale cyanogène (la tétralogie de Fallot ou maladie des 'bébés bleus'). Cet exploit technique a prouvé qu'il était possible d'opérer directement sur les gros vaisseaux thoraciques."
+      "explanation": "Le docteur Alfred Blalock a marqué l'histoire de la chirurgie cardiaque en réalisant en novembre 1944 la première dérivation chirurgicale réussie entre l'artère sous-clavière et l'artère pulmonaire (le shunt de Blalock-Taussig). Conçue avec la cardiologue Helen Taussig et son assistant technique Vivien Thomas, cette intervention historique a permis de sauver des milliers d'enfants souffrant de cardiopathie congénitale cyanogène (la tétralogie de Fallot ou maladie des 'bébés bleus'). Cet exploit technique a prouvé qu'il était possible d'opérer directement sur les gros vaisseaux thoraciques.",
+      "options": [
+        "Michael DeBakey",
+        "Daniel Hale Williams",
+        "Alfred Blalock",
+        "Virgil Weatherby Morgan"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_26",
@@ -288,11 +366,17 @@
     },
     {
       "id": "chirurgie_cardiaque_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel dispositif médical temporaire, constitué d'un ballonnet introduit dans l'aorte cardiaque descendante, se gonfle en diastole pour améliorer l'irrigation du cœur en cas de défaillance cardiaque aiguë ?",
       "answer": "Le ballon de contre-pulsion intra-aortique",
-      "explanation": "Le ballon de contre-pulsion intra-aortique (CPIA) est un système d'assistance circulatoire mécanique temporaire fréquemment employé en chirurgie cardiaque de réanimation. Il consiste à introduire par l'artère fémorale un cathéter muni d'un ballonnet souple positionné dans l'aorte descendante. Le gonflage synchrone du ballonnet en diastole et son dégonflage en systole permettent d'augmenter le débit sanguin coronaire et de soulager le travail d'éjection du ventricule gauche défaillant."
+      "explanation": "Le ballon de contre-pulsion intra-aortique (CPIA) est un système d'assistance circulatoire mécanique temporaire fréquemment employé en chirurgie cardiaque de réanimation. Il consiste à introduire par l'artère fémorale un cathéter muni d'un ballonnet souple positionné dans l'aorte descendante. Le gonflage synchrone du ballonnet en diastole et son dégonflage en systole permettent d'augmenter le débit sanguin coronaire et de soulager le travail d'éjection du ventricule gauche défaillant.",
+      "options": [
+        "L'extracorporeal membrane oxygenation (ECMO)",
+        "Le ballon de contre-pulsion intra-aortique",
+        "Le stimulateur cardiaque transveineux",
+        "Le cathéter de Swan-Ganz"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_28",
@@ -310,11 +394,17 @@
     },
     {
       "id": "chirurgie_cardiaque_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel physiologiste et biochimiste américain a conçu en 1953 le tout premier cœur-poumon artificiel fonctionnel utilisé avec succès pour réaliser la première opération à cœur ouvert sous CEC chez l'homme ?",
       "answer": "John Heysham Gibbon",
-      "explanation": "Le docteur américain John Heysham Gibbon a consacré plus de vingt ans de recherches expérimentales à la conception d'un système de circulation extracorporelle fonctionnel. En mai 1953, à l'hôpital universitaire Thomas Jefferson de Philadelphie, il réalise la toute première opération à cœur ouvert réussie sous CEC chez une jeune fille pour fermer une communication interauriculaire. Son invention géniale du cœur-poumon artificiel a véritablement donné naissance à la chirurgie cardiaque moderne sous contrôle visuel direct."
+      "explanation": "Le docteur américain John Heysham Gibbon a consacré plus de vingt ans de recherches expérimentales à la conception d'un système de circulation extracorporelle fonctionnel. En mai 1953, à l'hôpital universitaire Thomas Jefferson de Philadelphie, il réalise la toute première opération à cœur ouvert réussie sous CEC chez une jeune fille pour fermer une communication interauriculaire. Son invention géniale du cœur-poumon artificiel a véritablement donné naissance à la chirurgie cardiaque moderne sous contrôle visuel direct.",
+      "options": [
+        "Albert Einstein",
+        "John Heysham Gibbon",
+        "Charles Lindbergh",
+        "Wilhelm Kolff"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_30",
@@ -373,28 +463,46 @@
       "id": "chirurgie_cardiaque_33"
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel est le nom du premier transplantat cardiaque effectué dans le monde?",
       "answer": "Louis Washkansky",
       "explanation": "Le premier transplantat cardiaque a été réalisé sur Louis Washkansky en 1967 par le docteur Christiaan Barnard à Port Elizabeth, en Afrique du Sud.",
-      "id": "chirurgie_cardiaque_34"
+      "id": "chirurgie_cardiaque_34",
+      "options": [
+        "Robert Sutton",
+        "Louis Washkansky",
+        "Jean-Pierre Garnier",
+        "Henri Dubois"
+      ]
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Qui est l'homme qui a vécu le plus longtemps avec un cœur transplanté ?",
       "answer": "John Wojtowicz",
       "explanation": "John Wojtowicz détient le record mondial du patient ayant vécu le plus longtemps après un transplantat cardiaque. Il a survécu 26 ans et 227 jours avec un cœur transplanté.",
-      "id": "chirurgie_cardiaque_35"
+      "id": "chirurgie_cardiaque_35",
+      "options": [
+        "John Wojtowicz",
+        "Pierre Delarue",
+        "Jean-Pierre Dubois",
+        "Arthur Hastings"
+      ]
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel est le nom du premier enfant à avoir subi une greffe cardiaque à l'âge de 18 mois?",
       "answer": "Baby F",
       "explanation": "En 1984, Baby F a été la première enfant à survivre à une greffe cardiaque à l'âge de 18 mois. Ce cas est considéré comme un tournant important dans le domaine de la chirurgie cardiaque pédiatrique.",
-      "id": "chirurgie_cardiaque_36"
+      "id": "chirurgie_cardiaque_36",
+      "options": [
+        "David Aldridge",
+        "Hope Elisabeth",
+        "Baby F",
+        "Louis Putman"
+      ]
     },
     {
       "type": "qcm",
@@ -439,28 +547,46 @@
       "id": "chirurgie_cardiaque_39"
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel est le nom du premier transplantat cardiaque effectué dans l'histoire de la médecine?",
       "answer": "Louis Washkansky",
       "explanation": "Le premier transplantat cardiaque a été réalisé sur Louis Washkansky en 1967 par le docteur Christiaan Barnard à Port Elizabeth, en Afrique du Sud.",
-      "id": "chirurgie_cardiaque_40"
+      "id": "chirurgie_cardiaque_40",
+      "options": [
+        "Louis Washkansky",
+        "Robert Sutton",
+        "Christiaan Barnard",
+        "Jean-Pierre Dubois"
+      ]
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom du premier patient à avoir survécu à une greffe de cœur cryopreservée?",
       "answer": "Baby F",
       "explanation": "En 1984, Baby F a été la première enfant à survivre à une greffe de cœur cryopreservée.",
-      "id": "chirurgie_cardiaque_41"
+      "id": "chirurgie_cardiaque_41",
+      "options": [
+        "Baby F",
+        "Louis Putoux",
+        "Christiane Martel",
+        "Xavier Stach"
+      ]
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel est le nom du premier transplantat cardiaque effectué en Asie?",
       "answer": "Masami Shiozawa",
       "explanation": "Le premier transplantat cardiaque asiatique a été réalisé sur Masami Shiozawa en 1968 par le docteur Yoshio Nakamura à Tokyo, au Japon.",
-      "id": "chirurgie_cardiaque_42"
+      "id": "chirurgie_cardiaque_42",
+      "options": [
+        "Takashi Morita",
+        "Masami Shiozawa",
+        "Hiroshi Watanabe",
+        "Kenji Tanaka"
+      ]
     },
     {
       "type": "qcm",
@@ -505,28 +631,46 @@
       "id": "chirurgie_cardiaque_45"
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel est le nom du premier transplantat cardiaque effectué en Amérique du Nord?",
       "answer": "Kenneth Barnes",
       "explanation": "Le premier transplantat cardiaque effectué en Amérique du Nord a été réalisé sur Kenneth Barnes en 1968 par le docteur Charles Hufnagel à Cleveland, aux États-Unis.",
-      "id": "chirurgie_cardiaque_46"
+      "id": "chirurgie_cardiaque_46",
+      "options": [
+        "Kenneth Barnes",
+        "William Beaumont",
+        "Louis Pasteur",
+        "Daniel Hale Williams"
+      ]
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom du premier transplantat cardiaque effectué en Russie?",
       "answer": "Vasili Kolegov",
       "explanation": "Le premier transplantat cardiaque russe a été réalisé sur Vasili Kolegov en 1968 par le docteur Yuri Kalinin.",
-      "id": "chirurgie_cardiaque_47"
+      "id": "chirurgie_cardiaque_47",
+      "options": [
+        "Ivan Vladimirovitch Romanov",
+        "Sergueï Pavlovitch Korolev",
+        "Vasili Kolegov",
+        "Vladimir Demikhov"
+      ]
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Qui est le chirurgien qui a effectué la première intervention chirurgicale pour réparer une anévrisme aortique?",
       "answer": "Eugen Goldstein",
       "explanation": "En 1953, Eugen Goldstein a réalisé la première intervention chirurgicale pour réparer une anévrisme aortique.",
-      "id": "chirurgie_cardiaque_48"
+      "id": "chirurgie_cardiaque_48",
+      "options": [
+        "Daniel Hale Williams",
+        "Eugen Goldstein",
+        "Christiaan Barnard",
+        "Alexis Carrel"
+      ]
     },
     {
       "type": "qcm",
@@ -571,28 +715,32 @@
       "id": "chirurgie_cardiaque_51"
     },
     {
-      "type": "open",
-      "difficulty": "Facile",
-      "question": "Quel est le nom du premier transplantat cardiaque effectué en Europe occidentale?",
-      "answer": "Pierre Bovet",
-      "explanation": "Le premier transplantat cardiaque européen occidental a été réalisé sur Pierre Bovet en 1968 par le docteur Jean Dassault.",
-      "id": "chirurgie_cardiaque_52"
-    },
-    {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom du premier transplantat cardiaque effectué en Scandinavie?",
       "answer": "Ingvar Svanberg",
       "explanation": "Le premier transplantat cardiaque scandinave a été réalisé sur Ingvar Svanberg en 1968 par le docteur Bo Gunnar Jönsson.",
-      "id": "chirurgie_cardiaque_53"
+      "id": "chirurgie_cardiaque_53",
+      "options": [
+        "Bjørn Dyrli",
+        "Sven-Erik Malm",
+        "Ingvar Svanberg",
+        "Lars Ljungberg"
+      ]
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Qui est le chirurgien qui a effectué la première intervention chirurgicale pour soigner une valve cœur mal fonctionnante en 1954?",
       "answer": "Albert Starr",
       "explanation": "En 1954, Albert Starr a réalisé la première intervention chirurgicale pour soigner une valve cœur mal fonctionnante.",
-      "id": "chirurgie_cardiaque_54"
+      "id": "chirurgie_cardiaque_54",
+      "options": [
+        "Christiaan Barnard",
+        "Albert Starr",
+        "Michael DeBakey",
+        "Daniel Hale Williams"
+      ]
     },
     {
       "type": "qcm",
@@ -624,41 +772,31 @@
     },
     {
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Qui est le chirurgien qui a effectué la première intervention chirurgicale pour soigner une valve cœur mal fonctionnante en 1958?",
-      "options": [
-        "Albert Starr",
-        "Alexis Carrel",
-        "John Gibbon",
-        "Erich Lexer"
-      ],
-      "answer": "John Gibbon",
-      "explanation": "En 1958, John Gibbon a réalisé la première intervention chirurgicale pour soigner une valve cœur mal fonctionnante.",
-      "id": "chirurgie_cardiaque_57"
-    },
-    {
-      "type": "open",
       "difficulty": "Facile",
       "question": "Quel est le nom du premier transplantat cardiaque effectué en Inde?",
       "answer": "G.V. Rao",
       "explanation": "Le premier transplantat cardiaque indien a été réalisé sur G.V. Rao en 1968 par le docteur Suniti Solomon.",
-      "id": "chirurgie_cardiaque_58"
+      "id": "chirurgie_cardiaque_58",
+      "options": [
+        "Vijay Pillai",
+        "Rajesh Khanna",
+        "Arun Kumar",
+        "G.V. Rao"
+      ]
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom du premier transplantat cardiaque effectué en Israël?",
       "answer": "Yaakov Yitzhak Shimon Levine",
       "explanation": "Le premier transplantat cardiaque israélien a été réalisé sur Yaakov Yitzhak Shimon Levine en 1968 par le docteur Michael Gross.",
-      "id": "chirurgie_cardiaque_59"
-    },
-    {
-      "type": "open",
-      "difficulty": "Difficile",
-      "question": "Qui est le chirurgien qui a effectué la première intervention chirurgicale pour soigner une valve cœur mal fonctionnante en 1957?",
-      "answer": "Albert Starr",
-      "explanation": "En 1957, Albert Starr a réalisé la première intervention chirurgicale pour soigner une valve cœur mal fonctionnante.",
-      "id": "chirurgie_cardiaque_60"
+      "id": "chirurgie_cardiaque_59",
+      "options": [
+        "Avraham Eliezer Katchalski",
+        "Zvi Ben-Zvi",
+        "Yaakov Yitzhak Shimon Levine",
+        "Moshe David Ben-Gurion"
+      ]
     },
     {
       "id": "chirurgie_cardiaque_61",
@@ -1056,11 +1194,17 @@
     },
     {
       "id": "anesth_sie_r_animation_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel gaz d'inhalation à l'odeur douceâtre, découvert par Joseph Priestley en 1772, est historiquement connu sous le nom de 'gaz hilarant' et toujours utilisé comme anesthésique ?",
       "answer": "Le protoxyde d'azote",
-      "explanation": "Le protoxyde d'azote (N2O) a été synthétisé en 1772 par Joseph Priestley. Le chimiste Humphry Davy en a ensuite décrit les effets euphorisants et antalgiques en l'expérimentant sur lui-même, lui donnant le nom populaire de 'gaz hilarant'. Utilisé d'abord comme attraction dans les foires, il est devenu un anesthésique gazeux incontournable en chirurgie et en obstétrique pour calmer l'anxiété et la douleur des patients."
+      "explanation": "Le protoxyde d'azote (N2O) a été synthétisé en 1772 par Joseph Priestley. Le chimiste Humphry Davy en a ensuite décrit les effets euphorisants et antalgiques en l'expérimentant sur lui-même, lui donnant le nom populaire de 'gaz hilarant'. Utilisé d'abord comme attraction dans les foires, il est devenu un anesthésique gazeux incontournable en chirurgie et en obstétrique pour calmer l'anxiété et la douleur des patients.",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'hélium",
+        "Le protoxyde d'azote"
+      ]
     },
     {
       "id": "anesth_sie_r_animation_20",
@@ -1078,11 +1222,17 @@
     },
     {
       "id": "anesth_sie_r_animation_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel type de seringue munie d'une aiguille creuse, inventé indépendamment en 1853 par Charles Pravaz et Alexander Wood, a permis d'injecter précisément des anesthésiques sous la peau ?",
       "answer": "La seringue hypodermique",
-      "explanation": "En 1853, le chirurgien français Charles Pravaz conçoit une seringue en argent munie d'un piston à vis permettant un dosage fin, tandis que le médecin écossais Alexander Wood invente l'aiguille creuse pour injecter de la morphine sous la peau afin de soulager des névralgies. Cette invention de la seringue hypodermique moderne a révolutionné l'anesthésie et l'administration de médicaments en permettant un accès direct aux tissus et à la circulation sanguine."
+      "explanation": "En 1853, le chirurgien français Charles Pravaz conçoit une seringue en argent munie d'un piston à vis permettant un dosage fin, tandis que le médecin écossais Alexander Wood invente l'aiguille creuse pour injecter de la morphine sous la peau afin de soulager des névralgies. Cette invention de la seringue hypodermique moderne a révolutionné l'anesthésie et l'administration de médicaments en permettant un accès direct aux tissus et à la circulation sanguine.",
+      "options": [
+        "La perfusion intraveineuse",
+        "La seringue hypodermique",
+        "L'injecteur à piston",
+        "Le cathéter de Pravaz"
+      ]
     },
     {
       "id": "anesth_sie_r_animation_22",
@@ -1100,11 +1250,17 @@
     },
     {
       "id": "anesth_sie_r_animation_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Dans quel hôpital américain le dentiste William Morton a-t-il réalisé en octobre 1846 la première démonstration publique réussie d'une anesthésie générale à l'éther ?",
       "answer": "Le Massachusetts General Hospital",
-      "explanation": "Le 16 octobre 1846, au Massachusetts General Hospital de Boston, le dentiste William Morton endort le patient Gilbert Abbott à l'aide de vapeurs d'éther sulfurique. Le chirurgien John Collins Warren peut alors retirer une tumeur du cou sans que le patient ne ressente de douleur. L'amphithéâtre historique de cette prouesse est depuis célèbre sous le nom de 'Dôme de l'éther' ('Ether Dome')."
+      "explanation": "Le 16 octobre 1846, au Massachusetts General Hospital de Boston, le dentiste William Morton endort le patient Gilbert Abbott à l'aide de vapeurs d'éther sulfurique. Le chirurgien John Collins Warren peut alors retirer une tumeur du cou sans que le patient ne ressente de douleur. L'amphithéâtre historique de cette prouesse est depuis célèbre sous le nom de 'Dôme de l'éther' ('Ether Dome').",
+      "options": [
+        "L'hôpital Johns Hopkins",
+        "L'hôpital Presbyterian de New York",
+        "Le Bellevue Hospital",
+        "Le Massachusetts General Hospital"
+      ]
     },
     {
       "id": "anesth_sie_r_animation_24",
@@ -1122,11 +1278,17 @@
     },
     {
       "id": "anesth_sie_r_animation_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel chimiste suédois a synthétisé en 1943 la lidocaïne, le premier anesthésique local moderne de type amide, commercialisé sous le nom de Xylocaïne ?",
       "answer": "Nils Löfgren",
-      "explanation": "Nils Löfgren synthétise la lidocaïne en 1943 avec son assistant Bengt Lundqvist à l'université de Stockholm. Commercialisée à partir de 1948 par la firme Astra sous le nom de Xylocaïne, la lidocaïne a rapidement détrôné la novocaïne en raison de sa plus grande stabilité, de sa rapidité d'action et d'un risque d'allergie quasi nul. Elle demeure l'anesthésique local le plus populaire de la médecine contemporaine."
+      "explanation": "Nils Löfgren synthétise la lidocaïne en 1943 avec son assistant Bengt Lundqvist à l'université de Stockholm. Commercialisée à partir de 1948 par la firme Astra sous le nom de Xylocaïne, la lidocaïne a rapidement détrôné la novocaïne en raison de sa plus grande stabilité, de sa rapidité d'action et d'un risque d'allergie quasi nul. Elle demeure l'anesthésique local le plus populaire de la médecine contemporaine.",
+      "options": [
+        "Sven Rinman",
+        "Arvid Carlsson",
+        "Torsten Noring",
+        "Nils Löfgren"
+      ]
     },
     {
       "id": "anesth_sie_r_animation_26",
@@ -1144,11 +1306,17 @@
     },
     {
       "id": "anesth_sie_r_animation_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel médicament antagoniste des récepteurs morphiniques est utilisé en urgence comme antidote pour inverser immédiatement les effets d'une surdose d'héroïne ou de fentanyl ?",
       "answer": "La naloxone",
-      "explanation": "Synthétisée en 1961, la naloxone a une très forte affinité pour les récepteurs opioïdes du cerveau, sans en activer les effets. En se fixant à la place des molécules de drogue (comme l'héroïne, la morphine ou le fentanyl), elle bloque instantanément leur action et restaure une respiration normale chez un patient en arrêt respiratoire. C'est un traitement d'urgence salvateur administré par les secouristes et réanimateurs."
+      "explanation": "Synthétisée en 1961, la naloxone a une très forte affinité pour les récepteurs opioïdes du cerveau, sans en activer les effets. En se fixant à la place des molécules de drogue (comme l'héroïne, la morphine ou le fentanyl), elle bloque instantanément leur action et restaure une respiration normale chez un patient en arrêt respiratoire. C'est un traitement d'urgence salvateur administré par les secouristes et réanimateurs.",
+      "options": [
+        "La naloxone",
+        "La diphenhydramine",
+        "Le flumazenil",
+        "L'acétylcystéine"
+      ]
     },
     {
       "id": "anesth_sie_r_animation_28",
@@ -1166,11 +1334,17 @@
     },
     {
       "id": "anesth_sie_r_animation_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle hormone et neurotransmetteur, administrée d'urgence par voie intramusculaire, est le traitement de première intention absolu d'un choc anaphylactique ?",
       "answer": "L'adrénaline",
-      "explanation": "Le choc anaphylactique est une réaction allergique systémique ultra-violente provoquant une chute brutale de la tension artérielle et un gonflement des voies respiratoires (œdème de Quincke). L'adrénaline agit immédiatement en resserrant les vaisseaux sanguins (ce qui remonte la tension) et en relaxant les muscles des bronches pour rétablir une respiration fluide. C'est le seul traitement capable de sauver la vie du patient en quelques minutes."
+      "explanation": "Le choc anaphylactique est une réaction allergique systémique ultra-violente provoquant une chute brutale de la tension artérielle et un gonflement des voies respiratoires (œdème de Quincke). L'adrénaline agit immédiatement en resserrant les vaisseaux sanguins (ce qui remonte la tension) et en relaxant les muscles des bronches pour rétablir une respiration fluide. C'est le seul traitement capable de sauver la vie du patient en quelques minutes.",
+      "options": [
+        "La dopamine",
+        "L'histamine",
+        "La cortisone",
+        "L'adrénaline"
+      ]
     },
     {
       "id": "anesth_sie_r_animation_30",
@@ -1202,19 +1376,31 @@
     },
     {
       "id": "anesth_sie_r_animation_32",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel poison végétal d'Amérique du Sud, utilisé par les autochtones sur leurs flèches, a été introduit avec succès en anesthésie en 1942 par Harold Griffith pour paralyser temporairement les muscles ?",
       "answer": "Le curare",
-      "explanation": "En janvier 1942, l'anesthésiste canadien Harold Griffith utilise pour la première fois de l'intocostrine (un dérivé purifié du curare) pour détendre complètement les muscles abdominaux d'un patient lors d'une appendicectomie. Cette innovation majeure a permis de réaliser des opérations délicates avec des doses d'anesthésiques généraux beaucoup plus faibles, réduisant grandement la toxicité et améliorant la sécurité chirurgicale."
+      "explanation": "En janvier 1942, l'anesthésiste canadien Harold Griffith utilise pour la première fois de l'intocostrine (un dérivé purifié du curare) pour détendre complètement les muscles abdominaux d'un patient lors d'une appendicectomie. Cette innovation majeure a permis de réaliser des opérations délicates avec des doses d'anesthésiques généraux beaucoup plus faibles, réduisant grandement la toxicité et améliorant la sécurité chirurgicale.",
+      "options": [
+        "L'ayahuasca",
+        "Le curare",
+        "La scopolamine",
+        "La cocaïne"
+      ]
     },
     {
       "id": "anesth_sie_r_animation_33",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel médecin britannique, pionnier de l'anesthésie et de l'épidémiologie, a popularisé l'usage du chloroforme en 1853 en endormant la reine Victoria pour la naissance du prince Léopold ?",
       "answer": "John Snow",
-      "explanation": "Le docteur John Snow est célèbre pour avoir cartographié l'épidémie de choléra à Londres en 1854, mais il fut également l'un des premiers anesthésistes à calculer scientifiquement les dosages de gaz. En avril 1853, il administre du chloroforme à la reine Victoria pour l'accouchement de son huitième enfant. La reine, ravie de ce soulagement ('chloroform à la reine'), l'utilisera à nouveau en 1857, ce qui a levé définitivement les objections religieuses et médicales contre l'anesthésie lors des accouchements."
+      "explanation": "Le docteur John Snow est célèbre pour avoir cartographié l'épidémie de choléra à Londres en 1854, mais il fut également l'un des premiers anesthésistes à calculer scientifiquement les dosages de gaz. En avril 1853, il administre du chloroforme à la reine Victoria pour l'accouchement de son huitième enfant. La reine, ravie de ce soulagement ('chloroform à la reine'), l'utilisera à nouveau en 1857, ce qui a levé définitivement les objections religieuses et médicales contre l'anesthésie lors des accouchements.",
+      "options": [
+        "James Young Simpson",
+        "John Snow",
+        "Robert Liston",
+        "William Macewen"
+      ]
     },
     {
       "id": "anesth_sie_r_animation_34",
@@ -1232,11 +1418,17 @@
     },
     {
       "id": "anesth_sie_r_animation_35",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle complication rare et grave de l'anesthésie générale, déclenchée par des gaz halogénés ou du succinylcholine, provoque une élévation mortelle de la température corporelle en raison d'une libération incontrôlée de calcium musculaire ?",
       "answer": "L'hyperthermie maligne",
-      "explanation": "L'hyperthermie maligne est une maladie pharmacogénétique héréditaire du muscle squelettique. En présence d'anesthésiques volatils (comme l'halothane) ou d'un curare dépolarisant (la succinylcholine), le récepteur de la ryanodine dysfonctionne, entraînant une contracture musculaire généralisée avec libération excessive de chaleur et d'acide lactique. Le seul antidote spécifique est le dantrolène, qui doit être injecté d'urgence pour stabiliser les cellules musculaires."
+      "explanation": "L'hyperthermie maligne est une maladie pharmacogénétique héréditaire du muscle squelettique. En présence d'anesthésiques volatils (comme l'halothane) ou d'un curare dépolarisant (la succinylcholine), le récepteur de la ryanodine dysfonctionne, entraînant une contracture musculaire généralisée avec libération excessive de chaleur et d'acide lactique. Le seul antidote spécifique est le dantrolène, qui doit être injecté d'urgence pour stabiliser les cellules musculaires.",
+      "options": [
+        "L'aréaction maligne post-anesthésique",
+        "La myoglobinurie induite par l'anesthésie",
+        "L'hyperthermie maligne",
+        "La crise de positionnement"
+      ]
     },
     {
       "id": "anesth_sie_r_animation_36",
@@ -1254,11 +1446,17 @@
     },
     {
       "id": "anesth_sie_r_animation_37",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quels deux neurologues français ont défini en 1959 à l'hôpital Claude-Bernard de Paris le concept de 'coma dépassé', qui pose les bases scientifiques de la mort cérébrale et des prélèvements d'organes ?",
       "answer": "Pierre Mollaret et Maurice Goulon",
-      "explanation": "En 1959, Pierre Mollaret et Maurice Goulon décrivent 23 patients maintenus artificiellement en vie par des respirateurs mais présentant une abolition totale de l'activité du cerveau et de la respiration spontanée. Ils nomment cet état 'coma dépassé'. Cette avancée éthique et clinique a permis de définir la mort non plus par l'arrêt du cœur, mais par la perte irréversible des fonctions cérébrales, ouvrant ainsi la voie juridique et médicale aux greffes d'organes."
+      "explanation": "En 1959, Pierre Mollaret et Maurice Goulon décrivent 23 patients maintenus artificiellement en vie par des respirateurs mais présentant une abolition totale de l'activité du cerveau et de la respiration spontanée. Ils nomment cet état 'coma dépassé'. Cette avancée éthique et clinique a permis de définir la mort non plus par l'arrêt du cœur, mais par la perte irréversible des fonctions cérébrales, ouvrant ainsi la voie juridique et médicale aux greffes d'organes.",
+      "options": [
+        "Henri Laborit et Louis-Gaston Barbé",
+        "Pierre Mollaret et Maurice Goulon",
+        "Jacques-Joseph Moreau et Philippe Piccinini",
+        "Jean-Martin Charcot et Guillaume-Benjamin Duchenne"
+      ]
     },
     {
       "id": "anesth_sie_r_animation_38",
@@ -1586,20 +1784,6 @@
     },
     {
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Quel est le nom du premier humain à avoir reçu un rein transplanté ?",
-      "options": [
-        "Christiaan Barnard",
-        "Thomas Starzl",
-        "René-Theophile Hyacinthe Laennec",
-        "Alexis Carrel"
-      ],
-      "answer": "Christiaan Barnard",
-      "explanation": "Le premier transplantation de rein réussie a été effectuée par le chirurgien sud-africain Christiaan Barnard en 1967.",
-      "id": "m_decine_g_n_rale_13"
-    },
-    {
-      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel médecin français a inventé le stéthoscope en 1816 pour écouter les bruits thoraciques sans avoir à coller son oreille à la poitrine des patientes ?",
       "options": [
@@ -1625,20 +1809,6 @@
       "answer": "Robert Koch",
       "explanation": "Robert Koch a identifié la bactérie Mycobacterium tuberculosis (couramment appelée bacille de Koch) en 1882. Cette découverte majeure lui a valu le prix Nobel de physiologie ou médecine en 1905.",
       "id": "m_decine_g_n_rale_15"
-    },
-    {
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Quel est le nom du premier humain à avoir reçu un cœur transplanté en Amérique ?",
-      "options": [
-        "Louis Washkansky",
-        "Christiaan Barnard",
-        "Thomas Starzl",
-        "Alexis Carrel"
-      ],
-      "answer": "Christiaan Barnard",
-      "explanation": "Le premier transplantation de cœur réussie a été effectuée par le chirurgien sud-africain Christiaan Barnard en 1967.",
-      "id": "m_decine_g_n_rale_16"
     },
     {
       "type": "qcm",
@@ -2090,11 +2260,17 @@
     },
     {
       "id": "m_decine_g_n_rale_49",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel médecin britannique a inventé la vaccination en 1796 en inoculant la variole des vaches (la vaccine) à un jeune garçon pour le protéger de la variole humaine ?",
       "answer": "Edward Jenner",
-      "explanation": "Edward Jenner a observé que les fermières en contact avec la vaccine (une forme bénigne de variole touchant les vaches) ne contractaient jamais la redoutable variole humaine. En 1796, il inocula le pus d'une laision de vaccine au jeune James Phipps, puis lui inocula plus tard la variole humaine, constatant qu'il était immunisé. Cette expérience marque la naissance historique de la vaccination (terme dérivé de 'vacca', la vache en latin)."
+      "explanation": "Edward Jenner a observé que les fermières en contact avec la vaccine (une forme bénigne de variole touchant les vaches) ne contractaient jamais la redoutable variole humaine. En 1796, il inocula le pus d'une laision de vaccine au jeune James Phipps, puis lui inocula plus tard la variole humaine, constatant qu'il était immunisé. Cette expérience marque la naissance historique de la vaccination (terme dérivé de 'vacca', la vache en latin).",
+      "options": [
+        "Louis Pasteur",
+        "Edward Jenner",
+        "Robert Koch",
+        "Joseph Lister"
+      ]
     },
     {
       "id": "m_decine_g_n_rale_50",
@@ -2112,11 +2288,17 @@
     },
     {
       "id": "m_decine_g_n_rale_51",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel célèbre médecin grec de l'Antiquité a donné son nom au serment traditionnel que prêtent les nouveaux médecins avant de commencer à exercer ?",
       "answer": "Hippocrate",
-      "explanation": "Hippocrate de Cos (Ve siècle av. J.-C.) est considéré comme le 'père de la médecine'. Le serment d'Hippocrate, bien que modernisé au fil des siècles, pose les bases éthiques et déontologiques de la profession médicale, notamment le secret médical et le principe de non-malfaisance ('primum non nocere')."
+      "explanation": "Hippocrate de Cos (Ve siècle av. J.-C.) est considéré comme le 'père de la médecine'. Le serment d'Hippocrate, bien que modernisé au fil des siècles, pose les bases éthiques et déontologiques de la profession médicale, notamment le secret médical et le principe de non-malfaisance ('primum non nocere').",
+      "options": [
+        "Galien",
+        "Pitagore",
+        "Aristote",
+        "Hippocrate"
+      ]
     },
     {
       "id": "m_decine_g_n_rale_52",
@@ -2134,11 +2316,17 @@
     },
     {
       "id": "m_decine_g_n_rale_53",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel petit animal parasite, appartenant à la famille des acariens, transmet la maladie de Lyme à l'homme par sa morsure ?",
       "answer": "La tique",
-      "explanation": "La maladie de Lyme (ou borréliose de Lyme) est une infection bactérienne transmise par la morsure d'une tique infectée par la bactérie Borrelia burgdorferi. Le premier symptôme est souvent un érythème migrant, une rougeur cutanée qui s'étend en cercle autour de la piqûre. Un traitement antibiotique précoce permet une guérison rapide et prévient les complications articulaires ou neurologiques."
+      "explanation": "La maladie de Lyme (ou borréliose de Lyme) est une infection bactérienne transmise par la morsure d'une tique infectée par la bactérie Borrelia burgdorferi. Le premier symptôme est souvent un érythème migrant, une rougeur cutanée qui s'étend en cercle autour de la piqûre. Un traitement antibiotique précoce permet une guérison rapide et prévient les complications articulaires ou neurologiques.",
+      "options": [
+        "L'araignée",
+        "La poule",
+        "Le moustique",
+        "La tique"
+      ]
     },
     {
       "id": "m_decine_g_n_rale_54",
@@ -2156,11 +2344,17 @@
     },
     {
       "id": "m_decine_g_n_rale_55",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Comment appelle-t-on l'effet thérapeutique bénéfique obtenu par l'administration d'une substance totalement inactive, reposant sur des mécanismes psychologiques ?",
       "answer": "L'effet placebo",
-      "explanation": "L'effet placebo (du latin 'je plairai') est un phénomène psychologique et neurobiologique bien documenté. L'attente de la guérison par le patient active des zones du cerveau libérant des endorphines ou de la dopamine, réduisant ainsi la perception de la douleur ou d'autres symptômes. Il est systématiquement mesuré lors des essais cliniques pour tester l'efficacité réelle des nouveaux médicaments."
+      "explanation": "L'effet placebo (du latin 'je plairai') est un phénomène psychologique et neurobiologique bien documenté. L'attente de la guérison par le patient active des zones du cerveau libérant des endorphines ou de la dopamine, réduisant ainsi la perception de la douleur ou d'autres symptômes. Il est systématiquement mesuré lors des essais cliniques pour tester l'efficacité réelle des nouveaux médicaments.",
+      "options": [
+        "L'induction hypnotique",
+        "L'effet nocebo",
+        "La réponse conditionnée",
+        "L'effet placebo"
+      ]
     },
     {
       "id": "m_decine_g_n_rale_56",
@@ -2178,11 +2372,17 @@
     },
     {
       "id": "m_decine_g_n_rale_57",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel chimiste allemand a synthétisé sous sa forme pure et stable l'acide acétylsalicylique (aspirine) en 1897 pour soulager les rhumatismes de son père ?",
       "answer": "Felix Hoffmann",
-      "explanation": "Travaillant pour les laboratoires Bayer, Felix Hoffmann a réussi en août 1897 à acétyler l'acide salicylique issu de la reine-des-prés pour obtenir l'acide acétylsalicylique, une molécule beaucoup mieux tolérée par l'estomac que les dérivés naturels. Commercialisé sous le nom d'Aspirine en 1899, ce composé est devenu l'un des médicaments les plus célèbres, les plus prescrits et les plus consommés au monde."
+      "explanation": "Travaillant pour les laboratoires Bayer, Felix Hoffmann a réussi en août 1897 à acétyler l'acide salicylique issu de la reine-des-prés pour obtenir l'acide acétylsalicylique, une molécule beaucoup mieux tolérée par l'estomac que les dérivés naturels. Commercialisé sous le nom d'Aspirine en 1899, ce composé est devenu l'un des médicaments les plus célèbres, les plus prescrits et les plus consommés au monde.",
+      "options": [
+        "Carl Duisberg",
+        "Heinrich Caro",
+        "Felix Hoffmann",
+        "Ludwig Knorr"
+      ]
     },
     {
       "id": "m_decine_g_n_rale_58",
@@ -2200,11 +2400,17 @@
     },
     {
       "id": "m_decine_g_n_rale_59",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle bactérie en forme de spirale, capable de survivre dans l'environnement très acide de l'estomac, est la cause principale de la majorité des ulcères gastriques ?",
       "answer": "Helicobacter pylori",
-      "explanation": "En 1982, Robin Warren et Barry Marshall découvrent que la bactérie Helicobacter pylori est responsable des inflammations de l'estomac et des ulcères. Face au scepticisme de la communauté médicale qui pensait qu'aucune bactérie ne pouvait survivre dans l'acide gastrique, Barry Marshall a bu une culture de cette bactérie pour prouver son hypothèse en développant une gastrite, guérie par antibiotiques. Ils ont reçu le prix Nobel en 2005."
+      "explanation": "En 1982, Robin Warren et Barry Marshall découvrent que la bactérie Helicobacter pylori est responsable des inflammations de l'estomac et des ulcères. Face au scepticisme de la communauté médicale qui pensait qu'aucune bactérie ne pouvait survivre dans l'acide gastrique, Barry Marshall a bu une culture de cette bactérie pour prouver son hypothèse en développant une gastrite, guérie par antibiotiques. Ils ont reçu le prix Nobel en 2005.",
+      "options": [
+        "Escherichia coli",
+        "Clostridium difficile",
+        "Helicobacter pylori",
+        "Salmonella enterica"
+      ]
     },
     {
       "id": "m_decine_g_n_rale_60",
@@ -2222,11 +2428,17 @@
     },
     {
       "id": "m_decine_g_n_rale_61",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel médecin obstétricien hongrois a démontré en 1847 que le simple lavage des mains au chlorure de chaux par les médecins réduisait drastiquement la mortalité par fièvre puerpérale chez les accouchées ?",
       "answer": "Ignace Semmelweis",
-      "explanation": "Travaillant à la maternité de Vienne, Ignace Semmelweis s'aperçoit que les femmes accouchées par des étudiants en médecine (qui pratiquaient des autopsies juste avant) mouraient beaucoup plus que celles accouchées par des sages-femmes. En imposant le lavage des mains avec une solution chlorée, il fait chuter le taux de mortalité de 18 % à moins de 2 %. Rejeté par ses pairs de son vivant, il est aujourd'hui considéré comme le père de l'asepsie."
+      "explanation": "Travaillant à la maternité de Vienne, Ignace Semmelweis s'aperçoit que les femmes accouchées par des étudiants en médecine (qui pratiquaient des autopsies juste avant) mouraient beaucoup plus que celles accouchées par des sages-femmes. En imposant le lavage des mains avec une solution chlorée, il fait chuter le taux de mortalité de 18 % à moins de 2 %. Rejeté par ses pairs de son vivant, il est aujourd'hui considéré comme le père de l'asepsie.",
+      "options": [
+        "Philippe Pinel",
+        "Ignace Semmelweis",
+        "Louis Pasteur",
+        "Joseph Lister"
+      ]
     },
     {
       "id": "m_decine_g_n_rale_62",
@@ -2244,11 +2456,17 @@
     },
     {
       "id": "m_decine_g_n_rale_63",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Dans quel institut de recherche parisien le virus de l'immunodéficience humaine (VIH), responsable du SIDA, a-t-il été isolé pour la première fois en 1983 par l'équipe de Luc Montagnier et Françoise Barré-Sinoussi ?",
       "answer": "L'Institut Pasteur",
-      "explanation": "En mai 1983, l'équipe de virologues de l'Institut Pasteur publie dans la revue Science la découverte d'un nouveau rétrovirus, d'abord appelé LAV (Lymphadenopathy Associated Virus), isolé à partir d'un patient présentant des ganglions gonflés. Renommé VIH, ce virus est identifié comme l'agent causal du SIDA. Cette découverte historique a valu à Françoise Barré-Sinoussi et Luc Montagnier le prix Nobel de médecine en 2008."
+      "explanation": "En mai 1983, l'équipe de virologues de l'Institut Pasteur publie dans la revue Science la découverte d'un nouveau rétrovirus, d'abord appelé LAV (Lymphadenopathy Associated Virus), isolé à partir d'un patient présentant des ganglions gonflés. Renommé VIH, ce virus est identifié comme l'agent causal du SIDA. Cette découverte historique a valu à Françoise Barré-Sinoussi et Luc Montagnier le prix Nobel de médecine en 2008.",
+      "options": [
+        "Le Centre de Recherche sur les Maladies Infectieuses (CERMI)",
+        "L'hôpital Necker-Enfants Malades",
+        "L'Institut Curie",
+        "L'Institut Pasteur"
+      ]
     },
     {
       "id": "m_decine_g_n_rale_64",
@@ -2266,11 +2484,17 @@
     },
     {
       "id": "m_decine_g_n_rale_65",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle maladie neurologique et cardiovasculaire, causée par une carence en vitamine B1 (thiamine), a été étudiée par Christiaan Eijkman à la fin du XIXe siècle grâce à des poules de laboratoire nourries de riz poli ?",
       "answer": "Le béribéri",
-      "explanation": "Le médecin néerlandais Christiaan Eijkman a remarqué en Indonésie que les poules de son laboratoire développaient une paralysie similaire au béribéri humain lorsqu'elles étaient nourries de riz blanc poli (débarrassé de son enveloppe externe). Le retour à un riz complet non poli guérissait les oiseaux. Cette découverte révolutionnaire a prouvé pour la première fois que des maladies pouvaient être causées par l'absence d'une substance alimentaire essentielle (les vitamines). Eijkman reçut le prix Nobel en 1929."
+      "explanation": "Le médecin néerlandais Christiaan Eijkman a remarqué en Indonésie que les poules de son laboratoire développaient une paralysie similaire au béribéri humain lorsqu'elles étaient nourries de riz blanc poli (débarrassé de son enveloppe externe). Le retour à un riz complet non poli guérissait les oiseaux. Cette découverte révolutionnaire a prouvé pour la première fois que des maladies pouvaient être causées par l'absence d'une substance alimentaire essentielle (les vitamines). Eijkman reçut le prix Nobel en 1929.",
+      "options": [
+        "La pellagre",
+        "Le béribéri",
+        "Le scorbut",
+        "La polyneuropathie diabétique"
+      ]
     },
     {
       "id": "m_decine_g_n_rale_66",
@@ -2288,11 +2512,17 @@
     },
     {
       "id": "m_decine_g_n_rale_67",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle hormone clé de la régulation de l'horloge biologique et du sommeil a été isolée pour la première fois en 1958 par le dermatologue américain Aaron Lerner à partir de glandes pinéales de bœuf ?",
       "answer": "La mélatonine",
-      "explanation": "Le docteur Aaron Lerner de l'université Yale a isolé la mélatonine en 1958 en cherchant à identifier la substance de la glande pinéale capable d'éclaircir la peau des amphibiens. Cette hormone, dont la sécrétion par la glande pinéale (épiphyse) est stimulée par l'obscurité et bloquée par la lumière, joue un rôle fondamental dans la régulation des rythmes circadiens de l'homme, notamment le cycle veille-sommeil."
+      "explanation": "Le docteur Aaron Lerner de l'université Yale a isolé la mélatonine en 1958 en cherchant à identifier la substance de la glande pinéale capable d'éclaircir la peau des amphibiens. Cette hormone, dont la sécrétion par la glande pinéale (épiphyse) est stimulée par l'obscurité et bloquée par la lumière, joue un rôle fondamental dans la régulation des rythmes circadiens de l'homme, notamment le cycle veille-sommeil.",
+      "options": [
+        "La sérotonine",
+        "La dopamine",
+        "L'hormone de croissance",
+        "La mélatonine"
+      ]
     },
     {
       "id": "m_decine_g_n_rale_68",

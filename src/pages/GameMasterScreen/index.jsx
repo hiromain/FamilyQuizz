@@ -210,11 +210,10 @@ export default function GameMasterScreen({ onBackToWelcome }) {
       {/* ── LEFT PANEL : Filters (sidebar or mobile tab) ── */}
       {(!isMobile || activeTab === 'filters') && (
         <div style={{
-          width: isMobile ? '100%' : (quizMode ? 48 : 320),
+          width: isMobile ? '100%' : 320,
           height: isMobile ? 'calc(100vh - 64px)' : '100%',
           flexShrink: 0,
           borderRight: isMobile ? 'none' : '1px solid rgba(255,255,255,0.07)',
-          transition: 'width 0.4s cubic-bezier(0.2, 0.8, 0.2, 1)',
           overflow: 'hidden',
         }}>
           <FilterPanel
@@ -232,7 +231,6 @@ export default function GameMasterScreen({ onBackToWelcome }) {
             setSelectedYear={setSelectedYear}
             expandedSubcatPanel={expandedSubcatPanel}
             toggleSubcatPanel={toggleSubcatPanel}
-            collapsed={!isMobile && quizMode}
           />
         </div>
       )}
@@ -308,7 +306,6 @@ export default function GameMasterScreen({ onBackToWelcome }) {
           activeTab={activeTab}
           setActiveTab={setActiveTab}
           setShowSettings={setShowSettings}
-          quizMode={quizMode}
         />
       )}
 

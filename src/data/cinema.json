@@ -2,11 +2,17 @@
   "Cinéma : Réalisateurs Cultes": [
     {
       "id": "cinema_realisateurs_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel réalisateur américain est le créateur des films acclamés 'Pulp Fiction', 'Kill Bill' et 'Django Unchained' ?",
       "answer": "Quentin Tarantino",
-      "explanation": "Quentin Tarantino est célèbre pour son style cinématographique unique mêlant dialogues percutants et scènes d'action stylisées. Son film 'Pulp Fiction', sorti en 1994, a d'ailleurs remporté la Palme d'or au Festival de Cannes. Il est aujourd'hui considéré comme l'un des réalisateurs les plus influents de sa génération."
+      "explanation": "Quentin Tarantino est célèbre pour son style cinématographique unique mêlant dialogues percutants et scènes d'action stylisées. Son film 'Pulp Fiction', sorti en 1994, a d'ailleurs remporté la Palme d'or au Festival de Cannes. Il est aujourd'hui considéré comme l'un des réalisateurs les plus influents de sa génération.",
+      "options": [
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "Quentin Tarantino"
+      ]
     },
     {
       "id": "cinema_realisateurs_2",
@@ -24,11 +30,17 @@
     },
     {
       "id": "cinema_realisateurs_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel réalisateur a mis en scène la trilogie originale de 'Star Wars' ainsi que la prélogie ?",
       "answer": "George Lucas",
-      "explanation": "George Lucas a révolutionné le cinéma de science-fiction en créant la saga intergalactique 'Star Wars' à la fin des années 1970. En plus de cette œuvre majeure, il a également fondé la célèbre société d'effets spéciaux Industrial Light & Magic. Son impact sur les technologies de post-production et d'effets visuels reste immense."
+      "explanation": "George Lucas a révolutionné le cinéma de science-fiction en créant la saga intergalactique 'Star Wars' à la fin des années 1970. En plus de cette œuvre majeure, il a également fondé la célèbre société d'effets spéciaux Industrial Light & Magic. Son impact sur les technologies de post-production et d'effets visuels reste immense.",
+      "options": [
+        "George Lucas",
+        "James Cameron",
+        "Steven Spielberg",
+        "Ridley Scott"
+      ]
     },
     {
       "id": "cinema_realisateurs_4",
@@ -46,11 +58,17 @@
     },
     {
       "id": "cinema_realisateurs_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel réalisateur est célèbre pour ses thrillers de suspense comme 'Psychose', 'Les Oiseaux' et 'Sueurs froides' ?",
       "answer": "Alfred Hitchcock",
-      "explanation": "Surnommé le maître du suspense, Alfred Hitchcock a dirigé plus de cinquante longs-métrages tout au long de sa carrière prestigieuse. Ses chefs-d'œuvre comme 'Psychose' ou 'Sueurs froides' ont posé les bases modernes du thriller psychologique. Il aimait faire de courtes apparitions, appelées caméos, dans presque tous ses films."
+      "explanation": "Surnommé le maître du suspense, Alfred Hitchcock a dirigé plus de cinquante longs-métrages tout au long de sa carrière prestigieuse. Ses chefs-d'œuvre comme 'Psychose' ou 'Sueurs froides' ont posé les bases modernes du thriller psychologique. Il aimait faire de courtes apparitions, appelées caméos, dans presque tous ses films.",
+      "options": [
+        "David Lynch",
+        "Alfred Hitchcock",
+        "Orson Welles",
+        "François Truffaut"
+      ]
     },
     {
       "id": "cinema_realisateurs_6",
@@ -68,11 +86,17 @@
     },
     {
       "id": "cinema_realisateurs_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel réalisateur canadien a dirigé les deux plus grands succès au box-office de l'histoire, 'Titanic' et 'Avatar' ?",
       "answer": "James Cameron",
-      "explanation": "James Cameron est un réalisateur canadien visionnaire connu pour repousser constamment les limites technologiques du cinéma mondial. Avec 'Titanic' puis la saga 'Avatar', il a signé plusieurs des plus gros succès financiers de l'histoire du septième art. Il est également un explorateur passionné des fonds marins."
+      "explanation": "James Cameron est un réalisateur canadien visionnaire connu pour repousser constamment les limites technologiques du cinéma mondial. Avec 'Titanic' puis la saga 'Avatar', il a signé plusieurs des plus gros succès financiers de l'histoire du septième art. Il est également un explorateur passionné des fonds marins.",
+      "options": [
+        "James Cameron",
+        "David Cronenberg",
+        "Steven Spielberg",
+        "Denis Villeneuve"
+      ]
     },
     {
       "id": "cinema_realisateurs_8",
@@ -90,11 +114,17 @@
     },
     {
       "id": "cinema_realisateurs_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel réalisateur américain a dirigé les films cultes 'Taxi Driver', 'Les Affranchis' et 'Le Loup de Wall Street' ?",
       "answer": "Martin Scorsese",
-      "explanation": "Martin Scorsese est un réalisateur américain majeur célèbre pour ses drames intenses explorant le crime, la culpabilité et la rédemption. Il a formé des collaborations mémorables et durables avec des acteurs légendaires tels que Robert De Niro et Leonardo DiCaprio. Son œuvre reflète souvent son amour profond pour la ville de New York."
+      "explanation": "Martin Scorsese est un réalisateur américain majeur célèbre pour ses drames intenses explorant le crime, la culpabilité et la rédemption. Il a formé des collaborations mémorables et durables avec des acteurs légendaires tels que Robert De Niro et Leonardo DiCaprio. Son œuvre reflète souvent son amour profond pour la ville de New York.",
+      "options": [
+        "Stanley Kubrick",
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "David Fincher"
+      ]
     },
     {
       "id": "cinema_realisateurs_10",
@@ -112,11 +142,17 @@
     },
     {
       "id": "cinema_realisateurs_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel réalisateur espagnol est célèbre pour ses films colorés axés sur des portraits de femmes, comme 'Tout sur ma mère' et 'Volver' ?",
       "answer": "Pedro Almodóvar",
-      "explanation": "Pedro Almodóvar est la figure de proue du cinéma espagnol contemporain caractérisée par une esthétique colorée et baroque. Ses drames intimes rendent souvent un hommage vibrant aux femmes et à la complexité des sentiments humains. Ses films phares ont remporté de nombreuses distinctions internationales majeures."
+      "explanation": "Pedro Almodóvar est la figure de proue du cinéma espagnol contemporain caractérisée par une esthétique colorée et baroque. Ses drames intimes rendent souvent un hommage vibrant aux femmes et à la complexité des sentiments humains. Ses films phares ont remporté de nombreuses distinctions internationales majeures.",
+      "options": [
+        "Fernando Trueba",
+        "Alejandro Amenábar",
+        "Pedro Almodóvar",
+        "Luis Buñuel"
+      ]
     },
     {
       "id": "cinema_realisateurs_12",
@@ -134,11 +170,17 @@
     },
     {
       "id": "cinema_realisateurs_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel réalisateur américain à l'univers gothique et poétique a dirigé 'Edward aux mains d'argent' et 'L'Étrange Noël de monsieur Jack' (en tant que producteur/créateur) ?",
       "answer": "Tim Burton",
-      "explanation": "Tim Burton possède un style visuel immédiatement reconnaissable inspiré de l'expressionnisme allemand et du fantastique gothique. Il a créé un univers poétique peuplé de personnages marginaux et de contes mélancoliques inoubliables. Sa longue collaboration artistique avec l'acteur Johnny Depp a marqué de nombreux esprits."
+      "explanation": "Tim Burton possède un style visuel immédiatement reconnaissable inspiré de l'expressionnisme allemand et du fantastique gothique. Il a créé un univers poétique peuplé de personnages marginaux et de contes mélancoliques inoubliables. Sa longue collaboration artistique avec l'acteur Johnny Depp a marqué de nombreux esprits.",
+      "options": [
+        "Terry Gilliam",
+        "David Fincher",
+        "Tim Burton",
+        "Quentin Tarantino"
+      ]
     },
     {
       "id": "cinema_realisateurs_14",
@@ -156,11 +198,17 @@
     },
     {
       "id": "cinema_realisateurs_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel cinéaste néo-zélandais a réalisé la saga monumentale du 'Seigneur des Anneaux' ?",
       "answer": "Peter Jackson",
-      "explanation": "Le cinéaste néo-zélandais Peter Jackson a accompli l'exploit d'adapter sur grand écran le chef-d'œuvre réputé inadaptable de J.R.R. Tolkien. La trilogie du 'Seigneur des Anneaux' a remporté dix-sept Oscars au total et a marqué l'histoire du cinéma de fantasy. Il a également réalisé d'autres projets notables comme le remake de 'King Kong'."
+      "explanation": "Le cinéaste néo-zélandais Peter Jackson a accompli l'exploit d'adapter sur grand écran le chef-d'œuvre réputé inadaptable de J.R.R. Tolkien. La trilogie du 'Seigneur des Anneaux' a remporté dix-sept Oscars au total et a marqué l'histoire du cinéma de fantasy. Il a également réalisé d'autres projets notables comme le remake de 'King Kong'.",
+      "options": [
+        "Dean O'Gorman",
+        "Peter Jackson",
+        "Niki Caro",
+        "Taika Waititi"
+      ]
     },
     {
       "id": "cinema_realisateurs_16",
@@ -178,11 +226,17 @@
     },
     {
       "id": "cinema_realisateurs_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel cinéaste japonais légendaire a réalisé les chefs-d'œuvre 'Les Sept Samouraïs' et 'Rashōmon' ?",
       "answer": "Akira Kurosawa",
-      "explanation": "Akira Kurosawa est considéré comme l'un des cinéastes les plus importants et influents de l'histoire du cinéma mondial. Ses films comme 'Les Sept Samouraïs' ont inspiré de nombreux remakes occidentaux célèbres à l'image des 'Sept Mercenaires'. Sa maîtrise exceptionnelle du montage et du mouvement de caméra reste inégalée."
+      "explanation": "Akira Kurosawa est considéré comme l'un des cinéastes les plus importants et influents de l'histoire du cinéma mondial. Ses films comme 'Les Sept Samouraïs' ont inspiré de nombreux remakes occidentaux célèbres à l'image des 'Sept Mercenaires'. Sa maîtrise exceptionnelle du montage et du mouvement de caméra reste inégalée.",
+      "options": [
+        "Akira Kurosawa",
+        "Kenji Mizoguchi",
+        "Nagisa Ōshima",
+        "Yasujirō Ozu"
+      ]
     },
     {
       "id": "cinema_realisateurs_18",
@@ -200,11 +254,17 @@
     },
     {
       "id": "cinema_realisateurs_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel réalisateur a dirigé le thriller acclamé de 1995 'Se7en' et le film 'Fight Club' en 1999 ?",
       "answer": "David Fincher",
-      "explanation": "David Fincher est réputé pour sa mise en scène d'une précision chirurgicale et ses thrillers psychologiques captivants. Ses films cultes 'Se7en' et 'Fight Club' ont marqué le cinéma de la fin des années 1990 par leur noirceur esthétique. Il s'est également illustré dans la réalisation de séries télévisées à succès."
+      "explanation": "David Fincher est réputé pour sa mise en scène d'une précision chirurgicale et ses thrillers psychologiques captivants. Ses films cultes 'Se7en' et 'Fight Club' ont marqué le cinéma de la fin des années 1990 par leur noirceur esthétique. Il s'est également illustré dans la réalisation de séries télévisées à succès.",
+      "options": [
+        "Quentin Tarantino",
+        "Christopher Nolan",
+        "Ridley Scott",
+        "David Fincher"
+      ]
     },
     {
       "id": "cinema_realisateurs_20",
@@ -222,11 +282,17 @@
     },
     {
       "id": "cinema_realisateurs_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel réalisateur américain, célèbre pour son style visuel symétrique et ses palettes de couleurs pastel, a dirigé 'The Grand Budapest Hotel' ?",
       "answer": "Wes Anderson",
-      "explanation": "Wes Anderson est connu pour sa direction artistique extrêmement soignée, caractérisée par une symétrie presque obsessionnelle des plans et des décors très détaillés. Sorti en 2014, 'The Grand Budapest Hotel' est considéré comme l'un de ses plus grands succès publics et critiques, remportant quatre Oscars. Son style singulier, mêlant mélancolie et humour absurde, a fait de lui l'une des figures les plus reconnaissables du cinéma indépendant contemporain."
+      "explanation": "Wes Anderson est connu pour sa direction artistique extrêmement soignée, caractérisée par une symétrie presque obsessionnelle des plans et des décors très détaillés. Sorti en 2014, 'The Grand Budapest Hotel' est considéré comme l'un de ses plus grands succès publics et critiques, remportant quatre Oscars. Son style singulier, mêlant mélancolie et humour absurde, a fait de lui l'une des figures les plus reconnaissables du cinéma indépendant contemporain.",
+      "options": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Tim Burton",
+        "Wes Anderson"
+      ]
     },
     {
       "id": "cinema_realisateurs_22",
@@ -244,11 +310,17 @@
     },
     {
       "id": "cinema_realisateurs_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel réalisateur et scénariste français a réalisé le film de science-fiction expérimental 'La Jetée' en 1962, qui a inspiré le film américain 'L'Armée des douze singes' ?",
       "answer": "Chris Marker",
-      "explanation": "'La Jetée' est un chef-d'œuvre de la science-fiction française, un court-métrage singulier composé presque uniquement de photographies en noir et blanc fixes, accompagnées par un narrateur. Ce récit d'un voyageur temporel dans un Paris post-apocalyptique a profondément marqué le cinéma expérimental. En 1995, le réalisateur américain Terry Gilliam s'en est directement inspiré pour réaliser son célèbre thriller de science-fiction 'L'Armée des douze singes' ('12 Monkeys')."
+      "explanation": "'La Jetée' est un chef-d'œuvre de la science-fiction française, un court-métrage singulier composé presque uniquement de photographies en noir et blanc fixes, accompagnées par un narrateur. Ce récit d'un voyageur temporel dans un Paris post-apocalyptique a profondément marqué le cinéma expérimental. En 1995, le réalisateur américain Terry Gilliam s'en est directement inspiré pour réaliser son célèbre thriller de science-fiction 'L'Armée des douze singes' ('12 Monkeys').",
+      "options": [
+        "Jacques Tati",
+        "Jean-Luc Godard",
+        "Chris Marker",
+        "Agnès Varda"
+      ]
     },
     {
       "id": "cinema_realisateurs_24",
@@ -266,11 +338,17 @@
     },
     {
       "id": "cinema_realisateurs_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel réalisateur coréen est entré dans l'histoire en 2020 en remportant la Palme d'or à Cannes et quatre Oscars majeurs (dont Meilleur film) pour son œuvre 'Parasite' ?",
       "answer": "Bong Joon-ho",
-      "explanation": "Bong Joon-ho est un cinéaste sud-coréen de premier plan, célèbre pour son habilité à mélanger les genres cinématographiques, passant de la comédie noire au drame social intense. Son film 'Parasite', sorti en 2019, a connu un triomphe planétaire historique en devenant le tout premier film en langue étrangère à remporter l'Oscar du meilleur film. Cette œuvre propose une critique acerbe des inégalités sociales en Corée du Sud à travers l'histoire de deux familles que tout oppose."
+      "explanation": "Bong Joon-ho est un cinéaste sud-coréen de premier plan, célèbre pour son habilité à mélanger les genres cinématographiques, passant de la comédie noire au drame social intense. Son film 'Parasite', sorti en 2019, a connu un triomphe planétaire historique en devenant le tout premier film en langue étrangère à remporter l'Oscar du meilleur film. Cette œuvre propose une critique acerbe des inégalités sociales en Corée du Sud à travers l'histoire de deux familles que tout oppose.",
+      "options": [
+        "Lee Chang-dong",
+        "Kim Ki-duk",
+        "Park Chan-wook",
+        "Bong Joon-ho"
+      ]
     },
     {
       "id": "cinema_realisateurs_26",
@@ -288,11 +366,17 @@
     },
     {
       "id": "cinema_realisateurs_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel cinéaste soviétique est célèbre pour sa théorie du montage et a réalisé en 1925 le film muet révolutionnaire 'Le Cuirassé Potemkine' ?",
       "answer": "Sergueï Eisenstein",
-      "explanation": "Sergueï Eisenstein est un théoricien et réalisateur de cinéma soviétique dont les travaux sur le montage d'attractions ont posé les fondements du langage cinématographique moderne. Son chef-d'œuvre de 1925, 'Le Cuirassé Potemkine', est célèbre pour la scène dramatique de la fusillade sur les escaliers d'Odessa, maintes fois copiée ou parodiée depuis lors. Il considérait le montage non pas comme un simple assemblage de plans, mais comme un moyen de provoquer un choc émotionnel chez le spectateur."
+      "explanation": "Sergueï Eisenstein est un théoricien et réalisateur de cinéma soviétique dont les travaux sur le montage d'attractions ont posé les fondements du langage cinématographique moderne. Son chef-d'œuvre de 1925, 'Le Cuirassé Potemkine', est célèbre pour la scène dramatique de la fusillade sur les escaliers d'Odessa, maintes fois copiée ou parodiée depuis lors. Il considérait le montage non pas comme un simple assemblage de plans, mais comme un moyen de provoquer un choc émotionnel chez le spectateur.",
+      "options": [
+        "Alexandre Dovjenko",
+        "Vsevolod Poudovkine",
+        "Sergueï Eisenstein",
+        "Grigori Aleksandrov"
+      ]
     },
     {
       "id": "cinema_realisateurs_28",
@@ -310,11 +394,17 @@
     },
     {
       "id": "cinema_realisateurs_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel réalisateur canadien contemporain s'est imposé comme un maître de la science-fiction moderne avec des films acclamés comme 'Arrival' (Premier Contact), 'Blade Runner 2049' et la saga 'Dune' ?",
       "answer": "Denis Villeneuve",
-      "explanation": "Denis Villeneuve est un cinéaste québécois dont le style visuel spectaculaire et le sens du gigantisme ont conquis Hollywood et le public mondial. Après s'être fait remarquer par des thrillers intenses comme 'Prisoners' ou 'Sicario', il s'est tourné vers la science-fiction d'auteur à gros budget. Son adaptation ambitieuse et visuellement sublime de 'Dune', le chef-d'œuvre littéraire réputé inadaptable de Frank Herbert, a remporté un immense succès public et de multiples Oscars."
+      "explanation": "Denis Villeneuve est un cinéaste québécois dont le style visuel spectaculaire et le sens du gigantisme ont conquis Hollywood et le public mondial. Après s'être fait remarquer par des thrillers intenses comme 'Prisoners' ou 'Sicario', il s'est tourné vers la science-fiction d'auteur à gros budget. Son adaptation ambitieuse et visuellement sublime de 'Dune', le chef-d'œuvre littéraire réputé inadaptable de Frank Herbert, a remporté un immense succès public et de multiples Oscars.",
+      "options": [
+        "Denis Villeneuve",
+        "Guillaume Canet",
+        "Jean-Pierre Jeunet",
+        "Xavier Dolan"
+      ]
     },
     {
       "id": "cinema_realisateurs_30",
@@ -474,11 +564,17 @@
   "Cinéma : Acteurs & Actrices de Légende": [
     {
       "id": "cinema_acteurs_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel acteur américain légendaire, célèbre pour ses rôles dans 'Le Parrain II' et 'Taxi Driver', a collaboré à de nombreuses reprises avec Martin Scorsese ?",
       "answer": "Robert De Niro",
-      "explanation": "Robert De Niro est l'un des acteurs les plus respectés d'Hollywood, célèbre pour sa méthode d'immersion totale dans ses rôles. Ses performances intenses sous la direction de Martin Scorsese ont façonné le cinéma policier américain classique. Il a reçu l'Oscar du meilleur acteur pour son incarnation magistrale du boxeur Jake LaMotta dans 'Raging Bull'."
+      "explanation": "Robert De Niro est l'un des acteurs les plus respectés d'Hollywood, célèbre pour sa méthode d'immersion totale dans ses rôles. Ses performances intenses sous la direction de Martin Scorsese ont façonné le cinéma policier américain classique. Il a reçu l'Oscar du meilleur acteur pour son incarnation magistrale du boxeur Jake LaMotta dans 'Raging Bull'.",
+      "options": [
+        "Dustin Hoffman",
+        "Al Pacino",
+        "Robert De Niro",
+        "Jack Nicholson"
+      ]
     },
     {
       "id": "cinema_acteurs_2",
@@ -496,11 +592,17 @@
     },
     {
       "id": "cinema_acteurs_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel acteur américain a remporté l'Oscar du meilleur acteur pour son rôle dans 'Forrest Gump' et 'Philadelphia' ?",
       "answer": "Tom Hanks",
-      "explanation": "Tom Hanks s'est imposé comme l'une des figures les plus aimées et populaires du cinéma mondial grâce à ses rôles d'hommes ordinaires touchants. Il a accompli l'exploit rare de remporter l'Oscar du meilleur actor deux années consécutives pour ses rôles marquants dans 'Philadelphia' et 'Forrest Gump'. Ses collaborations avec de prestigieux réalisateurs ont donné naissance à d'immenses classiques du septième art."
+      "explanation": "Tom Hanks s'est imposé comme l'une des figures les plus aimées et populaires du cinéma mondial grâce à ses rôles d'hommes ordinaires touchants. Il a accompli l'exploit rare de remporter l'Oscar du meilleur actor deux années consécutives pour ses rôles marquants dans 'Philadelphia' et 'Forrest Gump'. Ses collaborations avec de prestigieux réalisateurs ont donné naissance à d'immenses classiques du septième art.",
+      "options": [
+        "Jack Nicholson",
+        "Dustin Hoffman",
+        "Tom Hanks",
+        "Robert De Niro"
+      ]
     },
     {
       "id": "cinema_acteurs_4",
@@ -518,11 +620,17 @@
     },
     {
       "id": "cinema_acteurs_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle actrice française a remporté l'Oscar de la meilleure actrice en 2008 pour son incarnation d'Édith Piaf dans 'La Môme' ?",
       "answer": "Marion Cotillard",
-      "explanation": "Marion Cotillard est l'une des rares actrices françaises à avoir conquis Hollywood tout en restant une figure incontournable du cinéma d'auteur européen. Son interprétation poignante d'Édith Piaf dans 'La Môme' lui a valu un Oscar historique de la meilleure actrice en 2008. Elle mène depuis une brillante carrière internationale aux côtés de réalisateurs renommés."
+      "explanation": "Marion Cotillard est l'une des rares actrices françaises à avoir conquis Hollywood tout en restant une figure incontournable du cinéma d'auteur européen. Son interprétation poignante d'Édith Piaf dans 'La Môme' lui a valu un Oscar historique de la meilleure actrice en 2008. Elle mène depuis une brillante carrière internationale aux côtés de réalisateurs renommés.",
+      "options": [
+        "Marion Cotillard",
+        "Juliette Binoche",
+        "Isabelle Huppert",
+        "Catherine Deneuve"
+      ]
     },
     {
       "id": "cinema_acteurs_6",
@@ -540,11 +648,17 @@
     },
     {
       "id": "cinema_acteurs_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel acteur américain a enfin remporté son premier Oscar du meilleur acteur en 2016 pour le film 'The Revenant' ?",
       "answer": "Leonardo DiCaprio",
-      "explanation": "Leonardo DiCaprio a débuté comme idole des adolescents avant de devenir l'un des acteurs les plus exigeants et acclamés de sa génération. Il collabore régulièrement avec de grands cinéastes et privilégie des projets physiques et psychologiques intenses. Sa persévérance a finalement été récompensée par un Oscar du meilleur acteur en 2016 pour sa performance extrême dans 'The Revenant'."
+      "explanation": "Leonardo DiCaprio a débuté comme idole des adolescents avant de devenir l'un des acteurs les plus exigeants et acclamés de sa génération. Il collabore régulièrement avec de grands cinéastes et privilégie des projets physiques et psychologiques intenses. Sa persévérance a finalement été récompensée par un Oscar du meilleur acteur en 2016 pour sa performance extrême dans 'The Revenant'.",
+      "options": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Johnny Depp",
+        "Brad Pitt"
+      ]
     },
     {
       "id": "cinema_acteurs_8",
@@ -562,11 +676,17 @@
     },
     {
       "id": "cinema_acteurs_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel acteur français, figure emblématique de la Nouvelle Vague, a joué dans 'À bout de souffle' et est surnommé 'Bébel' ?",
       "answer": "Jean-Paul Belmondo",
-      "explanation": "Jean-Paul Belmondo, affectueusement surnommé Bébel par le public français, était une figure centrale de la Nouvelle Vague avant de devenir le roi du cinéma d'action populaire. Il était célèbre pour réaliser lui-même ses cascades spectaculaires et dangereuses, souvent suspendu à des hélicoptères. Son charisme naturel et son sourire ravageur ont marqué plusieurs générations de spectateurs."
+      "explanation": "Jean-Paul Belmondo, affectueusement surnommé Bébel par le public français, était une figure centrale de la Nouvelle Vague avant de devenir le roi du cinéma d'action populaire. Il était célèbre pour réaliser lui-même ses cascades spectaculaires et dangereuses, souvent suspendu à des hélicoptères. Son charisme naturel et son sourire ravageur ont marqué plusieurs générations de spectateurs.",
+      "options": [
+        "Jean-Paul Belmondo",
+        "Gérard Depardieu",
+        "Alain Delon",
+        "Jacques Dutronc"
+      ]
     },
     {
       "id": "cinema_acteurs_10",
@@ -584,11 +704,17 @@
     },
     {
       "id": "cinema_acteurs_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle actrice américaine a incarné la redoutable mariée assoiffée de vengeance dans la saga 'Kill Bill' de Tarantino ?",
       "answer": "Uma Thurman",
-      "explanation": "Uma Thurman est devenue la muse du réalisateur Quentin Tarantino grâce à ses rôles marquants dans 'Pulp Fiction' et la saga 'Kill Bill'. Son rôle de la Mariée vengeresse vêtue de sa célèbre combinaison jaune l'a érigée en icône du cinéma d'action. Elle possède une filmographie variée mêlant drames intimes, science-fiction et comédies romantiques."
+      "explanation": "Uma Thurman est devenue la muse du réalisateur Quentin Tarantino grâce à ses rôles marquants dans 'Pulp Fiction' et la saga 'Kill Bill'. Son rôle de la Mariée vengeresse vêtue de sa célèbre combinaison jaune l'a érigée en icône du cinéma d'action. Elle possède une filmographie variée mêlant drames intimes, science-fiction et comédies romantiques.",
+      "options": [
+        "Vivica A. Fox",
+        "Daryl Hannah",
+        "Uma Thurman",
+        "Lucy Liu"
+      ]
     },
     {
       "id": "cinema_acteurs_12",
@@ -606,11 +732,17 @@
     },
     {
       "id": "cinema_acteurs_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel acteur français a remporté l'Oscar du meilleur acteur en 2012 pour son rôle muet dans 'The Artist' ?",
       "answer": "Jean Dujardin",
-      "explanation": "Jean Dujardin est devenu le premier acteur français à remporter le prestigieux Oscar du meilleur acteur en 2012 pour sa performance dans 'The Artist'. Ce long-métrage muet et en noir et blanc a séduit les publics du monde entier par son hommage à l'âge d'or hollywoodien. Il a su mener de front des rôles comiques populaires en France et des apparitions dans de grandes productions américaines."
+      "explanation": "Jean Dujardin est devenu le premier acteur français à remporter le prestigieux Oscar du meilleur acteur en 2012 pour sa performance dans 'The Artist'. Ce long-métrage muet et en noir et blanc a séduit les publics du monde entier par son hommage à l'âge d'or hollywoodien. Il a su mener de front des rôles comiques populaires en France et des apparitions dans de grandes productions américaines.",
+      "options": [
+        "Louis Garrel",
+        "Jean Dujardin",
+        "Alain Delon",
+        "Gérard Depardieu"
+      ]
     },
     {
       "id": "cinema_acteurs_14",
@@ -628,11 +760,17 @@
     },
     {
       "id": "cinema_acteurs_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel acteur est le seul de l'histoire à avoir remporté 3 Oscars du meilleur acteur dans un premier rôle (pour 'My Left Foot', 'There Will Be Blood' et 'Lincoln') ?",
       "answer": "Daniel Day-Lewis",
-      "explanation": "Daniel Day-Lewis est célèbre pour sa préparation physique et psychologique d'une rigueur absolue pour chacun de ses rôles de composition. Il est le seul acteur de l'histoire à avoir remporté trois Oscars du meilleur acteur dans un premier rôle. Sa filmographie sélective témoigne de son exigence artistique hors du commun."
+      "explanation": "Daniel Day-Lewis est célèbre pour sa préparation physique et psychologique d'une rigueur absolue pour chacun de ses rôles de composition. Il est le seul acteur de l'histoire à avoir remporté trois Oscars du meilleur acteur dans un premier rôle. Sa filmographie sélective témoigne de son exigence artistique hors du commun.",
+      "options": [
+        "Marlon Brando",
+        "Daniel Day-Lewis",
+        "Dustin Hoffman",
+        "Jack Nicholson"
+      ]
     },
     {
       "id": "cinema_acteurs_16",
@@ -650,11 +788,17 @@
     },
     {
       "id": "cinema_acteurs_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle actrice américaine a incarné l'intrépide Katniss Everdeen dans la saga de science-fiction dystopique 'Hunger Games' ?",
       "answer": "Jennifer Lawrence",
-      "explanation": "Jennifer Lawrence a été propulsée au rang de star internationale grâce à son rôle de Katniss Everdeen dans la saga dystopique 'Hunger Games'. Elle a remporté l'Oscar de la meilleure actrice à seulement vingt-deux ans pour sa performance dans 'Happiness Therapy'. Son authenticité et son franc-parler en font l'une des personnalités les plus populaires d'Hollywood."
+      "explanation": "Jennifer Lawrence a été propulsée au rang de star internationale grâce à son rôle de Katniss Everdeen dans la saga dystopique 'Hunger Games'. Elle a remporté l'Oscar de la meilleure actrice à seulement vingt-deux ans pour sa performance dans 'Happiness Therapy'. Son authenticité et son franc-parler en font l'une des personnalités les plus populaires d'Hollywood.",
+      "options": [
+        "Shailene Woodley",
+        "Jennifer Lawrence",
+        "Scarlett Johansson",
+        "Emma Watson"
+      ]
     },
     {
       "id": "cinema_acteurs_18",
@@ -672,11 +816,17 @@
     },
     {
       "id": "cinema_acteurs_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel monstre sacré du cinéma français a incarné Cyrano de Bergerac, Obélix et Jean Valjean ?",
       "answer": "Gérard Depardieu",
-      "explanation": "Gérard Depardieu est un monstre sacré du cinéma français, célèbre pour sa filmographie monumentale comptant plus de deux cents longs-métrages. Il a incarné des figures majeures de la culture française allant de Cyrano de Bergerac au truculent Obélix. Son immense talent d'acteur et sa présence physique imposante lui ont valu une reconnaissance internationale majeure."
+      "explanation": "Gérard Depardieu est un monstre sacré du cinéma français, célèbre pour sa filmographie monumentale comptant plus de deux cents longs-métrages. Il a incarné des figures majeures de la culture française allant de Cyrano de Bergerac au truculent Obélix. Son immense talent d'acteur et sa présence physique imposante lui ont valu une reconnaissance internationale majeure.",
+      "options": [
+        "Alain Delon",
+        "Louis de Funès",
+        "Gérard Depardieu",
+        "Jean Reno"
+      ]
     },
     {
       "id": "cinema_acteurs_20",
@@ -694,11 +844,17 @@
     },
     {
       "id": "cinema_acteurs_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle actrice américaine a remporté l'Oscar de la meilleure actrice en 2017 pour son rôle dans la comédie musicale romantique 'La La Land' ?",
       "answer": "Emma Stone",
-      "explanation": "Emma Stone s'est imposée comme l'une des actrices les plus talentueuses et populaires de sa génération, alternant avec aisance entre comédies populaires et films d'auteur exigeants. Sa performance pétillante et émouvante de comédienne en herbe dans 'La La Land' de Damien Chazelle lui a valu son tout premier Oscar. Elle a réitéré cet exploit en 2024 en remportant sa deuxième statuette dorée pour son interprétation excentrique et saluée dans le film 'Pauvres Créatures' (Poor Things) du réalisateur Yórgos Lánthimos."
+      "explanation": "Emma Stone s'est imposée comme l'une des actrices les plus talentueuses et populaires de sa génération, alternant avec aisance entre comédies populaires et films d'auteur exigeants. Sa performance pétillante et émouvante de comédienne en herbe dans 'La La Land' de Damien Chazelle lui a valu son tout premier Oscar. Elle a réitéré cet exploit en 2024 en remportant sa deuxième statuette dorée pour son interprétation excentrique et saluée dans le film 'Pauvres Créatures' (Poor Things) du réalisateur Yórgos Lánthimos.",
+      "options": [
+        "Jennifer Lawrence",
+        "Scarlett Johansson",
+        "Emma Stone",
+        "Natalie Portman"
+      ]
     },
     {
       "id": "cinema_acteurs_22",
@@ -716,11 +872,17 @@
     },
     {
       "id": "cinema_acteurs_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel acteur américano-autrichien, ancienne star du culturisme, est devenu une icône mondiale du cinéma d'action avec les films 'Conan le Barbare' et 'Terminator' ?",
       "answer": "Arnold Schwarzenegger",
-      "explanation": "Arnold Schwarzenegger a connu une trajectoire de vie extraordinaire, passant du statut de champion du monde de culturisme autrichien à celui de superstar absolue d'Hollywood, puis d'homme politique en devenant gouverneur de Californie. Son accent prononcé et sa carrure imposante sont devenus sa signature visuelle et sonore unique dans l'histoire de la pop culture. Sa célèbre réplique 'I'll be back' prononcée dans 'Terminator' en 1984 fait aujourd'hui partie du patrimoine culturel mondial."
+      "explanation": "Arnold Schwarzenegger a connu une trajectoire de vie extraordinaire, passant du statut de champion du monde de culturisme autrichien à celui de superstar absolue d'Hollywood, puis d'homme politique en devenant gouverneur de Californie. Son accent prononcé et sa carrure imposante sont devenus sa signature visuelle et sonore unique dans l'histoire de la pop culture. Sa célèbre réplique 'I'll be back' prononcée dans 'Terminator' en 1984 fait aujourd'hui partie du patrimoine culturel mondial.",
+      "options": [
+        "Arnold Schwarzenegger",
+        "Chuck Norris",
+        "Sylvester Stallone",
+        "Jean-Claude Van Damme"
+      ]
     },
     {
       "id": "cinema_acteurs_24",
@@ -738,11 +900,17 @@
     },
     {
       "id": "cinema_acteurs_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel acteur américain, connu pour ses rôles de composition intenses, a incarné le cruel colonel Hans Landa dans 'Inglourious Basterds' et le Dr King Schultz dans 'Django Unchained' ?",
       "answer": "Christoph Waltz",
-      "explanation": "Christoph Waltz est un acteur austro-allemand qui a connu une consécration internationale tardive mais fulgurante grâce à sa collaboration avec le réalisateur Quentin Tarantino. Son interprétation trilingue du terrifiant et cynique colonel SS Hans Landa dans 'Inglourious Basterds' en 2009 lui a valu un triomphe critique international et son premier Oscar. Il remportera un second Oscar trois ans plus tard pour son rôle de chasseur de primes humaniste dans 'Django Unchained'."
+      "explanation": "Christoph Waltz est un acteur austro-allemand qui a connu une consécration internationale tardive mais fulgurante grâce à sa collaboration avec le réalisateur Quentin Tarantino. Son interprétation trilingue du terrifiant et cynique colonel SS Hans Landa dans 'Inglourious Basterds' en 2009 lui a valu un triomphe critique international et son premier Oscar. Il remportera un second Oscar trois ans plus tard pour son rôle de chasseur de primes humaniste dans 'Django Unchained'.",
+      "options": [
+        "Christoph Waltz",
+        "Daniel Day-Lewis",
+        "Harvey Keitel",
+        "Mads Mikkelsen"
+      ]
     },
     {
       "id": "cinema_acteurs_26",
@@ -760,11 +928,17 @@
     },
     {
       "id": "cinema_acteurs_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle actrice française mythique a joué dans 'Jules et Jim' de François Truffaut et a été la première femme élue à l'Académie des beaux-arts ?",
       "answer": "Jeanne Moreau",
-      "explanation": "Jeanne Moreau fut l'une des plus grandes actrices du cinéma français du XXe siècle, muse incontournable de la Nouvelle Vague et symbole d'une féminité libre et intellectuelle. Sa beauté singulière, sa voix rauque inimitable et son talent d'interprète dramatique ont fasciné les plus grands metteurs en scène internationaux, d'Orson Welles à Michelangelo Antonioni. Son rôle de Catherine dans 'Jules et Jim' en 1962 reste l'un des sommets poétiques absolus du cinéma mondial."
+      "explanation": "Jeanne Moreau fut l'une des plus grandes actrices du cinéma français du XXe siècle, muse incontournable de la Nouvelle Vague et symbole d'une féminité libre et intellectuelle. Sa beauté singulière, sa voix rauque inimitable et son talent d'interprète dramatique ont fasciné les plus grands metteurs en scène internationaux, d'Orson Welles à Michelangelo Antonioni. Son rôle de Catherine dans 'Jules et Jim' en 1962 reste l'un des sommets poétiques absolus du cinéma mondial.",
+      "options": [
+        "Brigitte Bardot",
+        "Catherine Deneuve",
+        "Simone Signoret",
+        "Jeanne Moreau"
+      ]
     },
     {
       "id": "cinema_acteurs_28",
@@ -782,11 +956,17 @@
     },
     {
       "id": "cinema_acteurs_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle actrice britannique a incarné l'inoubliable Rose DeWitt Bukater dans 'Titanic' de James Cameron et a remporté un Oscar en 2009 pour 'The Reader' ?",
       "answer": "Kate Winslet",
-      "explanation": "Kate Winslet est devenue une star planétaire à seulement vingt-deux ans grâce au triomphe historique du film 'Titanic' en 1997 aux côtés de Leonardo DiCaprio. Refusant d'être cantonnée aux rôles de jeunes filles romantiques de drames en costumes, elle a délibérément choisi des personnages complexes et sombres dans le cinéma indépendant. Elle a accumulé sept nominations aux Oscars tout au long de sa riche carrière, remportant finalement la prestigieuse statuette dorée de la meilleure actrice en 2009 pour son incarnation poignante d'une ancienne gardienne de camp de concentration dans 'The Reader' (Le Liseur)."
+      "explanation": "Kate Winslet est devenue une star planétaire à seulement vingt-deux ans grâce au triomphe historique du film 'Titanic' en 1997 aux côtés de Leonardo DiCaprio. Refusant d'être cantonnée aux rôles de jeunes filles romantiques de drames en costumes, elle a délibérément choisi des personnages complexes et sombres dans le cinéma indépendant. Elle a accumulé sept nominations aux Oscars tout au long de sa riche carrière, remportant finalement la prestigieuse statuette dorée de la meilleure actrice en 2009 pour son incarnation poignante d'une ancienne gardienne de camp de concentration dans 'The Reader' (Le Liseur).",
+      "options": [
+        "Emily Blunt",
+        "Kate Winslet",
+        "Helena Bonham Carter",
+        "Keira Knightley"
+      ]
     },
     {
       "id": "cinema_acteurs_30",
@@ -946,11 +1126,17 @@
   "Cinéma : Sagas Célèbres": [
     {
       "id": "cinema_sagas_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel réalisateur a adapté la trilogie littéraire de fantasy 'Le Seigneur des Anneaux' de J.R.R. Tolkien dans des films oscarisés ?",
       "answer": "Peter Jackson",
-      "explanation": "Peter Jackson a tourné l'intégralité de la trilogie du 'Seigneur des Anneaux' simultanément dans les paysages grandioses de sa Nouvelle-Zélande natale. Ce projet pharaonique a nécessité des années de préparation et a repoussé les limites des effets visuels numériques. La trilogie a remporté au total dix-sept Oscars, couronnant ce chef-d'œuvre de fantasy."
+      "explanation": "Peter Jackson a tourné l'intégralité de la trilogie du 'Seigneur des Anneaux' simultanément dans les paysages grandioses de sa Nouvelle-Zélande natale. Ce projet pharaonique a nécessité des années de préparation et a repoussé les limites des effets visuels numériques. La trilogie a remporté au total dix-sept Oscars, couronnant ce chef-d'œuvre de fantasy.",
+      "options": [
+        "Peter Jackson",
+        "Ridley Scott",
+        "Steven Spielberg",
+        "George Lucas"
+      ]
     },
     {
       "id": "cinema_sagas_2",
@@ -968,11 +1154,17 @@
     },
     {
       "id": "cinema_sagas_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel jeune sorcier balafré, vivant chez son oncle et sa tante, apprend qu'il est admis à l'école de magie de Poudlard ?",
       "answer": "Harry Potter",
-      "explanation": "La saga littéraire créée par J.K. Rowling a donné naissance à huit films à succès qui ont marqué toute une génération de spectateurs. Les jeunes acteurs principaux ont littéralement grandi sous les yeux du public tout au long de cette aventure magique de dix ans. Le studio de tournage anglais est aujourd'hui devenu un lieu de visite incontournable pour les fans."
+      "explanation": "La saga littéraire créée par J.K. Rowling a donné naissance à huit films à succès qui ont marqué toute une génération de spectateurs. Les jeunes acteurs principaux ont littéralement grandi sous les yeux du public tout au long de cette aventure magique de dix ans. Le studio de tournage anglais est aujourd'hui devenu un lieu de visite incontournable pour les fans.",
+      "options": [
+        "Harry Potter",
+        "Frodon Sacquet",
+        "Percy Jackson",
+        "Bilbo Baggins"
+      ]
     },
     {
       "id": "cinema_sagas_4",
@@ -990,11 +1182,17 @@
     },
     {
       "id": "cinema_sagas_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quel film d'action de 1999 Keanu Reeves incarne-t-il Neo, l'Élu qui combat des machines contrôlant l'humanité ?",
       "answer": "Matrix",
-      "explanation": "Réalisé par les sœurs Wachowski, 'Matrix' a profondément révolutionné le cinéma de science-fiction et les effets spéciaux au tournant du millénaire. Son univers philosophique mêle des thématiques cyberpunks à des questionnements existentiels profonds sur la réalité. Les scènes de combat chorégraphiées inspirées du cinéma d'action hongkongais ont grandement marqué les esprits."
+      "explanation": "Réalisé par les sœurs Wachowski, 'Matrix' a profondément révolutionné le cinéma de science-fiction et les effets spéciaux au tournant du millénaire. Son univers philosophique mêle des thématiques cyberpunks à des questionnements existentiels profonds sur la réalité. Les scènes de combat chorégraphiées inspirées du cinéma d'action hongkongais ont grandement marqué les esprits.",
+      "options": [
+        "Equilibrium",
+        "Matrix",
+        "Dark City",
+        "Terminator 2 : Le Jugement Dernier"
+      ]
     },
     {
       "id": "cinema_sagas_6",
@@ -1012,11 +1210,17 @@
     },
     {
       "id": "cinema_sagas_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Dans quelle saga cinématographique d'animation des jouets s'animent dès que les humains quittent la pièce ?",
       "answer": "Toy Story",
-      "explanation": "Sorti en 1995, le premier film 'Toy Story' a marqué l'histoire en étant le tout premier long-métrage d'animation entièrement réalisé en images de synthèse. Ce coup d'essai du studio Pixar a posé les bases de son succès futur grâce à une écriture ingénieuse et des personnages extrêmement attachants. La saga explore avec tendresse les thèmes de l'amitié, du temps qui passe et de l'enfance."
+      "explanation": "Sorti en 1995, le premier film 'Toy Story' a marqué l'histoire en étant le tout premier long-métrage d'animation entièrement réalisé en images de synthèse. Ce coup d'essai du studio Pixar a posé les bases de son succès futur grâce à une écriture ingénieuse et des personnages extrêmement attachants. La saga explore avec tendresse les thèmes de l'amitié, du temps qui passe et de l'enfance.",
+      "options": [
+        "Les Indestructibles",
+        "Draculaura",
+        "Toy Story",
+        "Monstres et Cie"
+      ]
     },
     {
       "id": "cinema_sagas_8",
@@ -1034,11 +1238,17 @@
     },
     {
       "id": "cinema_sagas_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quel film de science-fiction culte de 1985 Marty McFly voyage-t-il dans le temps à bord d'une DeLorean ?",
       "answer": "Retour vers le futur",
-      "explanation": "Cette trilogie de science-fiction écrite et réalisée par Robert Zemeckis est un modèle absolu d'écriture scénaristique sur le voyage dans le temps. La voiture DeLorean DMC-12 modifiée est devenue l'un des véhicules les plus emblématiques de la pop culture mondiale. Les aventures temporelles du duo formé par Marty McFly et Doc Brown continuent de charmer toutes les générations."
+      "explanation": "Cette trilogie de science-fiction écrite et réalisée par Robert Zemeckis est un modèle absolu d'écriture scénaristique sur le voyage dans le temps. La voiture DeLorean DMC-12 modifiée est devenue l'un des véhicules les plus emblématiques de la pop culture mondiale. Les aventures temporelles du duo formé par Marty McFly et Doc Brown continuent de charmer toutes les générations.",
+      "options": [
+        "E.T. l'extra-terrestre",
+        "Blade Runner : Le rêve éveillé",
+        "Star Wars : Le Réveil de la Force",
+        "Retour vers le futur"
+      ]
     },
     {
       "id": "cinema_sagas_10",
@@ -1056,11 +1266,17 @@
     },
     {
       "id": "cinema_sagas_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle saga de fantasy présente l'histoire d'une jeune fille nommée Katniss Everdeen luttant contre le Capitole de Panem ?",
       "answer": "Hunger Games",
-      "explanation": "Adaptée des romans à succès de Suzanne Collins, la saga 'Hunger Games' dépeint une société dystopique sombre divisée en douze districts opprimés. La lutte de l'héroïne Katniss Everdeen pour sa survie se transforme rapidement en un symbole puissant de rébellion politique. Cette franchise cinématographique a grandement contribué à populariser les récits de science-fiction pour jeunes adultes."
+      "explanation": "Adaptée des romans à succès de Suzanne Collins, la saga 'Hunger Games' dépeint une société dystopique sombre divisée en douze districts opprimés. La lutte de l'héroïne Katniss Everdeen pour sa survie se transforme rapidement en un symbole puissant de rébellion politique. Cette franchise cinématographique a grandement contribué à populariser les récits de science-fiction pour jeunes adultes.",
+      "options": [
+        "Harry Potter",
+        "Le Labyrinthe",
+        "Hunger Games",
+        "Divergente"
+      ]
     },
     {
       "id": "cinema_sagas_12",
@@ -1078,11 +1294,17 @@
     },
     {
       "id": "cinema_sagas_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel célèbre archéologue aventurier, muni d'un fouet et d'un chapeau, cherche l'Arche perdue ou le Saint-Graal dans une saga mythique de Spielberg ?",
       "answer": "Indiana Jones",
-      "explanation": "Le personnage légendaire d'Indiana Jones a été créé par George Lucas et mis en scène par Steven Spielberg en hommage aux feuilletons d'aventure de leur enfance. Muni de son chapeau fedora et de son fouet emblématique, cet archéologue intrépide combat des pilleurs de tombes et des forces occultes. La saga allie à merveille des reconstitutions historiques soignées à un humour piquant irrésistible."
+      "explanation": "Le personnage légendaire d'Indiana Jones a été créé par George Lucas et mis en scène par Steven Spielberg en hommage aux feuilletons d'aventure de leur enfance. Muni de son chapeau fedora et de son fouet emblématique, cet archéologue intrépide combat des pilleurs de tombes et des forces occultes. La saga allie à merveille des reconstitutions historiques soignées à un humour piquant irrésistible.",
+      "options": [
+        "Lara Croft",
+        "Indiana Jones",
+        "Allan Quartermain",
+        "Richter Belmont"
+      ]
     },
     {
       "id": "cinema_sagas_14",
@@ -1100,11 +1322,17 @@
     },
     {
       "id": "cinema_sagas_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quelle saga cinématographique d'horreur le tueur masqué de Ghostface terrorise-t-il la ville de Woodsboro ?",
       "answer": "Scream",
-      "explanation": "La saga d'horreur 'Scream' créée par le réalisateur Wes Craven a brillamment réinventé le genre du slasher à la fin des années 1990. Le film utilise une mise en abyme habile en faisant référence aux codes classiques du cinéma d'horreur pour mieux s'en amuser. Le tueur masqué Ghostface est devenu l'une des figures les plus mémorables de la pop culture terrifiante."
+      "explanation": "La saga d'horreur 'Scream' créée par le réalisateur Wes Craven a brillamment réinventé le genre du slasher à la fin des années 1990. Le film utilise une mise en abyme habile en faisant référence aux codes classiques du cinéma d'horreur pour mieux s'en amuser. Le tueur masqué Ghostface est devenu l'une des figures les plus mémorables de la pop culture terrifiante.",
+      "options": [
+        "Vendredi 13",
+        "Halloween",
+        "Les Griffes de la Nuit",
+        "Scream"
+      ]
     },
     {
       "id": "cinema_sagas_16",
@@ -1122,11 +1350,17 @@
     },
     {
       "id": "cinema_sagas_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle saga de fantasy de Disney met en scène quatre enfants traversant une armoire magique pour libérer un royaume de l'hiver éternel ?",
       "answer": "Le Monde de Narnia",
-      "explanation": "La saga cinématographique de Disney est adaptée des célèbres romans de fantasy écrits par l'auteur britannique C.S. Lewis dans les années 1950. L'univers magique de Narnia présente des créatures mythologiques parlantes et un combat éternel entre le bien et le mal. Le lion majestueux Aslan sert de guide spirituel et de protecteur aux jeunes protagonistes égarés."
+      "explanation": "La saga cinématographique de Disney est adaptée des célèbres romans de fantasy écrits par l'auteur britannique C.S. Lewis dans les années 1950. L'univers magique de Narnia présente des créatures mythologiques parlantes et un combat éternel entre le bien et le mal. Le lion majestueux Aslan sert de guide spirituel et de protecteur aux jeunes protagonistes égarés.",
+      "options": [
+        "Les Légendes d'Etheria",
+        "Les Chroniques d'Arkadia",
+        "Le Monde de Narnia",
+        "Le Royaume d'Avalon"
+      ]
     },
     {
       "id": "cinema_sagas_18",
@@ -1144,11 +1378,17 @@
     },
     {
       "id": "cinema_sagas_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle saga d'espionnage et d'action, adaptée d'une série télévisée, présente Tom Cruise réalisant des cascades folles dans le rôle d'Ethan Hunt ?",
       "answer": "Mission: Impossible",
-      "explanation": "Cette franchise d'action majeure est célèbre pour ses cascades physiques époustouflantes réalisées par l'acteur Tom Cruise sans aucune doublure numérique. Inspirée de la célèbre série télévisée des années 1960, elle suit les missions périlleuses de l'agence secrète IMF. Chaque nouvel opus repousse les limites techniques de la réalisation pour offrir un divertissement spectaculaire."
+      "explanation": "Cette franchise d'action majeure est célèbre pour ses cascades physiques époustouflantes réalisées par l'acteur Tom Cruise sans aucune doublure numérique. Inspirée de la célèbre série télévisée des années 1960, elle suit les missions périlleuses de l'agence secrète IMF. Chaque nouvel opus repousse les limites techniques de la réalisation pour offrir un divertissement spectaculaire.",
+      "options": [
+        "Mission: Impossible",
+        "Kingsman: Le Service Secret",
+        "James Bond 007",
+        "Jason Bourne"
+      ]
     },
     {
       "id": "cinema_sagas_20",
@@ -1166,11 +1406,17 @@
     },
     {
       "id": "cinema_sagas_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle saga cinématographique d'animation présente les aventures d'un ogre vert cynique vivant dans un marais, accompagné d'un âne extrêmement bavard ?",
       "answer": "Shrek",
-      "explanation": "Lancée en 2001 par les studios DreamWorks, la saga 'Shrek' a marqué l'histoire de l'animation en détournant avec un humour irrévérencieux et satirique les contes de fées traditionnels. Le premier opus a remporté le tout premier Oscar du meilleur film d'animation de l'histoire en 2002. La franchise a rencontré un succès mondial colossal grâce à son double niveau de lecture intelligent, séduisant autant les jeunes enfants que le public adulte."
+      "explanation": "Lancée en 2001 par les studios DreamWorks, la saga 'Shrek' a marqué l'histoire de l'animation en détournant avec un humour irrévérencieux et satirique les contes de fées traditionnels. Le premier opus a remporté le tout premier Oscar du meilleur film d'animation de l'histoire en 2002. La franchise a rencontré un succès mondial colossal grâce à son double niveau de lecture intelligent, séduisant autant les jeunes enfants que le public adulte.",
+      "options": [
+        "Le Roi Lion",
+        "Shrek",
+        "Toy Story",
+        "Monstres et Cie"
+      ]
     },
     {
       "id": "cinema_sagas_22",
@@ -1188,11 +1434,17 @@
     },
     {
       "id": "cinema_sagas_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle trilogie de films de super-héros de Sam Raimi du début des années 2000 met en scène Tobey Maguire dans le rôle de Peter Parker ?",
       "answer": "Spider-Man",
-      "explanation": "La trilogie 'Spider-Man' réalisée par Sam Raimi entre 2002 et 2007 a joué un rôle de pionnier absolu dans l'avènement moderne du cinéma de super-héros à gros budget à Hollywood. Tobey Maguire a prêté ses traits de manière mémorable à cet adolescent timide qui acquiert des super-pouvoirs suite à la morsure d'une araignée génétiquement modifiée. Le second volet sorti en 2004 est régulièrement cité par la critique internationale parmi les meilleurs films de super-héros de tous les temps pour son écriture et son rythme dramatique exemplaire."
+      "explanation": "La trilogie 'Spider-Man' réalisée par Sam Raimi entre 2002 et 2007 a joué un rôle de pionnier absolu dans l'avènement moderne du cinéma de super-héros à gros budget à Hollywood. Tobey Maguire a prêté ses traits de manière mémorable à cet adolescent timide qui acquiert des super-pouvoirs suite à la morsure d'une araignée génétiquement modifiée. Le second volet sorti en 2004 est régulièrement cité par la critique internationale parmi les meilleurs films de super-héros de tous les temps pour son écriture et son rythme dramatique exemplaire.",
+      "options": [
+        "Daredevil",
+        "X-Men",
+        "Spider-Man",
+        "Batman Begins"
+      ]
     },
     {
       "id": "cinema_sagas_24",
@@ -1210,11 +1462,17 @@
     },
     {
       "id": "cinema_sagas_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel est le titre du premier film de la saga de science-fiction post-apocalyptique 'La Planète des singes', sorti en 1968 avec Charlton Heston, célèbre pour sa scène finale effroyable ?",
       "answer": "La Planète des singes",
-      "explanation": "Adapté du célèbre roman de science-fiction de l'écrivain français Pierre Boulle, le film de 1968 réalisé par Franklin J. Schaffner est un monument du cinéma d'anticipation. Charlton Heston y incarne l'astronaute George Taylor qui s'écrase sur une mystérieuse planète hostile où les singes doués de parole dominent les humains réduits à l'état sauvage. La scène finale inoubliable, montrant les vestiges ensablés de la statue de la Liberté, révèle de manière effroyable que cette planète n'est autre que la Terre du futur détruite par une guerre nucléaire."
+      "explanation": "Adapté du célèbre roman de science-fiction de l'écrivain français Pierre Boulle, le film de 1968 réalisé par Franklin J. Schaffner est un monument du cinéma d'anticipation. Charlton Heston y incarne l'astronaute George Taylor qui s'écrase sur une mystérieuse planète hostile où les singes doués de parole dominent les humains réduits à l'état sauvage. La scène finale inoubliable, montrant les vestiges ensablés de la statue de la Liberté, révèle de manière effroyable que cette planète n'est autre que la Terre du futur détruite par une guerre nucléaire.",
+      "options": [
+        "La Planète des singes",
+        "Le Monde Inversé",
+        "Les Chroniques de Zaltar",
+        "Le Voyage Interdit"
+      ]
     },
     {
       "id": "cinema_sagas_26",
@@ -1232,11 +1490,17 @@
     },
     {
       "id": "cinema_sagas_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle saga cinématographique d'action présente Keanu Reeves dans le rôle d'un tueur à gages légendaire forcé de sortir de sa retraite après l'assassinat de son chiot ?",
       "answer": "John Wick",
-      "explanation": "Lancée en 2014, la saga 'John Wick' a redéfini le cinéma d'action contemporain grâce à ses scènes de combat chorégraphiées de manière millimétrée, inspirées du cinéma d'action hongkongais et du 'gun fu'. Keanu Reeves y incarne un assassin d'élite d'une efficacité redoutable qui s'attaque à un puissant syndicat du crime après s'être fait voler sa voiture et tuer son chiot, dernier souvenir de sa défunte épouse. La franchise a créé un univers criminel fascinant doté de ses propres règles et de son mythique hôtel Continental."
+      "explanation": "Lancée en 2014, la saga 'John Wick' a redéfini le cinéma d'action contemporain grâce à ses scènes de combat chorégraphiées de manière millimétrée, inspirées du cinéma d'action hongkongais et du 'gun fu'. Keanu Reeves y incarne un assassin d'élite d'une efficacité redoutable qui s'attaque à un puissant syndicat du crime après s'être fait voler sa voiture et tuer son chiot, dernier souvenir de sa défunte épouse. La franchise a créé un univers criminel fascinant doté de ses propres règles et de son mythique hôtel Continental.",
+      "options": [
+        "Equilibrium",
+        "Matrix",
+        "John Wick",
+        "Taken"
+      ]
     },
     {
       "id": "cinema_sagas_28",
@@ -1254,11 +1518,17 @@
     },
     {
       "id": "cinema_sagas_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle trilogie de films d'horreur de science-fiction post-apocalyptique présente des créatures aveugles qui chassent au moindre son, obligeant une famille à vivre dans le silence absolu ?",
       "answer": "Sans un bruit (A Quiet Place)",
-      "explanation": "Réalisée par John Krasinski, la saga 'Sans un bruit' (A Quiet Place) initiée en 2018 repose sur un concept sonore audacieux où le silence est la clé absolue de la survie des protagonistes. Les films suivent une famille qui doit naviguer dans un monde dévasté par des prédateurs extraterrestres aveugles dotés d'une ouïe surdéveloppée extrêmement sensible. L'utilisation intelligente de la langue des signes et le travail minutieux sur la conception sonore créent une tension claustrophobique d'une rare efficacité pour le spectateur."
+      "explanation": "Réalisée par John Krasinski, la saga 'Sans un bruit' (A Quiet Place) initiée en 2018 repose sur un concept sonore audacieux où le silence est la clé absolue de la survie des protagonistes. Les films suivent une famille qui doit naviguer dans un monde dévasté par des prédateurs extraterrestres aveugles dotés d'une ouïe surdéveloppée extrêmement sensible. L'utilisation intelligente de la langue des signes et le travail minutieux sur la conception sonore créent une tension claustrophobique d'une rare efficacité pour le spectateur.",
+      "options": [
+        "Les Chroniques de la Terreur (Chronicle)",
+        "Sans un bruit (A Quiet Place)",
+        "L'Écho du Néant (Echoes of the Void)",
+        "Le Haut-Parleur (The Speaker)"
+      ]
     },
     {
       "id": "cinema_sagas_30",
@@ -1418,11 +1688,17 @@
   "Cinéma : Chefs-d'œuvre du Box-Office": [
     {
       "id": "cinema_box_office_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel film de science-fiction de James Cameron sorti en 2009, se déroulant sur la lune Pandora, détient le record mondial de recettes ?",
       "answer": "Avatar",
-      "explanation": "Le film de science-fiction 'Avatar' a révolutionné l'utilisation de la technologie 3D et de la capture de mouvement à sa sortie en 2009. James Cameron a passé des années à concevoir l'univers foisonnant de la lune Pandora avant que la technologie ne permette son tournage. Le long-métrage a battu tous les records financiers historiques pour devenir le plus grand succès du box-office mondial."
+      "explanation": "Le film de science-fiction 'Avatar' a révolutionné l'utilisation de la technologie 3D et de la capture de mouvement à sa sortie en 2009. James Cameron a passé des années à concevoir l'univers foisonnant de la lune Pandora avant que la technologie ne permette son tournage. Le long-métrage a battu tous les records financiers historiques pour devenir le plus grand succès du box-office mondial.",
+      "options": [
+        "Titanic",
+        "Jurassic Park",
+        "Avatar",
+        "Terminator"
+      ]
     },
     {
       "id": "cinema_box_office_2",
@@ -1440,11 +1716,17 @@
     },
     {
       "id": "cinema_box_office_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel dessin animé culte de Disney sorti en 1994 raconte le destin du jeune lionceau Simba ?",
       "answer": "Le Roi Lion",
-      "explanation": "Ce chef-d'œuvre de l'animation des studios Disney s'inspire librement de la tragédie classique d'Hamlet de William Shakespeare. Porté par les chansons inoubliables d'Elton John et la bande originale grandiose de Hans Zimmer, il a marqué l'âge d'or des années 1990. Le film détient toujours une place privilégiée dans le cœur du public grâce à son récit initiatique puissant."
+      "explanation": "Ce chef-d'œuvre de l'animation des studios Disney s'inspire librement de la tragédie classique d'Hamlet de William Shakespeare. Porté par les chansons inoubliables d'Elton John et la bande originale grandiose de Hans Zimmer, il a marqué l'âge d'or des années 1990. Le film détient toujours une place privilégiée dans le cœur du public grâce à son récit initiatique puissant.",
+      "options": [
+        "Le Roi Lion",
+        "Aladdin",
+        "La Petite Sirène",
+        "La Belle et la Bête"
+      ]
     },
     {
       "id": "cinema_box_office_4",
@@ -1462,11 +1744,17 @@
     },
     {
       "id": "cinema_box_office_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel film de super-héros Marvel de 2019 est devenu temporairement le film le plus rentable de tous les temps au box-office en dépassant Titanic et Avatar ?",
       "answer": "Avengers: Endgame",
-      "explanation": "Ce long-métrage événementiel marque la conclusion dramatique et spectaculaire d'une saga cinématographique de vingt-deux films interconnectés. Il a réuni une distribution d'acteurs sans précédent pour offrir un affrontement final d'une ampleur inégalée sur grand écran. En récoltant près de trois milliards de dollars, il a temporairement détrôné tous ses concurrents au sommet du box-office."
+      "explanation": "Ce long-métrage événementiel marque la conclusion dramatique et spectaculaire d'une saga cinématographique de vingt-deux films interconnectés. Il a réuni une distribution d'acteurs sans précédent pour offrir un affrontement final d'une ampleur inégalée sur grand écran. En récoltant près de trois milliards de dollars, il a temporairement détrôné tous ses concurrents au sommet du box-office.",
+      "options": [
+        "Black Panther",
+        "Captain Marvel",
+        "Avengers: Endgame",
+        "Spider-Man: Far From Home"
+      ]
     },
     {
       "id": "cinema_box_office_6",
@@ -1484,11 +1772,17 @@
     },
     {
       "id": "cinema_box_office_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quel film romantique et musical oscarisé de 2016 Emma Stone et Ryan Gosling chantent et dansent dans la ville de Los Angeles ?",
       "answer": "La La Land",
-      "explanation": "Cette comédie musicale enchanteresse réalisée par Damien Chazelle rend un hommage vibrant aux grands classiques de l'âge d'or d'Hollywood. Les performances habitées d'Emma Stone et de Ryan Gosling allient avec grâce la nostalgie poétique à la mélancolie contemporaine. Le film a marqué les esprits en remportant six Oscars lors d'une cérémonie historique mémorable."
+      "explanation": "Cette comédie musicale enchanteresse réalisée par Damien Chazelle rend un hommage vibrant aux grands classiques de l'âge d'or d'Hollywood. Les performances habitées d'Emma Stone et de Ryan Gosling allient avec grâce la nostalgie poétique à la mélancolie contemporaine. Le film a marqué les esprits en remportant six Oscars lors d'une cérémonie historique mémorable.",
+      "options": [
+        "Rock of Ages",
+        "Demoiselle en Détresse",
+        "La La Land",
+        "Le Fabuleux Destin de Violetta"
+      ]
     },
     {
       "id": "cinema_box_office_8",
@@ -1506,11 +1800,17 @@
     },
     {
       "id": "cinema_box_office_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel film comique dramatique français de 2011 avec François Cluzet et Omar Sy raconte la belle amitié entre un homme riche tétraplégique et son aide à domicile ?",
       "answer": "Intouchables",
-      "explanation": "Cette comédie dramatique s'inspire de l'histoire vraie touchante de l'amitié entre Philippe Pozzo di Borgo et son auxiliaire de vie Abdel Yasmin Sellou. La performance pleine d'énergie d'Omar Sy lui a valu le César du meilleur acteur et a propulsé sa carrière internationale. Le long-métrage a connu un succès phénoménal dans le monde entier en cumulant des millions d'entrées."
+      "explanation": "Cette comédie dramatique s'inspire de l'histoire vraie touchante de l'amitié entre Philippe Pozzo di Borgo et son auxiliaire de vie Abdel Yasmin Sellou. La performance pleine d'énergie d'Omar Sy lui a valu le César du meilleur acteur et a propulsé sa carrière internationale. Le long-métrage a connu un succès phénoménal dans le monde entier en cumulant des millions d'entrées.",
+      "options": [
+        "Intouchables",
+        "La Guerre des Rose",
+        "Le Sifflet au Sifflet",
+        "Un homme et une femme"
+      ]
     },
     {
       "id": "cinema_box_office_10",
@@ -1528,11 +1828,17 @@
     },
     {
       "id": "cinema_box_office_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel chef-d'œuvre romantique et dramatique historique de 1939 présente l'histoire d'amour passionnée de Scarlett O'Hara et Rhett Butler pendant la guerre de Sécession ?",
       "answer": "Autant en emporte le vent",
-      "explanation": "Cette fresque romantique monumentale se déroulant sur fond de guerre de Sécession reste à ce jour le plus grand succès de l'histoire du cinéma mondial si l'on ajuste les recettes à l'inflation. L'actrice Hattie McDaniel est entrée dans l'histoire en devenant la première interprète afro-américaine à remporter un Oscar. Le film demeure un jalon technique exceptionnel pour son utilisation pionnière du procédé Technicolor."
+      "explanation": "Cette fresque romantique monumentale se déroulant sur fond de guerre de Sécession reste à ce jour le plus grand succès de l'histoire du cinéma mondial si l'on ajuste les recettes à l'inflation. L'actrice Hattie McDaniel est entrée dans l'histoire en devenant la première interprète afro-américaine à remporter un Oscar. Le film demeure un jalon technique exceptionnel pour son utilisation pionnière du procédé Technicolor.",
+      "options": [
+        "Autant en emporte le vent",
+        "Roméo et Juliette",
+        "Le Rouge et le Noir",
+        "Les Piliers de la Terre"
+      ]
     },
     {
       "id": "cinema_box_office_12",
@@ -1550,11 +1856,17 @@
     },
     {
       "id": "cinema_box_office_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel film d'aventure fantastique de Spielberg de 1982 raconte l'amitié entre un petit garçon nommé Elliott et un extraterrestre abandonné sur Terre ?",
       "answer": "E.T. l'extra-terrestre",
-      "explanation": "Cette fable fantastique touchante explore le thème de l'enfance et de la tolérance à travers la rencontre entre un jeune garçon solitaire et un visiteur de l'espace égaré. Le film a ému des générations de spectateurs et est devenu l'un des plus grands succès financiers des années 1980. La silhouette d'un vélo volant devant la pleine lune est restée comme l'un des logos visuels les plus célèbres du cinéma."
+      "explanation": "Cette fable fantastique touchante explore le thème de l'enfance et de la tolérance à travers la rencontre entre un jeune garçon solitaire et un visiteur de l'espace égaré. Le film a ému des générations de spectateurs et est devenu l'un des plus grands succès financiers des années 1980. La silhouette d'un vélo volant devant la pleine lune est restée comme l'un des logos visuels les plus célèbres du cinéma.",
+      "options": [
+        "Les Aventuriers de l'Arche Perdue",
+        "E.T. l'extra-terrestre",
+        "Rencontres du troisième type",
+        "La Couleur Pourpre"
+      ]
     },
     {
       "id": "cinema_box_office_14",
@@ -1572,11 +1884,17 @@
     },
     {
       "id": "cinema_box_office_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quel film dramatique policier de 1994, adapté de Stephen King, Tim Robbins s'échappe de la terrible prison de Shawshank ?",
       "answer": "Les Évadés (The Shawshank Redemption)",
-      "explanation": "Bien qu'il ait connu un échec relatif dans les salles lors de sa sortie en 1994, ce drame carcéral s'est imposé au fil des ans comme l'un des films les plus appréciés de l'histoire. Il occupe régulièrement la première place du classement des meilleurs films de tous les temps sur le site de référence IMDb. Son message puissant sur l'espoir et l'amitié continue de toucher profondément de nouveaux spectateurs."
+      "explanation": "Bien qu'il ait connu un échec relatif dans les salles lors de sa sortie en 1994, ce drame carcéral s'est imposé au fil des ans comme l'un des films les plus appréciés de l'histoire. Il occupe régulièrement la première place du classement des meilleurs films de tous les temps sur le site de référence IMDb. Son message puissant sur l'espoir et l'amitié continue de toucher profondément de nouveaux spectateurs.",
+      "options": [
+        "Les Évadés (The Shawshank Redemption)",
+        "Misery",
+        "Christine",
+        "Le Vertige (The Green Mile)"
+      ]
     },
     {
       "id": "cinema_box_office_16",
@@ -1594,11 +1912,17 @@
     },
     {
       "id": "cinema_box_office_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel film d'action de 1991 de James Cameron présente le cyborg T-800 programmé pour protéger le jeune John Connor ?",
       "answer": "Terminator 2 : Le Jugement dernier",
-      "explanation": "Cette suite spectaculaire réalisée par James Cameron a révolutionné l'industrie du cinéma en introduisant des effets numériques pionniers en métal liquide. Le budget record alloué à la production a permis de réaliser des scènes d'action d'une ampleur inédite à l'époque. Le film a magnifiquement transformé l'antagoniste redoutable du premier volet en un protecteur attachant et héroïque."
+      "explanation": "Cette suite spectaculaire réalisée par James Cameron a révolutionné l'industrie du cinéma en introduisant des effets numériques pionniers en métal liquide. Le budget record alloué à la production a permis de réaliser des scènes d'action d'une ampleur inédite à l'époque. Le film a magnifiquement transformé l'antagoniste redoutable du premier volet en un protecteur attachant et héroïque.",
+      "options": [
+        "Aliens, le retour",
+        "Terminator 2 : Le Jugement dernier",
+        "True Lies : Jeux de vérité",
+        "Abyss : Le Gouffre"
+      ]
     },
     {
       "id": "cinema_box_office_18",
@@ -1616,11 +1940,17 @@
     },
     {
       "id": "cinema_box_office_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel film d'aventure spatial réaliste de Christopher Nolan de 2014 présente des explorateurs traversant un trou de ver près de Saturne pour sauver l'humanité de la famine ?",
       "answer": "Interstellar",
-      "explanation": "Le réalisateur Christopher Nolan s'est entouré de scientifiques de renom, dont le prix Nobel de physique Kip Thorne, pour modéliser de manière réaliste un trou noir à l'écran. Ce voyage spatial mélancolique allie avec brio des concepts astrophysiques complexes à une quête humaine intime de paternité et de survie. La bande originale majestueuse composée par Hans Zimmer renforce l'aspect mystique et grandiose de cette odyssée moderne."
+      "explanation": "Le réalisateur Christopher Nolan s'est entouré de scientifiques de renom, dont le prix Nobel de physique Kip Thorne, pour modéliser de manière réaliste un trou noir à l'écran. Ce voyage spatial mélancolique allie avec brio des concepts astrophysiques complexes à une quête humaine intime de paternité et de survie. La bande originale majestueuse composée par Hans Zimmer renforce l'aspect mystique et grandiose de cette odyssée moderne.",
+      "options": [
+        "Contact",
+        "Interstellar",
+        "Ad Astra",
+        "Solaris"
+      ]
     },
     {
       "id": "cinema_box_office_20",
@@ -1638,11 +1968,17 @@
     },
     {
       "id": "cinema_box_office_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel film de super-héros américain sorti en 2008, premier film de l'univers cinématographique Marvel (MCU), a rapporté plus de 585 millions de dollars et lancé la carrière de Robert Downey Jr. en tant que star d'action ?",
       "answer": "Iron Man",
-      "explanation": "Réalisé par Jon Favreau, 'Iron Man' a marqué le point de départ historique de la franchise interconnectée la plus rentable de l'histoire du cinéma. Le choix de confier le rôle principal à Robert Downey Jr., dont la carrière traversait une période difficile, s'est révélé être un coup de génie absolu grâce à son charisme et son sens de l'improvisation. Le succès critique et commercial triomphal du long-métrage a prouvé qu'un personnage de comics moins connu du grand public pouvait devenir une icône mondiale."
+      "explanation": "Réalisé par Jon Favreau, 'Iron Man' a marqué le point de départ historique de la franchise interconnectée la plus rentable de l'histoire du cinéma. Le choix de confier le rôle principal à Robert Downey Jr., dont la carrière traversait une période difficile, s'est révélé être un coup de génie absolu grâce à son charisme et son sens de l'improvisation. Le succès critique et commercial triomphal du long-métrage a prouvé qu'un personnage de comics moins connu du grand public pouvait devenir une icône mondiale.",
+      "options": [
+        "Captain America : Le Premier Vengeur",
+        "Les Quatre Fantastiques",
+        "Iron Man",
+        "Thor"
+      ]
     },
     {
       "id": "cinema_box_office_22",
@@ -1660,11 +1996,17 @@
     },
     {
       "id": "cinema_box_office_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle comédie française de 2011, mettant en vedette François Cluzet et Omar Sy, a attiré plus de 19 millions de spectateurs dans les salles en France et est devenue un succès mondial historique pour un film en langue française ?",
       "answer": "Intouchables",
-      "explanation": "Réalisée par Olivier Nakache et Éric Toledano, la comédie dramatique 'Intouchables' s'inspire de l'histoire vraie de l'amitié entre Philippe Pozzo di Borgo, un riche aristocrate devenu tétraplégique, et Abdel Yasmin Sellou, son aide à domicile issu de banlieue. Le charme irrésistible de son duo d'acteurs et son ton résolument optimiste mêlant humour et émotion ont séduit le public français et international. Il s'impose comme le film en langue étrangère le plus rentable de l'histoire du cinéma, propulsant instantanément l'acteur Omar Sy au rang de star internationale de premier plan."
+      "explanation": "Réalisée par Olivier Nakache et Éric Toledano, la comédie dramatique 'Intouchables' s'inspire de l'histoire vraie de l'amitié entre Philippe Pozzo di Borgo, un riche aristocrate devenu tétraplégique, et Abdel Yasmin Sellou, son aide à domicile issu de banlieue. Le charme irrésistible de son duo d'acteurs et son ton résolument optimiste mêlant humour et émotion ont séduit le public français et international. Il s'impose comme le film en langue étrangère le plus rentable de l'histoire du cinéma, propulsant instantanément l'acteur Omar Sy au rang de star internationale de premier plan.",
+      "options": [
+        "Le Dîner de Cons",
+        "Astérix et Obélix : Mission Cléopâtre",
+        "Bienvenue chez les Ch'tis",
+        "Intouchables"
+      ]
     },
     {
       "id": "cinema_box_office_24",
@@ -1682,11 +2024,17 @@
     },
     {
       "id": "cinema_box_office_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel chef-d'œuvre du western de 1990 réalisé par Kevin Costner, racontant la vie d'un officier de l'Union au contact des Sioux, a remporté sept Oscars et dépassé les 420 millions de dollars de recettes ?",
       "answer": "Danse avec les loups (Dances with Wolves)",
-      "explanation": "'Danse avec les loups' est un triomphe artistique et commercial historique pour un western de longue durée (plus de trois heures), un genre cinématographique alors considéré comme moribond par les studios d'Hollywood. Kevin Costner y réalise un coup d'essai magistral en incarnant un lieutenant fatigué de la guerre de Sécession qui choisit de s'intégrer paisiblement à une tribu d'Indiens Sioux Lakotas. Le film a été salué par les communautés amérindiennes pour son portrait particulièrement respectueux, authentique et humain de leur culture traditionnelle."
+      "explanation": "'Danse avec les loups' est un triomphe artistique et commercial historique pour un western de longue durée (plus de trois heures), un genre cinématographique alors considéré comme moribond par les studios d'Hollywood. Kevin Costner y réalise un coup d'essai magistral en incarnant un lieutenant fatigué de la guerre de Sécession qui choisit de s'intégrer paisiblement à une tribu d'Indiens Sioux Lakotas. Le film a été salué par les communautés amérindiennes pour son portrait particulièrement respectueux, authentique et humain de leur culture traditionnelle.",
+      "options": [
+        "Le Punisher",
+        "L'Étreinte du Serpent",
+        "Danse avec les loups (Dances with Wolves)",
+        "Un Justicier dans la Ville"
+      ]
     },
     {
       "id": "cinema_box_office_26",
@@ -1704,11 +2052,17 @@
     },
     {
       "id": "cinema_box_office_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel film de guerre épique historique de 1995, réalisé et incarné par Mel Gibson dans le rôle du héros écossais William Wallace, a été un grand succès au box-office et a remporté cinq Oscars ?",
       "answer": "Braveheart",
-      "explanation": "Fresque historique flamboyante et brutale, 'Braveheart' dépeint la lutte acharnée des Écossais menés par William Wallace contre l'oppression du roi Édouard Ier d'Angleterre à la fin du XIIIe siècle. Les scènes de bataille dantesques, filmées en Irlande avec des milliers de figurants de l'armée de réserve, ont marqué les esprits par leur violence crue et réaliste. Bien que le scénario s'accorde de nombreuses libertés par rapport à la vérité historique, le film reste un modèle absolu de souffle romanesque et épique au cinéma."
+      "explanation": "Fresque historique flamboyante et brutale, 'Braveheart' dépeint la lutte acharnée des Écossais menés par William Wallace contre l'oppression du roi Édouard Ier d'Angleterre à la fin du XIIIe siècle. Les scènes de bataille dantesques, filmées en Irlande avec des milliers de figurants de l'armée de réserve, ont marqué les esprits par leur violence crue et réaliste. Bien que le scénario s'accorde de nombreuses libertés par rapport à la vérité historique, le film reste un modèle absolu de souffle romanesque et épique au cinéma.",
+      "options": [
+        "Gladiator",
+        "Braveheart",
+        "Le Dernier Samouraï",
+        "Kingdom of Heaven"
+      ]
     },
     {
       "id": "cinema_box_office_28",
@@ -1726,11 +2080,17 @@
     },
     {
       "id": "cinema_box_office_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel film de super-héros de 2008 réalisé par Christopher Nolan, célèbre pour la performance habitée de Heath Ledger en Joker, fut le tout premier film de super-héros à franchir le cap historique du milliard de dollars de recettes au box-office mondial ?",
       "answer": "The Dark Knight : Le Chevalier noir",
-      "explanation": "'The Dark Knight' a transcendé le genre du cinéma de super-héros pour s'imposer comme un thriller policier urbain noir d'une noirceur esthétique absolue. La performance extraordinaire de Heath Ledger, qui a reçu un Oscar posthume du meilleur acteur dans un second rôle en 2009, a profondément marqué la critique et le public mondial. Le succès colossal du film a prouvé qu'une adaptation de comics pouvait allier d'immenses exigences artistiques et d'exceptionnels records financiers au box-office."
+      "explanation": "'The Dark Knight' a transcendé le genre du cinéma de super-héros pour s'imposer comme un thriller policier urbain noir d'une noirceur esthétique absolue. La performance extraordinaire de Heath Ledger, qui a reçu un Oscar posthume du meilleur acteur dans un second rôle en 2009, a profondément marqué la critique et le public mondial. Le succès colossal du film a prouvé qu'une adaptation de comics pouvait allier d'immenses exigences artistiques et d'exceptionnels records financiers au box-office.",
+      "options": [
+        "Batman Begins : Le Début",
+        "The Dark Knight : Le Chevalier noir",
+        "Iron Man : L'Armure de fer",
+        "Spider-Man 3 : Le Retour du Bouc"
+      ]
     },
     {
       "id": "cinema_box_office_30",
@@ -1890,11 +2250,17 @@
   "Cinéma : Grands Thèmes & Splendeurs": [
     {
       "id": "cinema_splendeurs_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel compositeur américain a composé les bandes originales légendaires de Star Wars, Harry Potter et Jurassic Park ?",
       "answer": "John Williams",
-      "explanation": "John Williams est le compositeur le plus nommé aux Oscars de l'histoire derrière Walt Disney grâce à ses partitions musicales mémorables. Sa longue et fructueuse collaboration avec Steven Spielberg et George Lucas a donné naissance à des thèmes symphoniques qui font désormais partie du patrimoine culturel mondial. Ses compositions orchestrales amples ont grandement contribué à redonner ses lettres de noblesse à la musique de film classique."
+      "explanation": "John Williams est le compositeur le plus nommé aux Oscars de l'histoire derrière Walt Disney grâce à ses partitions musicales mémorables. Sa longue et fructueuse collaboration avec Steven Spielberg et George Lucas a donné naissance à des thèmes symphoniques qui font désormais partie du patrimoine culturel mondial. Ses compositions orchestrales amples ont grandement contribué à redonner ses lettres de noblesse à la musique de film classique.",
+      "options": [
+        "Ennio Morricone",
+        "John Williams",
+        "Alan Silvestri",
+        "Hans Zimmer"
+      ]
     },
     {
       "id": "cinema_splendeurs_2",
@@ -1912,11 +2278,17 @@
     },
     {
       "id": "cinema_splendeurs_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel festival de cinéma français prestigieux décerne chaque année au mois de mai la Palme d'or sur la Croisette ?",
       "answer": "Le Festival de Cannes",
-      "explanation": "Fondé en 1946 pour concurrencer la Mostra de Venise, le Festival de Cannes est aujourd'hui le rassemblement cinématographique le plus médiatisé et le plus prestigieux au monde. Chaque année au mois de mai, les plus grands cinéastes internationaux gravissent les célèbres marches rouges pour présenter leurs œuvres en première mondiale. La Palme d'or décernée par un jury d'exception consacre le meilleur film de la sélection officielle."
+      "explanation": "Fondé en 1946 pour concurrencer la Mostra de Venise, le Festival de Cannes est aujourd'hui le rassemblement cinématographique le plus médiatisé et le plus prestigieux au monde. Chaque année au mois de mai, les plus grands cinéastes internationaux gravissent les célèbres marches rouges pour présenter leurs œuvres en première mondiale. La Palme d'or décernée par un jury d'exception consacre le meilleur film de la sélection officielle.",
+      "options": [
+        "Le Festival Lumière de Lyon",
+        "La Semaine Internationale du Cinéma de Valladolid",
+        "Le Festival de Cannes",
+        "Le Festival de Venise"
+      ]
     },
     {
       "id": "cinema_splendeurs_4",
@@ -1934,11 +2306,17 @@
     },
     {
       "id": "cinema_splendeurs_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel classique musical de 1952 avec Gene Kelly met en vedette des claquettes fantastiques sous une averse mémorable ?",
       "answer": "Chantons sous la pluie (Singin' in the Rain)",
-      "explanation": "Cette comédie musicale légendaire offre une satire joyeuse et intelligente de la transition difficile d'Hollywood du cinéma muet vers le cinéma parlant à la fin des années 1920. La fameuse scène de danse de Gene Kelly sous une averse battante a été tournée alors que l'acteur souffrait d'une forte fièvre. Le film est aujourd'hui universellement considéré comme le chef-d'œuvre absolu du genre musical classique."
+      "explanation": "Cette comédie musicale légendaire offre une satire joyeuse et intelligente de la transition difficile d'Hollywood du cinéma muet vers le cinéma parlant à la fin des années 1920. La fameuse scène de danse de Gene Kelly sous une averse battante a été tournée alors que l'acteur souffrait d'une forte fièvre. Le film est aujourd'hui universellement considéré comme le chef-d'œuvre absolu du genre musical classique.",
+      "options": [
+        "Chantons sous la pluie (Singin' in the Rain)",
+        "Opération Do Ré Mi (The Band Wagon)",
+        "Sur mes lèvres (On Your Toes)",
+        "Un Amour de Paris (An American in Paris)"
+      ]
     },
     {
       "id": "cinema_splendeurs_6",
@@ -1956,11 +2334,17 @@
     },
     {
       "id": "cinema_splendeurs_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle actrice de légende incarne la fragile et sublime Marilyn Monroe dans le biopic 'Blonde' ou quel était son vrai nom ?",
       "answer": "Norma Jeane Mortenson (ou Norma Jeane Baker)",
-      "explanation": "Norma Jeane Mortenson a surmonté une enfance difficile dans des familles d'accueil avant de devenir sous le pseudonyme de Marilyn Monroe l'icône absolue de la pop culture du vingtième siècle. Son image de blonde glamour masquait une personnalité complexe, sensible et désireuse d'être reconnue pour son réel talent d'actrice dramatique. Sa disparition tragique et précoce en 1962 a définitivement figé sa légende dans l'histoire d'Hollywood."
+      "explanation": "Norma Jeane Mortenson a surmonté une enfance difficile dans des familles d'accueil avant de devenir sous le pseudonyme de Marilyn Monroe l'icône absolue de la pop culture du vingtième siècle. Son image de blonde glamour masquait une personnalité complexe, sensible et désireuse d'être reconnue pour son réel talent d'actrice dramatique. Sa disparition tragique et précoce en 1962 a définitivement figé sa légende dans l'histoire d'Hollywood.",
+      "options": [
+        "Jean Harlow Brunette",
+        "Elizabeth Taylor Burton",
+        "Grace Kelly McGillicuddy",
+        "Norma Jeane Mortenson (ou Norma Jeane Baker)"
+      ]
     },
     {
       "id": "cinema_splendeurs_8",
@@ -1978,11 +2362,17 @@
     },
     {
       "id": "cinema_splendeurs_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quel film dramatique de 1989 le professeur de lettres John Keating, incarné par Robin Williams, crie-t-il 'O Capitaine ! Mon Capitaine !' ?",
       "answer": "Le Cercle des poètes disparus",
-      "explanation": "Ce drame émouvant réalisé par Peter Weir célèbre la liberté de pensée, la poésie classique et la philosophie du 'Carpe Diem' au sein d'une académie conservatrice stricte. L'interprétation habitée de Robin Williams en professeur de lettres non-conformiste a profondément marqué des générations d'élèves et de spectateurs. La scène finale où les élèves montent sur leurs tables en hommage reste l'un des moments les plus mémorables du cinéma dramatique."
+      "explanation": "Ce drame émouvant réalisé par Peter Weir célèbre la liberté de pensée, la poésie classique et la philosophie du 'Carpe Diem' au sein d'une académie conservatrice stricte. L'interprétation habitée de Robin Williams en professeur de lettres non-conformiste a profondément marqué des générations d'élèves et de spectateurs. La scène finale où les élèves montent sur leurs tables en hommage reste l'un des moments les plus mémorables du cinéma dramatique.",
+      "options": [
+        "Les Liaisons dangereuses",
+        "Rain Man",
+        "Glory",
+        "Le Cercle des poètes disparus"
+      ]
     },
     {
       "id": "cinema_splendeurs_10",
@@ -2000,11 +2390,17 @@
     },
     {
       "id": "cinema_splendeurs_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel est le nom de la récompense suprême décernée chaque année au meilleur film au Festival de Cannes ?",
       "answer": "La Palme d'or",
-      "explanation": "La Palme d'or est la plus haute distinction décernée au meilleur film de la compétition officielle du Festival de Cannes depuis sa création sous cette forme en 1955. La récompense physique elle-même est un trophée prestigieux en or fin reposant sur un socle de cristal de roche unique. Recevoir ce prix garantit généralement au film lauréat une immense visibilité critique et une prestigieuse carrière internationale."
+      "explanation": "La Palme d'or est la plus haute distinction décernée au meilleur film de la compétition officielle du Festival de Cannes depuis sa création sous cette forme en 1955. La récompense physique elle-même est un trophée prestigieux en or fin reposant sur un socle de cristal de roche unique. Recevoir ce prix garantit généralement au film lauréat une immense visibilité critique et une prestigieuse carrière internationale.",
+      "options": [
+        "Le César du cinéma",
+        "Le Globe d'Or",
+        "Le Lion d'Or",
+        "La Palme d'or"
+      ]
     },
     {
       "id": "cinema_splendeurs_12",
@@ -2022,11 +2418,17 @@
     },
     {
       "id": "cinema_splendeurs_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel chef-d'œuvre de l'animation japonaise réalisé par Hayao Miyazaki a remporté l'Oscar du meilleur film d'animation en 2003, racontant les aventures d'une petite fille dans un monde d'esprits ?",
       "answer": "Le Voyage de Chihiro",
-      "explanation": "Ce chef-d'œuvre poétique du studio Ghibli s'inspire du folklore japonais traditionnel pour narrer le parcours initiatique d'une jeune fille perdue dans le monde des esprits. Il s'est imposé comme le premier film d'animation non-anglophone à remporter l'Oscar du meilleur film d'animation en 2003. Hayao Miyazaki y déploie toute sa créativité visuelle et ses thématiques écologistes et pacifiques chères à son œuvre."
+      "explanation": "Ce chef-d'œuvre poétique du studio Ghibli s'inspire du folklore japonais traditionnel pour narrer le parcours initiatique d'une jeune fille perdue dans le monde des esprits. Il s'est imposé comme le premier film d'animation non-anglophone à remporter l'Oscar du meilleur film d'animation en 2003. Hayao Miyazaki y déploie toute sa créativité visuelle et ses thématiques écologistes et pacifiques chères à son œuvre.",
+      "options": [
+        "Le Château Ambulant",
+        "Mon Voisin Totoro",
+        "Le Voyage de Chihiro",
+        "Princesse Mononoké"
+      ]
     },
     {
       "id": "cinema_splendeurs_14",
@@ -2044,11 +2446,17 @@
     },
     {
       "id": "cinema_splendeurs_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel film de 1962 de David Lean raconte l'histoire d'un officier britannique qui unit les tribus arabes contre l'Empire ottoman pendant la Première Guerre mondiale ?",
       "answer": "Lawrence d'Arabie",
-      "explanation": "Cette fresque historique monumentale réalisée par David Lean est célèbre pour ses compositions visuelles grandioses en format 70mm capturant l'immensité sauvage des déserts de Jordanie. L'acteur Peter O'Toole y livre une performance inoubliable qui l'a propulsé instantanément au rang de star internationale. La bande originale épique composée par Maurice Jarre accompagne magnifiquement le destin tragique et complexe de cet officier britannique hors du commun."
+      "explanation": "Cette fresque historique monumentale réalisée par David Lean est célèbre pour ses compositions visuelles grandioses en format 70mm capturant l'immensité sauvage des déserts de Jordanie. L'acteur Peter O'Toole y livre une performance inoubliable qui l'a propulsé instantanément au rang de star internationale. La bande originale épique composée par Maurice Jarre accompagne magnifiquement le destin tragique et complexe de cet officier britannique hors du commun.",
+      "options": [
+        "Lawrence d'Arabie",
+        "Le Jour du Gladiateur",
+        "Le Pont des Pions",
+        "Les Sept Mercenaires"
+      ]
     },
     {
       "id": "cinema_splendeurs_16",
@@ -2066,11 +2474,17 @@
     },
     {
       "id": "cinema_splendeurs_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel film dramatique d'époque de 1975 de Stanley Kubrick est célèbre pour avoir été entièrement éclairé à la lumière naturelle et à la bougie grâce à des objectifs de la NASA ?",
       "answer": "Barry Lyndon",
-      "explanation": "Pour recréer fidèlement l'ambiance visuelle des peintures du dix-huitième siècle, Stanley Kubrick a refusé d'utiliser des projecteurs électriques pour les scènes d'intérieur de nuit. Il a acquis auprès de la NASA des objectifs d'appareil photo ultra-lumineux initialement conçus pour la photographie satellite afin de pouvoir filmer uniquement à la lumière des bougies. Ce choix technique audacieux a conféré au film une esthétique picturale unique d'une beauté plastique inégalée."
+      "explanation": "Pour recréer fidèlement l'ambiance visuelle des peintures du dix-huitième siècle, Stanley Kubrick a refusé d'utiliser des projecteurs électriques pour les scènes d'intérieur de nuit. Il a acquis auprès de la NASA des objectifs d'appareil photo ultra-lumineux initialement conçus pour la photographie satellite afin de pouvoir filmer uniquement à la lumière des bougies. Ce choix technique audacieux a conféré au film une esthétique picturale unique d'une beauté plastique inégalée.",
+      "options": [
+        "Les Innocents",
+        "L'Exorciste",
+        "Barry Lyndon",
+        "Vol au-dessus d'un nid de coucou"
+      ]
     },
     {
       "id": "cinema_splendeurs_18",
@@ -2088,11 +2502,17 @@
     },
     {
       "id": "cinema_splendeurs_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quelle comédie de 1959 de Billy Wilder Tony Curtis et Jack Lemmon se travestissent-ils en femmes pour échapper à la mafia, aux côtés de Marilyn Monroe ?",
       "answer": "Certains l'aiment chaud (Some Like It Hot)",
-      "explanation": "Cette comédie menée à un rythme effréné par Billy Wilder a bravé la censure de l'époque en jouant avec brio sur le travestissement et l'ambiguïté des genres sexuels. Le duo comique irrésistible formé par Jack Lemmon et Tony Curtis trouve son parfait contrepoint dramatique dans le charme et la fraîcheur de Marilyn Monroe. La réplique finale du film, devenue mythique dans l'histoire du cinéma, clôt magnifiquement cette comédie de quiproquos légendaire."
+      "explanation": "Cette comédie menée à un rythme effréné par Billy Wilder a bravé la censure de l'époque en jouant avec brio sur le travestissement et l'ambiguïté des genres sexuels. Le duo comique irrésistible formé par Jack Lemmon et Tony Curtis trouve son parfait contrepoint dramatique dans le charme et la fraîcheur de Marilyn Monroe. La réplique finale du film, devenue mythique dans l'histoire du cinéma, clôt magnifiquement cette comédie de quiproquos légendaire.",
+      "options": [
+        "L'Extravagant Docteur Dolittle (The Millionaire)",
+        "Sept Ans de Concorde (Seven Years Ago)",
+        "Les Désaxés (The Odds Against Them)",
+        "Certains l'aiment chaud (Some Like It Hot)"
+      ]
     },
     {
       "id": "cinema_splendeurs_20",
@@ -2110,11 +2530,17 @@
     },
     {
       "id": "cinema_splendeurs_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel compositeur de film d'animation japonais a composé les musiques poétiques et orchestrales de presque tous les films de Hayao Miyazaki, comme 'Mon voisin Totoro' et 'Le Voyage de Chihiro' ?",
       "answer": "Joe Hisaishi",
-      "explanation": "Joe Hisaishi est le compositeur attitré du mythique studio Ghibli, dont les mélodies épurées au piano et les amples envolées symphoniques ont grandement contribué à l'identité poétique des chefs-d'œuvre de Hayao Miyazaki. Leur collaboration artistique fusionnelle, débutée en 1984 avec 'Nausicaä de la vallée du vent', est comparée à celle de Steven Spielberg et John Williams aux États-Unis. Ses concerts symphoniques jouant ses thèmes les plus célèbres font régulièrement salle comble à travers le monde."
+      "explanation": "Joe Hisaishi est le compositeur attitré du mythique studio Ghibli, dont les mélodies épurées au piano et les amples envolées symphoniques ont grandement contribué à l'identité poétique des chefs-d'œuvre de Hayao Miyazaki. Leur collaboration artistique fusionnelle, débutée en 1984 avec 'Nausicaä de la vallée du vent', est comparée à celle de Steven Spielberg et John Williams aux États-Unis. Ses concerts symphoniques jouant ses thèmes les plus célèbres font régulièrement salle comble à travers le monde.",
+      "options": [
+        "Ryuichi Sakamoto",
+        "Joe Hisaishi",
+        "Mamoru Fujiwara",
+        "Yoko Kanno"
+      ]
     },
     {
       "id": "cinema_splendeurs_22",
@@ -2132,11 +2558,17 @@
     },
     {
       "id": "cinema_splendeurs_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle comédie dramatique muette de 1936, écrite et réalisée par Charlie Chaplin, offre une satire mémorable du travail à la chaîne et de l'industrialisation à outrance ?",
       "answer": "Les Temps modernes (Modern Times)",
-      "explanation": "Dans 'Les Temps modernes', Charlie Chaplin met en scène son célèbre personnage de Charlot confronté à la dure réalité de la Grande Dépression américaine et à la déshumanisation par les machines. La séquence mythique où Charlot se retrouve littéralement happé par les rouages gigantesques d'une machine d'usine est devenue une icône visuelle universelle de la critique sociale. C'est également dans ce long-métrage que Chaplin fait entendre pour la toute première fois sa voix à l'écran à travers une chanson improvisée en charabia comique."
+      "explanation": "Dans 'Les Temps modernes', Charlie Chaplin met en scène son célèbre personnage de Charlot confronté à la dure réalité de la Grande Dépression américaine et à la déshumanisation par les machines. La séquence mythique où Charlot se retrouve littéralement happé par les rouages gigantesques d'une machine d'usine est devenue une icône visuelle universelle de la critique sociale. C'est également dans ce long-métrage que Chaplin fait entendre pour la toute première fois sa voix à l'écran à travers une chanson improvisée en charabia comique.",
+      "options": [
+        "Les Temps modernes (Modern Times)",
+        "Le Kid",
+        "L'Emigrant",
+        "La Ruée vers l'or"
+      ]
     },
     {
       "id": "cinema_splendeurs_24",
@@ -2154,11 +2586,17 @@
     },
     {
       "id": "cinema_splendeurs_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quel film romantique d'époque de 1939, se déroulant pendant la guerre de Sécession, Vivien Leigh incarne-t-elle l'indomptable Scarlett O'Hara aux côtés de Clark Gable ?",
       "answer": "Autant en emporte le vent (Gone with the Wind)",
-      "explanation": "'Autant en emporte le vent' est l'une des superproductions les plus monumentales et les plus rentables de l'histoire du cinéma mondial une fois l'inflation prise en compte. Le film a ébloui les spectateurs par l'utilisation somptueuse de la couleur en Technicolor et des décors géants, à l'image de la scène de l'incendie d'Atlanta. L'interprétation de Scarlett O'Hara par Vivien Leigh et sa célèbre réplique finale 'Après tout, demain est un autre jour' ont définitivement figé cette fresque historique dans la légende du septième art."
+      "explanation": "'Autant en emporte le vent' est l'une des superproductions les plus monumentales et les plus rentables de l'histoire du cinéma mondial une fois l'inflation prise en compte. Le film a ébloui les spectateurs par l'utilisation somptueuse de la couleur en Technicolor et des décors géants, à l'image de la scène de l'incendie d'Atlanta. L'interprétation de Scarlett O'Hara par Vivien Leigh et sa célèbre réplique finale 'Après tout, demain est un autre jour' ont définitivement figé cette fresque historique dans la légende du septième art.",
+      "options": [
+        "Le Grand Bleu de l'Atlantique (The Blue Horizon)",
+        "L'Étoile de Minuit (Midnight Star)",
+        "Autant en emporte le vent (Gone with the Wind)",
+        "Les Anneaux de l'Espoir (The Rains of Love)"
+      ]
     },
     {
       "id": "cinema_splendeurs_26",
@@ -2176,11 +2614,17 @@
     },
     {
       "id": "cinema_splendeurs_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel compositeur de musique de film polonais a composé les thèmes nostalgiques et intenses des films de Krzysztof Kieślowski comme la trilogie 'Trois Couleurs' ou 'La Double Vie de Véronique' ?",
       "answer": "Zbigniew Preisner",
-      "explanation": "Zbigniew Preisner est un compositeur autodidacte polonais de renommée mondiale, célèbre pour son style musical d'une immense mélancolie et d'un grand lyrisme dramatique. Sa collaboration fusionnelle avec le réalisateur Krzysztof Kieślowski a donné naissance à des œuvres où la musique fait partie intégrante du récit philosophique, comme dans 'Trois Couleurs: Bleu' où le deuil de l'héroïne est exploré à travers la composition inachevée d'un concerto européen. Il est également connu pour avoir créé le personnage de compositeur fictif du XIXe siècle Van den Budenmayer pour les besoins de ses films."
+      "explanation": "Zbigniew Preisner est un compositeur autodidacte polonais de renommée mondiale, célèbre pour son style musical d'une immense mélancolie et d'un grand lyrisme dramatique. Sa collaboration fusionnelle avec le réalisateur Krzysztof Kieślowski a donné naissance à des œuvres où la musique fait partie intégrante du récit philosophique, comme dans 'Trois Couleurs: Bleu' où le deuil de l'héroïne est exploré à travers la composition inachevée d'un concerto européen. Il est également connu pour avoir créé le personnage de compositeur fictif du XIXe siècle Van den Budenmayer pour les besoins de ses films.",
+      "options": [
+        "Witold Lutosławski",
+        "Henryk Górecki",
+        "Zbigniew Preisner",
+        "Krzysztof Penderecki"
+      ]
     },
     {
       "id": "cinema_splendeurs_28",
@@ -2198,11 +2642,17 @@
     },
     {
       "id": "cinema_splendeurs_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quel film romantique culte de 1942, se déroulant pendant la Seconde Guerre mondiale, Humphrey Bogart et Ingrid Bergman partagent-ils une dernière séparation sur un tarmac d'aéroport brumeux ?",
       "answer": "Casablanca",
-      "explanation": "'Casablanca' réalisé par Michael Curtiz est l'un des classiques les plus aimés de l'âge d'or d'Hollywood, mêlant avec brio drame romantique et propagande alliée. Le face-à-face amoureux tragique entre Humphrey Bogart en propriétaire de café cynique et Ingrid Bergman en femme partagée reste un sommet absolu de nostalgie et de sacrifice héroïque. Les répliques mythiques du film, telles que 'Nous aurons toujours Paris' (We'll always have Paris), sont entrées dans la mémoire collective du cinéma mondial."
+      "explanation": "'Casablanca' réalisé par Michael Curtiz est l'un des classiques les plus aimés de l'âge d'or d'Hollywood, mêlant avec brio drame romantique et propagande alliée. Le face-à-face amoureux tragique entre Humphrey Bogart en propriétaire de café cynique et Ingrid Bergman en femme partagée reste un sommet absolu de nostalgie et de sacrifice héroïque. Les répliques mythiques du film, telles que 'Nous aurons toujours Paris' (We'll always have Paris), sont entrées dans la mémoire collective du cinéma mondial.",
+      "options": [
+        "Autant en Emporte le Vent",
+        "La Vie est Belle",
+        "Le Faucon Maltais",
+        "Casablanca"
+      ]
     },
     {
       "id": "cinema_splendeurs_30",
@@ -2362,11 +2812,17 @@
   "Cinéma : Secrets de Tournage": [
     {
       "id": "cinema_secrets_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel film d'aventure de Steven Spielberg de 1975 a connu d'immenses difficultés de tournage en raison de pannes constantes sur son requin mécanique nommé Bruce ?",
       "answer": "Les Dents de la mer (Jaws)",
-      "explanation": "Le tournage en pleine mer des 'Dents de la mer' a été un véritable cauchemar logistique en raison des courants marins et de la corrosion du requin mécanique par l'eau salée. Ces pannes techniques répétées ont contraint Steven Spielberg à suggérer la présence du prédateur en utilisant des plans subjectifs angoissants et la musique minimaliste de John Williams. Ce choix artistique forcé a finalement décuplé le suspense du film pour en faire un immense chef-d'œuvre."
+      "explanation": "Le tournage en pleine mer des 'Dents de la mer' a été un véritable cauchemar logistique en raison des courants marins et de la corrosion du requin mécanique par l'eau salée. Ces pannes techniques répétées ont contraint Steven Spielberg à suggérer la présence du prédateur en utilisant des plans subjectifs angoissants et la musique minimaliste de John Williams. Ce choix artistique forcé a finalement décuplé le suspense du film pour en faire un immense chef-d'œuvre.",
+      "options": [
+        "Rencontres du troisième type (Close Encounters of the Third Kind)",
+        "Indiana Jones et les Aventuriers de l'arche perdue (Raiders of the Lost Ark)",
+        "Les Dents de la mer (Jaws)",
+        "E.T. l'extra-terrestre (E.T. the Extra-Terrestrial)"
+      ]
     },
     {
       "id": "cinema_secrets_2",
@@ -2384,11 +2840,17 @@
     },
     {
       "id": "cinema_secrets_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Pour quel film de guerre apocalyptique de 1979 Francis Ford Coppola a-t-il hypothéqué sa maison et frôlé la faillite suite à un tournage chaotique aux Philippines ?",
       "answer": "Apocalypse Now",
-      "explanation": "Le tournage colossal d'Apocalypse Now aux Philippines a été perturbé par un typhon destructeur, l'infarctus de l'acteur principal Martin Sheen et les caprices de Marlon Brando. Dépassant largement son budget initial, le réalisateur Francis Ford Coppola a dû investir sa fortune personnelle pour achever ce projet démesuré. Malgré ces épreuves légendaires, le film a remporté la prestigieuse Palme d'or au Festival de Cannes en 1979."
+      "explanation": "Le tournage colossal d'Apocalypse Now aux Philippines a été perturbé par un typhon destructeur, l'infarctus de l'acteur principal Martin Sheen et les caprices de Marlon Brando. Dépassant largement son budget initial, le réalisateur Francis Ford Coppola a dû investir sa fortune personnelle pour achever ce projet démesuré. Malgré ces épreuves légendaires, le film a remporté la prestigieuse Palme d'or au Festival de Cannes en 1979.",
+      "options": [
+        "Voyage au bout de l'enfer",
+        "Apocalypse Now",
+        "Platoon",
+        "Full Metal Jacket"
+      ]
     },
     {
       "id": "cinema_secrets_4",
@@ -2406,11 +2868,17 @@
     },
     {
       "id": "cinema_secrets_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle scène légendaire de douche de 45 secondes dans 'Psychose' d'Hitchcock a nécessité 7 jours de tournage et plus de 70 positions de caméra différentes ?",
       "answer": "Le meurtre de Marion Crane (la scène de la douche)",
-      "explanation": "La célèbre scène de la douche dans 'Psychose' dure moins d'une minute à l'écran mais a requis un travail de montage d'une précision chirurgicale sur plus de soixante-dix plans différents. Alfred Hitchcock a utilisé du sirop de chocolat pour simuler le sang noir car sa viscosité rendait mieux sur la pellicule noir et blanc de l'époque. Le montage rythmé par les stridences des violons du compositeur Bernard Herrmann a terrorisé des générations entières de spectateurs."
+      "explanation": "La célèbre scène de la douche dans 'Psychose' dure moins d'une minute à l'écran mais a requis un travail de montage d'une précision chirurgicale sur plus de soixante-dix plans différents. Alfred Hitchcock a utilisé du sirop de chocolat pour simuler le sang noir car sa viscosité rendait mieux sur la pellicule noir et blanc de l'époque. Le montage rythmé par les stridences des violons du compositeur Bernard Herrmann a terrorisé des générations entières de spectateurs.",
+      "options": [
+        "La rencontre de Norman Bates et Marion Crane à la réception de l'hôtel.",
+        "Le meurtre de Marion Crane (la scène de la douche)",
+        "La scène où Norman Bates peint le portrait de sa mère.",
+        "La découverte du corps de Marion Crane par le shérif."
+      ]
     },
     {
       "id": "cinema_secrets_6",
@@ -2428,11 +2896,17 @@
     },
     {
       "id": "cinema_secrets_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel acteur de la saga 'Le Seigneur des Anneaux' s'est réellement cassé deux orteils en donnant un coup de pied dans un casque en fer, cri de douleur qui a été conservé au montage ?",
       "answer": "Viggo Mortensen (Aragorn)",
-      "explanation": "Lors du tournage d'une scène d'action intense dans 'Les Deux Tours', l'acteur Viggo Mortensen a évacué sa frustration en shootant violemment dans un casque d'acier au sol. Le choc lui a cassé deux orteils sur le coup, provoquant un véritable cri de douleur viscéral que le réalisateur Peter Jackson a choisi de conserver au montage final. Ce dévouement physique absolu de l'acteur caractérise son investissement exceptionnel tout au long de la production de cette trilogie prestigieuse."
+      "explanation": "Lors du tournage d'une scène d'action intense dans 'Les Deux Tours', l'acteur Viggo Mortensen a évacué sa frustration en shootant violemment dans un casque d'acier au sol. Le choc lui a cassé deux orteils sur le coup, provoquant un véritable cri de douleur viscéral que le réalisateur Peter Jackson a choisi de conserver au montage final. Ce dévouement physique absolu de l'acteur caractérise son investissement exceptionnel tout au long de la production de cette trilogie prestigieuse.",
+      "options": [
+        "Ian McKellen (Gandalf)",
+        "Sean Bean (Boromir)",
+        "Orlando Bloom (Légolas)",
+        "Viggo Mortensen (Aragorn)"
+      ]
     },
     {
       "id": "cinema_secrets_8",
@@ -2450,11 +2924,17 @@
     },
     {
       "id": "cinema_secrets_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Dans quelle comédie de science-fiction culte de 1984 le costume d'homme guimauve géant (Stay Puft) a-t-il été fabriqué en mousse plastique inflammable et a failli étouffer les cascadeurs ?",
       "answer": "SOS Fantômes (Ghostbusters)",
-      "explanation": "La création du monstre Stay Puft Marshmallow Man a nécessité la confection de plusieurs costumes en mousse de latex extrêmement coûteux et fragiles pour le tournage final. Lors de la destruction finale de la créature géante, plus de cinquante litres de crème à raser ont été projetés sur les acteurs pour simuler la guimauve fondue. Ce mélange chimique collant a provoqué des réactions allergiques cutanées chez certains membres de la distribution."
+      "explanation": "La création du monstre Stay Puft Marshmallow Man a nécessité la confection de plusieurs costumes en mousse de latex extrêmement coûteux et fragiles pour le tournage final. Lors de la destruction finale de la créature géante, plus de cinquante litres de crème à raser ont été projetés sur les acteurs pour simuler la guimauve fondue. Ce mélange chimique collant a provoqué des réactions allergiques cutanées chez certains membres de la distribution.",
+      "options": [
+        "Star Wars : Le Réveil de la Force",
+        "E.T. l'extra-terrestre",
+        "SOS Fantômes (Ghostbusters)",
+        "Retour vers le Futur"
+      ]
     },
     {
       "id": "cinema_secrets_10",
@@ -2472,11 +2952,17 @@
     },
     {
       "id": "cinema_secrets_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel classique d'action de 1988 avec Bruce Willis a été tourné dans la tour Fox Plaza à Los Angeles, qui servait de siège à la société de production et qui était encore en travaux ?",
       "answer": "Piège de cristal (Die Hard)",
-      "explanation": "La production de 'Piège de cristal' a loué plusieurs étages de la tour Fox Plaza à Los Angeles, qui était alors en plein chantier de construction et servait réellement de bureaux pour le studio producteur du film. Les bruits d'explosions réelles et de tirs d'armes à feu à blanc ont suscité de nombreuses plaintes de la part des résidents des immeubles voisins durant les tournages nocturnes. Ce cadre authentique en béton brut a grandement contribué à renforcer l'aspect réaliste et claustrophobique du film d'action."
+      "explanation": "La production de 'Piège de cristal' a loué plusieurs étages de la tour Fox Plaza à Los Angeles, qui était alors en plein chantier de construction et servait réellement de bureaux pour le studio producteur du film. Les bruits d'explosions réelles et de tirs d'armes à feu à blanc ont suscité de nombreuses plaintes de la part des résidents des immeubles voisins durant les tournages nocturnes. Ce cadre authentique en béton brut a grandement contribué à renforcer l'aspect réaliste et claustrophobique du film d'action.",
+      "options": [
+        "Commando (Predator)",
+        "Piège de cristal (Die Hard)",
+        "Le Frelon (Red Heat)",
+        "Arme Fatale (Lethal Weapon)"
+      ]
     },
     {
       "id": "cinema_secrets_12",
@@ -2494,11 +2980,17 @@
     },
     {
       "id": "cinema_secrets_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel film fantastique de 1993 en stop-motion a nécessité plus de 3 ans de tournage méticuleux, car chaque seconde de film nécessitait 24 photos individuelles de figurines en silicone ?",
       "answer": "L'Étrange Noël de monsieur Jack",
-      "explanation": "La technique minutieuse de l'animation en stop-motion requiert de déplacer les figurines articulées millimètre par millimètre entre chaque prise de vue individuelle. Pour réaliser une seule seconde du long-métrage, l'équipe technique devait concevoir et photographier vingt-quatre positions différentes des personnages en silicone. Ce travail colossal de patience a nécessité la collaboration constante de dizaines d'animateurs spécialisés sur plus de trois années de production intensive."
+      "explanation": "La technique minutieuse de l'animation en stop-motion requiert de déplacer les figurines articulées millimètre par millimètre entre chaque prise de vue individuelle. Pour réaliser une seule seconde du long-métrage, l'équipe technique devait concevoir et photographier vingt-quatre positions différentes des personnages en silicone. Ce travail colossal de patience a nécessité la collaboration constante de dizaines d'animateurs spécialisés sur plus de trois années de production intensive.",
+      "options": [
+        "Toy Story",
+        "L'Étrange Noël de monsieur Jack",
+        "La Belle et la Bête (version Disney)",
+        "Le Voyage de Chihiro"
+      ]
     },
     {
       "id": "cinema_secrets_14",
@@ -2516,11 +3008,17 @@
     },
     {
       "id": "cinema_secrets_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel classique fantastique de 1939 a provoqué de graves brûlures de peau et des hospitalisations chez l'actrice Margaret Hamilton (la Méchante Sorcière) à cause de son maquillage vert toxique à base de cuivre ?",
       "answer": "Le Magicien d'Oz",
-      "explanation": "Les techniques de maquillage de l'époque d'Hollywood utilisaient fréquemment des substances chimiques toxiques sans conscience des risques réels encourus par les artistes sur les plateaux. Le maquillage de couleur verte de l'actrice Margaret Hamilton contenait du cuivre toxique qui a provoqué de graves infections cutanées et des brûlures lors d'un accident d'effets pyrotechniques. Ces conditions de tournage particulièrement dangereuses témoignent des balbutiements de la sécurité dans le cinéma des années 1930."
+      "explanation": "Les techniques de maquillage de l'époque d'Hollywood utilisaient fréquemment des substances chimiques toxiques sans conscience des risques réels encourus par les artistes sur les plateaux. Le maquillage de couleur verte de l'actrice Margaret Hamilton contenait du cuivre toxique qui a provoqué de graves infections cutanées et des brûlures lors d'un accident d'effets pyrotechniques. Ces conditions de tournage particulièrement dangereuses témoignent des balbutiements de la sécurité dans le cinéma des années 1930.",
+      "options": [
+        "Gone with the Wind",
+        "Ben-Hur",
+        "Le Magicien d'Oz",
+        "Autant en Emporte le Vent"
+      ]
     },
     {
       "id": "cinema_secrets_16",
@@ -2538,11 +3036,17 @@
     },
     {
       "id": "cinema_secrets_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Pour quel film de 2015 Leonardo DiCaprio a-t-il accepté de manger du foie de bison cru à l'écran bien qu'il soit végétarien, pour garantir le réalisme de la scène ?",
       "answer": "The Revenant",
-      "explanation": "Le réalisateur Alejandro González Iñárritu tenait absolument à tourner le film uniquement en lumière naturelle dans des conditions climatiques extrêmes de froid pour garantir un réalisme dramatique absolu. Leonardo DiCaprio s'est investi corps et âme dans son personnage de trappeur survivant en acceptant de dormir dans des carcasses d'animaux réelles. Pour une scène clé du film, il a volontairement mangé un véritable morceau de foie de bison cru bien qu'il soit végétarien depuis de nombreuses années."
+      "explanation": "Le réalisateur Alejandro González Iñárritu tenait absolument à tourner le film uniquement en lumière naturelle dans des conditions climatiques extrêmes de froid pour garantir un réalisme dramatique absolu. Leonardo DiCaprio s'est investi corps et âme dans son personnage de trappeur survivant en acceptant de dormir dans des carcasses d'animaux réelles. Pour une scène clé du film, il a volontairement mangé un véritable morceau de foie de bison cru bien qu'il soit végétarien depuis de nombreuses années.",
+      "options": [
+        "The Revenant",
+        "Django Unchained",
+        "Inception",
+        "Birdman"
+      ]
     },
     {
       "id": "cinema_secrets_18",
@@ -2560,11 +3064,17 @@
     },
     {
       "id": "cinema_secrets_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel film culte de Noël de 1990 avec Macaulay Culkin a utilisé de vraies araignées (une tarentule vivante posée sur le visage du voleur Marv) car une réplique en plastique ne faisait pas assez peur ?",
       "answer": "Maman, j'ai raté l'avion ! (Home Alone)",
-      "explanation": "Lors du tournage de la scène comique et effrayante où le voleur Marv se fait surprendre par la tarentule de compagnie, l'acteur Daniel Stern a dû poser la véritable araignée sur son visage. Pour éviter d'effrayer l'animal qui aurait pu le mordre, l'acteur a mimé son hurlement d'effroi en silence absolu devant la caméra. Le cri strident terrifiant a été enregistré séparément lors de la post-production sonore du film pour être ajouté au montage."
+      "explanation": "Lors du tournage de la scène comique et effrayante où le voleur Marv se fait surprendre par la tarentule de compagnie, l'acteur Daniel Stern a dû poser la véritable araignée sur son visage. Pour éviter d'effrayer l'animal qui aurait pu le mordre, l'acteur a mimé son hurlement d'effroi en silence absolu devant la caméra. Le cri strident terrifiant a été enregistré séparément lors de la post-production sonore du film pour être ajouté au montage.",
+      "options": [
+        "Maman, j'ai raté l'avion ! (Home Alone)",
+        "Le Pôle Express (The Polar Express)",
+        "Un Noël du genre très spécial (A Very Special Christmas)",
+        "Le Grinch (How the Grinch Stole Christmas)"
+      ]
     },
     {
       "id": "cinema_secrets_20",
@@ -2582,11 +3092,17 @@
     },
     {
       "id": "cinema_secrets_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Pour quelle trilogie de science-fiction de Robert Zemeckis l'acteur Michael J. Fox a-t-il dû remplacer en catastrophe l'acteur Eric Stoltz après six semaines de tournage jugées trop sérieuses par la production ?",
       "answer": "Retour vers le futur (Back to the Future)",
-      "explanation": "À l'origine du tournage de 'Retour vers le futur', le rôle de Marty McFly était incarné par l'acteur Eric Stoltz. Cependant, après plusieurs semaines de prises de vues, le réalisateur Robert Zemeckis et le producteur Steven Spielberg ont réalisé que son jeu d'acteur était beaucoup trop dramatique et sérieux pour le ton comique du film. Ils ont alors pris la décision difficile et coûteuse de retourner l'intégralité des scènes depuis le début avec leur premier choix d'acteur, Michael J. Fox, qui tournait en parallèle sa série télévisée la journée."
+      "explanation": "À l'origine du tournage de 'Retour vers le futur', le rôle de Marty McFly était incarné par l'acteur Eric Stoltz. Cependant, après plusieurs semaines de prises de vues, le réalisateur Robert Zemeckis et le producteur Steven Spielberg ont réalisé que son jeu d'acteur était beaucoup trop dramatique et sérieux pour le ton comique du film. Ils ont alors pris la décision difficile et coûteuse de retourner l'intégralité des scènes depuis le début avec leur premier choix d'acteur, Michael J. Fox, qui tournait en parallèle sa série télévisée la journée.",
+      "options": [
+        "Les Aventuriers du temps (Timecop)",
+        "Bienvenue à Gattaca (Gattaca)",
+        "Retour vers le futur (Back to the Future)",
+        "Contact (Contact)"
+      ]
     },
     {
       "id": "cinema_secrets_22",
@@ -2604,11 +3120,17 @@
     },
     {
       "id": "cinema_secrets_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel célèbre actor américain a improvisé sa réplique culte 'You talkin' to me ?' (C'est à moi que tu parles ?) devant son miroir dans le film 'Taxi Driver' en 1976 ?",
       "answer": "Robert De Niro",
-      "explanation": "Dans le scénario original écrit par Paul Schrader pour 'Taxi Driver', la scène où Travis Bickle s'entraîne avec ses armes devant sa glace indiquait simplement : 'Travis se regarde dans le miroir'. Le réalisateur Martin Scorsese a alors encouragé son acteur fétiche Robert De Niro à improviser un dialogue de confrontation imaginaire. L'acteur s'est inspiré d'une réplique qu'il avait entendue dans la rue pour créer ce monologue obsessionnel et menaçant qui est entré instantanément dans la légende du cinéma mondial."
+      "explanation": "Dans le scénario original écrit par Paul Schrader pour 'Taxi Driver', la scène où Travis Bickle s'entraîne avec ses armes devant sa glace indiquait simplement : 'Travis se regarde dans le miroir'. Le réalisateur Martin Scorsese a alors encouragé son acteur fétiche Robert De Niro à improviser un dialogue de confrontation imaginaire. L'acteur s'est inspiré d'une réplique qu'il avait entendue dans la rue pour créer ce monologue obsessionnel et menaçant qui est entré instantanément dans la légende du cinéma mondial.",
+      "options": [
+        "Robert De Niro",
+        "Jack Nicholson",
+        "Al Pacino",
+        "Dustin Hoffman"
+      ]
     },
     {
       "id": "cinema_secrets_24",
@@ -2626,11 +3148,17 @@
     },
     {
       "id": "cinema_secrets_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel classique de l'horreur de 1973 a utilisé de la vraie soupe de pois de marque Campbell's pour simuler le vomi verdâtre de la jeune possédée Regan McNeil ?",
       "answer": "L'Exorciste (The Exorcist)",
-      "explanation": "Le réalisateur William Friedkin tenait absolument à ce que les effets spéciaux visuels et sonores de 'L'Exorciste' paraissent les plus organiques et terrifiants possibles à l'écran. Pour concevoir le vomi verdâtre spectaculaire projeté par la jeune possédée incarnée par Linda Blair, l'équipe technique a utilisé de la simple soupe de pois cassés de la marque Campbell's, diluée avec un peu d'eau chaude. L'actrice Linda Blair a dû porter un minuscule tube en plastique dissimulé le long de sa joue relié à une pompe de pression pour projeter la substance sur le visage de l'acteur Jason Miller."
+      "explanation": "Le réalisateur William Friedkin tenait absolument à ce que les effets spéciaux visuels et sonores de 'L'Exorciste' paraissent les plus organiques et terrifiants possibles à l'écran. Pour concevoir le vomi verdâtre spectaculaire projeté par la jeune possédée incarnée par Linda Blair, l'équipe technique a utilisé de la simple soupe de pois cassés de la marque Campbell's, diluée avec un peu d'eau chaude. L'actrice Linda Blair a dû porter un minuscule tube en plastique dissimulé le long de sa joue relié à une pompe de pression pour projeter la substance sur le visage de l'acteur Jason Miller.",
+      "options": [
+        "La nuit des morts-vivants (Night of the Living Dead)",
+        "L'Exorciste (The Exorcist)",
+        "Massacre à la tronçonneuse (The Texas Chain Saw Massacre)",
+        "L'eau de leur peur (So Long, and Thanks for All the Fish)"
+      ]
     },
     {
       "id": "cinema_secrets_26",
@@ -2648,11 +3176,17 @@
     },
     {
       "id": "cinema_secrets_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel acteur américain, incarnant le personnage de Jack Torrance dans 'Shining' (1980), a utilisé ses compétences réelles de pompier volontaire pour abattre la porte de la salle de bain à la hache trop rapidement, forçant la production à remplacer les portes en contreplaqué par des portes en bois massif ?",
       "answer": "Jack Nicholson",
-      "explanation": "Stanley Kubrick avait initialement prévu des portes factices légères en contreplaqué pour faciliter le travail de destruction de l'acteur lors de la célèbre scène de colère de 'Shining'. Cependant, l'acteur Jack Nicholson avait travaillé comme pompier volontaire durant sa jeunesse et maniait la hache avec une telle puissance physique qu'il détruisait ces fausses portes en une seule seconde. Pour que la scène puisse durer et installer le suspense à l'écran, le chef décorateur a dû faire installer de véritables portes en bois massif très épaisses."
+      "explanation": "Stanley Kubrick avait initialement prévu des portes factices légères en contreplaqué pour faciliter le travail de destruction de l'acteur lors de la célèbre scène de colère de 'Shining'. Cependant, l'acteur Jack Nicholson avait travaillé comme pompier volontaire durant sa jeunesse et maniait la hache avec une telle puissance physique qu'il détruisait ces fausses portes en une seule seconde. Pour que la scène puisse durer et installer le suspense à l'écran, le chef décorateur a dû faire installer de véritables portes en bois massif très épaisses.",
+      "options": [
+        "Harrison Ford",
+        "Al Pacino",
+        "Robert De Niro",
+        "Jack Nicholson"
+      ]
     },
     {
       "id": "cinema_secrets_28",
@@ -2670,11 +3204,17 @@
     },
     {
       "id": "cinema_secrets_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans quel film d'aventure de 1981 Harrison Ford a-t-il improvisé de tirer simplement au pistolet sur un bretteur menaçant car il souffrait d'une terrible dysenterie qui l'empêchait de tourner un long combat au sabre prévu ?",
       "answer": "Les Aventuriers de l'arche perdue (Raiders of the Lost Ark)",
-      "explanation": "La scène mythique des 'Aventuriers de l'arche perdue' où Indiana Jones abat froidement d'un coup de revolver un guerrier vêtu de noir faisant une démonstration de sabre complexe devait initialement être un très long duel physique acrobatique de trois pages de scénario. Cependant, le jour du tournage en Tunisie, Harrison Ford souffrait d'une terrible crise de dysenterie qui l'épuisait totalement. Ne se sentant pas la force de réaliser les cascades prévues, l'acteur a proposé au réalisateur Steven Spielberg : 'Et si je lui tirais dessus tout simplement ?'. Le cinéaste a adoré l'idée et la scène est devenue l'un des moments d'humour les plus cultes de la saga."
+      "explanation": "La scène mythique des 'Aventuriers de l'arche perdue' où Indiana Jones abat froidement d'un coup de revolver un guerrier vêtu de noir faisant une démonstration de sabre complexe devait initialement être un très long duel physique acrobatique de trois pages de scénario. Cependant, le jour du tournage en Tunisie, Harrison Ford souffrait d'une terrible crise de dysenterie qui l'épuisait totalement. Ne se sentant pas la force de réaliser les cascades prévues, l'acteur a proposé au réalisateur Steven Spielberg : 'Et si je lui tirais dessus tout simplement ?'. Le cinéaste a adoré l'idée et la scène est devenue l'un des moments d'humour les plus cultes de la saga.",
+      "options": [
+        "Star Wars: L'Empire contre-attaque",
+        "La Couleur du danger (Blade Runner)",
+        "Blade Runner",
+        "Les Aventuriers de l'arche perdue (Raiders of the Lost Ark)"
+      ]
     },
     {
       "id": "cinema_secrets_30",

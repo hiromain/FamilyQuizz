@@ -1,28 +1,6 @@
 {
   "rallye": [
     {
-      "id": "rallye_1",
-      "type": "open",
-      "difficulty": "Facile",
-      "question": "Quel pilote français détient le record absolu du nombre de titres de champion du monde des rallyes (WRC) avec 9 sacres consécutifs ?",
-      "answer": "Sébastien Loeb",
-      "explanation": "Sébastien Loeb a dominé le championnat du monde des rallyes (WRC) de 2004 à 2012 en remportant 9 titres consécutifs avec le constructeur Citroën. Copiloté par Daniel Elena, il est considéré comme l'un des plus grands pilotes de l'histoire du sport automobile mondial. Il s'est également illustré dans d'autres disciplines variées comme le rallye-raid Dakar, les 24 Heures du Mans ou le WTCC."
-    },
-    {
-      "id": "rallye_2",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Quel rallye-raid légendaire, créé par Thierry Sabine, reliait historiquement l'Europe à la capitale du Sénégal ?",
-      "options": [
-        "Le Monte-Carlo",
-        "Le Paris-Dakar",
-        "Le Safari Rallye",
-        "Le Rallye des Pharaons"
-      ],
-      "answer": "Le Paris-Dakar",
-      "explanation": "Créé en 1978 par le pilote de rallye Thierry Sabine, le Paris-Dakar est la plus célèbre et éprouvante des compétitions de rallye-raid au monde. À l'origine, les concurrents traversaient le désert du Sahara pour rejoindre la ligne d'arrivée située au bord du lac Rose à Dakar. Pour des raisons évidentes de sécurité, l'événement a ensuite migré vers l'Amérique du Sud puis vers l'Arabie saoudite."
-    },
-    {
       "id": "rallye_3",
       "type": "qcm",
       "difficulty": "Moyen",
@@ -692,28 +670,6 @@
     }
   ],
   "porsche": [
-    {
-      "id": "porsche_1",
-      "type": "open",
-      "difficulty": "Facile",
-      "question": "Quel numéro mythique à trois chiffres désigne la voiture de sport la plus emblématique de Porsche, lancée en 1963 ?",
-      "answer": "911",
-      "explanation": "Présentée au salon de Francfort en 1963 sous le nom initial de 901, la Porsche 911 a dû être renommée suite à une réclamation de Peugeot qui possédait les droits sur les numéros à zéro central. Ce coupé sportif légendaire se distingue par son moteur Flat-6 placé en porte-à-faux arrière et sa silhouette inimitable. Il a traversé les décennies tout en conservant son identité visuelle et mécanique unique."
-    },
-    {
-      "id": "porsche_2",
-      "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Dans quelle ville allemande est situé le siège social et l'usine principale historique de Porsche ?",
-      "options": [
-        "Munich",
-        "Stuttgart (Zuffenhausen)",
-        "Wolfsburg",
-        "Berlin"
-      ],
-      "answer": "Stuttgart (Zuffenhausen)",
-      "explanation": "Le constructeur d'automobiles de sport Porsche est profondément ancré à Stuttgart, dans le quartier historique de Zuffenhausen où se situe son usine historique principale. C'est sur ce site mythique que sont assemblés les modèles les plus emblématiques de la marque, à commencer par la Porsche 911. Le complexe abrite également un musée spectaculaire retraçant toute l'épopée technique et sportive de l'entreprise familiale."
-    },
     {
       "id": "porsche_3",
       "type": "qcm",

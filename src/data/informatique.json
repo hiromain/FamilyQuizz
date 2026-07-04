@@ -16,11 +16,17 @@
     },
     {
       "id": "informatique_culture_numerique_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel terme, inspiré de la biologie, désigne un programme malveillant conçu pour s'infiltrer dans un ordinateur à l'insu de son utilisateur afin de s'y dupliquer et de perturber son système ?",
       "answer": "Un virus",
-      "explanation": "Un virus informatique est un programme capable de s'autorépliquer en insérant son code dans d'autres programmes sains. Le terme a été popularisé au début des années 1980 en raison de ses similitudes avec les agents infectieux biologiques."
+      "explanation": "Un virus informatique est un programme capable de s'autorépliquer en insérant son code dans d'autres programmes sains. Le terme a été popularisé au début des années 1980 en raison de ses similitudes avec les agents infectieux biologiques.",
+      "options": [
+        "Un ver informatique",
+        "Un cheval de Troie",
+        "Un backdoor",
+        "Un virus"
+      ]
     },
     {
       "id": "informatique_culture_numerique_3",

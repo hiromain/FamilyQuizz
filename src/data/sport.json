@@ -1041,20 +1041,6 @@
       "explanation": "Michael Schumacher a dominé la Formule 1 au début des années 2000 avec l'écurie Ferrari en remportant cinq titres consécutifs. Ses sept couronnes mondiales au total témoignent de son éthique de travail rigoureuse et de son talent de pilote."
     },
     {
-      "id": "sport_legendes_10",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Quel sprinteur jamaïcain détient les records du monde du 100m et du 200m établis à Berlin en 2009 ?",
-      "options": [
-        "Yohan Blake",
-        "Tyson Gay",
-        "Usain Bolt",
-        "Carl Lewis"
-      ],
-      "answer": "Usain Bolt",
-      "explanation": "Le sprinteur jamaïcain Usain Bolt détient les records du monde mythiques du 100m et du 200m. Sa personnalité charismatique et ses célébrations mémorables ont popularisé l'athlétisme auprès d'un public très large à travers le monde."
-    },
-    {
       "id": "sport_legendes_11",
       "type": "open",
       "difficulty": "Difficile",

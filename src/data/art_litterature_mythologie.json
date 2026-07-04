@@ -16,11 +16,17 @@
     },
     {
       "id": "art_litterature_mythologie_mythologies_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans la mythologie nordique, comment s'appelle le pont arc-en-ciel qui relie le monde des hommes (Midgard) à celui des dieux (Asgard) ?",
       "answer": "Bifröst",
-      "explanation": "Le Bifröst est un pont de lumière arc-en-ciel gardé sans relâche par le dieu Heimdall, doté d'une ouïe et d'une vue prodigieuses. Selon la prophétie du Ragnarök (la fin du monde nordique), ce pont s'effondrera sous le poids des géants de feu menés par Surt."
+      "explanation": "Le Bifröst est un pont de lumière arc-en-ciel gardé sans relâche par le dieu Heimdall, doté d'une ouïe et d'une vue prodigieuses. Selon la prophétie du Ragnarök (la fin du monde nordique), ce pont s'effondrera sous le poids des géants de feu menés par Surt.",
+      "options": [
+        "Bifröst",
+        "Yggdrasil",
+        "Niflheim",
+        "Valhalla"
+      ]
     },
     {
       "id": "art_litterature_mythologie_mythologies_3",
@@ -180,11 +186,17 @@
     },
     {
       "id": "art_litterature_mythologie_chefs_oeuvre_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel célèbre auteur français a écrit les romans d'aventures 'Vingt Mille Lieues sous les mers' et 'Le Tour du monde en quatre-vingts jours' ?",
       "answer": "Jules Verne",
-      "explanation": "Jules Verne (1828-1905) est considéré comme l'un des pères de la science-fiction moderne. Ses romans d'aventures et d'anticipation, regroupés sous le titre de 'Voyages extraordinaires', ont fasciné des générations de lecteurs grâce à son imagination visionnaire (il a anticipé les sous-marins électriques ou les voyages sur la Lune)."
+      "explanation": "Jules Verne (1828-1905) est considéré comme l'un des pères de la science-fiction moderne. Ses romans d'aventures et d'anticipation, regroupés sous le titre de 'Voyages extraordinaires', ont fasciné des générations de lecteurs grâce à son imagination visionnaire (il a anticipé les sous-marins électriques ou les voyages sur la Lune).",
+      "options": [
+        "Victor Hugo",
+        "Albert Camus",
+        "Alexandre Dumas",
+        "Jules Verne"
+      ]
     },
     {
       "id": "art_litterature_mythologie_chefs_oeuvre_3",

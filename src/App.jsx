@@ -1,10 +1,29 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, Suspense, lazy } from 'react';
 import { GameProvider, useGame } from './context/GameContext';
 import WelcomeScreen from './pages/WelcomeScreen';
 import PlayerScreen from './pages/PlayerScreen';
-import GameMasterScreen from './pages/GameMasterScreen';
 import ProjectionScreen from './pages/ProjectionScreen';
-import AsyncDuelScreen from './pages/AsyncDuelScreen';
+import DotsLoader from './components/ui/DotsLoader';
+import { C } from './constants/theme';
+
+// ─── Heavy screens, loaded on demand only ──────────────────────────────────
+// Both of these pull in the full question bank (~1MB gzipped). Nobody joining
+// as a Player or opening the Projection screen should ever pay that cost, so
+// they're code-split and fetched only once someone actually opens the
+// Cockpit or a Duel.
+const GameMasterScreen = lazy(() => import('./pages/GameMasterScreen'));
+const AsyncDuelScreen = lazy(() => import('./pages/AsyncDuelScreen'));
+
+function RouteLoader() {
+  return (
+    <div style={{
+      display: 'flex', height: '100vh', alignItems: 'center', justifyContent: 'center',
+      background: C.bg,
+    }}>
+      <DotsLoader color={C.coral} />
+    </div>
+  );
+}
 
 // ─── Simple Router Component ──────────────────────────────────────────────
 function Router() {
@@ -28,12 +47,14 @@ function Router() {
 
   if (path === '/master' || window.location.hash === '#/master') {
     return (
-      <GameMasterScreen
-        onBackToWelcome={() => {
-          window.history.pushState({}, '', '/');
-          window.dispatchEvent(new Event('popstate'));
-        }}
-      />
+      <Suspense fallback={<RouteLoader />}>
+        <GameMasterScreen
+          onBackToWelcome={() => {
+            window.history.pushState({}, '', '/');
+            window.dispatchEvent(new Event('popstate'));
+          }}
+        />
+      </Suspense>
     );
   }
 
@@ -62,7 +83,11 @@ function Router() {
   }
 
   if (localRole === 'duel') {
-    return <AsyncDuelScreen onBackToWelcome={() => setLocalRole(null)} />;
+    return (
+      <Suspense fallback={<RouteLoader />}>
+        <AsyncDuelScreen onBackToWelcome={() => setLocalRole(null)} />
+      </Suspense>
+    );
   }
 
   return <PlayerScreen onBackToWelcome={() => setLocalRole(null)} />;

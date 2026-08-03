@@ -1,5 +1,5 @@
 import React from 'react';
-import { C } from '../../constants/design';
+import { C } from '../../constants/theme';
 
 export default function MobileTabBar({
   activeTab,

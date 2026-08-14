@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { C } from '../constants/design';
+import { C } from '../constants/theme';
 import GlassCard from '../components/ui/GlassCard';
 import Pill from '../components/ui/Pill';
 

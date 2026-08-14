@@ -1,5 +1,6 @@
 import React from 'react';
-import { C, CATEGORY_TREE, CAT_EMOJI, DIFF } from '../../constants/design';
+import { C, DIFF } from '../../constants/theme';
+import { CATEGORY_TREE, CAT_EMOJI } from '../../constants/design';
 import MonoLabel from '../../components/ui/MonoLabel';
 import Pill from '../../components/ui/Pill';
 
@@ -58,7 +59,10 @@ export default function FilterPanel({
   setSelectedYear,
   expandedSubcatPanel,
   toggleSubcatPanel,
+  quizMode = false,
+  onEnterQuizMode,
 }) {
+  const poolCount = activeQuestionPool.length;
   return (
     <aside style={{
       width: '100%',
@@ -468,6 +472,53 @@ export default function FilterPanel({
           })}
         </div>
       </div>
+
+      {/* ─ Sticky footer: start the session with the categories picked above ─ */}
+      {onEnterQuizMode && (
+        <div style={{
+          flexShrink: 0, padding: '12px 16px',
+          borderTop: '1px solid rgba(255,255,255,0.08)',
+          background: 'rgba(0,0,0,0.20)',
+        }}>
+          {!quizMode ? (
+            <button
+              onClick={onEnterQuizMode}
+              disabled={poolCount === 0}
+              style={{
+                width: '100%', height: 48, borderRadius: 14, border: 'none',
+                cursor: poolCount === 0 ? 'not-allowed' : 'pointer',
+                opacity: poolCount === 0 ? 0.4 : 1,
+                background: `linear-gradient(135deg, ${C.mint}, #52c9b0)`,
+                boxShadow: poolCount === 0 ? 'none' : `0 10px 26px -8px ${C.mint}66`,
+                color: '#0d2820', fontWeight: 800, fontSize: 14, letterSpacing: '-0.01em',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
+                transition: 'transform 0.15s, box-shadow 0.15s',
+                touchAction: 'manipulation',
+              }}
+            >
+              🚀 Démarrer la session
+              <span style={{ background: 'rgba(0,0,0,0.15)', padding: '2px 9px', borderRadius: 8, fontSize: 12 }}>
+                {poolCount} Q
+              </span>
+            </button>
+          ) : (
+            <button
+              onClick={onEnterQuizMode}
+              style={{
+                width: '100%', height: 48, borderRadius: 14,
+                border: `1px solid ${C.mint}44`,
+                cursor: 'pointer',
+                background: `${C.mint}14`,
+                color: C.mint, fontWeight: 700, fontSize: 13,
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
+                touchAction: 'manipulation',
+              }}
+            >
+              ✓ Session en cours · Aller au jeu →
+            </button>
+          )}
+        </div>
+      )}
 
     </aside>
   );

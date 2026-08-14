@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { C, DIFF } from '../../constants/design';
+import { C, DIFF } from '../../constants/theme';
 import Pill from '../../components/ui/Pill';
 import TimerBar from '../../components/ui/TimerBar';
 import MonoLabel from '../../components/ui/MonoLabel';

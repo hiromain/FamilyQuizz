@@ -1,5 +1,5 @@
 import React from 'react';
-import { C } from '../../constants/design';
+import { C } from '../../constants/theme';
 import Avatar from '../../components/ui/Avatar';
 
 export default function ScorePanel({
@@ -7,6 +7,7 @@ export default function ScorePanel({
   buzzerWinnerId,
   clearAllPlayers,
   adjustScore,
+  removePlayer,
   isMobile = false,
 }) {
   const sortedPlayers = Object.values(players).sort((a, b) => b.score - a.score);
@@ -80,6 +81,31 @@ export default function ScorePanel({
                   ))}
                 </div>
               </div>
+              {removePlayer && (
+                <button
+                  onClick={() => {
+                    if (window.confirm(`Retirer ${p.nickname} de la partie ?`)) removePlayer(p.id);
+                  }}
+                  title="Retirer ce joueur"
+                  style={{
+                    width: isMobile ? 32 : 22,
+                    height: isMobile ? 32 : 22,
+                    borderRadius: isMobile ? 8 : 6,
+                    flexShrink: 0,
+                    border: `1px solid ${C.red}33`,
+                    background: 'rgba(255,255,255,0.03)',
+                    color: `${C.red}bb`,
+                    fontSize: isMobile ? 14 : 11,
+                    cursor: 'pointer',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    touchAction: 'manipulation',
+                  }}
+                >
+                  ✕
+                </button>
+              )}
             </div>
           );
         })}

@@ -1,5 +1,5 @@
 import questionsData from '../data/questions';
-import { DIFF } from '../constants/design';
+import { DIFF } from '../constants/theme';
 
 // ─── Pure helpers for the "Défi temps décalé" (asynchronous turn-by-turn duel) ──
 //

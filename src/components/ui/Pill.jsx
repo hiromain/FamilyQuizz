@@ -1,5 +1,5 @@
 import React from 'react';
-import { C } from '../../constants/design';
+import { C } from '../../constants/theme';
 
 /** Pill / badge */
 export default function Pill({ children, color = C.coral }) {

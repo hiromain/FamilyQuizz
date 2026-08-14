@@ -26,141 +26,393 @@
       "id": "langue_francaise_origine_expressions_3",
       "type": "qcm",
       "difficulty": "Facile",
-      "question": "Question de test pour Langue Française : Origine des Expressions #1 ?",
+      "question": "Que signifie l'expression 'Avoir le cœur sur la main' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Être très généreux",
+        "Être malade du cœur",
+        "Être amoureux",
+        "Être stressé"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Origine des Expressions #1."
+      "answer": "Être très généreux",
+      "explanation": "Cette expression désigne une personne naturellement généreuse et prête à aider les autres, comme si son cœur était visible et accessible en permanence, tendu vers autrui."
     },
     {
       "id": "langue_francaise_origine_expressions_4",
       "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour Langue Française : Origine des Expressions #2 ?",
+      "difficulty": "Facile",
+      "question": "Que signifie l'expression 'Casser les pieds à quelqu'un' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Ennuyer quelqu'un",
+        "Blesser quelqu'un",
+        "Faire du sport avec quelqu'un",
+        "Se moquer de quelqu'un"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Origine des Expressions #2."
+      "answer": "Ennuyer quelqu'un",
+      "explanation": "L'expression, apparue au XIXe siècle, signifie importuner ou lasser quelqu'un par des bavardages ou une insistance pénible, un peu comme un obstacle qui gênerait la marche."
     },
     {
       "id": "langue_francaise_origine_expressions_5",
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour Langue Française : Origine des Expressions #3 ?",
+      "difficulty": "Facile",
+      "question": "Que signifie l'expression 'Tomber dans les pommes' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "S'évanouir",
+        "Tomber malade",
+        "Se tromper",
+        "Faire une erreur de calcul"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Origine des Expressions #3."
+      "answer": "S'évanouir",
+      "explanation": "L'expression viendrait d'une lettre de George Sand employant 'être dans les pommes cuites' pour désigner un état d'épuisement extrême, avant d'évoluer vers le sens actuel de perte de connaissance."
     },
     {
       "id": "langue_francaise_origine_expressions_6",
       "type": "qcm",
       "difficulty": "Facile",
-      "question": "Question de test pour Langue Française : Origine des Expressions #4 ?",
+      "question": "Que signifie l'expression 'Coûter les yeux de la tête' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Être extrêmement cher",
+        "Être très rare",
+        "Être dangereux",
+        "Être très lourd à porter"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Origine des Expressions #4."
+      "answer": "Être extrêmement cher",
+      "explanation": "Cette expression hyperbolique compare le prix exorbitant d'un objet à la perte d'une partie du corps aussi précieuse que les yeux, pour souligner un sacrifice financier disproportionné."
     },
     {
       "id": "langue_francaise_origine_expressions_7",
       "type": "qcm",
       "difficulty": "Moyen",
-      "question": "Question de test pour Langue Française : Origine des Expressions #5 ?",
+      "question": "D'où vient l'expression 'Se mettre sur son trente et un', qui signifie s'habiller avec une élégance particulière ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Du 'trentain', un drap de laine luxueux",
+        "Du 31 décembre, jour de gala",
+        "D'un jeu de cartes nommé le trente-et-un",
+        "D'un régiment militaire portant ce numéro"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Origine des Expressions #5."
+      "answer": "Du 'trentain', un drap de laine luxueux",
+      "explanation": "Le 'trentain' désignait un drap de laine fine tissé avec trente fois trois cents fils, réservé aux tenues d'apparat. Le mot se serait ensuite déformé en 'trente et un' au fil du temps."
     },
     {
       "id": "langue_francaise_origine_expressions_8",
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour Langue Française : Origine des Expressions #6 ?",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Mettre la charrue avant les bœufs' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Faire les choses dans le mauvais ordre",
+        "Travailler très dur aux champs",
+        "Perdre patience",
+        "Prendre une mauvaise décision financière"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Origine des Expressions #6."
+      "answer": "Faire les choses dans le mauvais ordre",
+      "explanation": "L'image est limpide : atteler une charrue devant les bœufs plutôt que derrière rendrait tout travail impossible, illustrant une action entreprise dans un ordre absurde ou précipité."
     },
     {
       "id": "langue_francaise_origine_expressions_9",
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour Langue Française : Origine des Expressions #7 ?",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Filer à l'anglaise' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Partir discrètement sans dire au revoir",
+        "Parler une langue étrangère",
+        "Rouler très vite",
+        "Se déguiser"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Origine des Expressions #7."
+      "answer": "Partir discrètement sans dire au revoir",
+      "explanation": "Née de la rivalité franco-britannique, cette expression a pour miroir l'anglais 'to take French leave' ('partir à la française'), chaque pays se renvoyant la paternité de cette impolitesse supposée."
     },
     {
       "id": "langue_francaise_origine_expressions_10",
       "type": "qcm",
       "difficulty": "Moyen",
-      "question": "Question de test pour Langue Française : Origine des Expressions #8 ?",
+      "question": "Que signifie l'expression 'Mettre les pieds dans le plat' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Aborder un sujet délicat sans tact",
+        "Faire une bêtise en cuisine",
+        "Marcher dans quelque chose de sale",
+        "Interrompre un repas"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Origine des Expressions #8."
+      "answer": "Aborder un sujet délicat sans tact",
+      "explanation": "L'expression évoque l'image maladroite de quelqu'un qui, littéralement, poserait le pied au milieu d'un plat servi à table, aussi gênant que d'évoquer un sujet embarrassant sans aucune précaution."
     },
     {
       "id": "langue_francaise_origine_expressions_11",
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour Langue Française : Origine des Expressions #9 ?",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Avoir la moutarde qui monte au nez' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Se mettre en colère",
+        "Avoir le rhume",
+        "Avoir trop mangé",
+        "Être submergé de travail"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Origine des Expressions #9."
+      "answer": "Se mettre en colère",
+      "explanation": "L'expression compare la montée soudaine de la colère à la sensation piquante et brutale que provoque la moutarde forte lorsqu'elle remonte désagréablement dans le nez."
     },
     {
       "id": "langue_francaise_origine_expressions_12",
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour Langue Française : Origine des Expressions #10 ?",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Être dans de beaux draps' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Être dans une situation très embarrassante",
+        "Être très riche",
+        "Bien dormir",
+        "Être bien habillé"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Origine des Expressions #10."
+      "answer": "Être dans une situation très embarrassante",
+      "explanation": "Utilisée de façon ironique, l'expression signifie se trouver dans une situation compliquée ou fâcheuse, le mot 'beaux' étant employé à contresens pour souligner l'embarras réel de la situation."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Raconter des salades' ?",
+      "options": [
+        "Dire des mensonges",
+        "Parler de cuisine",
+        "Changer souvent d'avis",
+        "Faire des compliments exagérés"
+      ],
+      "answer": "Dire des mensonges",
+      "explanation": "L'expression daterait du XIXe siècle argotique, où 'salade' désignait un ensemble d'histoires enjolivées ou inventées, mélangées entre elles comme les ingrédients disparates d'une salade composée."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_14",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "D'où vient l'expression 'Faire chou blanc', qui signifie échouer complètement dans une tentative ?",
+      "options": [
+        "D'un coup manqué au jeu de quilles en Normandie",
+        "D'un légume trop cuit et immangeable",
+        "D'une blague ratée au théâtre",
+        "D'une bataille perdue sans effusion de sang"
+      ],
+      "answer": "D'un coup manqué au jeu de quilles en Normandie",
+      "explanation": "L'expression viendrait d'une déformation du normand 'choppe blanche', désignant un coup manqué au jeu de quilles, où le joueur ne touchait aucune quille et repartait donc 'blanc', c'est-à-dire bredouille."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_15",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Avoir un poil dans la main' ?",
+      "options": [
+        "Être très paresseux",
+        "Être malchanceux",
+        "Être maladroit",
+        "Être menteur"
+      ],
+      "answer": "Être très paresseux",
+      "explanation": "L'image, volontairement absurde, suggère qu'à force de ne jamais travailler, un poil aurait le temps de pousser au creux de la main d'une personne extrêmement paresseuse."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_16",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Avoir le cafard' ?",
+      "options": [
+        "Être triste ou déprimé",
+        "Avoir peur des insectes",
+        "Être en colère",
+        "Se sentir fatigué physiquement"
+      ],
+      "answer": "Être triste ou déprimé",
+      "explanation": "L'expression a été popularisée au XIXe siècle par le poète Charles Baudelaire, qui utilisait l'image de l'insecte sombre et discret pour évoquer un état de mélancolie et de spleen tenace."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_17",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "D'où vient l'expression 'Pendre la crémaillère', qui signifie fêter son emménagement dans un nouveau logement ?",
+      "options": [
+        "De la chaîne de la cheminée, installée en premier dans la nouvelle maison",
+        "D'un outil de menuisier offert en cadeau de bienvenue",
+        "D'une danse traditionnelle de campagne",
+        "D'une cloche que l'on faisait sonner à l'arrivée"
+      ],
+      "answer": "De la chaîne de la cheminée, installée en premier dans la nouvelle maison",
+      "explanation": "La crémaillère était la chaîne de fer crantée suspendue dans l'âtre, permettant d'accrocher la marmite à la hauteur voulue au-dessus du feu. Son installation, l'une des premières dans un nouveau logis, était traditionnellement célébrée entre voisins."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_18",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Que signifie l'expression 'Avoir pignon sur rue' ?",
+      "options": [
+        "Être une entreprise ou une personne bien établie",
+        "Habiter en centre-ville",
+        "Posséder plusieurs maisons",
+        "Être très endetté"
+      ],
+      "answer": "Être une entreprise ou une personne bien établie",
+      "explanation": "À l'origine, l'expression désignait le fait de posséder une maison dont le pignon (la façade triangulaire) donnait directement sur une rue commerçante, signe visible de prospérité et de respectabilité."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_19",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "D'où vient l'expression 'Rouler quelqu'un dans la farine', qui signifie tromper habilement quelqu'un ?",
+      "options": [
+        "Des marchands enrobant de mauvaises denrées de farine pour les vendre",
+        "D'une recette de pâtisserie ratée",
+        "D'un jeu d'enfant dans une meunerie",
+        "D'un tour de magie de cirque"
+      ],
+      "answer": "Des marchands enrobant de mauvaises denrées de farine pour les vendre",
+      "explanation": "Certains marchands malhonnêtes recouvraient autrefois de farine des denrées abîmées ou de mauvaise qualité afin d'en dissimuler les défauts et de tromper l'acheteur sur la marchandise réelle."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_20",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "D'où vient l'expression 'Tirer les vers du nez', qui signifie faire habilement parler quelqu'un sur un sujet qu'il souhaite taire ?",
+      "options": [
+        "D'un ancien remède contre un ver parasite, extrait lentement par le nez",
+        "D'une technique de pêche traditionnelle",
+        "D'un jeu de devinettes pour enfants",
+        "D'une méthode d'interrogatoire militaire moderne"
+      ],
+      "answer": "D'un ancien remède contre un ver parasite, extrait lentement par le nez",
+      "explanation": "L'expression ferait référence à d'anciennes pratiques médicales consistant à extraire très progressivement et avec précaution un ver parasitaire logé sous la peau, sans jamais le briser, sous peine de complications."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Que signifie l'expression 'Donner sa langue au chat' ?",
+      "options": [
+        "Renoncer à deviner et demander la réponse",
+        "Se taire par timidité",
+        "Refuser de répondre à une question",
+        "Se moquer de quelqu'un"
+      ],
+      "answer": "Renoncer à deviner et demander la réponse",
+      "explanation": "L'expression s'emploie face à une devinette ou une énigme que l'on ne parvient pas à résoudre, pour signifier que l'on abandonne et que l'on souhaite connaître la solution."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Que signifie l'expression 'Avoir d'autres chats à fouetter' ?",
+      "options": [
+        "Avoir des préoccupations plus urgentes",
+        "Être cruel envers les animaux",
+        "Être très occupé au travail",
+        "Avoir peur de quelque chose"
+      ],
+      "answer": "Avoir des préoccupations plus urgentes",
+      "explanation": "Cette expression s'emploie pour signifier que l'on a des affaires plus importantes ou plus pressantes à régler que celle dont on vous parle, reléguant cette dernière au second plan."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Que signifie l'expression 'Mettre la main à la pâte' ?",
+      "options": [
+        "Participer activement à une tâche",
+        "Faire de la pâtisserie",
+        "Se salir en travaillant",
+        "Aider financièrement"
+      ],
+      "answer": "Participer activement à une tâche",
+      "explanation": "L'image vient du travail du boulanger qui pétrit lui-même sa pâte. L'expression signifie aujourd'hui s'impliquer concrètement et personnellement dans une tâche collective, plutôt que de se contenter de superviser."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Passer l'éponge' ?",
+      "options": [
+        "Pardonner et oublier une faute",
+        "Nettoyer soigneusement",
+        "Recommencer à zéro",
+        "Refuser de pardonner"
+      ],
+      "answer": "Pardonner et oublier une faute",
+      "explanation": "L'image évoque l'ardoise que l'on efface d'un coup d'éponge, faisant disparaître ce qui y était inscrit. L'expression signifie renoncer à tenir rigueur d'une faute ou d'une dette passée."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Être au four et au moulin' ?",
+      "options": [
+        "Devoir s'occuper de plusieurs tâches à la fois",
+        "Travailler dans l'agroalimentaire",
+        "Être épuisé par la chaleur",
+        "Cuisiner et faire les courses"
+      ],
+      "answer": "Devoir s'occuper de plusieurs tâches à la fois",
+      "explanation": "Autrefois, il fallait surveiller la cuisson du pain au four tout en veillant à la mouture du grain au moulin, deux tâches simultanées et éloignées. L'expression désigne aujourd'hui le fait d'être sur plusieurs fronts en même temps."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Avoir le vent en poupe' ?",
+      "options": [
+        "Connaître le succès, être dans une position favorable",
+        "Être pressé",
+        "Naviguer dangereusement",
+        "Changer souvent d'avis"
+      ],
+      "answer": "Connaître le succès, être dans une position favorable",
+      "explanation": "À l'origine marine, l'expression décrit un navire poussé favorablement par le vent soufflant depuis l'arrière (la poupe). Elle s'emploie aujourd'hui pour désigner une personne ou un projet en plein succès."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Ne pas être dans son assiette' ?",
+      "options": [
+        "Se sentir mal, patraque",
+        "Avoir mauvais goût à table",
+        "Être maladroit",
+        "Ne pas avoir assez à manger"
+      ],
+      "answer": "Se sentir mal, patraque",
+      "explanation": "Le mot 'assiette' désignait autrefois la position stable d'un cavalier sur son cheval, avant de désigner l'ustensile de table. Se sentir 'mal assis', déséquilibré, en est venu à signifier se sentir mal en général."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Avoir maille à partir avec quelqu'un' ?",
+      "options": [
+        "Avoir un différend avec quelqu'un",
+        "Partager de l'argent avec quelqu'un",
+        "Tricoter avec quelqu'un",
+        "Faire affaire avec quelqu'un"
+      ],
+      "answer": "Avoir un différend avec quelqu'un",
+      "explanation": "La 'maille' était une pièce de monnaie médiévale de très faible valeur, si petite qu'il était presque impossible de la partager équitablement entre deux personnes, ce qui donnait fréquemment lieu à des disputes."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "D'où vient l'expression 'Vendre la mèche', qui signifie révéler un secret que l'on aurait dû garder ?",
+      "options": [
+        "Du vocabulaire de l'artillerie, où dévoiler la mèche d'une mine empêchait l'effet de surprise",
+        "D'une chandelle soufflée avant la fin d'un jeu",
+        "D'une coiffure dévoilée par accident",
+        "D'un tour de magie raté au théâtre"
+      ],
+      "answer": "Du vocabulaire de l'artillerie, où dévoiler la mèche d'une mine empêchait l'effet de surprise",
+      "explanation": "Dans le langage militaire et minier ancien, révéler l'emplacement de la mèche d'une mine explosive en anéantissait l'effet de surprise recherché, d'où le sens moderne de trahir un secret soigneusement préparé."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "D'où vient l'expression 'Jeter l'éponge', qui signifie abandonner un combat ou une lutte ?",
+      "options": [
+        "De la boxe anglaise, où l'entraîneur jetait une éponge dans le ring pour arrêter le combat",
+        "D'un jeu d'enfant consistant à viser une cible avec de l'eau",
+        "D'une corvée de nettoyage abandonnée en cours de route",
+        "D'une compétition de natation interrompue"
+      ],
+      "answer": "De la boxe anglaise, où l'entraîneur jetait une éponge dans le ring pour arrêter le combat",
+      "explanation": "Utilisée entre les rounds pour rafraîchir et éponger le visage du boxeur, l'éponge devenait le signal d'abandon lorsque l'entraîneur la jetait sur le ring pour signifier à l'arbitre qu'il fallait stopper immédiatement le combat."
     }
   ],
   "Langue Française : Curiosités & Mots Rares": [
@@ -190,141 +442,393 @@
       "id": "langue_francaise_curiosites_mots_3",
       "type": "qcm",
       "difficulty": "Facile",
-      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #1 ?",
+      "question": "Quel mot très courant de six lettres est célèbre pour contenir les cinq voyelles a, e, i, o, u ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Oiseau",
+        "Ordinateur",
+        "Aujourd'hui",
+        "Euphorique"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #1."
+      "answer": "Oiseau",
+      "explanation": "Le mot 'oiseau' est souvent cité comme l'exemple le plus court de la langue française réunissant les cinq voyelles a, e, i, o et u, chacune n'apparaissant qu'une seule fois."
     },
     {
       "id": "langue_francaise_curiosites_mots_4",
       "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #2 ?",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on un mot qui imite par sa sonorité le bruit qu'il désigne, comme 'boum' ou 'cocorico' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Une onomatopée",
+        "Une métaphore",
+        "Une allitération",
+        "Une interjection"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #2."
+      "answer": "Une onomatopée",
+      "explanation": "Les onomatopées cherchent à reproduire phonétiquement un son réel, qu'il s'agisse d'un cri d'animal, d'une explosion ou d'un bruit mécanique. Elles varient souvent d'une langue à l'autre selon les habitudes phonétiques."
     },
     {
       "id": "langue_francaise_curiosites_mots_5",
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #3 ?",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on deux mots qui se prononcent de la même façon mais s'écrivent différemment et n'ont pas le même sens, comme 'vert', 'vers' et 'verre' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Des homophones",
+        "Des synonymes",
+        "Des antonymes",
+        "Des paronymes"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #3."
+      "answer": "Des homophones",
+      "explanation": "Le français est particulièrement riche en homophones en raison du grand nombre de lettres muettes et de terminaisons qui ne s'entendent pas à l'oral, créant de nombreuses confusions possibles à l'écrit."
     },
     {
       "id": "langue_francaise_curiosites_mots_6",
       "type": "qcm",
       "difficulty": "Facile",
-      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #4 ?",
+      "question": "Comment appelle-t-on deux mots qui ont un sens opposé, comme 'chaud' et 'froid' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Des antonymes",
+        "Des synonymes",
+        "Des homonymes",
+        "Des paronymes"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #4."
+      "answer": "Des antonymes",
+      "explanation": "Les antonymes s'opposent par le sens tout en appartenant souvent à la même catégorie grammaticale, permettant de nuancer ou de contraster des idées, des qualités ou des descriptions."
     },
     {
       "id": "langue_francaise_curiosites_mots_7",
       "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #5 ?",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on un mot nouvellement créé ou récemment emprunté à une autre langue, comme 'selfie' ou 'covid' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un néologisme",
+        "Un archaïsme",
+        "Un barbarisme",
+        "Un anglicisme"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #5."
+      "answer": "Un néologisme",
+      "explanation": "Un néologisme peut naître de la création pure, de l'emprunt à une langue étrangère ou de l'évolution du sens d'un mot déjà existant. Certains entrent durablement dans la langue, d'autres disparaissent rapidement."
     },
     {
       "id": "langue_francaise_curiosites_mots_8",
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #6 ?",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on un mot formé en réorganisant les lettres d'un autre mot, comme 'chien' qui devient 'niche' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un anagramme",
+        "Un palindrome",
+        "Un acrostiche",
+        "Un mot-valise"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #6."
+      "answer": "Un anagramme",
+      "explanation": "Un anagramme utilise exactement les mêmes lettres que le mot ou l'expression d'origine, réarrangées dans un ordre différent. Les noms propres sont une source classique d'anagrammes amusantes."
     },
     {
       "id": "langue_francaise_curiosites_mots_9",
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #7 ?",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on un mot formé par la fusion de deux mots existants, comme 'courriel' (courrier + électronique) ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un mot-valise",
+        "Un néologisme",
+        "Un acronyme",
+        "Un barbarisme"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #7."
+      "answer": "Un mot-valise",
+      "explanation": "Le mot-valise combine le début d'un mot et la fin d'un autre pour créer un terme nouveau portant le sens des deux. 'Franglais' (français + anglais) ou 'brunch' (breakfast + lunch) en sont d'autres exemples célèbres."
     },
     {
       "id": "langue_francaise_curiosites_mots_10",
       "type": "qcm",
       "difficulty": "Moyen",
-      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #8 ?",
+      "question": "Quelle figure de style consiste à répéter le même son au début de mots rapprochés, comme dans 'Pour qui sont ces serpents qui sifflent sur vos têtes' de Racine ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Une allitération",
+        "Une assonance",
+        "Une anaphore",
+        "Une paronomase"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #8."
+      "answer": "Une allitération",
+      "explanation": "Cette allitération en 's', tirée d'Andromaque, imite par la répétition du sifflement le bruit même des serpents évoqués, un exemple resté célèbre de l'harmonie imitative en poésie classique française."
     },
     {
       "id": "langue_francaise_curiosites_mots_11",
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #9 ?",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on un texte ou un poème dont la première lettre de chaque ligne, lue verticalement, forme un mot ou un message caché ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un acrostiche",
+        "Un palindrome",
+        "Un calligramme",
+        "Un pangramme"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #9."
+      "answer": "Un acrostiche",
+      "explanation": "L'acrostiche est un procédé littéraire ancien, souvent utilisé pour dissimuler le nom d'une personne aimée ou honorée, comme un message secret intégré à la structure même du poème."
     },
     {
       "id": "langue_francaise_curiosites_mots_12",
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour Langue Française : Curiosités & Mots Rares #10 ?",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on une phrase contenant au moins une fois toutes les lettres de l'alphabet, comme 'Portez ce vieux whisky au juge blond qui fume' ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un pangramme",
+        "Un acrostiche",
+        "Un oxymore",
+        "Un palindrome"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Langue Française : Curiosités & Mots Rares #10."
+      "answer": "Un pangramme",
+      "explanation": "Les pangrammes sont utilisés notamment pour tester des polices de caractères ou des claviers, puisqu'ils garantissent qu'aucune lettre de l'alphabet n'est absente de la phrase."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle figure de style associe deux mots de sens contradictoires, comme 'un silence assourdissant' ou 'une obscure clarté' dans Le Cid ?",
+      "options": [
+        "Un oxymore",
+        "Un euphémisme",
+        "Une litote",
+        "Une antiphrase"
+      ],
+      "answer": "Un oxymore",
+      "explanation": "L'oxymore rapproche volontairement deux termes normalement incompatibles afin de créer un effet saisissant ou poétique, soulignant une tension ou une ambiguïté profonde entre deux idées."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_14",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on un mot tombé en désuétude, qui n'est plus employé dans la langue courante actuelle ?",
+      "options": [
+        "Un archaïsme",
+        "Un néologisme",
+        "Un barbarisme",
+        "Un pléonasme"
+      ],
+      "answer": "Un archaïsme",
+      "explanation": "Un archaïsme peut désigner un mot entièrement disparu de l'usage courant, ou un mot toujours existant mais employé avec un sens ou une construction aujourd'hui abandonnés."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_15",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on l'usage volontaire d'un mot plus doux pour atténuer une réalité désagréable, comme dire 'non-voyant' plutôt qu'aveugle ?",
+      "options": [
+        "Un euphémisme",
+        "Une litote",
+        "Un oxymore",
+        "Une hyperbole"
+      ],
+      "answer": "Un euphémisme",
+      "explanation": "L'euphémisme permet d'adoucir l'évocation de sujets sensibles comme la maladie, la mort ou le handicap, en substituant à un terme jugé trop cru une expression plus neutre ou plus délicate."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_16",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle figure de style consiste à dire moins pour suggérer davantage, comme 'Va, je ne te hais point' pour signifier 'je t'aime' dans Le Cid de Corneille ?",
+      "options": [
+        "Une litote",
+        "Un euphémisme",
+        "Une hyperbole",
+        "Une antiphrase"
+      ],
+      "answer": "Une litote",
+      "explanation": "Contrairement à l'euphémisme qui adoucit une réalité négative, la litote atténue volontairement l'expression d'un sentiment fort pour, paradoxalement, en renforcer l'impact sur l'interlocuteur ou le lecteur."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_17",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on des mots qui se ressemblent par leur prononciation ou leur orthographe mais qui ont un sens totalement différent, comme 'éminent' et 'imminent' ?",
+      "options": [
+        "Des paronymes",
+        "Des homonymes",
+        "Des synonymes",
+        "Des anagrammes"
+      ],
+      "answer": "Des paronymes",
+      "explanation": "Les paronymes sont une source fréquente de confusions et de fautes de langage, leur ressemblance sonore ou visuelle prêtant facilement à des glissements de sens involontaires."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_18",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quels sont, selon une règle grammaticale classique bien que contestée aujourd'hui, les trois noms français masculins au singulier qui deviennent féminins au pluriel ?",
+      "options": [
+        "Amour, délice et orgue",
+        "Automne, hiver et été",
+        "Gens, vacances et fiançailles",
+        "Pâques, mœurs et obsèques"
+      ],
+      "answer": "Amour, délice et orgue",
+      "explanation": "Cette curiosité grammaticale, souvent résumée par la formule mnémotechnique 'après nos amours et nos délices, on n'a plus que nos vieilles orgues', reste une exception fameuse mais de moins en moins respectée dans l'usage réel."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_19",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on une lettre qui, dans un mot français, ne se prononce pas du tout, comme le 'h' de 'homme' ou le 'p' de 'sculpter' ?",
+      "options": [
+        "Une lettre muette",
+        "Une lettre diacritique",
+        "Une lettre digramme",
+        "Une consonne sourde"
+      ],
+      "answer": "Une lettre muette",
+      "explanation": "Le français compte de nombreuses lettres muettes héritées de son évolution historique depuis le latin, ce qui explique en grande partie la complexité de son orthographe par rapport à sa prononciation réelle."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_20",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on un texte écrit en s'interdisant volontairement l'usage d'une lettre donnée, comme le roman 'La Disparition' de Georges Perec, rédigé sans la lettre 'e' ?",
+      "options": [
+        "Un lipogramme",
+        "Un acrostiche",
+        "Un pangramme",
+        "Un palindrome"
+      ],
+      "answer": "Un lipogramme",
+      "explanation": "Membre du groupe littéraire de l'Oulipo, Georges Perec a publié en 1969 tout un roman de plus de 300 pages sans jamais utiliser la lettre 'e', pourtant la plus fréquente de la langue française, un exploit d'écriture contrainte."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on l'ensemble des mots que connaît et utilise une personne ou une langue ?",
+      "options": [
+        "Le vocabulaire",
+        "La grammaire",
+        "La syntaxe",
+        "La conjugaison"
+      ],
+      "answer": "Le vocabulaire",
+      "explanation": "Le vocabulaire d'un individu évolue tout au long de sa vie selon ses lectures et ses expériences, tandis que celui de la langue française dans son ensemble compterait plusieurs centaines de milliers de mots."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on un mot qui possède plusieurs sens totalement différents selon le contexte, comme 'avocat' (le fruit) et 'avocat' (la profession) ?",
+      "options": [
+        "Un homonyme",
+        "Un synonyme",
+        "Un antonyme",
+        "Un paronyme"
+      ],
+      "answer": "Un homonyme",
+      "explanation": "Ces deux mots 'avocat' s'écrivent et se prononcent de façon identique mais proviennent d'étymologies totalement différentes : le fruit vient d'un mot nahuatl déformé, tandis que la profession vient du latin 'advocatus'."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on l'étude de l'origine et de l'évolution des mots au fil du temps ?",
+      "options": [
+        "L'étymologie",
+        "La sémantique",
+        "La phonétique",
+        "La morphologie"
+      ],
+      "answer": "L'étymologie",
+      "explanation": "L'étymologie retrace le parcours souvent surprenant d'un mot depuis ses racines les plus anciennes, qu'elles soient latines, grecques ou empruntées à d'autres langues, jusqu'à sa forme et son sens actuels."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on une expression figée dont le sens global ne peut se déduire du sens de chacun des mots qui la composent, comme 'casser sa pipe' ?",
+      "options": [
+        "Une locution idiomatique",
+        "Un proverbe",
+        "Une métaphore",
+        "Un adage"
+      ],
+      "answer": "Une locution idiomatique",
+      "explanation": "Une locution idiomatique ne peut généralement pas être traduite mot à mot dans une autre langue sans en perdre le sens, car sa signification globale dépasse largement celle de ses composants pris séparément."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel adjectif français signifiait à l'origine 'qui inspire de la terreur', avant de prendre aujourd'hui un sens presque opposé et très positif ?",
+      "options": [
+        "Formidable",
+        "Terrible",
+        "Épatant",
+        "Extraordinaire"
+      ],
+      "answer": "Formidable",
+      "explanation": "Issu du latin 'formidabilis' ('qui fait peur'), l'adjectif 'formidable' a connu au fil des siècles un glissement de sens spectaculaire vers l'admiration, à l'inverse de son sens d'origine, un phénomène que les linguistes appellent l'amélioration sémantique."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on un mot emprunté à l'anglais et conservé tel quel en français, sans adaptation de graphie ni de prononciation, comme 'week-end' ?",
+      "options": [
+        "Un anglicisme",
+        "Un néologisme",
+        "Un archaïsme",
+        "Un barbarisme"
+      ],
+      "answer": "Un anglicisme",
+      "explanation": "La langue française compte plusieurs milliers d'anglicismes, dont l'usage est parfois combattu par des organismes comme l'Académie française ou la Commission d'enrichissement de la langue française, qui proposent des équivalents comme 'fin de semaine'."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle figure de style consiste à désigner une chose par le nom d'une autre en raison d'un lien logique qui les unit, comme dire 'boire un verre' pour désigner son contenu ?",
+      "options": [
+        "Une métonymie",
+        "Une métaphore",
+        "Une synecdoque",
+        "Une catachrèse"
+      ],
+      "answer": "Une métonymie",
+      "explanation": "La métonymie remplace un terme par un autre lié par une relation de cause à effet, de contenant à contenu, ou encore d'auteur à œuvre, comme lorsqu'on dit 'lire un Molière' pour désigner une de ses pièces."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle figure de style consiste à désigner un tout par le nom d'une de ses parties, comme dire 'les voiles' pour désigner des bateaux à l'horizon ?",
+      "options": [
+        "Une synecdoque",
+        "Une métonymie",
+        "Une métaphore",
+        "Une antonomase"
+      ],
+      "answer": "Une synecdoque",
+      "explanation": "Proche de la métonymie, la synecdoque établit spécifiquement une relation de partie à tout (ou l'inverse), comme dans 'toute la ville en parle', où 'la ville' désigne en réalité ses habitants."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on un mot qui possède deux sens contraires selon le contexte, comme 'hôte', qui désigne aussi bien la personne qui reçoit que celle qui est reçue ?",
+      "options": [
+        "Un contronyme",
+        "Un homonyme",
+        "Un oxymore",
+        "Un paronyme"
+      ],
+      "answer": "Un contronyme",
+      "explanation": "Aussi appelé auto-antonyme, le contronyme crée une ambiguïté résolue uniquement par le contexte de la phrase. 'Louer' est un autre exemple célèbre en français, signifiant à la fois donner et prendre en location."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel est le nom de la discipline linguistique qui étudie la formation des mots nouveaux et l'évolution du vocabulaire d'une langue ?",
+      "options": [
+        "La lexicologie",
+        "La morphosyntaxe",
+        "La phonologie",
+        "La sociolinguistique"
+      ],
+      "answer": "La lexicologie",
+      "explanation": "La lexicologie s'intéresse notamment aux mécanismes de création lexicale, comme la dérivation, la composition ou l'emprunt à d'autres langues, qui permettent à une langue vivante d'enrichir continuellement son vocabulaire."
     }
   ]
 }

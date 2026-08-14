@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useGame } from '../context/GameContext';
-import { C, DIFF } from '../constants/design';
+import { C, DIFF } from '../constants/theme';
 import Avatar from '../components/ui/Avatar';
 import Pill from '../components/ui/Pill';
 import DotsLoader from '../components/ui/DotsLoader';
@@ -60,8 +60,8 @@ export default function PlayerScreen({ onBackToWelcome }) {
                 position: 'absolute',
                 top: 16,
                 left: 16,
-                width: 38,
-                height: 38,
+                width: 44,
+                height: 44,
                 borderRadius: '50%',
                 background: 'rgba(255, 255, 255, 0.05)',
                 border: '1px solid rgba(255, 255, 255, 0.12)',
@@ -262,10 +262,10 @@ export default function PlayerScreen({ onBackToWelcome }) {
               }}
               className="no-tap-highlight"
               style={{
-                width: 32, height: 32, borderRadius: '50%',
+                width: 44, height: 44, borderRadius: '50%',
                 background: 'rgba(255,255,255,0.06)', border: '1px solid rgba(255,255,255,0.12)',
                 color: 'rgba(251,243,238,0.8)', display: 'flex', alignItems: 'center', justifyContent: 'center',
-                cursor: 'pointer', transition: 'all 0.2s', fontSize: 15, marginRight: 10,
+                cursor: 'pointer', transition: 'all 0.2s', fontSize: 15, marginRight: 8, flexShrink: 0,
                 fontFamily: "'Space Grotesk', sans-serif",
                 touchAction: 'manipulation',
               }}
@@ -506,6 +506,7 @@ export default function PlayerScreen({ onBackToWelcome }) {
                 color: C.coral, fontSize: 9, fontWeight: 700,
                 fontFamily: "'Space Grotesk', sans-serif", textTransform: 'uppercase',
                 letterSpacing: '0.08em', display: 'flex', alignItems: 'center', gap: 4,
+                padding: '14px 8px', margin: '-14px -8px', touchAction: 'manipulation',
               }}
             >
               🚪 Quitter la partie

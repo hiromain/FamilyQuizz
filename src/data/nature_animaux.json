@@ -16,7 +16,7 @@
     },
     {
       "id": "nature_animaux_regne_animal_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel oiseau incapable de voler est le plus grand et le plus rapide du monde sur la terre ferme ?",
       "answer": "L'autruche",
@@ -432,7 +432,7 @@
     },
     {
       "id": "nature_animaux_plantes_ecosystemes_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel gaz à effet de serre est capturé en grande quantité par la photosynthèse des forêts, agissant comme des 'puits de carbone' ?",
       "answer": "Le dioxyde de carbone",

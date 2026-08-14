@@ -16,11 +16,409 @@
     },
     {
       "id": "informatique_culture_numerique_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel terme, inspiré de la biologie, désigne un programme malveillant conçu pour s'infiltrer dans un ordinateur à l'insu de son utilisateur afin de s'y dupliquer et de perturber son système ?",
       "answer": "Un virus",
-      "explanation": "Un virus informatique est un programme capable de s'autorépliquer en insérant son code dans d'autres programmes sains. Le terme a été popularisé au début des années 1980 en raison de ses similitudes avec les agents infectieux biologiques."
+      "explanation": "Un virus informatique est un programme capable de s'autorépliquer en insérant son code dans d'autres programmes sains. Le terme a été popularisé au début des années 1980 en raison de ses similitudes avec les agents infectieux biologiques.",
+      "options": [
+        "Un ver informatique",
+        "Un cheval de Troie",
+        "Un backdoor",
+        "Un virus"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on le signe '@', en forme de spirale, indispensable dans toute adresse e-mail ?",
+      "options": [
+        "L'arobase",
+        "Le dièse",
+        "Le tilde",
+        "L'esperluette"
+      ],
+      "answer": "L'arobase",
+      "explanation": "L'arobase est utilisée depuis 1971 par l'informaticien Ray Tomlinson pour séparer le nom d'utilisateur du nom du serveur dans une adresse électronique. Son nom viendrait d'une ancienne unité de mesure espagnole, l'arroba."
+    },
+    {
+      "id": "informatique_culture_numerique_4",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel moteur de recherche, lancé en 1998 par deux étudiants de Stanford, est aujourd'hui le plus utilisé au monde ?",
+      "options": [
+        "Google",
+        "Yahoo",
+        "Bing",
+        "Altavista"
+      ],
+      "answer": "Google",
+      "explanation": "Fondé par Larry Page et Sergey Brin, Google doit son nom à une déformation volontaire de 'googol', un nombre représenté par un 1 suivi de cent zéros, symbolisant l'ambition de traiter une quantité immense d'informations."
+    },
+    {
+      "id": "informatique_culture_numerique_5",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on un ensemble secret de caractères qui protège l'accès à un compte en ligne ?",
+      "options": [
+        "Un mot de passe",
+        "Un cookie",
+        "Un pseudonyme",
+        "Un pare-feu"
+      ],
+      "answer": "Un mot de passe",
+      "explanation": "Un mot de passe robuste combine généralement majuscules, minuscules, chiffres et symboles. Les experts en cybersécurité recommandent d'en utiliser un différent pour chaque service en ligne."
+    },
+    {
+      "id": "informatique_culture_numerique_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel réseau social, lancé en 2004 par Mark Zuckerberg, était à l'origine réservé aux étudiants de l'université Harvard ?",
+      "options": [
+        "Facebook",
+        "Twitter",
+        "MySpace",
+        "LinkedIn"
+      ],
+      "answer": "Facebook",
+      "explanation": "Créé dans une chambre universitaire à Harvard, 'Thefacebook' s'est d'abord limité aux étudiants de quelques universités américaines avant de s'ouvrir au grand public en 2006 et de devenir Facebook."
+    },
+    {
+      "id": "informatique_culture_numerique_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on les petits fichiers stockés par un site web dans le navigateur pour mémoriser les préférences ou la connexion d'un internaute ?",
+      "options": [
+        "Les cookies",
+        "Les caches",
+        "Les plugins",
+        "Les widgets"
+      ],
+      "answer": "Les cookies",
+      "explanation": "Inventés en 1994 par le développeur Lou Montulli, les cookies permettent à un site de se souvenir d'un utilisateur d'une visite à l'autre, que ce soit pour un panier d'achat ou une préférence de langue."
+    },
+    {
+      "id": "informatique_culture_numerique_8",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel terme désigne un logiciel malveillant qui chiffre les fichiers d'une victime et exige une rançon pour les débloquer ?",
+      "options": [
+        "Un rançongiciel",
+        "Un logiciel espion",
+        "Un cheval de Troie",
+        "Un ver informatique"
+      ],
+      "answer": "Un rançongiciel",
+      "explanation": "Le rançongiciel, ou 'ransomware' en anglais, prend en otage les données d'un ordinateur ou d'un réseau entier en les chiffrant, jusqu'au paiement d'une rançon souvent exigée en cryptomonnaie."
+    },
+    {
+      "id": "informatique_culture_numerique_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'acronyme 'URL', qui désigne l'adresse complète d'une page web ?",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Redirect Link",
+        "Unified Reference List",
+        "Universal Read Location"
+      ],
+      "answer": "Uniform Resource Locator",
+      "explanation": "L'URL, littéralement 'localisateur uniforme de ressource', indique de manière standardisée l'emplacement exact d'une ressource sur internet, incluant le protocole, le nom de domaine et le chemin d'accès."
+    },
+    {
+      "id": "informatique_culture_numerique_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle plateforme de vidéos en ligne, rachetée par Google en 2006, est devenue le deuxième site le plus visité au monde ?",
+      "options": [
+        "YouTube",
+        "Dailymotion",
+        "Vimeo",
+        "Twitch"
+      ],
+      "answer": "YouTube",
+      "explanation": "Créée en 2005 par trois anciens employés de PayPal, YouTube a été rachetée par Google un an plus tard pour 1,65 milliard de dollars, un montant qui semblait alors considérable pour une jeune start-up."
+    },
+    {
+      "id": "informatique_culture_numerique_11",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'acronyme 'HTML', le langage de base utilisé pour structurer le contenu des pages web ?",
+      "options": [
+        "HyperText Markup Language",
+        "High Tech Modern Language",
+        "Home Tool Markup Language",
+        "Hyperlink Text Modeling Language"
+      ],
+      "answer": "HyperText Markup Language",
+      "explanation": "Créé par Tim Berners-Lee en même temps que le Web, le HTML utilise des balises pour structurer titres, paragraphes, images et liens hypertextes au sein d'une page web."
+    },
+    {
+      "id": "informatique_culture_numerique_12",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel réseau social de partage de photos, racheté par Facebook en 2012, est reconnaissable à son icône d'appareil photo vintage ?",
+      "options": [
+        "Instagram",
+        "Snapchat",
+        "Pinterest",
+        "Flickr"
+      ],
+      "answer": "Instagram",
+      "explanation": "Lancé en 2010, Instagram a été racheté par Facebook pour environ un milliard de dollars alors qu'il ne comptait qu'une dizaine d'employés, l'une des acquisitions les plus rentables de l'histoire de la tech."
+    },
+    {
+      "id": "informatique_culture_numerique_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on une technique frauduleuse consistant à se faire passer pour un organisme de confiance par e-mail afin de voler des données personnelles ?",
+      "options": [
+        "Le phishing",
+        "Le spoofing",
+        "Le spamming",
+        "Le hacking"
+      ],
+      "answer": "Le phishing",
+      "explanation": "Contraction de 'fishing' (pêche) et 'phreaking', le phishing (ou hameçonnage) consiste à appâter la victime avec un message imitant une banque ou une administration pour lui soutirer identifiants ou coordonnées bancaires."
+    },
+    {
+      "id": "informatique_culture_numerique_14",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on l'ensemble des serveurs distants permettant de stocker et d'accéder à ses données depuis n'importe quel appareil connecté ?",
+      "options": [
+        "Le cloud",
+        "Le réseau local",
+        "Le serveur proxy",
+        "Le disque dur externe"
+      ],
+      "answer": "Le cloud",
+      "explanation": "Le 'cloud', ou informatique en nuage, désigne des centres de données répartis dans le monde entier qui hébergent fichiers et applications, accessibles à distance via internet plutôt que sur un ordinateur unique."
+    },
+    {
+      "id": "informatique_culture_numerique_15",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel protocole sécurisé, symbolisé par un cadenas dans la barre d'adresse, chiffre les échanges entre un navigateur et un site web ?",
+      "options": [
+        "HTTPS",
+        "FTP",
+        "SMTP",
+        "VPN"
+      ],
+      "answer": "HTTPS",
+      "explanation": "Le 'S' de HTTPS signifie 'Secure' : il ajoute une couche de chiffrement (TLS) au protocole HTTP classique, empêchant qu'un tiers puisse intercepter en clair les données échangées, comme des mots de passe."
+    },
+    {
+      "id": "informatique_culture_numerique_16",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel navigateur web, sorti en 2008, est aujourd'hui le plus utilisé au monde, loin devant ses concurrents ?",
+      "options": [
+        "Google Chrome",
+        "Mozilla Firefox",
+        "Internet Explorer",
+        "Safari"
+      ],
+      "answer": "Google Chrome",
+      "explanation": "Lancé en 2008, Chrome a rapidement détrôné Internet Explorer grâce à sa rapidité et sa simplicité. Son moteur open source, Chromium, sert également de base à de nombreux autres navigateurs concurrents."
+    },
+    {
+      "id": "informatique_culture_numerique_17",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle messagerie instantanée, rachetée par Facebook en 2014, chiffre par défaut l'ensemble des messages échangés de bout en bout ?",
+      "options": [
+        "WhatsApp",
+        "Telegram",
+        "Messenger",
+        "Skype"
+      ],
+      "answer": "WhatsApp",
+      "explanation": "Racheté 19 milliards de dollars par Facebook en 2014, WhatsApp a généralisé en 2016 le chiffrement de bout en bout, rendant les messages illisibles pour quiconque hormis l'expéditeur et le destinataire."
+    },
+    {
+      "id": "informatique_culture_numerique_18",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel réseau social basé sur des messages courts, fondé en 2006, a été renommé 'X' en 2023 par son propriétaire Elon Musk ?",
+      "options": [
+        "Twitter",
+        "Tumblr",
+        "Reddit",
+        "Mastodon"
+      ],
+      "answer": "Twitter",
+      "explanation": "Fondé en 2006 par Jack Dorsey et ses associés, Twitter limitait à l'origine les messages à 140 caractères. Racheté par Elon Musk fin 2022, il est renommé 'X' l'année suivante dans le cadre d'une refonte globale."
+    },
+    {
+      "id": "informatique_culture_numerique_19",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel terme désigne un logiciel malveillant capable de se propager seul à travers un réseau, sans avoir besoin de s'attacher à un programme hôte, contrairement au virus ?",
+      "options": [
+        "Un ver informatique",
+        "Un virus",
+        "Un cheval de Troie",
+        "Un rootkit"
+      ],
+      "answer": "Un ver informatique",
+      "explanation": "Contrairement au virus classique, le ver informatique (ou 'worm') se réplique et se propage de manière autonome à travers les réseaux, en exploitant des failles de sécurité, sans nécessiter d'intervention humaine."
+    },
+    {
+      "id": "informatique_culture_numerique_20",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on l'ensemble des traces (recherches, likes, achats) qu'un internaute laisse involontairement en naviguant sur le web ?",
+      "options": [
+        "L'empreinte numérique",
+        "Le cache navigateur",
+        "Le protocole HTTPS",
+        "Le cloud"
+      ],
+      "answer": "L'empreinte numérique",
+      "explanation": "L'empreinte numérique regroupe toutes les données qu'un utilisateur génère consciemment ou non sur internet. Elle est de plus en plus exploitée par les entreprises pour cibler la publicité en ligne."
+    },
+    {
+      "id": "informatique_culture_numerique_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel système d'exploitation mobile, développé par Google, équipe la majorité des smartphones dans le monde ?",
+      "options": [
+        "Android",
+        "iOS",
+        "Windows Phone",
+        "BlackBerry OS"
+      ],
+      "answer": "Android",
+      "explanation": "Lancé en 2008 et racheté dès 2005 par Google, Android est un système open source qui équipe aujourd'hui la grande majorité des smartphones vendus dans le monde, loin devant l'iOS d'Apple."
+    },
+    {
+      "id": "informatique_culture_numerique_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on une courte publication destinée à disparaître au bout de 24 heures sur les réseaux sociaux, un format popularisé par Snapchat ?",
+      "options": [
+        "Une story",
+        "Un reel",
+        "Un tweet",
+        "Un live"
+      ],
+      "answer": "Une story",
+      "explanation": "Snapchat a introduit ce format éphémère en 2013. Son succès a poussé la quasi-totalité des grands réseaux sociaux, dont Instagram et Facebook, à proposer leur propre version de la 'story'."
+    },
+    {
+      "id": "informatique_culture_numerique_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle plateforme communautaire, très populaire chez les joueurs vidéo, permet de créer des serveurs organisés en salons de discussion textuels et vocaux ?",
+      "options": [
+        "Discord",
+        "Slack",
+        "TeamSpeak",
+        "Twitch"
+      ],
+      "answer": "Discord",
+      "explanation": "Lancé en 2015, Discord s'est d'abord imposé auprès des communautés de joueurs avant de s'étendre à des usages beaucoup plus variés, du groupe d'amis à la communauté artistique en passant par le milieu éducatif."
+    },
+    {
+      "id": "informatique_culture_numerique_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on un programme conçu pour effectuer automatiquement des tâches répétitives sur internet, comme répondre à des messages ou indexer des pages web ?",
+      "options": [
+        "Un bot",
+        "Un plugin",
+        "Un firewall",
+        "Un widget"
+      ],
+      "answer": "Un bot",
+      "explanation": "Contraction de 'robot', le bot peut avoir des usages très variés : moteurs de recherche indexant le web, chatbots répondant aux clients, ou encore bots malveillants utilisés pour du spam ou des attaques informatiques."
+    },
+    {
+      "id": "informatique_culture_numerique_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel terme désigne la quantité maximale de données pouvant transiter par une connexion internet en un temps donné ?",
+      "options": [
+        "La bande passante",
+        "Le ping",
+        "La latence",
+        "Le cache"
+      ],
+      "answer": "La bande passante",
+      "explanation": "Souvent exprimée en mégabits par seconde, la bande passante détermine la capacité d'une connexion à transporter des données, tandis que la latence mesure plutôt le délai de réponse entre l'envoi et la réception d'une requête."
+    },
+    {
+      "id": "informatique_culture_numerique_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on l'ensemble des techniques visant à améliorer le positionnement d'un site web dans les résultats des moteurs de recherche ?",
+      "options": [
+        "Le référencement (SEO)",
+        "Le netlinking",
+        "Le responsive design",
+        "Le crawling"
+      ],
+      "answer": "Le référencement (SEO)",
+      "explanation": "Le SEO ('Search Engine Optimization') regroupe de nombreuses pratiques, comme le choix de mots-clés pertinents ou l'obtention de liens externes de qualité, pour apparaître le plus haut possible dans les résultats de recherche naturels."
+    },
+    {
+      "id": "informatique_culture_numerique_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel format d'image, doté d'une compression sans perte de qualité et gérant la transparence, est couramment utilisé pour les logos sur le web ?",
+      "options": [
+        "Le PNG",
+        "Le JPEG",
+        "Le GIF",
+        "Le BMP"
+      ],
+      "answer": "Le PNG",
+      "explanation": "Contrairement au JPEG, qui compresse l'image en dégradant légèrement sa qualité, le format PNG conserve l'intégralité des détails d'origine tout en permettant un fond totalement transparent, idéal pour les logos."
+    },
+    {
+      "id": "informatique_culture_numerique_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on un espace de stockage temporaire qui conserve les données d'un site déjà visité pour accélérer son chargement lors d'une prochaine visite ?",
+      "options": [
+        "Le cache",
+        "Le cookie",
+        "L'historique",
+        "Le favori"
+      ],
+      "answer": "Le cache",
+      "explanation": "En conservant localement certains éléments d'une page déjà visitée (images, scripts), le cache du navigateur évite de devoir les retélécharger intégralement, ce qui accélère sensiblement le chargement des pages fréquemment consultées."
+    },
+    {
+      "id": "informatique_culture_numerique_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel protocole informatique, antérieur au web, est encore utilisé aujourd'hui pour l'envoi des e-mails d'un serveur à un autre ?",
+      "options": [
+        "SMTP",
+        "FTP",
+        "POP3",
+        "IMAP"
+      ],
+      "answer": "SMTP",
+      "explanation": "Le SMTP ('Simple Mail Transfer Protocol') gère spécifiquement l'envoi des e-mails, tandis que les protocoles POP3 et IMAP sont utilisés côté destinataire pour récupérer et consulter les messages reçus."
+    },
+    {
+      "id": "informatique_culture_numerique_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel terme générique, contraction anglaise de 'malicious software', désigne tout logiciel conçu pour nuire à un système informatique, qu'il s'agisse d'un virus, d'un ver ou d'un cheval de Troie ?",
+      "options": [
+        "Un malware",
+        "Un freeware",
+        "Un shareware",
+        "Un firmware"
+      ],
+      "answer": "Un malware",
+      "explanation": "Le terme 'malware' englobe l'ensemble des logiciels malveillants, quelle que soit leur méthode de propagation ou leur objectif : vol de données, espionnage, sabotage ou extorsion financière."
     }
   ],
   "Informatique : Histoire & Pionniers": [
@@ -45,6 +443,398 @@
       "question": "Quel mathématicien et cryptologue britannique est célèbre pour avoir formalisé le concept de machine universelle programmable et aidé à décrypter les codes secrets de la machine allemande Enigma à Bletchley Park ?",
       "answer": "Alan Turing",
       "explanation": "Alan Turing (1912-1954) est considéré comme le père fondateur de l'informatique moderne et de l'intelligence artificielle (avec son célèbre test de Turing). Son travail déterminant à Bletchley Park a permis d'intercepter et de déchiffrer les communications de l'armée allemande pendant la Seconde Guerre mondiale."
+    },
+    {
+      "id": "informatique_histoire_pionniers_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle entreprise, fondée par Bill Gates et Paul Allen en 1975, a créé le système d'exploitation Windows ?",
+      "options": [
+        "Microsoft",
+        "Apple",
+        "IBM",
+        "Google"
+      ],
+      "answer": "Microsoft",
+      "explanation": "Fondée à Albuquerque puis installée près de Seattle, Microsoft s'est d'abord fait connaître avec le système MS-DOS avant de lancer Windows en 1985, qui allait équiper la majorité des ordinateurs personnels du monde."
+    },
+    {
+      "id": "informatique_histoire_pionniers_4",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel duo d'amis d'enfance a fondé la société Apple en 1976 dans un garage californien ?",
+      "options": [
+        "Steve Jobs et Steve Wozniak",
+        "Bill Gates et Paul Allen",
+        "Larry Page et Sergey Brin",
+        "Jeff Bezos et Elon Musk"
+      ],
+      "answer": "Steve Jobs et Steve Wozniak",
+      "explanation": "Steve Wozniak conçoit le premier ordinateur Apple I dans le garage familial de Steve Jobs à Los Altos, en Californie. L'entreprise, rejointe par Ronald Wayne, prendra rapidement une ampleur mondiale."
+    },
+    {
+      "id": "informatique_histoire_pionniers_5",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel physicien et informaticien britannique a inventé le World Wide Web en 1989 alors qu'il travaillait au CERN ?",
+      "options": [
+        "Tim Berners-Lee",
+        "Vint Cerf",
+        "Alan Turing",
+        "Marc Andreessen"
+      ],
+      "answer": "Tim Berners-Lee",
+      "explanation": "Tim Berners-Lee cherchait à faciliter le partage d'informations entre chercheurs du CERN. Il a inventé les concepts fondateurs du Web : l'URL, le protocole HTTP et le langage HTML."
+    },
+    {
+      "id": "informatique_histoire_pionniers_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle entreprise informatique, fondée en 1994 par Jeff Bezos, a démarré comme simple librairie en ligne avant de devenir un géant du commerce ?",
+      "options": [
+        "Amazon",
+        "eBay",
+        "Alibaba",
+        "Google"
+      ],
+      "answer": "Amazon",
+      "explanation": "Jeff Bezos lance Amazon depuis son garage dans l'État de Washington, choisissant d'abord de vendre des livres en ligne avant de diversifier progressivement son catalogue à presque tous les secteurs."
+    },
+    {
+      "id": "informatique_histoire_pionniers_7",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle entreprise, fondée par Larry Page et Sergey Brin en 1998, doit son nom à une déformation du mot 'googol', désignant un nombre gigantesque ?",
+      "options": [
+        "Google",
+        "Yahoo",
+        "Amazon",
+        "eBay"
+      ],
+      "answer": "Google",
+      "explanation": "Le nom Google est une orthographe erronée volontaire de 'googol', terme mathématique désignant le nombre 1 suivi de cent zéros, symbole de l'ambition des fondateurs d'organiser une quantité infinie d'informations."
+    },
+    {
+      "id": "informatique_histoire_pionniers_8",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ingénieur américain est considéré comme l'inventeur de la souris d'ordinateur, présentée en 1968 lors de la célèbre 'mère de toutes les démos' ?",
+      "options": [
+        "Douglas Engelbart",
+        "Douglas Adams",
+        "Larry Tesler",
+        "Alan Kay"
+      ],
+      "answer": "Douglas Engelbart",
+      "explanation": "Lors d'une démonstration restée légendaire en 1968 à San Francisco, Douglas Engelbart présente pour la première fois la souris, l'hypertexte et la visioconférence, posant les bases de l'informatique moderne."
+    },
+    {
+      "id": "informatique_histoire_pionniers_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle entreprise américaine, fondée en 1911, dominait le marché mondial de l'informatique avec ses gros ordinateurs (mainframes) avant l'essor de la micro-informatique ?",
+      "options": [
+        "IBM",
+        "Microsoft",
+        "Hewlett-Packard",
+        "Digital Equipment Corporation"
+      ],
+      "answer": "IBM",
+      "explanation": "D'abord nommée Computing-Tabulating-Recording Company, l'entreprise prend le nom d'IBM (International Business Machines) en 1924. Elle a longtemps dominé le marché des ordinateurs professionnels."
+    },
+    {
+      "id": "informatique_histoire_pionniers_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel informaticien américain, cofondateur de Microsoft aux côtés de Bill Gates, a quitté l'entreprise en 1983 avant de devenir un mécène influent ?",
+      "options": [
+        "Paul Allen",
+        "Steve Ballmer",
+        "Paul Otellini",
+        "Ray Ozzie"
+      ],
+      "answer": "Paul Allen",
+      "explanation": "Paul Allen a cofondé Microsoft avec son ami d'enfance Bill Gates en 1975. Après avoir quitté l'entreprise pour raisons de santé, il est devenu un investisseur et philanthrope de premier plan jusqu'à sa mort en 2018."
+    },
+    {
+      "id": "informatique_histoire_pionniers_11",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "En quelle année le premier ordinateur personnel grand public, l'IBM PC, a-t-il été commercialisé ?",
+      "options": [
+        "1971",
+        "1981",
+        "1991",
+        "1976"
+      ],
+      "answer": "1981",
+      "explanation": "Lancé en août 1981, l'IBM PC a standardisé l'architecture des ordinateurs personnels et popularisé l'usage du système d'exploitation MS-DOS, fourni à l'époque par la jeune entreprise Microsoft."
+    },
+    {
+      "id": "informatique_histoire_pionniers_12",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel informaticien américain a créé le système d'exploitation libre Linux alors qu'il n'était encore qu'étudiant, en 1991 ?",
+      "options": [
+        "Linus Torvalds",
+        "Richard Stallman",
+        "Dennis Ritchie",
+        "Ken Thompson"
+      ],
+      "answer": "Linus Torvalds",
+      "explanation": "Étudiant finlandais à l'université d'Helsinki, Linus Torvalds publie en 1991 le noyau Linux comme projet personnel. Distribué gratuitement, il est aujourd'hui au cœur d'Android et de la majorité des serveurs mondiaux."
+    },
+    {
+      "id": "informatique_histoire_pionniers_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle mathématicienne et informaticienne américaine, officière de la marine, est à l'origine du premier compilateur et du langage COBOL ?",
+      "options": [
+        "Grace Hopper",
+        "Katherine Johnson",
+        "Margaret Hamilton",
+        "Frances Allen"
+      ],
+      "answer": "Grace Hopper",
+      "explanation": "Grace Hopper a développé en 1952 le premier compilateur, un programme traduisant un langage proche de l'anglais en code machine. Ses travaux ont ouvert la voie au langage de programmation COBOL, encore utilisé aujourd'hui."
+    },
+    {
+      "id": "informatique_histoire_pionniers_14",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel réseau, développé par le département de la Défense américain à la fin des années 1960, est considéré comme l'ancêtre direct d'Internet ?",
+      "options": [
+        "ARPANET",
+        "MILNET",
+        "NSFNET",
+        "BITNET"
+      ],
+      "answer": "ARPANET",
+      "explanation": "Mis en service en 1969, ARPANET relie initialement quatre universités américaines. Conçu pour résister à une attaque en répartissant l'information, il pose les bases techniques du réseau Internet actuel."
+    },
+    {
+      "id": "informatique_histoire_pionniers_15",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ordinateur, mis au point secrètement par les Britanniques en 1943 pour casser le chiffre allemand de Lorenz, est considéré comme le premier calculateur électronique programmable de l'histoire ?",
+      "options": [
+        "Colossus",
+        "ENIAC",
+        "La Bombe de Turing",
+        "UNIVAC"
+      ],
+      "answer": "Colossus",
+      "explanation": "Conçu à Bletchley Park par l'ingénieur Tommy Flowers, Colossus a permis de déchiffrer les communications stratégiques de haut niveau du commandement allemand, à ne pas confondre avec la Bombe électromécanique utilisée contre Enigma."
+    },
+    {
+      "id": "informatique_histoire_pionniers_16",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel mathématicien hongrois-américain a formalisé l'architecture selon laquelle données et instructions sont stockées dans une même mémoire, base de la plupart des ordinateurs modernes ?",
+      "options": [
+        "John von Neumann",
+        "Claude Shannon",
+        "Norbert Wiener",
+        "John McCarthy"
+      ],
+      "answer": "John von Neumann",
+      "explanation": "Décrite en 1945, l'architecture de von Neumann permet à un ordinateur de modifier son propre programme en mémoire. Elle reste, avec quelques évolutions, le modèle de référence de la quasi-totalité des ordinateurs actuels."
+    },
+    {
+      "id": "informatique_histoire_pionniers_17",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur français est reconnu comme l'inventeur, en 1801, du premier métier à tisser programmable par cartes perforées ?",
+      "options": [
+        "Joseph Marie Jacquard",
+        "Blaise Pascal",
+        "Charles Babbage",
+        "Gaspard-Gustave de Coriolis"
+      ],
+      "answer": "Joseph Marie Jacquard",
+      "explanation": "Le métier à tisser de Jacquard utilise des cartes perforées pour automatiser des motifs complexes. Ce principe de programmation par cartes inspirera directement les premières machines à calculer du XIXe siècle."
+    },
+    {
+      "id": "informatique_histoire_pionniers_18",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel scientifique américain, souvent surnommé 'le père de la théorie de l'information', a posé dans les années 1940 les bases du codage binaire des données ?",
+      "options": [
+        "Claude Shannon",
+        "John von Neumann",
+        "Norbert Wiener",
+        "Vannevar Bush"
+      ],
+      "answer": "Claude Shannon",
+      "explanation": "Dans son article fondateur de 1948, 'A Mathematical Theory of Communication', Claude Shannon introduit le concept de 'bit' et pose les fondations mathématiques de toute transmission numérique d'information."
+    },
+    {
+      "id": "informatique_histoire_pionniers_19",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur britannique du XIXe siècle a conçu la 'machine analytique', ancêtre théorique de l'ordinateur, jamais achevée de son vivant faute de financement ?",
+      "options": [
+        "Charles Babbage",
+        "Ada Lovelace",
+        "George Boole",
+        "Herman Hollerith"
+      ],
+      "answer": "Charles Babbage",
+      "explanation": "Charles Babbage imagine dès les années 1830 une machine mécanique programmable capable d'exécuter des calculs complexes grâce à des cartes perforées, un concept si en avance sur son temps qu'elle ne verra jamais le jour."
+    },
+    {
+      "id": "informatique_histoire_pionniers_20",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel géant informatique américain a lancé en 2007 le smartphone iPhone, révolutionnant durablement l'industrie de la téléphonie mobile ?",
+      "options": [
+        "Apple",
+        "Nokia",
+        "BlackBerry",
+        "Samsung"
+      ],
+      "answer": "Apple",
+      "explanation": "Présenté par Steve Jobs le 9 janvier 2007, l'iPhone combine téléphone, lecteur multimédia et navigateur internet dans un écran tactile unique, imposant un nouveau standard que la quasi-totalité des fabricants adopteront ensuite."
+    },
+    {
+      "id": "informatique_histoire_pionniers_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel réseau social professionnel, fondé en 2002, est aujourd'hui la référence mondiale pour le recrutement et le networking entre entreprises ?",
+      "options": [
+        "LinkedIn",
+        "Viadeo",
+        "Xing",
+        "Indeed"
+      ],
+      "answer": "LinkedIn",
+      "explanation": "Lancé officiellement en 2003 depuis le salon d'un des fondateurs en Californie, LinkedIn s'est imposé comme le plus grand réseau social professionnel au monde, avec plusieurs centaines de millions de membres."
+    },
+    {
+      "id": "informatique_histoire_pionniers_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel service, fondé en 1997 comme loueur de DVD par correspondance, s'est réinventé en 2007 en plateforme de vidéo à la demande par streaming ?",
+      "options": [
+        "Netflix",
+        "Hulu",
+        "Amazon Prime Video",
+        "HBO"
+      ],
+      "answer": "Netflix",
+      "explanation": "Netflix a d'abord concurrencé les vidéoclubs physiques avec un service d'abonnement postal, avant de pivoter vers le streaming en ligne en 2007, un virage stratégique qui a transformé toute l'industrie du divertissement."
+    },
+    {
+      "id": "informatique_histoire_pionniers_23",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel informaticien américain a inventé en 1971 le courrier électronique moderne, en introduisant l'usage du symbole @ pour séparer l'utilisateur de la machine ?",
+      "options": [
+        "Ray Tomlinson",
+        "Vint Cerf",
+        "Robert Kahn",
+        "Larry Roberts"
+      ],
+      "answer": "Ray Tomlinson",
+      "explanation": "Ray Tomlinson a envoyé le tout premier e-mail de l'histoire entre deux ordinateurs du réseau ARPANET, alors installés dans la même pièce. Il ne se souvenait même plus, des années plus tard, du contenu exact de ce message historique."
+    },
+    {
+      "id": "informatique_histoire_pionniers_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel duo d'ingénieurs américains est crédité de la conception du protocole TCP/IP dans les années 1970, fondation technique d'Internet encore utilisée aujourd'hui ?",
+      "options": [
+        "Vint Cerf et Robert Kahn",
+        "Tim Berners-Lee et Robert Cailliau",
+        "Larry Page et Sergey Brin",
+        "Marc Andreessen et Eric Bina"
+      ],
+      "answer": "Vint Cerf et Robert Kahn",
+      "explanation": "Souvent surnommés les 'pères d'Internet', Vint Cerf et Robert Kahn ont conçu ce protocole de communication permettant à des réseaux hétérogènes de dialoguer entre eux, socle technique sur lequel repose l'ensemble d'Internet."
+    },
+    {
+      "id": "informatique_histoire_pionniers_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel navigateur web, lancé en 1994 par Marc Andreessen, a rendu le World Wide Web accessible au grand public bien avant Internet Explorer ?",
+      "options": [
+        "Netscape Navigator",
+        "Mosaic",
+        "Lynx",
+        "Opera"
+      ],
+      "answer": "Netscape Navigator",
+      "explanation": "Après avoir participé à la création du navigateur universitaire Mosaic, Marc Andreessen a fondé Netscape et lancé Navigator, qui a dominé le marché des navigateurs jusqu'à l'arrivée agressive d'Internet Explorer de Microsoft."
+    },
+    {
+      "id": "informatique_histoire_pionniers_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cofondateur de Microsoft a occupé le rang d'homme le plus riche du monde pendant une grande partie des années 1990 et 2000 ?",
+      "options": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Larry Ellison",
+        "Michael Dell"
+      ],
+      "answer": "Bill Gates",
+      "explanation": "Grâce au succès mondial de Windows et de la suite Office, Bill Gates a régulièrement dominé les classements des plus grandes fortunes mondiales, avant de consacrer une part croissante de sa fortune à sa fondation philanthropique."
+    },
+    {
+      "id": "informatique_histoire_pionniers_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle entreprise chinoise, fondée par Jack Ma en 1999, est devenue le géant asiatique du commerce en ligne entre particuliers et entreprises ?",
+      "options": [
+        "Alibaba",
+        "Tencent",
+        "Baidu",
+        "JD.com"
+      ],
+      "answer": "Alibaba",
+      "explanation": "Jack Ma a fondé Alibaba dans son appartement de Hangzhou avec une poignée d'amis. L'entreprise est aujourd'hui l'un des plus grands groupes de commerce en ligne au monde, avec des filiales dans la logistique et la finance."
+    },
+    {
+      "id": "informatique_histoire_pionniers_28",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur américain a mis au point en 1958, chez Texas Instruments, le premier circuit intégré fonctionnel, posant les bases de la miniaturisation de l'électronique ?",
+      "options": [
+        "Jack Kilby",
+        "Robert Noyce",
+        "Gordon Moore",
+        "William Shockley"
+      ],
+      "answer": "Jack Kilby",
+      "explanation": "Jack Kilby a reçu le prix Nobel de physique en 2000 pour cette invention. Robert Noyce, chez Fairchild Semiconductor, développera un an plus tard un procédé de fabrication plus pratique, tous deux étant aujourd'hui considérés comme co-inventeurs du circuit intégré."
+    },
+    {
+      "id": "informatique_histoire_pionniers_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle loi empirique, énoncée en 1965 par un cofondateur d'Intel, prédit que le nombre de transistors sur une puce électronique double environ tous les deux ans ?",
+      "options": [
+        "La loi de Moore",
+        "La loi de Metcalfe",
+        "La loi de Kryder",
+        "La loi d'Amdahl"
+      ],
+      "answer": "La loi de Moore",
+      "explanation": "Formulée par Gordon Moore, cette observation s'est vérifiée avec une remarquable constance pendant plusieurs décennies, expliquant en grande partie les progrès fulgurants de la puissance des ordinateurs depuis les années 1970."
+    },
+    {
+      "id": "informatique_histoire_pionniers_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel informaticien américain a créé en 1972, aux laboratoires Bell, le langage de programmation C, qui a servi de base au système Unix et à d'innombrables langages ultérieurs ?",
+      "options": [
+        "Dennis Ritchie",
+        "Ken Thompson",
+        "Bjarne Stroustrup",
+        "Brian Kernighan"
+      ],
+      "answer": "Dennis Ritchie",
+      "explanation": "Le langage C, conçu par Dennis Ritchie pour réécrire le système Unix, reste aujourd'hui l'un des langages de programmation les plus influents, à l'origine directe de langages comme C++, Java ou encore C#."
     }
   ]
 }

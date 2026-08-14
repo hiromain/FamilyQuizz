@@ -8,10 +8,10 @@
       "answer": "La montagne Pelée",
       "explanation": "L'éruption de la montagne Pelée le 8 mai 1902 reste la plus meurtrière du XXe siècle, ayant détruit entièrement la ville de Saint-Pierre en quelques minutes. Elle a fait environ 30 000 victimes et n'a laissé que de très rares survivants directs dans la zone sinistrée. Cette catastrophe majeure a profondément marqué l'histoire de la Martinique et a donné son nom au type d'éruption 'péléen'.",
       "options": [
-        "Le volcan de la Martinique",
-        "La montagne de l'Aiguille",
-        "Faux choix 3",
-        "La montagne Pelée"
+        "Le Morne Pavillon",
+        "La Soufrière",
+        "La montagne Pelée",
+        "Le Piton des Fournaises"
       ]
     },
     {
@@ -36,10 +36,10 @@
       "answer": "Le carouge de la Martinique",
       "explanation": "Le carouge de la Martinique est une espèce d'oiseau endémique qui vit principalement dans les forêts de l'île. Le mâle se distingue par son plumage noir brillant et sa tache rouge-orangé caractéristique sur la gorge. Cet oiseau est aujourd'hui protégé en raison de la dégradation progressive de son habitat naturel.",
       "options": [
-        "L'aigle noir",
-        "Le papillon de la mer",
-        "Le carouge de la Martinique",
-        "Faux choix 3"
+        "Le fringuillo des Antilles",
+        "Le trogon violacé",
+        "Le colibri d'Honduras",
+        "Le carouge de la Martinique"
       ]
     },
     {
@@ -64,10 +64,10 @@
       "answer": "La presqu'île de la Caravelle",
       "explanation": "La presqu'île de la Caravelle s'avance dans l'océan Atlantique et propose une incroyable diversité de paysages sauvages sauvages. Elle abrite les ruines du château Dubuc, ancienne habitation sucrière du XVIIIe siècle classée monument historique. C'est aujourd'hui un site d'exception très recherché pour la randonnée et l'observation de la biodiversité marine.",
       "options": [
-        "La presqu'île de l'Amitié",
-        "Faux choix 3",
+        "La pointe du Marin",
         "La presqu'île de la Caravelle",
-        "La presqu'île du Diamant"
+        "L'île aux Cerfs",
+        "La péninsule des Salines"
       ]
     },
     {
@@ -92,10 +92,10 @@
       "answer": "Aimé Césaire",
       "explanation": "Aimé Césaire est une figure littéraire et politique majeure de la Martinique et du monde francophone. Il a été l'un des pères fondateurs du mouvement de la négritude aux côtés de Léopold Sédar Senghor. En plus de son immense œuvre poétique, il a exercé les mandats de député et de maire de Fort-de-France pendant plus de cinquante ans.",
       "options": [
-        "Maurice Maeterlinck",
+        "Guillaume Apollinaire",
         "Aimé Césaire",
-        "Faux choix 3",
-        "Gabriel Marcel"
+        "Léopold Sédar Senghor",
+        "André Breton"
       ]
     },
     {
@@ -120,10 +120,10 @@
       "answer": "Le rocher du Diamant",
       "explanation": "Le rocher du Diamant is un îlot volcanique inhabité qui s'élève majestueusement au sud-ouest de la Martinique. Durant les guerres napoléoniennes, la marine britannique l'a occupé et fortifié en l'enregistrant comme un navire de guerre sous le nom de HMS Diamond Rock. C'est aujourd'hui un site naturel protégé réputé dans le monde entier pour la plongée sous-marine.",
       "options": [
-        "Le rocher de la Mer",
-        "Le rocher de la Reine",
-        "Faux choix 3",
-        "Le rocher du Diamant"
+        "Le rocher du Diamant",
+        "L'Îlet Oscar",
+        "La Chèvre Rouge",
+        "Le Piton des Neiges"
       ]
     },
     {
@@ -148,10 +148,10 @@
       "answer": "Le bélé",
       "explanation": "Le bélé (ou bel air) est un genre musical et une danse traditionnelle martiniquaise rythmée par le tambour bélé et le tibwa. Cette expression artistique puise ses racines dans l'histoire des esclaves et exprime la lutte pour la liberté et la cohésion sociale. Elle associe des chants responsoriaux à des danses collectives codifiées d'une grande intensité.",
       "options": [
-        "Faux choix 3",
-        "Le ballet des plages",
-        "Le bélé",
-        "La danse de la mer"
+        "La Gwo Ka : Danse rituelle associée aux cérémonies vaudou, caractérisée par des mouvements amples et des chants sacrés.",
+        "Le Kalinda : Danse de cour traditionnelle, exécutée lors des fêtes officielles, qui combine des pas de danse gracieux et des chants narratifs.",
+        "Le Macingué : Danse masquée pratiquée lors du carnaval, mêlant éléments africains et européens avec des costumes élaborés et une musique festive.",
+        "Le bélé"
       ]
     },
     {
@@ -176,10 +176,10 @@
       "answer": "Le sable noir",
       "explanation": "Les plages du nord de la Martinique, proches de la montagne Pelée, se distinguent par leur sable noir étincelant d'origine volcanique. Ce contraste saisissant avec les plages de sable blanc du sud offre une grande variété de paysages aux visiteurs. C'est le cas notamment des superbes anses de la commune du Carbet ou du Prêcheur.",
       "options": [
-        "Le sable noir",
-        "Faux choix 3",
-        "Le sable blanc",
-        "Le sable de l'Afrique"
+        "Le sable blanc corallien",
+        "Le sable doré",
+        "Le sable rose",
+        "Le sable noir"
       ]
     },
     {
@@ -204,9 +204,9 @@
       "answer": "Balata",
       "explanation": "L'église du Sacré-Cœur de Balata, construite dans les années 1920 sur les hauteurs de Fort-de-France, s'inspire directement de la célèbre basilique parisienne. Elle offre un panorama spectaculaire sur la baie de Fort-de-France et les pitons du Carbet environnants. Ce monument historique témoigne de l'architecture religieuse coloniale de l'époque.",
       "options": [
+        "Les Trois-Îlets",
+        "Morne-à-Caouanne",
         "Saint-Pierre",
-        "Fort-de-France",
-        "Faux choix 3",
         "Balata"
       ]
     },
@@ -232,10 +232,10 @@
       "answer": "Patrick Chamoiseau",
       "explanation": "Patrick Chamoiseau est un célèbre écrivain et essayiste martiniquais, figure majeure du mouvement de la 'Créolité'. Son roman 'Texaco' retrace l'histoire de la Martinique à travers l'évolution d'un quartier informel de Fort-de-France sur three générations. Cette consécration littéraire a permis de faire rayonner la richesse de la langue et de l'identité créoles à l'échelle internationale.",
       "options": [
+        "Aimé Césaire",
         "Patrick Chamoiseau",
-        "Faux choix 3",
-        "Jean Rhys",
-        "Édouard Glissant"
+        "Édouard Glissant",
+        "Maryse Condé"
       ]
     },
     {
@@ -260,10 +260,10 @@
       "answer": "Le ti-punch",
       "explanation": "Le ti-punch est l'apéritif traditionnel par excellence en Martinique et dans les Antilles françaises, symbolisant l'hospitalité locale. Chaque convive le prépare généralement lui-même selon la formule populaire 'chacun prépare sa propre mort'. Il se déguste à tout moment de la journée, de préférence accompagné d'accras de morue.",
       "options": [
-        "La boisson verte",
-        "La bière de la mer",
-        "Le ti-punch",
-        "Faux choix 3"
+        "Le sorbet coco",
+        "La groglou",
+        "Le Colombo",
+        "Le ti-punch"
       ]
     },
     {
@@ -288,10 +288,10 @@
       "answer": "La yole ronde",
       "explanation": "La yole ronde est une embarcation traditionnelle de pêcheurs à rames et à voiles, spécifique à la Martinique, construite sans quille. Le célèbre Tour de la Martinique des yoles rondes réunit chaque été des équipages passionnés et des milliers de spectateurs sur les plages. Ce sport nautique unique, exigeant force et équilibre sur des perches de bois, a été inscrit par l'UNESCO en 2020.",
       "options": [
-        "La yole ronde",
-        "Faux choix 3",
-        "La yole carrée",
-        "L'embarras du port"
+        "La pirogue Kayak",
+        "La goélette Saint-Lucie",
+        "Le trimaran Caraïbe",
+        "La yole ronde"
       ]
     },
     {
@@ -316,10 +316,10 @@
       "answer": "Les pitons du Carbet",
       "explanation": "Les pitons du Carbet constituent un massif volcanique de cinq sommets abrupts recouverts d'une forêt tropicale humide dense. Ce site naturel grandiose offre des sentiers de randonnée extrêmement techniques et sportifs réservés aux marcheurs aguerris. Les pitons contribuent de manière majeure aux paysages montagneux emblématiques du nord de la Martinique.",
       "options": [
-        "Les rochers de l'Afrique",
-        "Faux choix 3",
+        "La chaîne de la Soufrière",
+        "Le massif du Morne Pavillon",
         "Les pitons du Carbet",
-        "Les monts des Marmousets"
+        "Les Montagnes Pelée"
       ]
     },
     {
@@ -345,9 +345,9 @@
       "explanation": "La coiffe traditionnelle antillaise en tissu madras est un élément fort du costume créole de cérémonie. Le nombre de pointes dessinées et nouées avec soin exprime un message codé sur la disponibilité amoureuse de la femme. Par exemple, une pointe signifie 'mon cœur est libre' et trois pointes indiquent 'je suis mariée'.",
       "options": [
         "La coiffe en madras",
-        "Faux choix 3",
-        "Le turban de la sagesse",
-        "Le chapeau de la mer"
+        "La toque aux fleurs de tiaré",
+        "Le bonnet de pêcheur créole",
+        "Le foulard djouba"
       ]
     },
     {
@@ -372,10 +372,10 @@
       "answer": "Le colombo",
       "explanation": "Le colombo est le plat emblématique de la cuisine antillaise, généralement préparé à base de poulet, de cabri ou de porc mijoté avec des légumes locaux comme l'aubergine et la patate douce. Son mélange d'épices caractéristique, proche du curry, a été introduit par les immigrants indiens d'origine tamoule après l'abolition de l'esclavage. Il s'accompagne traditionnellement de riz blanc parfumé.",
       "options": [
-        "Faux choix 3",
-        "Le ragoût de la mer",
-        "Le plat de la colonie",
-        "Le colombo"
+        "Le colombo",
+        "Le bœuf bourguignon antillais",
+        "L'oublié",
+        "Le gratin de bananes plantains"
       ]
     },
     {
@@ -400,10 +400,10 @@
       "answer": "La Rue Cases-Nègres",
       "explanation": "Publié en 1950, 'La Rue Cases-Nègres' est un chef-d'œuvre de la littérature antillaise qui décrit la vie semi-féodale des travailleurs agricoles en Martinique dans les années 1930. À travers le regard du jeune orphelin José et de son grand-père M'man Tine, le roman aborde les thèmes de l'éducation, de la pauvreté et de l'émancipation. L'adaptation cinématographique a remporté le Lion d'argent à Venise en 1983.",
       "options": [
-        "La Rue Cases-Nègres",
-        "Faux choix 3",
-        "La rue des étoiles",
-        "La rue du soleil"
+        "Monsieur de Cambré",
+        "Journal d'un Courtier",
+        "Le Vent dans les Voiles",
+        "La Rue Cases-Nègres"
       ]
     },
     {
@@ -430,9 +430,9 @@
       "answer": "La mirabelle",
       "explanation": "La mirabelle de Lorraine bénéficie d'une Indication Géographique Protégée (IGP) garantissant son origine et sa qualité supérieure. La région Lorraine produit à elle seule environ 70 % de la production mondiale de ce fruit d'or très apprécié. Elle se déguste aussi bien fraîche qu'en tarte, en confiture ou encore sous forme d'eau-de-vie traditionnelle.",
       "options": [
-        "La prune de l'Afrique",
-        "La pomme de la mer",
-        "Faux choix 3",
+        "La reine-claude",
+        "La pruneau",
+        "La cerise",
         "La mirabelle"
       ]
     },
@@ -458,9 +458,9 @@
       "answer": "La place Stanislas",
       "explanation": "La place Stanislas, inaugurée en 1755, a été édifiée sous l'impulsion du dernier duc de Lorraine, Stanislas Leszczynski. Réputée pour ses magnifiques grilles en fer forgé dorées à la feuille d'or, elle relie la vieille ville médiévale à la ville neuve. Ce chef-d'œuvre architectural de style classique est considéré comme l'une des plus belles places du monde.",
       "options": [
-        "La place de Nancy",
-        "Faux choix 3",
-        "La place de Metz",
+        "La place de la République",
+        "La place Saint-Epvre",
+        "La place du Marché",
         "La place Stanislas"
       ]
     },
@@ -486,10 +486,10 @@
       "answer": "Le traité de Verdun",
       "explanation": "Le traité de Verdun, signé en 843, a partagé le vaste empire de Charlemagne entre ses trois petits-fils. Lothaire Ier reçut la Francie médiane, qui prit le nom de Lotharingie et évolua au fil des siècles pour devenir le duché de Lorraine. Cet événement historique majeur a jeté les bases géopolitiques de l'Europe occidentale moderne.",
       "options": [
-        "Le traité de Paris",
-        "Le traité de Verdun",
-        "Faux choix 3",
-        "Le traité d'Amiens"
+        "Le traité d'Aachen",
+        "La Paix de Meerssen",
+        "L'édit de Pille",
+        "Le traité de Verdun"
       ]
     },
     {
@@ -515,9 +515,9 @@
       "explanation": "La madeleine de Commercy est un petit gâteau traditionnel à la forme de coquillage, rendu célèbre à la cour du duc Stanislas en 1755. Selon la légende, une jeune servante nommée Madeleine fabriqua ces douceurs en urgence lors d'une réception ducale. Séduit par ce gâteau moelleux, le duc lui donna le prénom de sa créatrice.",
       "options": [
         "La madeleine de Commercy",
-        "La madeleine de la mer",
-        "La madeleine de l'Afrique",
-        "Faux choix 3"
+        "Le biscuit de Nancy",
+        "La tarte Saint-Éloi",
+        "La tourte aux fruits de Lorraine"
       ]
     },
     {
@@ -542,10 +542,10 @@
       "answer": "Paul Verlaine",
       "explanation": "Paul Verlaine est né à Metz le 30 mars 1844 dans une famille de la bourgeoisie militaire lorraine. Sa maison natale, située face au palais de justice, abrite aujourd'hui un espace muséal dédié à sa mémoire et à son œuvre littéraire. Il reste l'un des plus grands poètes de la langue française, réputé pour la musicalité unique de ses vers.",
       "options": [
+        "Stéphane Mallarmé",
         "Paul Verlaine",
-        "Victor Hugo",
-        "Faux choix 3",
-        "Charles Baudelaire"
+        "Charles Baudelaire",
+        "Arthur Rimbaud"
       ]
     },
     {
@@ -570,10 +570,10 @@
       "answer": "Le bourgeon de sapin",
       "explanation": "Le bonbon au sapin des Vosges est une confiserie traditionnelle fabriquée artisanalement à partir de sucre cuit infusé à l'huile essentielle locale. Reconnaissable à sa forme de bourgeon et sa couleur verte ou ambrée, il est très apprécié pour ses vertus adoucissantes en hiver. Ce savoir-faire local se transmet de génération en génération dans les Vosges.",
       "options": [
+        "La résine de pin cembroïde",
         "Le bourgeon de sapin",
-        "Faux choix 3",
-        "Le sapin de Vosges",
-        "La cèdre du Dauphiné"
+        "La confiture de baies de genièvre",
+        "Le miel de sapinède"
       ]
     },
     {
@@ -598,10 +598,10 @@
       "answer": "La quetsche",
       "explanation": "La quetsche de Lorraine est une variété de prune de forme allongée, à la peau violette et à la chair sucrée d'un vert tirant sur le jaune. Bien qu'elle soit moins médiatisée que sa cousine la mirabelle, elle est très populaire dans la région pour confectionner des tartes. Sa récolte a lieu à la fin de l'été, juste après celle des mirabelles.",
       "options": [
-        "L'armoise",
-        "La sorbe",
-        "Faux choix 3",
-        "La quetsche"
+        "La reine-claude",
+        "La cerise noire",
+        "La quetsche",
+        "La mûre bleue"
       ]
     },
     {
@@ -627,9 +627,9 @@
       "explanation": "L'abbaye des Prémontrés de Pont-à-Mousson est un chef-d'œuvre de l'architecture baroque monastique du XVIIIe siècle, bordé par la Moselle. Elle possède une magnifique église abbatiale et de remarquables escaliers autoportants en colimaçon. Aujourd'hui restaurée, elle sert de centre culturel, d'hôtel et de lieu d'expositions très prisé dans la région.",
       "options": [
         "L'abbaye des Prémontrés",
-        "Faux choix 3",
-        "Le château d'eau",
-        "La basilique Saint-Étienne"
+        "La collégiale Saint-Pierre-et-Saint-Paul d'Épinal",
+        "Le couvent des Récollets de Nancy",
+        "L'église Saint-Étienne de Metz"
       ]
     },
     {
@@ -655,9 +655,9 @@
       "explanation": "L'imagerie d'Épinal a été fondée en 1796 par Jean-Charles Pellerin et produisait des gravures sur bois colorées destinées au grand public. Ces planches illustrées racontaient des récits historiques ou des contes de fées très populaires en France. C'est de là que vient l'expression courante 'une image d'Épinal' pour désigner une vision poétique.",
       "options": [
         "Épinal",
-        "Toul",
-        "Nancy",
-        "Faux choix 3"
+        "Saint-Dié-des-Vosges",
+        "Gérardmer",
+        "Remiremont"
       ]
     },
     {
@@ -682,10 +682,10 @@
       "answer": "L'eau-de-vie de mirabelle",
       "explanation": "L'eau-de-vie de mirabelle de Lorraine is une boisson spiritueuse obtenue par la distillation des fruits fermentés de la mirabelle. Elle bénéficie d'une appellation réglementée qui garantit l'utilisation exclusive de prunes récoltées et distillées en Lorraine. Ce digestif parfumé et chaleureux est traditionnellement servi à la fin d'un repas.",
       "options": [
-        "Faux choix 3",
-        "La bière de France",
+        "La crème de mirabelle",
+        "Le brandy de mirabelle",
         "L'eau-de-vie de mirabelle",
-        "Le vin de Lorraine"
+        "Le sirop de mirabelle"
       ]
     },
     {
@@ -710,10 +710,10 @@
       "answer": "La bergamote de Nancy",
       "explanation": "La bergamote de Nancy est un bonbon de sucre cuit parfumé à l'huile essentielle de bergamote, un agrume cultivé principalement en Calabre. C'est la toute première confiserie en France à avoir obtenu le label d'Indication Géographique Protégée (IGP) en 1996. Son goût inimitable, à la fois doux et légèrement amer, fait la fierté des confiseurs nancéiens depuis le XIXe siècle.",
       "options": [
-        "L'orange du sud",
-        "Faux choix 3",
+        "La mandarine de Syracuse",
+        "La fleur d'oranger de Grasse",
         "La bergamote de Nancy",
-        "La citronnelle"
+        "Le Citron de Menton"
       ]
     },
     {
@@ -738,10 +738,10 @@
       "answer": "Émile Gallé",
       "explanation": "Émile Gallé a révolutionné les arts décoratifs de la fin du XIXe siècle en s'inspirant des sciences naturelles, notamment de la botanique et de l'entomologie. Ses vases en verre multicouches gravés à l'acide ou à la meule témoignent d'une virtuosité technique et d'une poésie exceptionnelles. Il a fondé l'École de Nancy en 1901 pour promouvoir l'union de l'art et de l'industrie d'art.",
       "options": [
-        "Faux choix 3",
+        "Victor Prouvé",
         "Émile Gallé",
-        "Louis Comfort Tiffany",
-        "René Lalique"
+        "Jacques Grüber",
+        "Louis Majorelle"
       ]
     },
     {
@@ -767,9 +767,9 @@
       "explanation": "Le pâté lorrain est l'une des plus anciennes spécialités culinaires de la région, mentionnée dans des écrits dès 1392 à Baccarat. Sa farce de porc et de veau est finement émincée et mise à mariner de longues heures avec du vin blanc gris de Toul, de l'échalote, du persil et des épices. Recouvert d'une pâte feuilletée dorée au four, il se déguste traditionnellement chaud en entrée.",
       "options": [
         "Le pâté lorrain",
-        "Faux choix 3",
-        "La saucissonnade",
-        "La charcuterie française"
+        "La saucisse de Montbéliard",
+        "La quiche alsacienne",
+        "La terrine de campagne"
       ]
     },
     {
@@ -794,10 +794,10 @@
       "answer": "Saint Nicolas",
       "explanation": "La fête de Saint Nicolas est une tradition vivante et majeure en Lorraine, supérieure en importance à celle de Noël dans certains villages par le passé. Le saint patron, vêtu de sa mitre et de sa crosse, distribue des friandises aux enfants sages tandis que le Père Fouettard punit les désobéissants. Le grand défilé de la Saint-Nicolas à Nancy rassemble chaque année des dizaines de milliers de spectateurs.",
       "options": [
-        "Saint Joseph",
-        "Saint Martin",
         "Saint Nicolas",
-        "Faux choix 3"
+        "Saint Georges",
+        "Saint Joseph",
+        "Saint Martin"
       ]
     },
     {
@@ -823,9 +823,9 @@
       "explanation": "Le lac de Gérardmer est le plus grand lac naturel du massif des Vosges, s'élevant à 660 mètres d'altitude. Entouré de sapins majestueux, c'est un pôle de loisirs incontournable en Lorraine, proposant des activités nautiques en été et le ski sur les hauteurs en hiver. La ville de Gérardmer est également réputée pour son artisanat de linge de maison haut de gamme.",
       "options": [
         "Le lac de Gérardmer",
-        "Faux choix 3",
-        "Le lac de Vougeot",
-        "Le lac de Volvic"
+        "Le lac de Chambon",
+        "Le lac d'Annecy",
+        "Le lac de Plagne"
       ]
     },
     {
@@ -852,9 +852,9 @@
       "answer": "Le Pont d'Arc",
       "explanation": "Le Pont d'Arc est une arche naturelle monumentale de 54 mètres de haut sculptée au fil des millénaires par le passage de la rivière Ardèche. Situé près de la commune de Vallon-Pont-d'Arc, ce site géologique spectaculaire sert de porte d'entrée naturelle aux célèbres gorges de l'Ardèche. C'est également un point de passage incontournable et extrêmement populaire pour les amateurs de canoë-kayak.",
       "options": [
-        "Le Pont du Gard",
-        "Le Pont de l'Isère",
-        "Faux choix 3",
+        "Le Pont de Salavas",
+        "Le Viaduc de Millau",
+        "Le Pont Julien",
         "Le Pont d'Arc"
       ]
     },
@@ -880,10 +880,10 @@
       "answer": "Vallon-Pont-d'Arc",
       "explanation": "La grotte Chauvet originale, découverte en 1994, abrite des peintures rupestres datant de 36 000 ans parmi les plus anciennes du monde. Pour protéger ces chefs-d'œuvre préhistoriques fragiles, une réplique grandiose à l'échelle 1:1 a été construite à Vallon-Pont-d'Arc. Ce fac-similé d'une fidélité exceptionnelle permet d'admirer l'art pariétal sans altérer le site d'origine.",
       "options": [
+        "Aubenas",
+        "Saint-Martin-d'Ardèche",
         "Vallon-Pont-d'Arc",
-        "Chauvet 2",
-        "La grotte des Écluses",
-        "Faux choix 3"
+        "Bourg-Saint-Andéol"
       ]
     },
     {
@@ -908,10 +908,10 @@
       "answer": "Le mont Gerbier-de-Jonc",
       "explanation": "Le mont Gerbier-de-Jonc est un dôme volcanique spectaculaire issu du volcanisme ancien du Massif central. C'est au pied de ce relief escarpé que se trouvent les trois sources officielles qui donnent naissance au fleuve Loire. Le site attire chaque année de nombreux randonneurs venus gravir sa pente raide pour la vue panoramique.",
       "options": [
-        "Le mont Ventalen",
-        "Le mont Ventoux",
-        "Faux choix 3",
-        "Le mont Gerbier-de-Jonc"
+        "Le col de la Croix-de-Chailles",
+        "Le mont Lozère",
+        "Le mont Gerbier-de-Jonc",
+        "Le mont Mézenc"
       ]
     },
     {
@@ -936,10 +936,10 @@
       "answer": "Les Vans",
       "explanation": "Le Bois de Païolive est une forêt ancienne qui s'étend sur les communes des Vans et de Banne, au sud de l'Ardèche. Ce labyrinthe minéral s'est formé par l'érosion naturelle de la roche calcaire, créant des sculptures géologiques étonnantes. C'est une zone de biodiversité exceptionnelle protégée pour sa faune et sa flore uniques.",
       "options": [
-        "Joigny",
+        "Balazuc",
         "Les Vans",
-        "Faux choix 3",
-        "Annonay"
+        "Saint-Montan",
+        "Antraigues-sur-Volzone"
       ]
     },
     {
@@ -964,9 +964,9 @@
       "answer": "Le Mastrou",
       "explanation": "Le Mastrou est un train touristique à vapeur centenaire qui relie Tournon-sur-Rhône à Lamastre en serpentant à flanc de falaise. Ce voyage ferroviaire nostalgique permet d'admirer des paysages préservés inaccessibles par la route dans les gorges du Doux. C'est l'une des attractions phares de l'Ardèche septentrionale depuis des décennies.",
       "options": [
-        "La ligne de chemin de fer",
-        "Faux choix 3",
-        "Le train à vapeur",
+        "Le Train de la Vallée du Rhône",
+        "Le Petit Cévenol",
+        "La Navette des Gorges",
         "Le Mastrou"
       ]
     },
@@ -992,10 +992,10 @@
       "answer": "La caillette",
       "explanation": "La caillette de l'Ardèche est une spécialité culinaire composée de porc haché mélangé à des blettes ou des épinards et entourée de crépine. Cuite au four, elle se mange traditionnellement froide avec du pain ou chaude accompagnée de pommes de terre locales. Chaque artisan de la région possède sa propre recette de famille.",
       "options": [
-        "L'assemblage",
-        "Faux choix 3",
+        "La saucisse de Morteau",
+        "La tétine ardéchoise",
         "La caillette",
-        "La bouillie"
+        "Le pâté de berger"
       ]
     },
     {
@@ -1020,10 +1020,10 @@
       "answer": "Vals-les-Bains",
       "explanation": "Vals-les-Bains is une station thermale réputée d'Ardèche dont les eaux minérales sont exploitées pour soigner les affections digestives. La ville abrite un magnifique parc d'arbres séculaires et un casino historique typique de la Belle Époque. L'eau gazeuse de Vals est également très appréciée sur les tables pour sa légèreté unique.",
       "options": [
+        "Saint-Cirac",
         "Vals-les-Bains",
-        "Annonay",
-        "Rimont",
-        "Faux choix 3"
+        "Antraigues-sur-Volane",
+        "Bourg-Saint-Andéol"
       ]
     },
     {
@@ -1048,10 +1048,10 @@
       "answer": "La châtaigne",
       "explanation": "La châtaigne d'Ardèche bénéficie d'une Appellation d'Origine Protégée (AOP) qui valorise le travail des producteurs locaux sur les terrasses escarpées. Ce fruit a longtemps constitué la base de l'alimentation locale, ce qui lui a valu le surnom d'arbre à pain. Les traditionnelles 'Castagnades' célèbrent sa récolte chaque automne dans les villages.",
       "options": [
-        "Les fruits rouges",
-        "Les noix",
+        "La noisette",
+        "La noix de Grenoble",
         "La châtaigne",
-        "Faux choix 3"
+        "Le cerisier"
       ]
     },
     {
@@ -1076,10 +1076,10 @@
       "answer": "Labeaume",
       "explanation": "Labeaume est un magnifique village niché au creux de falaises calcaires creusées d'anciennes grottes troglodytiques. Ses maisons serrées en galets de rivière s'articulent autour d'un réseau pittoresque de ruelles pavées et de passages voûtés. C'est un havre de paix réputé pour son calme et son festival musical estival.",
       "options": [
-        "La Roche-de-Ruy",
-        "Labeaume",
-        "Le Pont-l'Abbe",
-        "Faux choix 3"
+        "Vogüé",
+        "Antraigues",
+        "Balazuc",
+        "Labeaume"
       ]
     },
     {
@@ -1104,10 +1104,10 @@
       "answer": "Les Côtes du Vivarais",
       "explanation": "L'appellation Côtes du Vivarais s'étend de part et d'autre des spectaculaires gorges de l'Ardèche, sur des sols calcaires arides et ensoleillés. Les vignerons locaux élaborent des vins de caractère issus de cépages traditionnels comme la syrah et le grenache. Ces vins accompagnent à merveille les spécialités de charcuterie fine de la région.",
       "options": [
-        "Les Côtes de Provence",
-        "Les Côtes du Rhône",
         "Les Côtes du Vivarais",
-        "Faux choix 3"
+        "Le Pays des Sarrasins",
+        "Les Monts d'Ardèche",
+        "La Vallée du Chassezac"
       ]
     },
     {
@@ -1126,11 +1126,17 @@
     },
     {
       "id": "ardeche_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel grand site souterrain de l'extrême sud de l'Ardèche est célèbre pour ses salles géantes ornées de draperies de calcaire monumentales ?",
       "answer": "L'Aven d'Orgnac",
-      "explanation": "L'Aven d'Orgnac, découvert en 1935 par le spéléologue Robert de Joly, est classé parmi les plus belles grottes de France. Ses dimensions titanesques et la richesse de ses cristallisations en font un joyau du patrimoine souterrain ardéchois. Le site a obtenu le label d'excellence 'Grand Site de France' et comprend également la Cité de la Préhistoire."
+      "explanation": "L'Aven d'Orgnac, découvert en 1935 par le spéléologue Robert de Joly, est classé parmi les plus belles grottes de France. Ses dimensions titanesques et la richesse de ses cristallisations en font un joyau du patrimoine souterrain ardéchois. Le site a obtenu le label d'excellence 'Grand Site de France' et comprend également la Cité de la Préhistoire.",
+      "options": [
+        "La Grotte de la Madeleine",
+        "L'Aven d'Orgnac",
+        "La Grotte Chauvet-Pont-d'Arc",
+        "Le Pont d'Arc de Chassezac"
+      ]
     },
     {
       "id": "ardeche_22",
@@ -1148,11 +1154,17 @@
     },
     {
       "id": "ardeche_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Dans quelle ville du nord de l'Ardèche les frères Joseph et Étienne de Montgolfier ont-ils réalisé la toute première démonstration publique de leur ballon à air chaud en 1783 ?",
       "answer": "Annonay",
-      "explanation": "Le 4 juin 1783, les frères Montgolfier font s'élever un grand ballon de toile et de papier dans le ciel d'Annonay devant les notables de la ville. Cet exploit scientifique extraordinaire marque l'acte de naissance de l'aérostation et de la conquête humaine des airs. La ville d'Annonay célèbre chaque été cet héritage historique en accueillant des dizaines de montgolfières multicolores."
+      "explanation": "Le 4 juin 1783, les frères Montgolfier font s'élever un grand ballon de toile et de papier dans le ciel d'Annonay devant les notables de la ville. Cet exploit scientifique extraordinaire marque l'acte de naissance de l'aérostation et de la conquête humaine des airs. La ville d'Annonay célèbre chaque été cet héritage historique en accueillant des dizaines de montgolfières multicolores.",
+      "options": [
+        "Tournon-sur-Rhône",
+        "Saint-Péray",
+        "Privas",
+        "Annonay"
+      ]
     },
     {
       "id": "ardeche_24",
@@ -1170,11 +1182,17 @@
     },
     {
       "id": "ardeche_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel village médiéval de caractère, classé parmi les plus beaux villages de France, est blotti contre une falaise rocheuse et dominé par un château des seigneurs éponymes ?",
       "answer": "Vogüé",
-      "explanation": "Vogüé is un joyau de l'Ardèche méridionale, construit en amphithéâtre au bord de la rivière Ardèche. Le village est célèbre pour ses ruelles pavées étroites, ses passages voûtés et son château médiéval majestueux restauré. La famille de Vogüé a marqué l'histoire politique de la province pendant des siècles."
+      "explanation": "Vogüé is un joyau de l'Ardèche méridionale, construit en amphithéâtre au bord de la rivière Ardèche. Le village est célèbre pour ses ruelles pavées étroites, ses passages voûtés et son château médiéval majestueux restauré. La famille de Vogüé a marqué l'histoire politique de la province pendant des siècles.",
+      "options": [
+        "Vogüé",
+        "Roussillon",
+        "Bédoin",
+        "Saint-Léonard-de-Noblat"
+      ]
     },
     {
       "id": "ardeche_26",
@@ -1192,11 +1210,17 @@
     },
     {
       "id": "ardeche_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel canyon spectaculaire s'étend sur près de 30 kilomètres entre Vallon-Pont-d'Arc et Saint-Martin-d'Ardèche, formant une frontière naturelle ?",
       "answer": "Les gorges de l'Ardèche",
-      "explanation": "Les gorges de l'Ardèche forment un canyon gigantesque creusé par la rivière dans le plateau calcaire du bas Vivarais. Ce site naturel grandiose et sauvage, classé réserve naturelle nationale, offre des belvédères vertigineux tout au long d'une route touristique. C'est l'un des plus importants sites de canoë-kayak d'Europe en période estivale."
+      "explanation": "Les gorges de l'Ardèche forment un canyon gigantesque creusé par la rivière dans le plateau calcaire du bas Vivarais. Ce site naturel grandiose et sauvage, classé réserve naturelle nationale, offre des belvédères vertigineux tout au long d'une route touristique. C'est l'un des plus importants sites de canoë-kayak d'Europe en période estivale.",
+      "options": [
+        "Les falaises de Bonifacio",
+        "Le canyon du Loup",
+        "Le Verdon Gorge",
+        "Les gorges de l'Ardèche"
+      ]
     },
     {
       "id": "ardeche_28",
@@ -1214,11 +1238,17 @@
     },
     {
       "id": "ardeche_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel autre village de caractère d'Ardèche, suspendu au-dessus de la rivière et d'origine médiévale, possède un donjon du XIIe siècle et des maisons en pierre dorée ?",
       "answer": "Balazuc",
-      "explanation": "Balazuc est un village d'origine gauloise puis romaine, bâti sur un éperon rocheux dominant une boucle de la rivière Ardèche. Ses maisons s'empilent de manière spectaculaire le long des calades pavées reliées par des arches de pierre. Le village abrite également le Viel Audon, un écohameau pionnier réhabilité de manière associative et écologique."
+      "explanation": "Balazuc est un village d'origine gauloise puis romaine, bâti sur un éperon rocheux dominant une boucle de la rivière Ardèche. Ses maisons s'empilent de manière spectaculaire le long des calades pavées reliées par des arches de pierre. Le village abrite également le Viel Audon, un écohameau pionnier réhabilité de manière associative et écologique.",
+      "options": [
+        "Bourg-Saint-Andéol",
+        "Balazuc",
+        "Saint-Montan",
+        "Antraigues-sur-Volane"
+      ]
     },
     {
       "id": "ardeche_30",
@@ -1238,11 +1268,17 @@
   "Saint Etienne": [
     {
       "id": "saint_etienne_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel surnom historique donne-t-on aux habitants de Saint-Étienne, lié à l'activité minière ?",
       "answer": "Les Stéphanois (ou les Gagas)",
-      "explanation": "Le gentilé officiel des habitants de Saint-Étienne est 'Stéphanois', qui trouve son origine dans le nom grec du saint patron de la ville. Les habitants sont également surnommés familièrement les 'Gagas', en référence au dialecte local et à l'identité culturelle stéphanoise. Cette riche identité industrielle s'est forgée autour des mines de charbon, de la rubanerie et de la fabrication d'armes."
+      "explanation": "Le gentilé officiel des habitants de Saint-Étienne est 'Stéphanois', qui trouve son origine dans le nom grec du saint patron de la ville. Les habitants sont également surnommés familièrement les 'Gagas', en référence au dialecte local et à l'identité culturelle stéphanoise. Cette riche identité industrielle s'est forgée autour des mines de charbon, de la rubanerie et de la fabrication d'armes.",
+      "options": [
+        "Les Mineurs d'Or",
+        "Les Charbonniers Lyonnais",
+        "Les Forgerons Verts",
+        "Les Stéphanois (ou les Gagas)"
+      ]
     },
     {
       "id": "saint_etienne_2",
@@ -1260,11 +1296,17 @@
     },
     {
       "id": "saint_etienne_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "En 2010, Saint-Étienne a été intégrée à un réseau international de l'UNESCO récompensant sa créativité urbaine. Quel est ce réseau ?",
       "answer": "Le réseau des villes créatives de design",
-      "explanation": "Saint-Étienne is la seule ville française désignée 'ville créative de design' par l'UNESCO, en reconnaissance de sa reconversion industrielle réussie. Cette identité forte s'exprime notamment à travers la Cité du Design et la Biennale internationale qui attire de nombreux créateurs. Le design y est utilisé au quotidien comme un outil de transformation urbaine."
+      "explanation": "Saint-Étienne is la seule ville française désignée 'ville créative de design' par l'UNESCO, en reconnaissance de sa reconversion industrielle réussie. Cette identité forte s'exprime notamment à travers la Cité du Design et la Biennale internationale qui attire de nombreux créateurs. Le design y est utilisé au quotidien comme un outil de transformation urbaine.",
+      "options": [
+        "L'initiative des villes innovantes de l'OCDE",
+        "Le réseau des capitales européennes de la culture",
+        "Le programme des villes durables de l'ONU",
+        "Le réseau des villes créatives de design"
+      ]
     },
     {
       "id": "saint_etienne_4",
@@ -1282,11 +1324,17 @@
     },
     {
       "id": "saint_etienne_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel monument historique de Saint-Étienne, ancienne manufacture d'armes royale, abrite aujourd'hui la Cité du design ?",
       "answer": "La manufacture d'armes de Saint-Étienne",
-      "explanation": "La Manufacture d'armes de Saint-Étienne, fondée sous le règne de Louis XV, a été le cœur industriel militaire de la ville pendant des siècles. Après sa fermeture, ce site patrimonial d'exception a fait l'objet d'une reconversion architecturale ambitieuse pour accueillir la Cité du design. La haute tour d'observation métallique offre un point de vue unique sur les bâtiments."
+      "explanation": "La Manufacture d'armes de Saint-Étienne, fondée sous le règne de Louis XV, a été le cœur industriel militaire de la ville pendant des siècles. Après sa fermeture, ce site patrimonial d'exception a fait l'objet d'une reconversion architecturale ambitieuse pour accueillir la Cité du design. La haute tour d'observation métallique offre un point de vue unique sur les bâtiments.",
+      "options": [
+        "La manufacture d'armes de Saint-Étienne",
+        "Le Palais de Justice de Saint-Étienne, édifié sous le Second Empire",
+        "L'hôtel de ville de Saint-Étienne, reconstruit au XIXe siècle",
+        "L'ancienne abbaye Saint-Pierre, centre spirituel de la ville au Moyen Âge"
+      ]
     },
     {
       "id": "saint_etienne_6",
@@ -1304,11 +1352,17 @@
     },
     {
       "id": "saint_etienne_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel site naturel spectaculaire, situé aux portes de Saint-Étienne, offre des paysages de gorges sauvages formées par la Loire ?",
       "answer": "Les gorges de la Loire",
-      "explanation": "Les gorges de la Loire forment un espace naturel protégé d'une beauté saisissante situé à quelques minutes seulement de la ville. La construction du barrage de Grangent a créé un vaste lac artificiel dominé par des châteaux médiévaux perchés. C'est un lieu privilégié par les Stéphanois pour la randonnée et la voile en été."
+      "explanation": "Les gorges de la Loire forment un espace naturel protégé d'une beauté saisissante situé à quelques minutes seulement de la ville. La construction du barrage de Grangent a créé un vaste lac artificiel dominé par des châteaux médiévaux perchés. C'est un lieu privilégié par les Stéphanois pour la randonnée et la voile en été.",
+      "options": [
+        "Les gorges de la Loire",
+        "La forêt de Tronçais",
+        "Les monts d'Auvergne",
+        "Le Parc Naturel Régional du Pilat"
+      ]
     },
     {
       "id": "saint_etienne_8",
@@ -1326,11 +1380,17 @@
     },
     {
       "id": "saint_etienne_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle célèbre spécialité culinaire stéphanoise consiste en une fine galette de pommes de terre râpées cuite à la poêle ?",
       "answer": "La râpée",
-      "explanation": "La râpée stéphanoise est un plat traditionnel simple élaboré à base de pommes de terre crues finement râpées et d'œufs. Cuite dans une poêle bien chaude, elle doit être croustillante à l'extérieur et fondante à l'intérieur. Elle est généralement servie accompagnée de sarasson, une préparation locale à base de fromage blanc."
+      "explanation": "La râpée stéphanoise est un plat traditionnel simple élaboré à base de pommes de terre crues finement râpées et d'œufs. Cuite dans une poêle bien chaude, elle doit être croustillante à l'extérieur et fondante à l'intérieur. Elle est généralement servie accompagnée de sarasson, une préparation locale à base de fromage blanc.",
+      "options": [
+        "Le canelé de Bourbon",
+        "La choucroute garnie",
+        "La tarte aux pralines",
+        "La râpée"
+      ]
     },
     {
       "id": "saint_etienne_10",
@@ -1348,11 +1408,17 @@
     },
     {
       "id": "saint_etienne_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel inventeur français originaire de la région stéphanoise a breveté en 1830 la première machine à coudre fonctionnelle ?",
       "answer": "Barthélemy Thimonnier",
-      "explanation": "Barthélemy Thimonnier a conçu et breveté le premier métier à coudre en bois, ouvrant la voie à la mécanisation du textile. Installé temporairement à Saint-Étienne, il a fait face à la colère des ouvriers tailleurs traditionnels craignant pour leur emploi. Son génie technique exceptionnel a néanmoins marqué l'histoire industrielle nationale."
+      "explanation": "Barthélemy Thimonnier a conçu et breveté le premier métier à coudre en bois, ouvrant la voie à la mécanisation du textile. Installé temporairement à Saint-Étienne, il a fait face à la colère des ouvriers tailleurs traditionnels craignant pour leur emploi. Son génie technique exceptionnel a néanmoins marqué l'histoire industrielle nationale.",
+      "options": [
+        "Barthélemy Thimonnier",
+        "Louis Braille",
+        "Joseph Marie Jacquard",
+        "André Michelin"
+      ]
     },
     {
       "id": "saint_etienne_12",
@@ -1370,11 +1436,17 @@
     },
     {
       "id": "saint_etienne_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel massif montagneux de moyenne altitude, situé au sud-est de Saint-Étienne, est un parc naturel régional propice aux activités de plein air ?",
       "answer": "Le massif du Pilat",
-      "explanation": "Le massif du Pilat est un parc naturel régional magnifique qui s'étend aux portes de la ville de Saint-Étienne. Il propose des paysages de forêts de sapins et de crêtes rocheuses idéaux pour la randonnée ou le ski de fond. Son point culminant, le crêt de la Perdrix, s'élève à 1432 mètres d'altitude."
+      "explanation": "Le massif du Pilat est un parc naturel régional magnifique qui s'étend aux portes de la ville de Saint-Étienne. Il propose des paysages de forêts de sapins et de crêtes rocheuses idéaux pour la randonnée ou le ski de fond. Son point culminant, le crêt de la Perdrix, s'élève à 1432 mètres d'altitude.",
+      "options": [
+        "Le massif du Pilat",
+        "Les Monts d'Auvergne",
+        "Le Massif Central",
+        "Les Cévennes"
+      ]
     },
     {
       "id": "saint_etienne_14",
@@ -1392,11 +1464,17 @@
     },
     {
       "id": "saint_etienne_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle spécialité industrielle textile de tissage de rubans de soie et de passementerie a fait la richesse de Saint-Étienne au XIXe siècle ?",
       "answer": "La rubanerie",
-      "explanation": "La rubanerie stéphanoise a connu un essor exceptionnel, faisant de la ville la capitale mondiale du ruban de soie au XIXe siècle. Les passementiers travaillaient à domicile sur des métiers installés dans des appartements très hauts de plafond pour la lumière. Ce savoir-faire d'excellence a fourni la haute couture parisienne et les familles royales."
+      "explanation": "La rubanerie stéphanoise a connu un essor exceptionnel, faisant de la ville la capitale mondiale du ruban de soie au XIXe siècle. Les passementiers travaillaient à domicile sur des métiers installés dans des appartements très hauts de plafond pour la lumière. Ce savoir-faire d'excellence a fourni la haute couture parisienne et les familles royales.",
+      "options": [
+        "La rubanerie",
+        "L'industrie de la céramique",
+        "La verrerie d'art",
+        "La filature de coton"
+      ]
     },
     {
       "id": "saint_etienne_16",
@@ -1414,11 +1492,17 @@
     },
     {
       "id": "saint_etienne_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel célèbre architecte moderniste franco-suisse a construit à Firminy, près de Saint-Étienne, le plus grand site urbain d'Europe portant sa signature ?",
       "answer": "Le Corbusier",
-      "explanation": "Le Corbusier a conçu à Firminy un ensemble architectural unique comprenant une maison de la culture, une église et une unité d'habitation. Ce site exceptionnel représente la plus grande concentration d'œuvres de l'architecte en Europe. C'est un témoignage majeur de l'urbanisme moderne du XXe siècle classé au patrimoine mondial."
+      "explanation": "Le Corbusier a conçu à Firminy un ensemble architectural unique comprenant une maison de la culture, une église et une unité d'habitation. Ce site exceptionnel représente la plus grande concentration d'œuvres de l'architecte en Europe. C'est un témoignage majeur de l'urbanisme moderne du XXe siècle classé au patrimoine mondial.",
+      "options": [
+        "Eero Saarinen",
+        "Louis Kahn",
+        "Le Corbusier",
+        "Oscar Niemeyer"
+      ]
     },
     {
       "id": "saint_etienne_18",
@@ -1436,11 +1520,17 @@
     },
     {
       "id": "saint_etienne_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle célèbre eau minérale naturellement gazeuse, dont la source se situe à Saint-Galmier dans la Loire, est née au XIXe siècle ?",
       "answer": "La Badoit",
-      "explanation": "L'eau de Badoit est puisée à Saint-Galmier, une commune de la Loire située non loin de Saint-Étienne, où elle jaillit naturellement gazeuse. Son exploitation commerciale a débuté en 1837 sous l'impulsion d'Auguste Badoit qui a eu l'idée de la vendre en bouteilles. Elle est aujourd'hui réputée sur toutes les tables de France."
+      "explanation": "L'eau de Badoit est puisée à Saint-Galmier, une commune de la Loire située non loin de Saint-Étienne, où elle jaillit naturellement gazeuse. Son exploitation commerciale a débuté en 1837 sous l'impulsion d'Auguste Badoit qui a eu l'idée de la vendre en bouteilles. Elle est aujourd'hui réputée sur toutes les tables de France.",
+      "options": [
+        "Périer",
+        "Evian",
+        "La Badoit",
+        "Vittel"
+      ]
     },
     {
       "id": "saint_etienne_20",
@@ -1458,11 +1548,17 @@
     },
     {
       "id": "saint_etienne_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle petite rivière, canalisée et recouverte sous la ville pour des raisons de sécurité, traverse Saint-Étienne et a alimenté ses usines ?",
       "answer": "Le Furan",
-      "explanation": "Le Furan est le cours d'eau historique qui a permis le développement industriel de Saint-Étienne en fournissant l'énergie nécessaire aux forges et moulins dès le Moyen Âge. En raison de crues dévastatrices et d'une forte pollution liée aux usines au XIXe siècle, la rivière a été progressivement recouverte sous le centre-ville. Elle s'écoule aujourd'hui discrètement sous la chaussée stéphanoise."
+      "explanation": "Le Furan est le cours d'eau historique qui a permis le développement industriel de Saint-Étienne en fournissant l'énergie nécessaire aux forges et moulins dès le Moyen Âge. En raison de crues dévastatrices et d'une forte pollution liée aux usines au XIXe siècle, la rivière a été progressivement recouverte sous le centre-ville. Elle s'écoule aujourd'hui discrètement sous la chaussée stéphanoise.",
+      "options": [
+        "La Loire",
+        "Le Cher",
+        "La Reunière",
+        "Le Furan"
+      ]
     },
     {
       "id": "saint_etienne_22",
@@ -1480,11 +1576,17 @@
     },
     {
       "id": "saint_etienne_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel match de football mythique, opposant l'AS Saint-Étienne à son voisin de l'Olympique Lyonnais, enflamme la région chaque saison ?",
       "answer": "Le derby",
-      "explanation": "Le derby entre Saint-Étienne et Lyon constitue l'une des rivalités les plus passionnées et historiques du football français. Il oppose la ville ouvrière et minière de Saint-Étienne à la cité bourgeoise et commerçante de Lyon. Ce match de haute tension remplit Geoffroy-Guichard et le Groupama Stadium devant des supporters survoltés."
+      "explanation": "Le derby entre Saint-Étienne et Lyon constitue l'une des rivalités les plus passionnées et historiques du football français. Il oppose la ville ouvrière et minière de Saint-Étienne à la cité bourgeoise et commerçante de Lyon. Ce match de haute tension remplit Geoffroy-Guichard et le Groupama Stadium devant des supporters survoltés.",
+      "options": [
+        "La Chasse aux Chocs",
+        "Le derby",
+        "Le Classique",
+        "Le Match des Traditions"
+      ]
     },
     {
       "id": "saint_etienne_24",
@@ -1502,11 +1604,17 @@
     },
     {
       "id": "saint_etienne_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle commune voisine de la vallée du Gier, célèbre pour sa riche histoire de la métallurgie, fait partie intégrante du bassin stéphanois ?",
       "answer": "Saint-Chamond",
-      "explanation": "Saint-Chamond is une ville historique de la Loire qui s'est développée de manière spectaculaire au XIXe siècle grâce aux forges et à la passementerie de soie. Située à mi-chemin entre Saint-Étienne et Lyon, elle conserve de précieux bâtiments industriels reconvertis et d'agréables parcs paysagers. La commune est également réputée pour sa proximité avec le parc naturel du Pilat."
+      "explanation": "Saint-Chamond is une ville historique de la Loire qui s'est développée de manière spectaculaire au XIXe siècle grâce aux forges et à la passementerie de soie. Située à mi-chemin entre Saint-Étienne et Lyon, elle conserve de précieux bâtiments industriels reconvertis et d'agréables parcs paysagers. La commune est également réputée pour sa proximité avec le parc naturel du Pilat.",
+      "options": [
+        "Firminy",
+        "Saint-Chamond",
+        "Charlieu",
+        "La Ricamarie"
+      ]
     },
     {
       "id": "saint_etienne_26",
@@ -1524,11 +1632,17 @@
     },
     {
       "id": "saint_etienne_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel nom portait les ouvriers tisseurs stéphanois de rubans de soie travaillant à domicile au XIXe siècle ?",
       "answer": "Les passementiers",
-      "explanation": "Les passementiers de Saint-Étienne étaient des artisans très qualifiés possédant leur propre métier Jacquard installé chez eux dans des appartements hauts de plafond du quartier de Crêt-de-Roc. Ils travaillaient la soie fine sur commande pour des marchands-fabricants stéphanois. Leur savoir-faire d'une finesse incomparable a fait le succès international de la rubanerie locale."
+      "explanation": "Les passementiers de Saint-Étienne étaient des artisans très qualifiés possédant leur propre métier Jacquard installé chez eux dans des appartements hauts de plafond du quartier de Crêt-de-Roc. Ils travaillaient la soie fine sur commande pour des marchands-fabricants stéphanois. Leur savoir-faire d'une finesse incomparable a fait le succès international de la rubanerie locale.",
+      "options": [
+        "Les canuts lyonnais",
+        "Les fileurs de soie",
+        "Les passementiers",
+        "Les bobinots"
+      ]
     },
     {
       "id": "saint_etienne_28",
@@ -1546,11 +1660,17 @@
     },
     {
       "id": "saint_etienne_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel grand musée stéphanois historique, installé dans l'ancien palais du tribunal, présente les trois collections majeures de la ville (armes, rubans et cycles) ?",
       "answer": "Le Musée d'Art et d'Industrie",
-      "explanation": "Le Musée d'Art et d'Industrie de Saint-Étienne retrace l'épopée industrielle et technique de la cité à travers des collections exceptionnelles d'armes à feu, de rubans Jacquard et de cycles anciens. Entièrement rénové, il propose une muséographie moderne mettant en valeur le génie créatif des ouvriers et ingénieurs stéphanois au cours des siècles."
+      "explanation": "Le Musée d'Art et d'Industrie de Saint-Étienne retrace l'épopée industrielle et technique de la cité à travers des collections exceptionnelles d'armes à feu, de rubans Jacquard et de cycles anciens. Entièrement rénové, il propose une muséographie moderne mettant en valeur le génie créatif des ouvriers et ingénieurs stéphanois au cours des siècles.",
+      "options": [
+        "Le Musée de l'Armée de Saint-Étienne",
+        "Le Musée des Beaux-Arts de Saint-Étienne",
+        "Le Centre d'Art Contemporain de Saint-Étienne",
+        "Le Musée d'Art et d'Industrie"
+      ]
     },
     {
       "id": "saint_etienne_30",
@@ -1581,12 +1701,18 @@
       "id": "saint_etienne_31"
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel grand constructeur d'armes est basé à Saint-Étienne ?",
       "answer": "Lebel",
       "explanation": "Le grand constructeur d'armes français Lebel est basé à Saint-Étienne.",
-      "id": "saint_etienne_32"
+      "id": "saint_etienne_32",
+      "options": [
+        "Lebel",
+        "Saint-Chamond",
+        "Hotchkiss",
+        "Schneider"
+      ]
     },
     {
       "type": "qcm",
@@ -1631,20 +1757,32 @@
       "id": "saint_etienne_35"
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle maison de chocolat stéphanoise est célèbre pour ses chocolats aux fruits exotiques ?",
       "answer": "Eugène",
       "explanation": "La maison de chocolat stéphanoise 'Eugène' est célèbre pour ses chocolats aux fruits exotiques.",
-      "id": "saint_etienne_36"
+      "id": "saint_etienne_36",
+      "options": [
+        "Michel Cluizel",
+        "Patrick Roger",
+        "Valrhona",
+        "Eugène"
+      ]
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom du dessert traditionnel de la région de Saint-Étienne, fait avec de la farine de froment et des amandes ?",
       "answer": "Galette de Sainte-Barbe",
       "explanation": "La 'galette de Sainte-Barbe' est un dessert traditionnel de la région de Saint-Étienne, fait avec de la farine de froment et des amandes.",
-      "id": "saint_etienne_37"
+      "id": "saint_etienne_37",
+      "options": [
+        "Puits d'amour",
+        "Galette de Sainte-Barbe",
+        "Tarte aux pralines",
+        "Brioche Forézienne"
+      ]
     },
     {
       "type": "qcm",
@@ -1661,20 +1799,32 @@
       "id": "saint_etienne_38"
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel est le nom du fromage à pâte molle au lait de brebis, fabriqué dans la région de Saint-Étienne ?",
       "answer": "Pélardon",
       "explanation": "Le 'pélardon' est un fromage à pâte molle au lait de brebis, fabriqué dans la région de Saint-Étienne.",
-      "id": "saint_etienne_39"
+      "id": "saint_etienne_39",
+      "options": [
+        "Saint-Marcellin",
+        "Pélardon",
+        "Roquefort des Causses",
+        "Langres"
+      ]
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Qu'est-ce que le 'trabou' ?",
       "answer": "Un passage secret ouvert sur deux rue différentes, caractéristique des rues étroites de Saint-Étienne",
       "explanation": "Le 'trabou' est un passage secret ouvert sur deux rue différentes, caractéristique des rues étroites de Saint-Étienne.",
-      "id": "saint_etienne_40"
+      "id": "saint_etienne_40",
+      "options": [
+        "Une spécialité culinaire à base de fromage de chèvre et de miel.",
+        "Un ancien moulin à eau utilisé pour broyer le grain.",
+        "Un passage secret ouvert sur deux rue différentes, caractéristique des rues étroites de Saint-Étienne",
+        "Un type de danse traditionnelle pratiquée lors des fêtes locales."
+      ]
     },
     {
       "type": "qcm",
@@ -1691,22 +1841,34 @@
       "id": "saint_etienne_41"
     },
     {
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel est le nom du musée consacré à l'histoire et à la culture des mines de charbon de la région de Saint-Étienne ?",
       "answer": "Musée de la mine de Saint-Étienne",
       "explanation": "Le 'musée de la mine de Saint-Étienne' est un musée consacré à l'histoire et à la culture des mines de charbon de la région de Saint-Étienne.",
-      "id": "saint_etienne_42"
+      "id": "saint_etienne_42",
+      "options": [
+        "Musée de la mine de Saint-Étienne",
+        "Centre d'Interprétation Minière du Forez",
+        "Musée de la Houille et des Traditions Minières d'Andrézieux",
+        "Galeries Souterraines de la Compagnie des Mines de Firminy"
+      ]
     }
   ],
   "Metz": [
     {
       "id": "metz_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle est la couleur jaune caractéristique de la pierre calcaire avec laquelle la cathédrale Saint-Étienne de Metz est construite ?",
       "answer": "La pierre de Jaumont",
-      "explanation": "La pierre de Jaumont est un calcaire oolithique extrait en Moselle, célèbre pour sa superbe robe dorée causée par la présence d'oxyde de fer. Elle a servi à la construction de la cathédrale de Metz ainsi que de nombreux autres édifices historiques de la région. Cette couleur lumineuse et chaleureuse confère à la ville de Metz une signature architecturale unique en son genre."
+      "explanation": "La pierre de Jaumont est un calcaire oolithique extrait en Moselle, célèbre pour sa superbe robe dorée causée par la présence d'oxyde de fer. Elle a servi à la construction de la cathédrale de Metz ainsi que de nombreux autres édifices historiques de la région. Cette couleur lumineuse et chaleureuse confère à la ville de Metz une signature architecturale unique en son genre.",
+      "options": [
+        "La pierre de Jaumont",
+        "La craie de Monthéjeau",
+        "Le calcaire de Rupt-sur-Moselle",
+        "Le grès de Saint-Léonard"
+      ]
     },
     {
       "id": "metz_2",
@@ -1724,11 +1886,17 @@
     },
     {
       "id": "metz_3",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel animal légendaire, sorte de dragon terrifiant vaincu par saint Clément selon la tradition, est le symbole de la ville de Metz ?",
       "answer": "Le Graoully",
-      "explanation": "Le Graoully est un dragon légendaire qui, selon la tradition médiévale, vivait dans les ruines de l'amphithéâtre romain de Metz. La légende raconte que saint Clément, premier évêque de la ville, le terrassa en le noyant dans les eaux de la Seille. Aujourd'hui, son effigie suspendue dans la rue Taison reste un emblème messin très populaire."
+      "explanation": "Le Graoully est un dragon légendaire qui, selon la tradition médiévale, vivait dans les ruines de l'amphithéâtre romain de Metz. La légende raconte que saint Clément, premier évêque de la ville, le terrassa en le noyant dans les eaux de la Seille. Aujourd'hui, son effigie suspendue dans la rue Taison reste un emblème messin très populaire.",
+      "options": [
+        "Le Graoully",
+        "L'Hydre",
+        "Le Salamandre",
+        "Le Basilic"
+      ]
     },
     {
       "id": "metz_4",
@@ -1746,11 +1914,17 @@
     },
     {
       "id": "metz_5",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle est le nom de la majestueuse cathédrale de Metz, célèbre pour posséder la plus grande surface de vitraux d'Europe ?",
       "answer": "La cathédrale Saint-Étienne",
-      "explanation": "La cathédrale Saint-Étienne de Metz est l'un des plus hauts édifices gothiques de France avec sa nef culminant à 42 mètres. Elle est surnommée 'la lanterne du Bon Dieu' en raison de ses impressionnants 6 500 mètres carre de vitraux uniques. Ces œuvres exceptionnelles s'étendent du Moyen Âge à des créations de Marc Chagall."
+      "explanation": "La cathédrale Saint-Étienne de Metz est l'un des plus hauts édifices gothiques de France avec sa nef culminant à 42 mètres. Elle est surnommée 'la lanterne du Bon Dieu' en raison de ses impressionnants 6 500 mètres carre de vitraux uniques. Ces œuvres exceptionnelles s'étendent du Moyen Âge à des créations de Marc Chagall.",
+      "options": [
+        "La cathédrale Saint-Étienne",
+        "La basilique Saint-Paul",
+        "L'église Sainte-Thérèse de Lisieux",
+        "La cathédrale Notre-Dame de Strasbourg"
+      ]
     },
     {
       "id": "metz_6",
@@ -1768,11 +1942,17 @@
     },
     {
       "id": "metz_7",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel quartier historique de Metz, construit durant l'annexion allemande à la fin du XIXe siècle, présente une architecture impériale allemande ?",
       "answer": "Le quartier Impérial",
-      "explanation": "Le quartier Impérial de Metz a été aménagé à partir de 1902 sous l'impulsion de l'empereur Guillaume II pour moderniser la ville annexée. Ce secteur se caractérise par des avenues monumentales et de splendides villas de styles néo-roman et néo-gothique rhénans. Il témoigne aujourd'hui de la double influence architecturale franco-allemande de la cité."
+      "explanation": "Le quartier Impérial de Metz a été aménagé à partir de 1902 sous l'impulsion de l'empereur Guillaume II pour moderniser la ville annexée. Ce secteur se caractérise par des avenues monumentales et de splendides villas de styles néo-roman et néo-gothique rhénans. Il témoigne aujourd'hui de la double influence architecturale franco-allemande de la cité.",
+      "options": [
+        "Le quartier Impérial",
+        "Le quartier de la Gare",
+        "Le plateau de Queuleu",
+        "La presqu'île Saint-Pierre"
+      ]
     },
     {
       "id": "metz_8",
@@ -1790,11 +1970,17 @@
     },
     {
       "id": "metz_9",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle petite prune jaune très sucrée, spécialité de la Lorraine, est célébrée chaque année à Metz par une grande fête à la fin de l'été ?",
       "answer": "La mirabelle",
-      "explanation": "La fête de la Mirabelle est un événement festif incontournable qui se déroule chaque année à Metz depuis 1947. Elle célèbre le fruit symbole de la Lorraine avec des concerts, des défilés fleuris et l'élection de la Reine de la Mirabelle. C'est l'occasion idéale pour déguster cette prune d'or sous ses formes artisanales."
+      "explanation": "La fête de la Mirabelle est un événement festif incontournable qui se déroule chaque année à Metz depuis 1947. Elle célèbre le fruit symbole de la Lorraine avec des concerts, des défilés fleuris et l'élection de la Reine de la Mirabelle. C'est l'occasion idéale pour déguster cette prune d'or sous ses formes artisanales.",
+      "options": [
+        "La cerise griotte",
+        "La reine-claude",
+        "La pêche de vigne",
+        "La mirabelle"
+      ]
     },
     {
       "id": "metz_10",
@@ -1812,11 +1998,17 @@
     },
     {
       "id": "metz_11",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel ordre religieux militaire, possédant une chapelle templière unique en Lorraine de forme octogonale, était installé à Metz au XIIe siècle ?",
       "answer": "L'ordre du Temple",
-      "explanation": "La chapelle des Templiers de Metz, construite entre 1180 et 1220, est le seul vestige d'architecture templière conservé en Lorraine. Elle se distingue par son plan circulaire octogonal remarquable calqué sur le Saint-Sépulcre de Jérusalem. Le monument abrite également de superbes peintures murales d'époque médiévale récemment restaurées."
+      "explanation": "La chapelle des Templiers de Metz, construite entre 1180 et 1220, est le seul vestige d'architecture templière conservé en Lorraine. Elle se distingue par son plan circulaire octogonal remarquable calqué sur le Saint-Sépulcre de Jérusalem. Le monument abrite également de superbes peintures murales d'époque médiévale récemment restaurées.",
+      "options": [
+        "Les Hospitaliers de l'Hôpital Saint-Jean",
+        "L'Ordre de Saint-Jean de Jérusalem",
+        "La Milice du Saint-Sépulcre",
+        "L'ordre du Temple"
+      ]
     },
     {
       "id": "metz_12",
@@ -1834,11 +2026,17 @@
     },
     {
       "id": "metz_13",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom de la magnifique place de Metz, dessinée au XVIIIe siècle par l'architecte Jacques-François Blondel, abritant l'hôtel de ville ?",
       "answer": "La place d'Armes",
-      "explanation": "La place d'Armes de Metz a été dessinée au XVIIIe siècle sous le règne de Louis XV pour moderniser le centre-ville. Elle réunit avec élégance la cathédrale gothique, l'hôtel de ville classique et l'ancien palais épiscopal en pierre dorée de Jaumont. Elle constitue toujours le cœur civique et touristique de la cité messine."
+      "explanation": "La place d'Armes de Metz a été dessinée au XVIIIe siècle sous le règne de Louis XV pour moderniser le centre-ville. Elle réunit avec élégance la cathédrale gothique, l'hôtel de ville classique et l'ancien palais épiscopal en pierre dorée de Jaumont. Elle constitue toujours le cœur civique et touristique de la cité messine.",
+      "options": [
+        "La place de la Comédie",
+        "La place de la Paix",
+        "La place Saint-Pierre",
+        "La place d'Armes"
+      ]
     },
     {
       "id": "metz_14",
@@ -1856,11 +2054,17 @@
     },
     {
       "id": "metz_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle spécialité chocolatière de Metz, créée en 1934, consiste en une ganache enrobée de pâte d'amande puis de chocolat et de chapelure ?",
       "answer": "Le boulet de Metz",
-      "explanation": "Le boulet de Metz est une confiserie chocolatée traditionnelle inventée par le confiseur Léon Bour en hommage aux sièges de la ville. Cette boule gourmande se compose d'une ganache recouverte de pâte d'amande, trempée dans le chocolat puis roulée dans du biscuit croustillant. Elle reste aujourd'hui un produit touristique très apprécié des visiteurs de passage."
+      "explanation": "Le boulet de Metz est une confiserie chocolatée traditionnelle inventée par le confiseur Léon Bour en hommage aux sièges de la ville. Cette boule gourmande se compose d'une ganache recouverte de pâte d'amande, trempée dans le chocolat puis roulée dans du biscuit croustillant. Elle reste aujourd'hui un produit touristique très apprécié des visiteurs de passage.",
+      "options": [
+        "La tarte flambée au chocolat",
+        "Le bretzel praliné",
+        "Le boulet de Metz",
+        "Le macaron au miel de Lorraine"
+      ]
     },
     {
       "id": "metz_16",
@@ -1878,11 +2082,17 @@
     },
     {
       "id": "metz_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel est le nom de la rivière qui se jette dans la Moselle à Metz, après avoir bordé les remparts médiévaux de la ville ?",
       "answer": "La Seille",
-      "explanation": "La Seille is une charmante rivière qui coule à travers le département de la Moselle et conflue à Metz avec le fleuve Moselle. Elle a joué un rôle défensif primordial à l'époque médiévale en protégeant les fortifications orientales, notamment la porte des Allemands. Ses berges verdoyantes accueillent aujourd'hui de très agréables parcs urbains."
+      "explanation": "La Seille is une charmante rivière qui coule à travers le département de la Moselle et conflue à Metz avec le fleuve Moselle. Elle a joué un rôle défensif primordial à l'époque médiévale en protégeant les fortifications orientales, notamment la porte des Allemands. Ses berges verdoyantes accueillent aujourd'hui de très agréables parcs urbains.",
+      "options": [
+        "La Marne",
+        "La Seille",
+        "La Chiers",
+        "L'Alzette"
+      ]
     },
     {
       "id": "metz_18",
@@ -1900,11 +2110,17 @@
     },
     {
       "id": "metz_19",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel est le nom du superbe opéra-théâtre de Metz, situé sur l'île du Petit-Saulcy, qui est le plus ancien opéra en activité en France ?",
       "answer": "L'Opéra-Théâtre de Metz Métropole",
-      "explanation": "L'Opéra-Théâtre de Metz a été inauguré en 1752 au cœur d'une splendide île dessinée par la Moselle sous l'impulsion du duc de Belle-Isle. Construit dans un style classique très épuré, il possède une salle en forme de lyre d'une grande beauté. C'est le plus ancien théâtre lyrique français à être resté actif de manière continue."
+      "explanation": "L'Opéra-Théâtre de Metz a été inauguré en 1752 au cœur d'une splendide île dessinée par la Moselle sous l'impulsion du duc de Belle-Isle. Construit dans un style classique très épuré, il possède une salle en forme de lyre d'une grande beauté. C'est le plus ancien théâtre lyrique français à être resté actif de manière continue.",
+      "options": [
+        "Le Palais des Congrès de Metz",
+        "La Salle des Fêtes de Metz",
+        "L'Opéra-Théâtre de Metz Métropole",
+        "Le Théâtre Saint-Étienne de Metz"
+      ]
     },
     {
       "id": "metz_20",
@@ -1922,11 +2138,17 @@
     },
     {
       "id": "metz_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel célèbre peintre moderne d'origine biélorusse a conçu de sublimes vitraux colorés pour la cathédrale Saint-Étienne de Metz entre 1959 et 1968 ?",
       "answer": "Marc Chagall",
-      "explanation": "Marc Chagall a été invité par l'architecte en chef des monuments historiques à concevoir de grands vitraux pour les fenêtres gothiques de la cathédrale messine après la Seconde Guerre mondiale. Ses créations aux teintes bleues et jaunes intenses racontent des récits bibliques majeurs comme la Création du monde. Ces œuvres contemporaines magistrales s'insèrent avec une harmonie parfaite dans l'édifice gothique médiéval."
+      "explanation": "Marc Chagall a été invité par l'architecte en chef des monuments historiques à concevoir de grands vitraux pour les fenêtres gothiques de la cathédrale messine après la Seconde Guerre mondiale. Ses créations aux teintes bleues et jaunes intenses racontent des récits bibliques majeurs comme la Création du monde. Ces œuvres contemporaines magistrales s'insèrent avec une harmonie parfaite dans l'édifice gothique médiéval.",
+      "options": [
+        "Henri Matisse",
+        "Joan Miró",
+        "Marc Chagall",
+        "Pablo Picasso"
+      ]
     },
     {
       "id": "metz_22",
@@ -1944,11 +2166,17 @@
     },
     {
       "id": "metz_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel célèbre ouvrage manuscrit médiéval du XVe siècle retrace l'histoire politique de la république patricienne messine sous le gouvernement des paraiges ?",
       "answer": "La chronique de Philippe de Vigneulles",
-      "explanation": "Les chroniques de Metz, rédigées par l'écrivain et drapier Philippe de Vigneulles au début du XVIe siècle, constituent un témoignage inestimable de la vie urbaine messine de la Renaissance. Son œuvre documente avec rigueur et saveur populaire les conflits militaires, les fêtes de corporation et les mutations institutionnelles de la république de Metz. C'est un document historique majeur conservé dans les archives départementales."
+      "explanation": "Les chroniques de Metz, rédigées par l'écrivain et drapier Philippe de Vigneulles au début du XVIe siècle, constituent un témoignage inestimable de la vie urbaine messine de la Renaissance. Son œuvre documente avec rigueur et saveur populaire les conflits militaires, les fêtes de corporation et les mutations institutionnelles de la république de Metz. C'est un document historique majeur conservé dans les archives départementales.",
+      "options": [
+        "La Grande Chronique de Vienne, commande de Charles Quint",
+        "Le Liber Chronicarum de Hartmann Schedel",
+        "Les Annales de Saint-Blaise, rédigées par Jean de Bussière",
+        "La chronique de Philippe de Vigneulles"
+      ]
     },
     {
       "id": "metz_24",
@@ -1966,11 +2194,17 @@
     },
     {
       "id": "metz_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel grand musée d'art et d'histoire de Metz abrite de remarquables collections d'archéologie gallo-romaine et médiévale au sein d'anciens bâtiments religieux ?",
       "answer": "Le musée de La Cour d'Or",
-      "explanation": "Le musée de La Cour d'Or doit son nom historique au palais des rois mérovingiens d'Austrasie qui se dressait sur la colline Sainte-Croix. Il présente des collections d'archéologie exceptionnelles d'époque romaine, dont un ensemble de thermes antiques préservés in situ. Le musée recèle également un magnifique chancel en pierre mérovingien et de superbes plafonds peints médiévaux."
+      "explanation": "Le musée de La Cour d'Or doit son nom historique au palais des rois mérovingiens d'Austrasie qui se dressait sur la colline Sainte-Croix. Il présente des collections d'archéologie exceptionnelles d'époque romaine, dont un ensemble de thermes antiques préservés in situ. Le musée recèle également un magnifique chancel en pierre mérovingien et de superbes plafonds peints médiévaux.",
+      "options": [
+        "Le Centre Pompidou-Metz",
+        "Le musée de La Cour d'Or",
+        "La Maison Kammerzell",
+        "Le Musée Saint-Thomas"
+      ]
     },
     {
       "id": "metz_26",
@@ -1988,11 +2222,17 @@
     },
     {
       "id": "metz_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel grand espace de loisirs lacustre artificiel, aménagé le long du bras mort de la Moselle, fait face à l'île du Saulcy et accueille la plage urbaine en été ?",
       "answer": "Le Plan d'eau de Metz",
-      "explanation": "Le Plan d'eau de Metz est un vaste lac de plaisance aménagé dans les années 1970 au pied des remparts historiques de la ville. C'est un espace de promenade et de détente très prisé des familles, équipé d'un port de plaisance et de bateaux de croisière électriques. Il accueille chaque été l'événement festif 'Metz Plage' et propose de superbes vues sur la cathédrale."
+      "explanation": "Le Plan d'eau de Metz est un vaste lac de plaisance aménagé dans les années 1970 au pied des remparts historiques de la ville. C'est un espace de promenade et de détente très prisé des familles, équipé d'un port de plaisance et de bateaux de croisière électriques. Il accueille chaque été l'événement festif 'Metz Plage' et propose de superbes vues sur la cathédrale.",
+      "options": [
+        "La digue de la Chèvre",
+        "Le Plan d'eau de Metz",
+        "Le lac de la Mademoiselle",
+        "Le bassin du Temple"
+      ]
     },
     {
       "id": "metz_28",
@@ -2010,11 +2250,17 @@
     },
     {
       "id": "metz_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle sainte femme mérovingienne du VIIe siècle, fondatrice de l'abbaye de Saint-Pierre-aux-Nonnains, est célébrée comme l'une des saintes patronnes de Metz ?",
       "answer": "Sainte Glossinde",
-      "explanation": "Sainte Glossinde a fondé à la fin du VIe siècle un monastère de femmes hors des remparts de Metz, qui prit plus tard le nom d'abbaye de Sainte-Glossinde. Cette figure religieuse mérovingienne a contribué à l'expansion monastique brillante de la cité d'Austrasie. Ses reliques sont conservées avec dévotion dans la cathédrale de la ville."
+      "explanation": "Sainte Glossinde a fondé à la fin du VIe siècle un monastère de femmes hors des remparts de Metz, qui prit plus tard le nom d'abbaye de Sainte-Glossinde. Cette figure religieuse mérovingienne a contribué à l'expansion monastique brillante de la cité d'Austrasie. Ses reliques sont conservées avec dévotion dans la cathédrale de la ville.",
+      "options": [
+        "Sainte Odile",
+        "Sainte Glossinde",
+        "Sainte Clotilde",
+        "Sainte Bertille"
+      ]
     },
     {
       "id": "metz_30",

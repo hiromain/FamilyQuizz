@@ -344,6 +344,17 @@ export const GameProvider = ({ children }) => {
     );
   };
 
+  const removePlayer = async (targetPlayerId) => {
+    await runAction(
+      () => set(ref(db, `players/${targetPlayerId}`), null),
+      () => setPlayers(prev => {
+        const updated = { ...prev };
+        delete updated[targetPlayerId];
+        return updated;
+      })
+    );
+  };
+
   const clearAllPlayers = async () => {
     await runAction(
       async () => {
@@ -419,6 +430,7 @@ export const GameProvider = ({ children }) => {
     revealAnswer,
     revealQuestion,
     adjustScore,
+    removePlayer,
     clearAllPlayers,
     resetGameState,
   };

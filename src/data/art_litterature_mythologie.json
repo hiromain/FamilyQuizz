@@ -16,11 +16,409 @@
     },
     {
       "id": "art_litterature_mythologie_mythologies_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Dans la mythologie nordique, comment s'appelle le pont arc-en-ciel qui relie le monde des hommes (Midgard) à celui des dieux (Asgard) ?",
       "answer": "Bifröst",
-      "explanation": "Le Bifröst est un pont de lumière arc-en-ciel gardé sans relâche par le dieu Heimdall, doté d'une ouïe et d'une vue prodigieuses. Selon la prophétie du Ragnarök (la fin du monde nordique), ce pont s'effondrera sous le poids des géants de feu menés par Surt."
+      "explanation": "Le Bifröst est un pont de lumière arc-en-ciel gardé sans relâche par le dieu Heimdall, doté d'une ouïe et d'une vue prodigieuses. Selon la prophétie du Ragnarök (la fin du monde nordique), ce pont s'effondrera sous le poids des géants de feu menés par Surt.",
+      "options": [
+        "Bifröst",
+        "Yggdrasil",
+        "Niflheim",
+        "Valhalla"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Dans la mythologie égyptienne, quel dieu à tête de chacal préside à la momification et guide les morts vers l'au-delà ?",
+      "options": [
+        "Anubis",
+        "Horus",
+        "Rê",
+        "Thot"
+      ],
+      "answer": "Anubis",
+      "explanation": "Anubis est le dieu funéraire par excellence de l'Égypte antique. Il préside à la pesée du cœur des défunts et supervise le rite de momification, garantissant le passage du mort vers l'au-delà."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_4",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle déesse grecque de l'amour et de la beauté serait née de l'écume de la mer, selon la Théogonie d'Hésiode ?",
+      "options": [
+        "Aphrodite",
+        "Héra",
+        "Déméter",
+        "Perséphone"
+      ],
+      "answer": "Aphrodite",
+      "explanation": "Selon Hésiode, Aphrodite naît de l'écume formée autour des organes d'Ouranos tranchés par Cronos et jetés à la mer près de Chypre. Elle est la déesse de l'amour, de la beauté et du désir."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_5",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel dieu grec messager, reconnaissable à ses sandales ailées, est aussi le protecteur des voyageurs et du commerce ?",
+      "options": [
+        "Hermès",
+        "Apollon",
+        "Dionysos",
+        "Hadès"
+      ],
+      "answer": "Hermès",
+      "explanation": "Hermès est le messager des dieux de l'Olympe. Fils de Zeus et de la nymphe Maïa, il porte des sandales et un casque ailés, et protège aussi bien les voyageurs et les marchands que les voleurs."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le nom du marteau du dieu nordique Thor, capable de revenir dans sa main après avoir été lancé ?",
+      "options": [
+        "Mjöllnir",
+        "Gungnir",
+        "Gram",
+        "Excalibur"
+      ],
+      "answer": "Mjöllnir",
+      "explanation": "Mjöllnir est le marteau forgé par les nains Sindri et Brokk. Arme redoutable contre les géants, il possède la particularité magique de toujours retourner dans la main de Thor après avoir été lancé."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans la mythologie égyptienne, quel dieu du soleil traverse le ciel chaque jour à bord d'une barque céleste ?",
+      "options": [
+        "Rê",
+        "Osiris",
+        "Seth",
+        "Anubis"
+      ],
+      "answer": "Rê",
+      "explanation": "Rê (ou Râ) est le dieu solaire suprême de l'Égypte antique. Chaque jour, il traverse le ciel sur sa barque solaire, puis affronte la nuit le serpent du chaos Apopis dans le monde souterrain avant de renaître à l'aube."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_8",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel héros grec, fils de Zeus, doit accomplir douze travaux exceptionnels pour expier le meurtre de ses propres enfants ?",
+      "options": [
+        "Persée",
+        "Thésée",
+        "Héraclès",
+        "Achille"
+      ],
+      "answer": "Héraclès",
+      "explanation": "Héraclès (Hercule chez les Romains) est condamné par l'oracle de Delphes à se mettre au service du roi Eurysthée, qui lui impose douze travaux surhumains, comme terrasser le lion de Némée ou capturer Cerbère."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans la mythologie romaine, quel dieu de la guerre est l'équivalent direct du grec Arès ?",
+      "options": [
+        "Mars",
+        "Vulcain",
+        "Neptune",
+        "Jupiter"
+      ],
+      "answer": "Mars",
+      "explanation": "Mars est le dieu romain de la guerre, si important à Rome qu'il est considéré comme le père de Romulus et Remus, fondateurs légendaires de la ville. Le mois de mars lui doit son nom."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel arbre cosmique gigantesque relie les neuf mondes selon la mythologie nordique ?",
+      "options": [
+        "Yggdrasil",
+        "Bifröst",
+        "Midgard",
+        "Valhalla"
+      ],
+      "answer": "Yggdrasil",
+      "explanation": "Yggdrasil est le frêne cosmique dont les racines et les branches traversent l'ensemble des neuf mondes de la cosmologie nordique, y compris Asgard (les dieux) et Midgard (les hommes)."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_11",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans la mythologie hindoue, quel dieu à tête d'éléphant est invoqué en premier pour lever les obstacles avant toute entreprise importante ?",
+      "options": [
+        "Ganesh",
+        "Shiva",
+        "Vishnu",
+        "Brahma"
+      ],
+      "answer": "Ganesh",
+      "explanation": "Fils de Shiva et Parvati, Ganesh est l'une des divinités les plus vénérées de l'hindouisme. Doté d'une tête d'éléphant, il est traditionnellement invoqué en premier, avant tout rituel, voyage ou projet."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_12",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans l'Odyssée, quelles créatures mi-femmes mi-oiseaux attirent les marins vers les récifs par leur chant envoûtant ?",
+      "options": [
+        "Les sirènes",
+        "Les harpies",
+        "Les gorgones",
+        "Les nymphes"
+      ],
+      "answer": "Les sirènes",
+      "explanation": "Dans la mythologie grecque antique, les sirènes sont représentées comme des femmes-oiseaux. Ulysse, prévenu par la magicienne Circé, se fait attacher au mât de son navire pour résister à leur chant mortel."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans la mythologie aztèque, quel dieu-serpent à plumes est associé au vent, à la connaissance et à la planète Vénus ?",
+      "options": [
+        "Quetzalcóatl",
+        "Huitzilopochtli",
+        "Tezcatlipoca",
+        "Tláloc"
+      ],
+      "answer": "Quetzalcóatl",
+      "explanation": "Quetzalcóatl, le 'serpent à plumes', est l'une des divinités majeures du panthéon aztèque et plus largement mésoaméricain. Il est associé à la création du monde, au vent et à l'apprentissage du maïs."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_14",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans la mythologie celtique irlandaise, quel dieu, père de la tribu des Tuatha Dé Danann, possède un chaudron magique toujours rempli ?",
+      "options": [
+        "Le Dagda",
+        "Lugh",
+        "Cernunnos",
+        "Nuada"
+      ],
+      "answer": "Le Dagda",
+      "explanation": "Le Dagda est une figure paternelle et protectrice du panthéon irlandais. Son chaudron d'abondance ne se vide jamais, et sa massue peut aussi bien tuer les vivants que ressusciter les morts."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_15",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans la mythologie égyptienne, quelle déesse protectrice, épouse d'Osiris et mère d'Horus, est représentée coiffée d'un trône ?",
+      "options": [
+        "Isis",
+        "Nephtys",
+        "Hathor",
+        "Bastet"
+      ],
+      "answer": "Isis",
+      "explanation": "Isis est l'une des divinités les plus importantes d'Égypte, vénérée pour avoir ressuscité son époux Osiris assassiné par Seth. Son nom hiéroglyphique se lit littéralement 'trône', symbole qu'elle porte sur la tête."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_16",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Dans la mythologie japonaise, quelle déesse du soleil se retire dans une grotte, plongeant le monde entier dans les ténèbres ?",
+      "options": [
+        "Amaterasu",
+        "Izanami",
+        "Susanoo",
+        "Tsukuyomi"
+      ],
+      "answer": "Amaterasu",
+      "explanation": "Amaterasu, déesse du soleil, se réfugie dans la grotte céleste d'Ame-no-Iwato après une dispute avec son frère Susanoo. Les autres dieux doivent ruser pour la faire sortir et rendre la lumière au monde."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_17",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel est le nom du poème épique sumérien relatant la quête d'immortalité d'un roi, considéré comme l'une des plus anciennes œuvres littéraires connues ?",
+      "options": [
+        "L'Épopée de Gilgamesh",
+        "L'Enuma Elish",
+        "Le Livre des Morts",
+        "La Théogonie"
+      ],
+      "answer": "L'Épopée de Gilgamesh",
+      "explanation": "Composée en Mésopotamie il y a environ 4000 ans, l'Épopée de Gilgamesh raconte les aventures du roi d'Uruk parti en quête de l'immortalité après la mort de son ami Enkidu. Elle contient un récit de déluge antérieur à la Bible."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_18",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Dans la mythologie nordique, quel loup géant est destiné à tuer Odin lors du Ragnarök, avant d'être lui-même terrassé ?",
+      "options": [
+        "Fenrir",
+        "Jörmungand",
+        "Sleipnir",
+        "Garm"
+      ],
+      "answer": "Fenrir",
+      "explanation": "Fenrir est un loup monstrueux, fils du dieu rusé Loki. Les dieux parviennent à l'enchaîner grâce à un lien magique, Gleipnir, mais la prophétie annonce qu'il se libérera lors du Ragnarök pour dévorer Odin."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_19",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel dieu grec, souverain des Enfers, règne sur le royaume des morts sans jamais siéger sur l'Olympe ?",
+      "options": [
+        "Hadès",
+        "Poséidon",
+        "Arès",
+        "Héphaïstos"
+      ],
+      "answer": "Hadès",
+      "explanation": "Frère de Zeus et de Poséidon, Hadès reçoit en partage le monde souterrain lors du partage de l'univers entre les trois fils de Cronos. Il est aussi le dieu des richesses cachées dans la terre."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_20",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel est le nom du bateau construit avec les ongles des morts qui, selon la mythologie nordique, transportera les géants lors du Ragnarök ?",
+      "options": [
+        "Naglfar",
+        "Skidbladnir",
+        "Draupnir",
+        "Gungnir"
+      ],
+      "answer": "Naglfar",
+      "explanation": "Naglfar est un navire funeste fait des ongles non coupés des défunts. Selon la prophétie du Ragnarök, il prendra la mer chargé de géants pour affronter les dieux lors de la bataille finale."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel dieu grec, frère de Zeus, règne sur les mers et les océans, armé d'un trident ?",
+      "options": [
+        "Poséidon",
+        "Hadès",
+        "Apollon",
+        "Héphaïstos"
+      ],
+      "answer": "Poséidon",
+      "explanation": "Poséidon règne sur le domaine marin après le partage de l'univers entre les trois fils de Cronos. Redouté des marins, il est aussi capable de provoquer des tremblements de terre en frappant le sol de son trident."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel dieu égyptien de la résurrection a été assassiné et démembré par son frère Seth avant d'être ressuscité par son épouse Isis ?",
+      "options": [
+        "Osiris",
+        "Anubis",
+        "Horus",
+        "Thot"
+      ],
+      "answer": "Osiris",
+      "explanation": "Osiris devient, après sa résurrection, le juge et le souverain du royaume des morts. Son mythe fondateur symbolise le cycle des crues du Nil et la promesse d'une vie après la mort pour les anciens Égyptiens."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel dieu suprême de la mythologie nordique, borgne et sage, règne sur Asgard et accueille au Valhalla les guerriers morts au combat ?",
+      "options": [
+        "Odin",
+        "Thor",
+        "Loki",
+        "Tyr"
+      ],
+      "answer": "Odin",
+      "explanation": "Odin a sacrifié un œil pour obtenir la sagesse à la source de Mimir. Accompagné de ses deux corbeaux Hugin et Munin, il parcourt les neuf mondes en quête de savoir et prépare ses guerriers pour le Ragnarök."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_24",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel monstrueux chien à trois têtes garde l'entrée des Enfers dans la mythologie grecque, empêchant les morts d'en ressortir ?",
+      "options": [
+        "Cerbère",
+        "L'Hydre de Lerne",
+        "La Chimère",
+        "Le Sphinx"
+      ],
+      "answer": "Cerbère",
+      "explanation": "Cerbère est le fils monstrueux de Typhon et d'Échidna. Dans le cadre de son douzième et dernier travail, Héraclès parvient à le maîtriser à mains nues et à le ramener brièvement à la surface."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel dieu rusé et changeant de la mythologie nordique, souvent complice puis ennemi des autres dieux, est le père du loup Fenrir ?",
+      "options": [
+        "Loki",
+        "Baldr",
+        "Heimdall",
+        "Tyr"
+      ],
+      "answer": "Loki",
+      "explanation": "Loki incarne la ruse et le chaos dans la mythologie nordique. De ses unions naissent plusieurs créatures monstrueuses, dont le loup Fenrir, le serpent Jörmungand et Hel, la déesse du royaume des morts."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel titan grec a dérobé le feu aux dieux de l'Olympe pour en faire don à l'humanité, avant d'être condamné à un châtiment éternel ?",
+      "options": [
+        "Prométhée",
+        "Atlas",
+        "Cronos",
+        "Ouranos"
+      ],
+      "answer": "Prométhée",
+      "explanation": "En punition, Zeus fait enchaîner Prométhée à un rocher, où un aigle vient chaque jour lui dévorer le foie, qui repousse la nuit suivante, jusqu'à ce qu'Héraclès le délivre finalement de son supplice."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle gorgone de la mythologie grecque, à la chevelure de serpents, pouvait pétrifier quiconque croisait son regard ?",
+      "options": [
+        "Méduse",
+        "Échidna",
+        "Scylla",
+        "Circé"
+      ],
+      "answer": "Méduse",
+      "explanation": "Le héros Persée parvient à trancher la tête de Méduse en évitant son regard grâce au reflet de son bouclier poli. De son sang naît Pégase, le cheval ailé, ainsi que le guerrier Chrysaor."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel dieu hindou, souvent représenté avec un troisième œil, incarne à la fois la destruction et la transformation au sein de la Trimurti ?",
+      "options": [
+        "Shiva",
+        "Vishnu",
+        "Brahma",
+        "Indra"
+      ],
+      "answer": "Shiva",
+      "explanation": "Aux côtés de Brahma le créateur et Vishnu le préservateur, Shiva forme la Trimurti, la triade divine principale de l'hindouisme. Sa danse cosmique, le Tandava, symbolise la destruction créatrice de l'univers."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel titan grec, père de Zeus, dévorait ses propres enfants par crainte d'être un jour détrôné par l'un d'eux ?",
+      "options": [
+        "Cronos",
+        "Ouranos",
+        "Atlas",
+        "Hypérion"
+      ],
+      "answer": "Cronos",
+      "explanation": "Rhéa, épouse de Cronos, parvient à sauver son dernier fils Zeus en lui substituant une pierre emmaillotée. Devenu adulte, Zeus force son père à régurgiter ses frères et sœurs et le renverse à la tête des dieux de l'Olympe."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel dieu égyptien du chaos et du désert, souvent représenté avec une tête d'animal indéterminé, est responsable du meurtre de son frère Osiris ?",
+      "options": [
+        "Seth",
+        "Anubis",
+        "Sobek",
+        "Khnoum"
+      ],
+      "answer": "Seth",
+      "explanation": "Seth incarne les forces destructrices et le désordre dans la mythologie égyptienne. Il affronte longuement son neveu Horus pour la possession du trône d'Égypte, avant que les dieux ne tranchent finalement en faveur de ce dernier."
     }
   ],
   "Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains": [
@@ -40,11 +438,409 @@
     },
     {
       "id": "art_litterature_mythologie_chefs_oeuvre_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel célèbre auteur français a écrit les romans d'aventures 'Vingt Mille Lieues sous les mers' et 'Le Tour du monde en quatre-vingts jours' ?",
       "answer": "Jules Verne",
-      "explanation": "Jules Verne (1828-1905) est considéré comme l'un des pères de la science-fiction moderne. Ses romans d'aventures et d'anticipation, regroupés sous le titre de 'Voyages extraordinaires', ont fasciné des générations de lecteurs grâce à son imagination visionnaire (il a anticipé les sous-marins électriques ou les voyages sur la Lune)."
+      "explanation": "Jules Verne (1828-1905) est considéré comme l'un des pères de la science-fiction moderne. Ses romans d'aventures et d'anticipation, regroupés sous le titre de 'Voyages extraordinaires', ont fasciné des générations de lecteurs grâce à son imagination visionnaire (il a anticipé les sous-marins électriques ou les voyages sur la Lune).",
+      "options": [
+        "Victor Hugo",
+        "Albert Camus",
+        "Alexandre Dumas",
+        "Jules Verne"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel écrivain français est l'auteur des romans 'Les Misérables' et 'Notre-Dame de Paris' ?",
+      "options": [
+        "Victor Hugo",
+        "Émile Zola",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "answer": "Victor Hugo",
+      "explanation": "Figure majeure du romantisme français, Victor Hugo (1802-1885) a marqué la littérature et la vie politique de son siècle. 'Les Misérables' (1862) reste l'une des œuvres les plus lues et adaptées au monde."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_4",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel peintre italien de la Renaissance a peint 'La Joconde', aujourd'hui exposée au musée du Louvre ?",
+      "options": [
+        "Léonard de Vinci",
+        "Michel-Ange",
+        "Raphaël",
+        "Sandro Botticelli"
+      ],
+      "answer": "Léonard de Vinci",
+      "explanation": "Peint au début du XVIe siècle, ce portrait énigmatique de Lisa Gherardini est devenu le tableau le plus célèbre au monde, en partie grâce à son sourire mystérieux et à son vol spectaculaire au Louvre en 1911."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_5",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel dramaturge anglais est l'auteur des tragédies 'Roméo et Juliette' et 'Hamlet' ?",
+      "options": [
+        "William Shakespeare",
+        "Christopher Marlowe",
+        "Oscar Wilde",
+        "Charles Dickens"
+      ],
+      "answer": "William Shakespeare",
+      "explanation": "Dramaturge et poète du XVIe siècle, Shakespeare est considéré comme le plus grand écrivain de langue anglaise. Ses pièces continuent d'être jouées et adaptées dans le monde entier plus de quatre siècles après sa mort."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel sculpteur français a créé les célèbres statues 'Le Penseur' et 'Le Baiser' ?",
+      "options": [
+        "Auguste Rodin",
+        "Camille Claudel",
+        "Antoine Bourdelle",
+        "Aristide Maillol"
+      ],
+      "answer": "Auguste Rodin",
+      "explanation": "Auguste Rodin (1840-1917) est considéré comme le père de la sculpture moderne. 'Le Penseur', à l'origine destiné à orner 'La Porte de l'Enfer', est devenue une œuvre autonome mondialement célèbre."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_7",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel romancier français, prix Nobel de littérature 1957, a écrit 'L'Étranger' et 'La Peste' ?",
+      "options": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "André Gide",
+        "François Mauriac"
+      ],
+      "answer": "Albert Camus",
+      "explanation": "Albert Camus (1913-1960) développe dans son œuvre la philosophie de l'absurde. Prix Nobel de littérature à 44 ans, il reste l'un des plus jeunes lauréats de l'histoire du prix."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_8",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel écrivain russe est l'auteur des romans-fleuves 'Guerre et Paix' et 'Anna Karénine' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Anton Tchekhov",
+        "Nikolaï Gogol"
+      ],
+      "answer": "Léon Tolstoï",
+      "explanation": "Léon Tolstoï (1828-1910) est l'un des plus grands romanciers russes. 'Guerre et Paix', qui dépeint la société russe pendant les guerres napoléoniennes, est considéré comme un sommet de la littérature mondiale."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel peintre néerlandais post-impressionniste a peint 'La Nuit étoilée' durant son séjour à l'asile de Saint-Rémy-de-Provence ?",
+      "options": [
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Paul Cézanne",
+        "Paul Gauguin"
+      ],
+      "answer": "Vincent van Gogh",
+      "explanation": "Peinte en 1889, 'La Nuit étoilée' est l'une des œuvres les plus reconnaissables au monde. Van Gogh l'a peinte de mémoire et d'imagination depuis la fenêtre de sa chambre à l'asile Saint-Paul-de-Mausole."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel philosophe et écrivain français des Lumières est l'auteur du conte philosophique 'Candide' ?",
+      "options": [
+        "Voltaire",
+        "Jean-Jacques Rousseau",
+        "Denis Diderot",
+        "Montesquieu"
+      ],
+      "answer": "Voltaire",
+      "explanation": "Publié en 1759, 'Candide ou l'Optimisme' est une satire féroce de la philosophie optimiste de Leibniz, à travers les mésaventures rocambolesques du jeune Candide à travers le monde."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_11",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel romancier britannique a créé le détective Sherlock Holmes et son fidèle acolyte le docteur Watson ?",
+      "options": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Wilkie Collins",
+        "H. G. Wells"
+      ],
+      "answer": "Arthur Conan Doyle",
+      "explanation": "Médecin de formation, Arthur Conan Doyle a créé en 1887 le détective le plus célèbre de la littérature, inspiré en partie par les méthodes déductives de l'un de ses professeurs de médecine."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_12",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel peintre norvégien est l'auteur du tableau expressionniste 'Le Cri', symbole de l'angoisse existentielle ?",
+      "options": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Wassily Kandinsky"
+      ],
+      "answer": "Edvard Munch",
+      "explanation": "Peint en 1893, 'Le Cri' représente une figure au visage déformé hurlant sur un pont, sous un ciel rouge sang. Munch en a réalisé plusieurs versions, aujourd'hui parmi les œuvres les plus reproduites au monde."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle autrice anglaise du XIXe siècle a écrit 'Orgueil et Préjugés', suivant les tribulations amoureuses d'Elizabeth Bennet ?",
+      "options": [
+        "Jane Austen",
+        "Charlotte Brontë",
+        "Mary Shelley",
+        "Virginia Woolf"
+      ],
+      "answer": "Jane Austen",
+      "explanation": "Publié en 1813, 'Orgueil et Préjugés' est l'un des romans les plus populaires de la littérature anglaise, connu pour son ironie mordante sur les mœurs et les mariages de la petite noblesse britannique."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_14",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel poète français, prodige de la poésie symboliste, a écrit 'Le Bateau ivre' à l'âge de seulement 16 ans ?",
+      "options": [
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Stéphane Mallarmé",
+        "Charles Baudelaire"
+      ],
+      "answer": "Arthur Rimbaud",
+      "explanation": "Arthur Rimbaud (1854-1891) cesse d'écrire avant ses 21 ans mais marque durablement la poésie moderne. 'Le Bateau ivre', écrit en 1871, décrit le voyage halluciné d'un navire à la dérive."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_15",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel sculpteur et peintre de la Renaissance italienne a réalisé le 'David' de Florence et peint le plafond de la chapelle Sixtine ?",
+      "options": [
+        "Michel-Ange",
+        "Léonard de Vinci",
+        "Donatello",
+        "Raphaël"
+      ],
+      "answer": "Michel-Ange",
+      "explanation": "Michel-Ange (1475-1564) a sculpté son 'David' de plus de 5 mètres de haut dans un unique bloc de marbre, puis a peint seul, allongé sur un échafaudage, la voûte de la chapelle Sixtine entre 1508 et 1512."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_16",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel peintre espagnol surréaliste est célèbre pour ses montres molles représentées dans 'La Persistance de la mémoire' ?",
+      "options": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "René Magritte",
+        "Max Ernst"
+      ],
+      "answer": "Salvador Dalí",
+      "explanation": "Peinte en 1931, cette petite toile montre des montres à gousset fondues dans un paysage désertique. Dalí y explore la relativité du temps, thème alors récemment popularisé par les travaux d'Einstein."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_17",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel écrivain irlandais est l'auteur du roman 'Ulysse', l'un des romans les plus influents et les plus complexes du XXe siècle ?",
+      "options": [
+        "James Joyce",
+        "Samuel Beckett",
+        "Oscar Wilde",
+        "Bram Stoker"
+      ],
+      "answer": "James Joyce",
+      "explanation": "Publié en 1922, 'Ulysse' relate en plus de 700 pages une seule journée, le 16 juin 1904, dans la vie de Leopold Bloom à Dublin, en écho à l'Odyssée d'Homère. Son style novateur bouleverse la narration romanesque."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_18",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel peintre néerlandais du XVIIe siècle, maître du clair-obscur, a peint 'La Ronde de nuit' ?",
+      "options": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Pierre Paul Rubens",
+        "Frans Hals"
+      ],
+      "answer": "Rembrandt",
+      "explanation": "Rembrandt van Rijn (1606-1669) est le grand maître du Siècle d'or néerlandais. 'La Ronde de nuit' (1642), immense portrait de milice bourgeoise, est célèbre pour son jeu spectaculaire de lumières et d'ombres."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_19",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel romancier de langue allemande, né à Prague, est l'auteur de 'La Métamorphose', récit de la transformation de Gregor Samsa en insecte ?",
+      "options": [
+        "Franz Kafka",
+        "Thomas Mann",
+        "Hermann Hesse",
+        "Stefan Zweig"
+      ],
+      "answer": "Franz Kafka",
+      "explanation": "Franz Kafka (1883-1924) a laissé une œuvre marquée par l'angoisse et l'absurde bureaucratique. 'La Métamorphose' (1915) est l'une des nouvelles les plus étudiées de la littérature du XXe siècle."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_20",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel écrivain colombien, prix Nobel de littérature 1982, est l'auteur de 'Cent ans de solitude', chef-d'œuvre du réalisme magique ?",
+      "options": [
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa",
+        "Pablo Neruda",
+        "Jorge Luis Borges"
+      ],
+      "answer": "Gabriel García Márquez",
+      "explanation": "Publié en 1967, 'Cent ans de solitude' retrace sur plusieurs générations la saga de la famille Buendía dans le village imaginaire de Macondo, mêlant réalisme et éléments fantastiques."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel romancier français est le créateur du commissaire Maigret, héros d'une centaine de romans policiers ?",
+      "options": [
+        "Georges Simenon",
+        "Boileau-Narcejac",
+        "Léo Malet",
+        "Frédéric Dard"
+      ],
+      "answer": "Georges Simenon",
+      "explanation": "Écrivain belge d'expression française d'une prolixité exceptionnelle, Georges Simenon a publié près de 200 romans au cours de sa carrière, dont 75 mettant en scène le commissaire Maigret, arpentant les rues de Paris."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel peintre français impressionniste est célèbre pour ses séries de tableaux de Nymphéas peintes dans son jardin de Giverny ?",
+      "options": [
+        "Claude Monet",
+        "Édouard Manet",
+        "Camille Pissarro",
+        "Alfred Sisley"
+      ],
+      "answer": "Claude Monet",
+      "explanation": "Installé à Giverny à partir de 1883, Claude Monet y a aménagé un jardin d'eau qui est devenu le sujet principal de ses toiles durant les trente dernières années de sa vie, jusqu'à la quasi-cécité."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle romancière britannique, autrice la plus vendue de tous les temps derrière la Bible et Shakespeare, a créé le détective belge Hercule Poirot ?",
+      "options": [
+        "Agatha Christie",
+        "Dorothy L. Sayers",
+        "P.D. James",
+        "Ruth Rendell"
+      ],
+      "answer": "Agatha Christie",
+      "explanation": "Agatha Christie a publié plus de 66 romans policiers. Outre Hercule Poirot, elle a également créé la détective amateur Miss Marple, autre figure emblématique du roman policier britannique."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel dramaturge français du XVIIe siècle, auteur du 'Misanthrope' et de 'Tartuffe', dirigeait sa propre troupe qui fusionnera après sa mort pour former la Comédie-Française ?",
+      "options": [
+        "Molière",
+        "Jean Racine",
+        "Pierre Corneille",
+        "Beaumarchais"
+      ],
+      "answer": "Molière",
+      "explanation": "Molière était à la fois auteur, metteur en scène et comédien de sa propre troupe. Il meurt en 1673 après un malaise sur scène lors d'une représentation du 'Malade imaginaire', dans lequel il jouait le rôle principal."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel peintre austro-hongrois, figure de proue de la Sécession viennoise, est l'auteur du célèbre tableau doré 'Le Baiser' ?",
+      "options": [
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Oskar Kokoschka",
+        "Edvard Munch"
+      ],
+      "answer": "Gustav Klimt",
+      "explanation": "Peint entre 1907 et 1908, 'Le Baiser' appartient à la 'période dorée' de Klimt, caractérisée par l'emploi abondant de feuilles d'or, une technique inspirée par les mosaïques byzantines qu'il avait admirées à Ravenne."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel romancier américain, prix Nobel de littérature 1954, est l'auteur du court roman 'Le Vieil Homme et la Mer' ?",
+      "options": [
+        "Ernest Hemingway",
+        "William Faulkner",
+        "John Steinbeck",
+        "F. Scott Fitzgerald"
+      ],
+      "answer": "Ernest Hemingway",
+      "explanation": "Publié en 1952, 'Le Vieil Homme et la Mer' raconte le combat épuisant d'un vieux pêcheur cubain contre un espadon géant. Ce texte a valu à Hemingway le prix Pulitzer avant de contribuer à son prix Nobel deux ans plus tard."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle romancière et philosophe française, figure majeure de l'existentialisme, est l'autrice du 'Deuxième Sexe' ?",
+      "options": [
+        "Simone de Beauvoir",
+        "Marguerite Yourcenar",
+        "Colette",
+        "Nathalie Sarraute"
+      ],
+      "answer": "Simone de Beauvoir",
+      "explanation": "Publié en 1949, 'Le Deuxième Sexe' est considéré comme un texte fondateur du féminisme moderne. Simone de Beauvoir y développe notamment l'idée célèbre selon laquelle 'on ne naît pas femme, on le devient'."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel poète français, auteur des 'Fleurs du Mal', a scandalisé la société de son époque et fait l'objet d'un procès pour outrage aux bonnes mœurs en 1857 ?",
+      "options": [
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Stéphane Mallarmé"
+      ],
+      "answer": "Charles Baudelaire",
+      "explanation": "Le recueil 'Les Fleurs du Mal' vaut à Baudelaire une condamnation pour outrage à la morale publique, entraînant le retrait de six poèmes jugés trop scandaleux. Il ne sera officiellement réhabilité par la justice française qu'en 1949."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel peintre français, chef de file du mouvement pointilliste, a peint 'Un dimanche après-midi à l'Île de la Grande Jatte' à l'aide de milliers de petits points de couleur juxtaposés ?",
+      "options": [
+        "Georges Seurat",
+        "Paul Signac",
+        "Camille Pissarro",
+        "Henri de Toulouse-Lautrec"
+      ],
+      "answer": "Georges Seurat",
+      "explanation": "Achevée en 1886, cette toile monumentale illustre le principe du divisionnisme théorisé par Seurat : juxtaposer de petites touches de couleurs pures que l'œil du spectateur recompose optiquement à distance."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel sculpteur florentin du Quattrocento est l'auteur d'un 'David' en bronze, considéré comme la première statue nue autoportante depuis l'Antiquité ?",
+      "options": [
+        "Donatello",
+        "Michel-Ange",
+        "Verrocchio",
+        "Lorenzo Ghiberti"
+      ],
+      "answer": "Donatello",
+      "explanation": "Réalisé vers 1440 pour la famille Médicis, le 'David' de Donatello précède de plus de soixante ans celui, en marbre, de Michel-Ange. Sa nudité et sa pose sensuelle ont profondément marqué la sculpture de la Renaissance."
     }
   ]
 }

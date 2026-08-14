@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { C } from '../../constants/design';
+import { C } from '../../constants/theme';
 
 /** Synchronized Timer / Countdown progress bar */
 export default function TimerBar({ endsAt, duration, onExpire }) {

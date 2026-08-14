@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { C, DIFF } from '../../constants/design';
+import { C, DIFF } from '../../constants/theme';
 import Pill from '../../components/ui/Pill';
 import TimerBar from '../../components/ui/TimerBar';
 import MonoLabel from '../../components/ui/MonoLabel';
@@ -626,10 +626,14 @@ export default function GamePanel({
                     const revealed = isAnswerRevealed && isCorrect;
                     const wrong    = isAnswerRevealed && !isCorrect;
                     return (
-                      <div key={i} style={{
+                      <div
+                        key={i}
+                        onClick={() => { revealAnswer(!isAnswerRevealed); setRevealedAnswer(!isAnswerRevealed); }}
+                        style={{
                         display: 'flex', alignItems: 'center', gap: 14,
                         padding: isMobile ? '13px 15px' : '16px 20px',
                         borderRadius: 15,
+                        cursor: 'pointer',
                         background: revealed
                           ? `linear-gradient(135deg, ${C.mint}22, ${C.mint}0d)`
                           : wrong ? 'rgba(255,255,255,0.02)'
@@ -639,7 +643,10 @@ export default function GamePanel({
                         transition: 'all 0.35s cubic-bezier(0.2,0.8,0.2,1)',
                         opacity: wrong ? 0.40 : 1,
                         position: 'relative', overflow: 'hidden',
-                      }}>
+                      }}
+                        onMouseEnter={e => { if (!isAnswerRevealed) e.currentTarget.style.transform = 'scale(1.015)'; }}
+                        onMouseLeave={e => { e.currentTarget.style.transform = 'scale(1)'; }}
+                      >
                         <div style={{
                           width: isMobile ? 36 : 42, height: isMobile ? 36 : 42,
                           borderRadius: 11, flexShrink: 0,

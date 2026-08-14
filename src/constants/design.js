@@ -1,16 +1,13 @@
 import questionsData from '../data/questions';
 
-// ─── Design tokens (mirrors index.css variables) ───────────────────────────
-export const C = {
-  coral:  '#ff8466',
-  amber:  '#f5b54a',
-  mint:   '#6fe0c4',
-  rose:   '#ff6f9c',
-  sky:    '#7eb8ff',
-  red:    '#ef5973',
-  ink:    '#fbf3ee',
-  bg:     '#140a1f',
-};
+// ─── HEAVY MODULE — do not import from lightweight/mobile-first screens ────
+// This file drags in the full question bank (all 16 JSON files, ~3.7MB raw).
+// Only the Game Master cockpit needs it. Everything else (WelcomeScreen,
+// PlayerScreen, ProjectionScreen, shared ui/ components) must import color
+// tokens (C, DIFF) from ./theme.js instead, or the question data ends up in
+// the bundle every player downloads just to join. GameMasterScreen is lazy
+// loaded (see App.jsx) specifically so this module's cost is only paid by
+// whoever actually opens the Cockpit.
 
 // ─── Helper to restructure flat themes into a nested Category Tree ─────────
 const getCategoryTree = () => {
@@ -64,21 +61,4 @@ export const CAT_EMOJI = {
   'Inventions & Découvertes':     '💡',
   'Informatique':                 '💻',
   'Divers':                       '✨',
-};
-
-// ─── Difficulty config ────────────────────────────────────────────────────
-export const DIFF = {
-  facile:    { color: C.mint,  points: 1, label: 'Facile'    },
-  moyen:     { color: C.amber, points: 2, label: 'Moyen'     },
-  difficile: { color: C.coral, points: 3, label: 'Difficile' },
-};
-
-export const getDiffStyle = (d) => {
-  const key = d?.toLowerCase() || 'moyen';
-  const cfg = DIFF[key] || DIFF.moyen;
-  return {
-    background: `${cfg.color}22`,
-    border: `1px solid ${cfg.color}66`,
-    color: cfg.color,
-  };
 };

@@ -2,11 +2,17 @@
   "whisky": [
     {
       "id": "whisky_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel pays est historiquement réputé pour l'invention et la production de Bourbon ?",
       "answer": "Les États-Unis (USA)",
-      "explanation": "Le Bourbon tire son nom du comté de Bourbon, situé dans l'État du Kentucky aux États-Unis. Bien que ses origines précises soient débattues, cette boisson s'est imposée comme le spiritueux emblématique américain par excellence dès le XVIIIe siècle. Une loi du Congrès l'a d'ailleurs reconnu officiellement comme un produit distinctif des États-Unis en 1964."
+      "explanation": "Le Bourbon tire son nom du comté de Bourbon, situé dans l'État du Kentucky aux États-Unis. Bien que ses origines précises soient débattues, cette boisson s'est imposée comme le spiritueux emblématique américain par excellence dès le XVIIIe siècle. Une loi du Congrès l'a d'ailleurs reconnu officiellement comme un produit distinctif des États-Unis en 1964.",
+      "options": [
+        "Le Royaume-Uni",
+        "Les États-Unis (USA)",
+        "L'Écosse",
+        "La France"
+      ]
     },
     {
       "id": "whisky_2",
@@ -38,11 +44,17 @@
     },
     {
       "id": "whisky_4",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Dans quel type de contenant en bois le whisky doit-il obligatoirement vieillir pour obtenir son appellation ?",
       "answer": "Un fût de chêne",
-      "explanation": "Le vieillissement en fûts de chêne est une condition légale indispensable pour que le distillat puisse porter le nom de whisky. Le bois interagit avec l'alcool au fil des années, lui conférant sa couleur dorée ainsi qu'une grande partie de ses arômes complexes. La plupart des distilleries utilisent des fûts ayant préalablement contenu du Bourbon américain ou du vin de Xérès espagnol."
+      "explanation": "Le vieillissement en fûts de chêne est une condition légale indispensable pour que le distillat puisse porter le nom de whisky. Le bois interagit avec l'alcool au fil des années, lui conférant sa couleur dorée ainsi qu'une grande partie de ses arômes complexes. La plupart des distilleries utilisent des fûts ayant préalablement contenu du Bourbon américain ou du vin de Xérès espagnol.",
+      "options": [
+        "Un fût de chêne",
+        "Un grand pichet de cèdre",
+        "Un tonneau de noyer",
+        "Une barrique de châtaignier"
+      ]
     },
     {
       "id": "whisky_5",
@@ -60,11 +72,17 @@
     },
     {
       "id": "whisky_6",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle est la durée minimale légale de vieillissement en fût (en années) pour qu'un spiritueux puisse être vendu sous l'appellation Scotch Whisky en Europe ?",
       "answer": "3 ans",
-      "explanation": "Selon la réglementation écossaise et européenne, un distillat de céréales doit vieillir au minimum trois ans dans des fûts de chêne sur le territoire écossais pour obtenir l'appellation Scotch Whisky. Durant cette période obligatoire, la part des anges s'évapore progressivement et l'alcool s'adoucit au contact du bois. La plupart des single malts haut de gamme vieillissent toutefois bien plus longtemps, souvent entre 10 et 18 ans."
+      "explanation": "Selon la réglementation écossaise et européenne, un distillat de céréales doit vieillir au minimum trois ans dans des fûts de chêne sur le territoire écossais pour obtenir l'appellation Scotch Whisky. Durant cette période obligatoire, la part des anges s'évapore progressivement et l'alcool s'adoucit au contact du bois. La plupart des single malts haut de gamme vieillissent toutefois bien plus longtemps, souvent entre 10 et 18 ans.",
+      "options": [
+        "3 ans",
+        "10 ans",
+        "8 ans",
+        "5 ans"
+      ]
     },
     {
       "id": "whisky_7",
@@ -82,11 +100,17 @@
     },
     {
       "id": "whisky_8",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle distillerie japonaise historique, fondée en 1923 par Shinjiro Torii et Masataka Taketsuru, est considérée comme le berceau du whisky japonais ?",
       "answer": "Yamazaki",
-      "explanation": "Yamazaki est la plus ancienne distillerie de malt du Japon, établie dans la préfecture de Kyoto à l'endroit précis où convergent trois rivières offrant une eau d'une pureté exceptionnelle. Sa création marque la naissance officielle de l'industrie du whisky japonais, fortement inspirée des méthodes traditionnelles écossaises. Aujourd'hui, les whiskies produits à Yamazaki figurent parmi les plus recherchés et récompensés au monde."
+      "explanation": "Yamazaki est la plus ancienne distillerie de malt du Japon, établie dans la préfecture de Kyoto à l'endroit précis où convergent trois rivières offrant une eau d'une pureté exceptionnelle. Sa création marque la naissance officielle de l'industrie du whisky japonais, fortement inspirée des méthodes traditionnelles écossaises. Aujourd'hui, les whiskies produits à Yamazaki figurent parmi les plus recherchés et récompensés au monde.",
+      "options": [
+        "Hakushu",
+        "Nikka",
+        "Yamazaki",
+        "Mars Shinshu"
+      ]
     },
     {
       "id": "whisky_9",
@@ -104,11 +128,17 @@
     },
     {
       "id": "whisky_10",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel terme anglais qualifie un whisky issu d'une seule et unique distillerie et élaboré exclusivement à base d'orge maltée ?",
       "answer": "Single Malt",
-      "explanation": "La mention Single Malt garantit que le whisky provient d'une seule distillerie et qu'il a été produit uniquement à partir d'orge maltée, d'eau et de levure. S'il contient d'autres céréales ou provient de mélanges de plusieurs distilleries, il prend alors d'autres appellations comme Single Grain ou Blended Malt. C'est la catégorie reine des whiskies de dégustation appréciée pour son authenticité et son lien fort avec un terroir précis."
+      "explanation": "La mention Single Malt garantit que le whisky provient d'une seule distillerie et qu'il a été produit uniquement à partir d'orge maltée, d'eau et de levure. S'il contient d'autres céréales ou provient de mélanges de plusieurs distilleries, il prend alors d'autres appellations comme Single Grain ou Blended Malt. C'est la catégorie reine des whiskies de dégustation appréciée pour son authenticité et son lien fort avec un terroir précis.",
+      "options": [
+        "Irish Cream",
+        "Bourbon Selection",
+        "Blended Whisky",
+        "Single Malt"
+      ]
     },
     {
       "id": "whisky_11",
@@ -126,11 +156,17 @@
     },
     {
       "id": "whisky_12",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle étape du processus de fabrication consiste à faire germer l'orge puis à stopper cette germination en séchant le grain dans un four ?",
       "answer": "Le maltage",
-      "explanation": "Le maltage consiste à humidifier l'orge pour déclencher sa germination, ce qui permet de libérer des enzymes capables de transformer l'amidon en sucres fermentescibles. Dès que le germe atteint la taille idéale, la germination est stoppée par séchage à l'air chaud dans un four appelé 'kiln'. C'est cette opération délicate qui transforme l'orge brute en malt prêt pour les étapes suivantes de brassage."
+      "explanation": "Le maltage consiste à humidifier l'orge pour déclencher sa germination, ce qui permet de libérer des enzymes capables de transformer l'amidon en sucres fermentescibles. Dès que le germe atteint la taille idéale, la germination est stoppée par séchage à l'air chaud dans un four appelé 'kiln'. C'est cette opération délicate qui transforme l'orge brute en malt prêt pour les étapes suivantes de brassage.",
+      "options": [
+        "La clarification du moût",
+        "La fermentation alcoolique",
+        "L'empâtage",
+        "Le maltage"
+      ]
     },
     {
       "id": "whisky_13",
@@ -148,11 +184,17 @@
     },
     {
       "id": "whisky_14",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle île écossaise, balayée par les vents de l'Atlantique, est mondialement célèbre pour ses whiskies extrêmement tourbés et iodés tels que Laphroaig, Ardbeg ou Lagavulin ?",
       "answer": "L'île d'Islay",
-      "explanation": "Située au sud-ouest de l'Écosse, l'île d'Islay est une terre de légende réputée pour ses huit distilleries historiques de caractère. La tourbe locale y est imprégnée d'embruns marins et d'algues, ce qui donne aux single malts de l'île leur style inimitable aux saveurs goudronneuses, fumées et médicinales. Ces whiskies puissants et complexes sont particulièrement prisés des amateurs de sensations fortes."
+      "explanation": "Située au sud-ouest de l'Écosse, l'île d'Islay est une terre de légende réputée pour ses huit distilleries historiques de caractère. La tourbe locale y est imprégnée d'embruns marins et d'algues, ce qui donne aux single malts de l'île leur style inimitable aux saveurs goudronneuses, fumées et médicinales. Ces whiskies puissants et complexes sont particulièrement prisés des amateurs de sensations fortes.",
+      "options": [
+        "L'île de Mull",
+        "L'île de Skye",
+        "L'île d'Islay",
+        "L'île de Jura"
+      ]
     },
     {
       "id": "whisky_15",
@@ -170,11 +212,17 @@
     },
     {
       "id": "whisky_16",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel élément naturel indispensable, représentant plus de 90% du produit final avant réduction, sert à diluer le whisky et influence directement sa qualité ?",
       "answer": "L'eau",
-      "explanation": "L'eau pure est un ingrédient fondamental à chaque étape de l'élaboration du whisky, depuis le brassage jusqu'à la mise en bouteille. La source d'eau d'une distillerie, souvent locale et jalousement protégée, apporte des caractéristiques minérales uniques qui influencent le goût du produit final. C'est également avec cette eau pure que l'on réduit le degré d'alcool du whisky avant son embouteillage."
+      "explanation": "L'eau pure est un ingrédient fondamental à chaque étape de l'élaboration du whisky, depuis le brassage jusqu'à la mise en bouteille. La source d'eau d'une distillerie, souvent locale et jalousement protégée, apporte des caractéristiques minérales uniques qui influencent le goût du produit final. C'est également avec cette eau pure que l'on réduit le degré d'alcool du whisky avant son embouteillage.",
+      "options": [
+        "L'eau",
+        "Le chêne",
+        "Le malt d'orge",
+        "Le levain"
+      ]
     },
     {
       "id": "whisky_17",
@@ -192,11 +240,17 @@
     },
     {
       "id": "whisky_18",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Comment appelle-t-on l'operation qui consiste à transférer un whisky déjà mûr dans un autre type de fût (comme des fûts de Porto ou de Sauternes) pour quelques mois de maturation finale ?",
       "answer": "L'affinage (ou finition)",
-      "explanation": "L'affinage, ou finition, consiste à transvaser un whisky mature dans des fûts ayant préalablement contenu d'autres alcools ou vins fins pour lui donner une complexité aromatique supplémentaire. Cette étape dure généralement de quelques mois à deux ans maximum avant la mise en bouteille définitive. Elle permet d'enrichir le profil d'origine avec des notes gourmandes apportées par le vin d'origine."
+      "explanation": "L'affinage, ou finition, consiste à transvaser un whisky mature dans des fûts ayant préalablement contenu d'autres alcools ou vins fins pour lui donner une complexité aromatique supplémentaire. Cette étape dure généralement de quelques mois à deux ans maximum avant la mise en bouteille définitive. Elle permet d'enrichir le profil d'origine avec des notes gourmandes apportées par le vin d'origine.",
+      "options": [
+        "La réduction d'alcool",
+        "L'affinage (ou finition)",
+        "La distillation secondaire",
+        "Le brassage de complément"
+      ]
     },
     {
       "id": "whisky_19",
@@ -214,19 +268,31 @@
     },
     {
       "id": "whisky_20",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle méthode physique, consistant à refroidir le whisky à près de 0°C pour filtrer les résidus avant embouteillage, est parfois critiquée car elle retirerait certains composés aromatiques ?",
       "answer": "La filtration à froid (ou chill-filtration)",
-      "explanation": "La filtration à froid consiste à abaisser la température du whisky aux alentours de 0°C afin de faire précipiter les esters et les acides gras qui pourraient troubler le liquide en cas de froid ou d'ajout d'eau. Les distilleries traditionnelles choisissent parfois de s'en passer en apposant la mention 'Non-chill filtered' afin de préserver l'intégralité des huiles aromatiques du spiritueux. Cela garantit une texture plus grasse et une persistance en bouche supérieure pour les dégustateurs avertis."
+      "explanation": "La filtration à froid consiste à abaisser la température du whisky aux alentours de 0°C afin de faire précipiter les esters et les acides gras qui pourraient troubler le liquide en cas de froid ou d'ajout d'eau. Les distilleries traditionnelles choisissent parfois de s'en passer en apposant la mention 'Non-chill filtered' afin de préserver l'intégralité des huiles aromatiques du spiritueux. Cela garantit une texture plus grasse et une persistance en bouche supérieure pour les dégustateurs avertis.",
+      "options": [
+        "La filtration à froid (ou chill-filtration)",
+        "La clarification par centrifugation, une technique utilisant la force centrifuge pour séparer les particules en suspension.",
+        "La macération à basse température, où le whisky repose dans des cuves réfrigérées pour extraire des tanins spécifiques.",
+        "Le processus de dégazage sous vide, utilisé pour éliminer les composés volatils indésirables avant la maturation."
+      ]
     },
     {
       "id": "whisky_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Dans quelle province du Canada produit-on majoritairement le célèbre 'Rye Whisky', élaboré principalement à partir de seigle ?",
       "answer": "L'Ontario",
-      "explanation": "Le Canada possède une longue tradition de production de whisky de seigle, communément appelé 'Rye Whisky'. La province de l'Ontario abrite certaines des plus anciennes et des plus grandes distilleries du pays, comme Hiram Walker (productrice de Canadian Club). Historiquement, la réglementation canadienne permet d'apposer la mention 'Rye' sur les étiquettes pour préserver la tradition culturelle, même si la proportion exacte de seigle dans le mélange de céréales n'atteint pas les 51 % exigés aux États-Unis."
+      "explanation": "Le Canada possède une longue tradition de production de whisky de seigle, communément appelé 'Rye Whisky'. La province de l'Ontario abrite certaines des plus anciennes et des plus grandes distilleries du pays, comme Hiram Walker (productrice de Canadian Club). Historiquement, la réglementation canadienne permet d'apposer la mention 'Rye' sur les étiquettes pour préserver la tradition culturelle, même si la proportion exacte de seigle dans le mélange de céréales n'atteint pas les 51 % exigés aux États-Unis.",
+      "options": [
+        "L'Ontario",
+        "La Nouvelle-Écosse",
+        "La Saskatchewan",
+        "Le Québec"
+      ]
     },
     {
       "id": "whisky_22",
@@ -244,11 +310,17 @@
     },
     {
       "id": "whisky_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel terme écossais désigne le mélange de céréales broyées en une farine grossière, prête à être mélangée avec de l'eau chaude lors du brassage ?",
       "answer": "Le grist",
-      "explanation": "Le 'grist' est la farine grossière issue du broyage des grains d'orge maltée séchés dans le moulin à malt de la distillerie ('malt mill'). La composition physique exacte du grist doit respecter un équilibre millimétré (généralement 70% d'écorces ou 'husks', 20% de farine ou 'flour', et 10% de brisures de grains ou 'hearts') pour permettre une extraction optimale des sucres lors de l'arrosage à l'eau chaude. Un grist trop fin risquerait d'obstruer les filtres de la cuve de brassage ('mash tun'), tandis qu'un grist trop grossier réduirait le rendement en sucres fermentescibles."
+      "explanation": "Le 'grist' est la farine grossière issue du broyage des grains d'orge maltée séchés dans le moulin à malt de la distillerie ('malt mill'). La composition physique exacte du grist doit respecter un équilibre millimétré (généralement 70% d'écorces ou 'husks', 20% de farine ou 'flour', et 10% de brisures de grains ou 'hearts') pour permettre une extraction optimale des sucres lors de l'arrosage à l'eau chaude. Un grist trop fin risquerait d'obstruer les filtres de la cuve de brassage ('mash tun'), tandis qu'un grist trop grossier réduirait le rendement en sucres fermentescibles.",
+      "options": [
+        "Le grist",
+        "Le malt torréfié",
+        "La farine d'avoine",
+        "Le draff"
+      ]
     },
     {
       "id": "whisky_24",
@@ -266,11 +338,17 @@
     },
     {
       "id": "whisky_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle est la plus grande région géographique de production de whisky en Écosse, comptant le plus grand nombre de distilleries en activité et abritant des marques comme Glenfiddich ou The Macallan ?",
       "answer": "Le Speyside",
-      "explanation": "Le Speyside est une petite région située dans le nord-est de l'Écosse, nichée le long de la vallée de la rivière Spey, qui concentre à elle seule plus de la moitié des distilleries de malt écossaises actives. Les whiskies du Speyside sont réputés pour leur profil d'une grande rondeur, marqué par des notes de fruits frais (pomme, poire), de miel et de vanille, souvent enrichis par un vieillissement en fûts de Xérès. Des marques mondialement célèbres telles que Glenfiddich, The Macallan ou The Glenlivet y possèdent leurs chais historiques."
+      "explanation": "Le Speyside est une petite région située dans le nord-est de l'Écosse, nichée le long de la vallée de la rivière Spey, qui concentre à elle seule plus de la moitié des distilleries de malt écossaises actives. Les whiskies du Speyside sont réputés pour leur profil d'une grande rondeur, marqué par des notes de fruits frais (pomme, poire), de miel et de vanille, souvent enrichis par un vieillissement en fûts de Xérès. Des marques mondialement célèbres telles que Glenfiddich, The Macallan ou The Glenlivet y possèdent leurs chais historiques.",
+      "options": [
+        "La région de Lowlands",
+        "L'île de Islay",
+        "La région des Highlands Centrale",
+        "Le Speyside"
+      ]
     },
     {
       "id": "whisky_26",
@@ -288,11 +366,17 @@
     },
     {
       "id": "whisky_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel type de contenant en cuivre, placé en haut du col-de-cygne de l'alambic, sert à refroidir et liquéfier les vapeurs d'alcool chaudes issues de la distillation ?",
       "answer": "Le condenseur",
-      "explanation": "Le condenseur est un équipement thermique crucial chargé de refroidir les vapeurs d'alcool montantes pour les transformer en un distillat liquide froid. Il existe deux types principaux de condenseurs : les traditionnels condenseurs à serpentin ('worm tubs') immergés dans une grande cuve d'eau froide extérieure, qui offrent un contact cuivre-alcool minimal pour un style de whisky plus lourd et cireux, et les modernes condenseurs à tubes et calandre ('shell and tube'), plus efficaces et favorisant le contact avec le cuivre pour un distillat plus léger et fruité."
+      "explanation": "Le condenseur est un équipement thermique crucial chargé de refroidir les vapeurs d'alcool montantes pour les transformer en un distillat liquide froid. Il existe deux types principaux de condenseurs : les traditionnels condenseurs à serpentin ('worm tubs') immergés dans une grande cuve d'eau froide extérieure, qui offrent un contact cuivre-alcool minimal pour un style de whisky plus lourd et cireux, et les modernes condenseurs à tubes et calandre ('shell and tube'), plus efficaces et favorisant le contact avec le cuivre pour un distillat plus léger et fruité.",
+      "options": [
+        "Le condenseur",
+        "La colonne de rectification",
+        "Le réchauffeur",
+        "L'égouttoir"
+      ]
     },
     {
       "id": "whisky_28",
@@ -310,11 +394,17 @@
     },
     {
       "id": "whisky_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom de la cuve cylindrique géante, généralement en bois de pin d'Oregon ou en acier inoxydable, où s'effectue la fermentation du moût sous l'action des levures pendant 48 à 120 heures ?",
       "answer": "La cuve de fermentation (ou washback)",
-      "explanation": "La cuve de fermentation, appelée 'washback' en anglais, reçoit le moût sucré clarifié issu du brassage auquel on ajoute des levures pour lancer la fermentation alcoolique. Durant ce processus qui dure entre deux et cinq jours, les levures transforment les sucres en éthanol et en dioxyde de carbone, produisant un liquide d'environ 8% à 10% de TAV semblable à une bière forte, appelé 'wash'. Les washbacks traditionnels en bois de pin ou de mélèze sont appréciés pour l'inertie thermique qu'ils offrent et pour le développement de bactéries lactiques locales qui enrichissent le bouquet aromatique final."
+      "explanation": "La cuve de fermentation, appelée 'washback' en anglais, reçoit le moût sucré clarifié issu du brassage auquel on ajoute des levures pour lancer la fermentation alcoolique. Durant ce processus qui dure entre deux et cinq jours, les levures transforment les sucres en éthanol et en dioxyde de carbone, produisant un liquide d'environ 8% à 10% de TAV semblable à une bière forte, appelé 'wash'. Les washbacks traditionnels en bois de pin ou de mélèze sont appréciés pour l'inertie thermique qu'ils offrent et pour le développement de bactéries lactiques locales qui enrichissent le bouquet aromatique final.",
+      "options": [
+        "Le alambic de distillation, où l'alcool est concentré par évaporation.",
+        "La cuve de macération, utilisée pour extraire les arômes des peaux de fruits.",
+        "Le fermenteur à membrane, un système moderne de filtration du moût.",
+        "La cuve de fermentation (ou washback)"
+      ]
     },
     {
       "id": "whisky_30",
@@ -334,11 +424,17 @@
   "rhum": [
     {
       "id": "rhum_1",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quelle est la matière première agricole utilisée pour la production du rhum agricole (contrairement au rhum industriel) ?",
       "answer": "Le pur jus de canne à sucre (vesou)",
-      "explanation": "Le rhum agricole est produit exclusivement par la fermentation et la distillation du jus frais de canne à sucre, également appelé vesou. À l'inverse, le rhum traditionnel ou industriel est élaboré à partir de mélasse, un résidu sirupeux issu du raffinage du sucre. Cette spécificité confère au rhum agricole des arômes beaucoup plus floraux, végétaux et fruités."
+      "explanation": "Le rhum agricole est produit exclusivement par la fermentation et la distillation du jus frais de canne à sucre, également appelé vesou. À l'inverse, le rhum traditionnel ou industriel est élaboré à partir de mélasse, un résidu sirupeux issu du raffinage du sucre. Cette spécificité confère au rhum agricole des arômes beaucoup plus floraux, végétaux et fruités.",
+      "options": [
+        "La mélasse, résidu de la fabrication du sucre de betterave.",
+        "La pâte de canne, mélange de fibres et de jus de canne à sucre.",
+        "Le pur jus de canne à sucre (vesou)",
+        "Le sirop de sucre roux, obtenu par évaporation partielle du jus de canne."
+      ]
     },
     {
       "id": "rhum_2",
@@ -370,11 +466,17 @@
     },
     {
       "id": "rhum_4",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle plante tropicale de la famille des graminées est l'unique source de sucre nécessaire à la fabrication du rhum ?",
       "answer": "La canne à sucre",
-      "explanation": "La canne à sucre est une grande graminée tropicale originaire d'Asie qui a été introduite dans les Caraïbes lors des voyages de Christophe Colomb. Ses tiges accumulent une grande quantité de saccharose qui est extrait sous forme de jus pour produire du rhum agricole ou raffiné en sucre pour donner de la mélasse. C'est l'essence même et la seule matière première autorisée pour l'élaboration de tous les types de rhums."
+      "explanation": "La canne à sucre est une grande graminée tropicale originaire d'Asie qui a été introduite dans les Caraïbes lors des voyages de Christophe Colomb. Ses tiges accumulent une grande quantité de saccharose qui est extrait sous forme de jus pour produire du rhum agricole ou raffiné en sucre pour donner de la mélasse. C'est l'essence même et la seule matière première autorisée pour l'élaboration de tous les types de rhums.",
+      "options": [
+        "L'ananas",
+        "Le bananier",
+        "Le palmier à sucre",
+        "La canne à sucre"
+      ]
     },
     {
       "id": "rhum_5",
@@ -392,11 +494,17 @@
     },
     {
       "id": "rhum_6",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel nom donne-t-on au rhum blanc traditionnel qui a séjourné dans de grands foudres de chêne pendant plusieurs mois, acquérant ainsi une légère couleur dorée ?",
       "answer": "Le rhum paille (ou rhum ambré)",
-      "explanation": "Le rhum paille ou ambré doit sa teinte dorée très claire à un court passage en foudres de bois de chêne, généralement compris entre 12 et 18 mois. Ce court séjour sous bois permet d'assouplir le feu de l'alcool blanc tout en lui apportant de douces notes vanillées et boisées sans masquer la fraîcheur de la canne. C'est un excellent compromis aromatique, parfait pour la dégustation pure ou pour sublimer les cocktails créatifs."
+      "explanation": "Le rhum paille ou ambré doit sa teinte dorée très claire à un court passage en foudres de bois de chêne, généralement compris entre 12 et 18 mois. Ce court séjour sous bois permet d'assouplir le feu de l'alcool blanc tout en lui apportant de douces notes vanillées et boisées sans masquer la fraîcheur de la canne. C'est un excellent compromis aromatique, parfait pour la dégustation pure ou pour sublimer les cocktails créatifs.",
+      "options": [
+        "Le rhum agricole brut",
+        "Le rhum vieux agricole",
+        "Le rhum paille (ou rhum ambré)",
+        "Le rhum industriel"
+      ]
     },
     {
       "id": "rhum_7",
@@ -414,11 +522,17 @@
     },
     {
       "id": "rhum_8",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle méthode de vieillissement dynamique, originaire d'Espagne et empruntée au Xérès, consiste à empiler des fûts sur plusieurs niveaux pour assembler des rhums d'âges différents ?",
       "answer": "La méthode Solera",
-      "explanation": "La méthode Solera est un système de vieillissement dynamique où les fûts de chêne sont superposés sur plusieurs niveaux appelés 'criaderas'. Le rhum le plus vieux est soutiré du niveau le plus bas (la solera) pour l'embouteillage, et le vide créé est comblé par le rhum du niveau supérieur, plus jeune. Cette technique permet un assemblage continu qui apporte une grande rondeur et une régularité parfaite au rhum fini au fil des ans."
+      "explanation": "La méthode Solera est un système de vieillissement dynamique où les fûts de chêne sont superposés sur plusieurs niveaux appelés 'criaderas'. Le rhum le plus vieux est soutiré du niveau le plus bas (la solera) pour l'embouteillage, et le vide créé est comblé par le rhum du niveau supérieur, plus jeune. Cette technique permet un assemblage continu qui apporte une grande rondeur et une régularité parfaite au rhum fini au fil des ans.",
+      "options": [
+        "Le système de 'Fractionnement Continu', où les lots de vieillissement sont régulièrement mélangés et redistribués selon leur profil aromatique.",
+        "La méthode Française, impliquant un élevage en amphore de terre cuite et une réduction en vin doux naturel.",
+        "La méthode Solera",
+        "L'approche 'Âge Moyen', consistant à sélectionner des fûts de différentes années et à les assembler après une période de repos en cuve inox."
+      ]
     },
     {
       "id": "rhum_9",
@@ -436,11 +550,17 @@
     },
     {
       "id": "rhum_10",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel terme français qualifie un rhum qui a vieilli au minimum trois ans en fûts de chêne ?",
       "answer": "Le rhum vieux",
-      "explanation": "Pour mériter l'appellation légale de 'rhum vieux', le spiritueux doit séjourner sans interruption pendant un minimum de trois années complètes dans des fûts de chêne de moins de 650 litres. Durant cette lente maturation tropicale, le rhum interagit intensément avec le bois pour développer des arômes tertiaires complexes de vanille, de fruits secs et d'épices douces. C'est la catégorie reine pour les amateurs de dégustation lente dans un verre adapté."
+      "explanation": "Pour mériter l'appellation légale de 'rhum vieux', le spiritueux doit séjourner sans interruption pendant un minimum de trois années complètes dans des fûts de chêne de moins de 650 litres. Durant cette lente maturation tropicale, le rhum interagit intensément avec le bois pour développer des arômes tertiaires complexes de vanille, de fruits secs et d'épices douces. C'est la catégorie reine pour les amateurs de dégustation lente dans un verre adapté.",
+      "options": [
+        "Le rhum agricole",
+        "Le rhum vieux",
+        "Le rhum blanc",
+        "Le rhum ambré"
+      ]
     },
     {
       "id": "rhum_11",
@@ -458,11 +578,17 @@
     },
     {
       "id": "rhum_12",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel ingrédient sucré résiduel, issu du raffinage du sucre de canne, sert de base pour la fermentation de la majorité des rhums dits industriels ou traditionnels ?",
       "answer": "La mélasse",
-      "explanation": "La mélasse est un sirop épais et visqueux d'une couleur sombre qui reste après la cristallisation du sucre lors du processus de raffinage de la canne à sucre. Elle contient encore une forte proportion de sucres non cristallisables que l'on dilue avec de l'eau pour lancer la fermentation alcoolique. Plus de 90 % des rhums produits à travers le monde utilisent cette matière première économique et facilement stockable."
+      "explanation": "La mélasse est un sirop épais et visqueux d'une couleur sombre qui reste après la cristallisation du sucre lors du processus de raffinage de la canne à sucre. Elle contient encore une forte proportion de sucres non cristallisables que l'on dilue avec de l'eau pour lancer la fermentation alcoolique. Plus de 90 % des rhums produits à travers le monde utilisent cette matière première économique et facilement stockable.",
+      "options": [
+        "La mélasse",
+        "L'extrait de canne séchée",
+        "Le sirop de sucre inverti",
+        "Le jus de canne brut"
+      ]
     },
     {
       "id": "rhum_13",
@@ -480,11 +606,17 @@
     },
     {
       "id": "rhum_14",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quelle eau-de-vie de canne à sucre brésilienne, très proche du rhum blanc traditionnel, est l'ingrédient principal du célèbre cocktail Caïpirinha ?",
       "answer": "La cachaça",
-      "explanation": "La cachaça est le spiritueux national du Brésil et se distingue techniquement du rhum traditionnel par sa fabrication exclusive à partir de pur jus de canne fraîchement pressé. Bien qu'elle s'apparente au rhum agricole, elle possède sa propre législation nationale et un profil aromatique souvent plus rustique et végétal. Elle est mondialement connue pour être la base indispensable de la Caïpirinha, un cocktail rafraîchissant préparé avec du citron vert et du sucre."
+      "explanation": "La cachaça est le spiritueux national du Brésil et se distingue techniquement du rhum traditionnel par sa fabrication exclusive à partir de pur jus de canne fraîchement pressé. Bien qu'elle s'apparente au rhum agricole, elle possède sa propre législation nationale et un profil aromatique souvent plus rustique et végétal. Elle est mondialement connue pour être la base indispensable de la Caïpirinha, un cocktail rafraîchissant préparé avec du citron vert et du sucre.",
+      "options": [
+        "L'Aguardiente",
+        "La cachaça",
+        "Le Pinhão",
+        "Le Tucupi"
+      ]
     },
     {
       "id": "rhum_15",
@@ -502,11 +634,17 @@
     },
     {
       "id": "rhum_16",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Dans quel type de fût, ayant généralement servi à élever du whiskey américain, la très grande majorité des rhums du monde sont-ils vieillis ?",
       "answer": "Un fût de Bourbon",
-      "explanation": "Les fûts de chêne blanc américain ayant contenu du Bourbon sont massivement importés par les distilleries de rhum des Caraïbes. La loi américaine imposant d'utiliser des fûts neufs pour chaque cuvée de Bourbon, des millions de fûts usagés d'excellente qualité sont revendus à bas coût aux producteurs de spiritueux. Ces fûts apportent au rhum de magnifiques notes gourmandes de vanille, de caramel et de noix de coco."
+      "explanation": "Les fûts de chêne blanc américain ayant contenu du Bourbon sont massivement importés par les distilleries de rhum des Caraïbes. La loi américaine imposant d'utiliser des fûts neufs pour chaque cuvée de Bourbon, des millions de fûts usagés d'excellente qualité sont revendus à bas coût aux producteurs de spiritueux. Ces fûts apportent au rhum de magnifiques notes gourmandes de vanille, de caramel et de noix de coco.",
+      "options": [
+        "Un fût de Cognac",
+        "Un fût de Porto",
+        "Un fût de Bourbon",
+        "Un fût de Sherry"
+      ]
     },
     {
       "id": "rhum_17",
@@ -524,11 +662,17 @@
     },
     {
       "id": "rhum_18",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel pays d'Amérique centrale est célèbre pour son rhum Flor de Caña, produit au pied d'un volcan actif dont les cendres enrichissent les sols de canne à sucre ?",
       "answer": "Le Nicaragua",
-      "explanation": "Le Nicaragua abrite la marque Flor de Caña, dont les plantations de canne à sucre bénéficient des sols volcaniques fertiles du volcan San Cristóbal. Ce terroir particulier confère au rhum des arômes singuliers très appréciés des dégustateurs du monde entier. La distillerie se distingue également par son engagement écologique fort en étant certifiée neutre en carbone et équitable."
+      "explanation": "Le Nicaragua abrite la marque Flor de Caña, dont les plantations de canne à sucre bénéficient des sols volcaniques fertiles du volcan San Cristóbal. Ce terroir particulier confère au rhum des arômes singuliers très appréciés des dégustateurs du monde entier. La distillerie se distingue également par son engagement écologique fort en étant certifiée neutre en carbone et équitable.",
+      "options": [
+        "Le Costa Rica",
+        "Le Guatemala",
+        "Le Nicaragua",
+        "Le Panama"
+      ]
     },
     {
       "id": "rhum_19",
@@ -546,19 +690,31 @@
     },
     {
       "id": "rhum_20",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel style de rhum traditionnel des Caraïbes anglophones, illustré par les productions de la Jamaïque ou de la Barbade, est souvent orthographié avec un 'h' et caractérisé par sa puissance aromatique ?",
       "answer": "Le Rum (style britannique)",
-      "explanation": "Le style britannique, couramment orthographié 'Rum', regroupe les productions des anciennes colonies britanniques comme la Jamaïque, la Barbade ou le Guyana. Ces rhums sont généralement issus de mélasse distillés majoritairement en alambics à repasse ('pot still') et se distinguent par leur profil corsé, épicé et très aromatique. Ils s'opposent traditionnellement aux rhums agricoles français ('Rhum') plus floraux et aux rhums espagnols ('Ron') plus doux et légers."
+      "explanation": "Le style britannique, couramment orthographié 'Rum', regroupe les productions des anciennes colonies britanniques comme la Jamaïque, la Barbade ou le Guyana. Ces rhums sont généralement issus de mélasse distillés majoritairement en alambics à repasse ('pot still') et se distinguent par leur profil corsé, épicé et très aromatique. Ils s'opposent traditionnellement aux rhums agricoles français ('Rhum') plus floraux et aux rhums espagnols ('Ron') plus doux et légers.",
+      "options": [
+        "Le Zinfandel (style américain)",
+        "Le Rum (style britannique)",
+        "Le Ron (style hispano-caribéen)",
+        "Le Rhum Agricole (style français)"
+      ]
     },
     {
       "id": "rhum_21",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel célèbre cocktail cubain associe du rhum blanc traditionnel, du jus de citron vert, des feuilles de menthe fraîche, du sucre et de l'eau gazeuse ?",
       "answer": "Le Mojito",
-      "explanation": "Le Mojito est l'un des cocktails les plus populaires et les plus consommés à travers le monde, originaire de l'île de Cuba dans les Caraïbes. Son nom proviendrait du mot 'mojo', un mélange d'épices d'origine ouest-africaine introduit par les esclaves. Traditionnellement préparé avec du rhum léger cubain blanc, il associe la fraîcheur de la menthe poivrée pressée à la vivacité acide du citron vert pour une boisson particulièrement rafraîchissante."
+      "explanation": "Le Mojito est l'un des cocktails les plus populaires et les plus consommés à travers le monde, originaire de l'île de Cuba dans les Caraïbes. Son nom proviendrait du mot 'mojo', un mélange d'épices d'origine ouest-africaine introduit par les esclaves. Traditionnellement préparé avec du rhum léger cubain blanc, il associe la fraîcheur de la menthe poivrée pressée à la vivacité acide du citron vert pour une boisson particulièrement rafraîchissante.",
+      "options": [
+        "Le Cuba Libre",
+        "Le Daiquiri",
+        "La Piña Colada",
+        "Le Mojito"
+      ]
     },
     {
       "id": "rhum_22",
@@ -576,11 +732,17 @@
     },
     {
       "id": "rhum_23",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel terme antillais désigne le pur jus de canne à sucre fraîchement extrait par le broyage des tiges dans les moulins de la distillerie ?",
       "answer": "Le vesou",
-      "explanation": "Le 'vesou' est le terme créole traditionnel qui désigne le pur jus frais extrait de la canne à sucre immédiatement après le passage des tiges dans les moulins de broyage. Ce liquide d'une couleur verdâtre opaque est particulièrement riche en saccharose, en minéraux et en levures sauvages de terroir. C'est le vesou qui sert de base exclusive à la fermentation du rhum agricole sous Appellation d'Origine Contrôlée (AOC) en Martinique ou sous indications géographiques protégées en Guadeloupe."
+      "explanation": "Le 'vesou' est le terme créole traditionnel qui désigne le pur jus frais extrait de la canne à sucre immédiatement après le passage des tiges dans les moulins de broyage. Ce liquide d'une couleur verdâtre opaque est particulièrement riche en saccharose, en minéraux et en levures sauvages de terroir. C'est le vesou qui sert de base exclusive à la fermentation du rhum agricole sous Appellation d'Origine Contrôlée (AOC) en Martinique ou sous indications géographiques protégées en Guadeloupe.",
+      "options": [
+        "La mélasse",
+        "Le macabao",
+        "Le vesou",
+        "Le ti'punch"
+      ]
     },
     {
       "id": "rhum_24",
@@ -598,11 +760,17 @@
     },
     {
       "id": "rhum_25",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel type de rhum traditionnel de la Barbade ou de la Jamaïque associe de manière équilibrée un distillat de colonne continue à un distillat lourd d'alambic à repasse ('pot still') ?",
       "answer": "Un rhum d'assemblage (ou Blended Rum)",
-      "explanation": "L'art du 'blending' dans le style de rhum britannique consiste à marier des rhums d'une même distillerie issus de deux outils de distillation distincts aux caractéristiques complémentaires. Le distillat de colonne moderne apporte de la finesse, de la légèreté et des arômes fruités frais, tandis que le distillat d'alambic traditionnel à repasse ('pot still') confère de la structure corporelle, de la puissance et de la complexité aromatique lourde (esters). Cette méthode d'assemblage, illustrée à merveille par les distilleries Foursquare ou Mount Gay, permet d'obtenir des rhums vieux d'un équilibre remarquable."
+      "explanation": "L'art du 'blending' dans le style de rhum britannique consiste à marier des rhums d'une même distillerie issus de deux outils de distillation distincts aux caractéristiques complémentaires. Le distillat de colonne moderne apporte de la finesse, de la légèreté et des arômes fruités frais, tandis que le distillat d'alambic traditionnel à repasse ('pot still') confère de la structure corporelle, de la puissance et de la complexité aromatique lourde (esters). Cette méthode d'assemblage, illustrée à merveille par les distilleries Foursquare ou Mount Gay, permet d'obtenir des rhums vieux d'un équilibre remarquable.",
+      "options": [
+        "Un rhum d'assemblage (ou Blended Rum)",
+        "Un rhum Navy Strength issu d'un alambic à colonne",
+        "Un rhum agricole brut de colonne continu",
+        "Un rhum Single Cask de distillation discontinue"
+      ]
     },
     {
       "id": "rhum_26",
@@ -620,11 +788,17 @@
     },
     {
       "id": "rhum_27",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel cocktail mythique des Caraïbes, d'origine cubaine, associe du rhum blanc ou ambré, du jus de citron vert et du soda au cola ?",
       "answer": "Le Cuba Libre",
-      "explanation": "Le Cuba Libre a été créé à la Havane au tout début du XXe siècle, peu après l'indépendance de l'île de Cuba soutenue par les troupes américaines contre l'Espagne. Son nom fait référence au cri de ralliement des révolutionnaires cubains, '¡Cuba libre!'. Le cocktail associe de manière extrêmement simple du rhum traditionnel léger, le zeste acide d'un citron vert frais pressé et le soda américain Coca-Cola qui venait d'être introduit sur l'île par les soldats américains."
+      "explanation": "Le Cuba Libre a été créé à la Havane au tout début du XXe siècle, peu après l'indépendance de l'île de Cuba soutenue par les troupes américaines contre l'Espagne. Son nom fait référence au cri de ralliement des révolutionnaires cubains, '¡Cuba libre!'. Le cocktail associe de manière extrêmement simple du rhum traditionnel léger, le zeste acide d'un citron vert frais pressé et le soda américain Coca-Cola qui venait d'être introduit sur l'île par les soldats américains.",
+      "options": [
+        "La Piña Colada",
+        "Le Cuba Libre",
+        "Le Daiquiri",
+        "Le Mojito"
+      ]
     },
     {
       "id": "rhum_28",
@@ -642,11 +816,17 @@
     },
     {
       "id": "rhum_29",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel est le nom de la machine agricole monumentale utilisée pour couper et récolter mécaniquement les tiges de canne à sucre dans les champs des grandes exploitations tropicales ?",
       "answer": "La coupeuse de canne (ou moissonneuse-tronçonneuse)",
-      "explanation": "La récolte de la canne à sucre s'effectue historiquement de manière manuelle à l'aide de grands sabres appelés coupe-coupe ou machettes, un travail physique extrêmement pénible sous le soleil des Antilles. Dans les grandes plaines agricoles modernes (comme à la Réunion ou en Guadeloupe), cette tâche est désormais largement confiée à des moissonneuses-tronçonneuses automatiques géantes. Ces machines coupent les tiges à la base, les tronçonnent en petits segments réguliers et évacuent les feuilles mortes pour un transfert ultra-rapide vers les balances de la sucrerie ou de la distillerie."
+      "explanation": "La récolte de la canne à sucre s'effectue historiquement de manière manuelle à l'aide de grands sabres appelés coupe-coupe ou machettes, un travail physique extrêmement pénible sous le soleil des Antilles. Dans les grandes plaines agricoles modernes (comme à la Réunion ou en Guadeloupe), cette tâche est désormais largement confiée à des moissonneuses-tronçonneuses automatiques géantes. Ces machines coupent les tiges à la base, les tronçonnent en petits segments réguliers et évacuent les feuilles mortes pour un transfert ultra-rapide vers les balances de la sucrerie ou de la distillerie.",
+      "options": [
+        "La sarrazine automotrice",
+        "La planeuse agricole à rendement élevé",
+        "Le batteur de blé motorisé",
+        "La coupeuse de canne (ou moissonneuse-tronçonneuse)"
+      ]
     },
     {
       "id": "rhum_30",
@@ -680,11 +860,17 @@
     },
     {
       "id": "cepages_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel cépage rouge, emblématique de la Bourgogne, est réputé pour sa délicatesse, ses arômes de cerise et sa grande sensibilité aux maladies ?",
       "answer": "Le Pinot Noir",
-      "explanation": "Le Pinot Noir est un cépage très ancien et capricieux, particulièrement sensible aux variations climatiques et aux maladies de la vigne en raison de la finesse de sa peau. Il produit des vins rouges d'une grande élégance, caractérisés par une robe claire, des tanins soyeux et des arômes complexes de fruits rouges (cerise, framboise) évoluant vers le sous-bois et le cuir avec l'âge. C'est le cépage roi des plus grands vins de Bourgogne, dont la prestigieuse Romanée-Conti."
+      "explanation": "Le Pinot Noir est un cépage très ancien et capricieux, particulièrement sensible aux variations climatiques et aux maladies de la vigne en raison de la finesse de sa peau. Il produit des vins rouges d'une grande élégance, caractérisés par une robe claire, des tanins soyeux et des arômes complexes de fruits rouges (cerise, framboise) évoluant vers le sous-bois et le cuir avec l'âge. C'est le cépage roi des plus grands vins de Bourgogne, dont la prestigieuse Romanée-Conti.",
+      "options": [
+        "Le Pinot Noir",
+        "Le Merlot",
+        "Le Syrah",
+        "Le Gamay"
+      ]
     },
     {
       "id": "cepages_3",
@@ -702,11 +888,17 @@
     },
     {
       "id": "cepages_4",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel cépage blanc, roi des vins d'Alsace et d'Allemagne, est célèbre pour sa fraîcheur, sa minéralité et ses arômes de pétrole lorsqu'il vieillit ?",
       "answer": "Le Riesling",
-      "explanation": "Le Riesling est un cépage blanc noble et tardif qui conserve une acidité remarquable même à pleine maturité. Très fidèle au terroir, il produit des vins secs, demi-secs ou liquoreux d'une grande garde. Sa signature aromatique associe les agrumes et les fleurs blanches dans sa jeunesse, puis développe avec le vieillissement des notes d'hydrocarbures et de pétrole très recherchées des amateurs."
+      "explanation": "Le Riesling est un cépage blanc noble et tardif qui conserve une acidité remarquable même à pleine maturité. Très fidèle au terroir, il produit des vins secs, demi-secs ou liquoreux d'une grande garde. Sa signature aromatique associe les agrumes et les fleurs blanches dans sa jeunesse, puis développe avec le vieillissement des notes d'hydrocarbures et de pétrole très recherchées des amateurs.",
+      "options": [
+        "Le Gewürztraminer",
+        "Le Sauvignon",
+        "Le Chardonnay",
+        "Le Riesling"
+      ]
     },
     {
       "id": "cepages_5",
@@ -724,11 +916,17 @@
     },
     {
       "id": "cepages_6",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel cépage rouge, majoritaire dans les assemblages de la rive droite de Bordeaux (comme à Pomerol ou Saint-Émilion), apporte de la rondeur et des arômes de prune ?",
       "answer": "Le Merlot",
-      "explanation": "Le Merlot est apprécié des vignerons pour sa maturité plus précoce que celle du Cabernet Sauvignon. Il donne des vins ronds, souples et charnus, dotés de tanins veloutés et d'arômes de fruits rouges et noirs bien mûrs (prune, cerise noire). Il constitue la quasi-totalité de l'assemblage du légendaire Château Pétrus à Pomerol, l'un des vins les plus chers et recherchés au monde."
+      "explanation": "Le Merlot est apprécié des vignerons pour sa maturité plus précoce que celle du Cabernet Sauvignon. Il donne des vins ronds, souples et charnus, dotés de tanins veloutés et d'arômes de fruits rouges et noirs bien mûrs (prune, cerise noire). Il constitue la quasi-totalité de l'assemblage du légendaire Château Pétrus à Pomerol, l'un des vins les plus chers et recherchés au monde.",
+      "options": [
+        "Le Cabernet Sauvignon",
+        "Le Merlot",
+        "Le Syrah",
+        "Le Pinot Noir"
+      ]
     },
     {
       "id": "cepages_7",
@@ -746,11 +944,17 @@
     },
     {
       "id": "cepages_8",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel cépage blanc aromatique, emblématique du vignoble de Condrieu dans la vallée du Rhône, exhale des notes puissantes d'abricot, de pêche et de violette ?",
       "answer": "Le Viognier",
-      "explanation": "Le Viognier a frôlé l'extinction dans les années 1960, ne couvrant plus que quelques hectares à Condrieu. Sauvé par des vignerons passionnés, il a conquis le monde grâce à son profil aromatique exubérant et flatteur, caractérisé par des notes intenses d'abricot sauvage, de pêche de vigne, de chèvrefeuille et de violette. En bouche, il offre une texture grasse et chaleureuse avec une acidité généralement modérée."
+      "explanation": "Le Viognier a frôlé l'extinction dans les années 1960, ne couvrant plus que quelques hectares à Condrieu. Sauvé par des vignerons passionnés, il a conquis le monde grâce à son profil aromatique exubérant et flatteur, caractérisé par des notes intenses d'abricot sauvage, de pêche de vigne, de chèvrefeuille et de violette. En bouche, il offre une texture grasse et chaleureuse avec une acidité généralement modérée.",
+      "options": [
+        "Le Roussanne",
+        "Le Viognier",
+        "Le Marsanne",
+        "Le Chenin"
+      ]
     },
     {
       "id": "cepages_9",
@@ -768,11 +972,17 @@
     },
     {
       "id": "cepages_10",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel cépage rouge italien, roi de la Toscane, est la variété exclusive ou ultra-majoritaire des vins de Chianti Classico et de Brunello di Montalcino ?",
       "answer": "Le Sangiovese",
-      "explanation": "Le Sangiovese est le cépage le plus planté en Italie. Son nom provient du latin \"Sanguis Jovis\", qui signifie \"le sang de Jupiter\", en référence à ses origines antiques. Il produit des vins à la robe moyennement intense mais dotés d'une acidité vibrante et de tanins fermes, avec des notes de cerise griotte, d'herbes sèches, de thé noir et de terre cuite qui se marient merveilleusement bien avec la gastronomie italienne."
+      "explanation": "Le Sangiovese est le cépage le plus planté en Italie. Son nom provient du latin \"Sanguis Jovis\", qui signifie \"le sang de Jupiter\", en référence à ses origines antiques. Il produit des vins à la robe moyennement intense mais dotés d'une acidité vibrante et de tanins fermes, avec des notes de cerise griotte, d'herbes sèches, de thé noir et de terre cuite qui se marient merveilleusement bien avec la gastronomie italienne.",
+      "options": [
+        "Le Sangiovese",
+        "Le Montepulciano",
+        "Le Corvina",
+        "Le Nebbiolo"
+      ]
     },
     {
       "id": "cepages_11",
@@ -790,11 +1000,17 @@
     },
     {
       "id": "cepages_12",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel cépage rouge originaire de Croatie, devenu la variété phare de la Californie où il produit des vins puissants et chaleureux, est génétiquement identique au Primitivo italien ?",
       "answer": "Le Zinfandel",
-      "explanation": "Le Zinfandel a longtemps été considéré comme le cépage natif de l'Amérique, avant que des analyses ADN dans les années 1990 ne prouvent qu'il était identique au Primitivo cultivé dans les Pouilles en Italie, tous deux descendant d'un très vieux cépage croate nommé Tribidrag. En Californie, le Zinfandel donne des vins rouges opulents, riches en alcool, marqués par des notes de confiture de mûre, de poivre noir et d'épices douces."
+      "explanation": "Le Zinfandel a longtemps été considéré comme le cépage natif de l'Amérique, avant que des analyses ADN dans les années 1990 ne prouvent qu'il était identique au Primitivo cultivé dans les Pouilles en Italie, tous deux descendant d'un très vieux cépage croate nommé Tribidrag. En Californie, le Zinfandel donne des vins rouges opulents, riches en alcool, marqués par des notes de confiture de mûre, de poivre noir et d'épices douces.",
+      "options": [
+        "Le Zinfandel",
+        "Le Sangiovese",
+        "Le Nebbiolo",
+        "Le Syrah"
+      ]
     },
     {
       "id": "cepages_13",
@@ -826,11 +1042,17 @@
     },
     {
       "id": "cepages_15",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel cépage rouge d'origine française est devenu l'emblème absolu des vins d'Argentine, notamment dans la région de haute altitude de Mendoza ?",
       "answer": "Le Malbec",
-      "explanation": "Originaire du Sud-Ouest de la France (où il est le cépage historique de l'appellation Cahors sous le nom de Côt), le Malbec a été introduit en Argentine en 1853 par l'agronome français Michel Aimé Pouget. Dans le climat ensoleillé et sec de Mendoza, planté au pied de la cordillère des Andes jusqu'à plus de 1500 mètres d'altitude, il s'est merveilleusement adapté pour produire des vins d'une couleur pourpre presque noire, charnus, aux tanins doux et aux notes gourmandes de pruneau, de cacao et de violette."
+      "explanation": "Originaire du Sud-Ouest de la France (où il est le cépage historique de l'appellation Cahors sous le nom de Côt), le Malbec a été introduit en Argentine en 1853 par l'agronome français Michel Aimé Pouget. Dans le climat ensoleillé et sec de Mendoza, planté au pied de la cordillère des Andes jusqu'à plus de 1500 mètres d'altitude, il s'est merveilleusement adapté pour produire des vins d'une couleur pourpre presque noire, charnus, aux tanins doux et aux notes gourmandes de pruneau, de cacao et de violette.",
+      "options": [
+        "Le Malbec",
+        "Le Syrah, apporté par les pères jésuites, s'est révélé particulièrement adapté aux sols volcaniques de Mendoza.",
+        "Le Bonarda, un cépage peu connu en France, a été largement planté en Argentine pour ses arômes fruités et son acidité vive.",
+        "Le Tannat, connu pour sa rusticité et ses tanins puissants, a trouvé un épanouissement similaire dans les Andes."
+      ]
     },
     {
       "id": "cepages_16",
@@ -848,19 +1070,31 @@
     },
     {
       "id": "cepages_17",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel cépage rouge rustique et tannique, originaire du Sud-Ouest de la France, est la variété historique et emblématique du Madiran ?",
       "answer": "Le Tannat",
-      "explanation": "Comme son nom l'indique, le Tannat est un cépage extrêmement riche en tanins et en composés polyphénoliques antioxydants (il détient le record mondial de concentration en procyanidines). Il produit des vins d'une couleur rouge très sombre, charpentés et dotés d'une forte acidité, nécessitant un long élevage sous bois ou une micro-oxygénation pour s'assouplir. En Uruguay, il est devenu le cépage national où il donne des vins plus ronds et fruités."
+      "explanation": "Comme son nom l'indique, le Tannat est un cépage extrêmement riche en tanins et en composés polyphénoliques antioxydants (il détient le record mondial de concentration en procyanidines). Il produit des vins d'une couleur rouge très sombre, charpentés et dotés d'une forte acidité, nécessitant un long élevage sous bois ou une micro-oxygénation pour s'assouplir. En Uruguay, il est devenu le cépage national où il donne des vins plus ronds et fruités.",
+      "options": [
+        "Le Cabernet Sauvignon",
+        "Le Fer Servadou",
+        "Le Tannat",
+        "Le Durif (Petite Syrah)"
+      ]
     },
     {
       "id": "cepages_18",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel cépage rouge originaire du Jura, réputé pour sa finesse et ses arômes sauvages de petits fruits rouges, donne des vins légers à la robe claire souvent assemblés avec le Pinot Noir ?",
       "answer": "Le Poulsard (ou Ploussard)",
-      "explanation": "Le Poulsard (appelé Ploussard autour de la commune de Pupillin) possède une peau fine très peu colorée et des grains translucides. Il produit des vins rouges d'une clarté surprenante, souvent confondus avec des rosés, mais dotés d'une belle structure aromatique marquée par la groseille, la fraise des bois et des notes animales de cuir. C'est l'un des trois cépages rouges autochtones du Jura avec le Trousseau et le Pinot Noir."
+      "explanation": "Le Poulsard (appelé Ploussard autour de la commune de Pupillin) possède une peau fine très peu colorée et des grains translucides. Il produit des vins rouges d'une clarté surprenante, souvent confondus avec des rosés, mais dotés d'une belle structure aromatique marquée par la groseille, la fraise des bois et des notes animales de cuir. C'est l'un des trois cépages rouges autochtones du Jura avec le Trousseau et le Pinot Noir.",
+      "options": [
+        "Le Gamaret",
+        "Le Poulsard (ou Ploussard)",
+        "Le Durazzur",
+        "Le Mondeuse"
+      ]
     },
     {
       "id": "cepages_19",
@@ -878,11 +1112,157 @@
     },
     {
       "id": "cepages_20",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel cépage blanc d'origine suisse, cultivé presque exclusivement dans le canton du Valais, est célèbre pour ses arômes complexes de rhubarbe, de sureau et sa finale saline typique ?",
       "answer": "La Petite Arvine",
-      "explanation": "La Petite Arvine est le cépage blanc noble par excellence du Valais suisse, où elle est mentionnée dès 1602. Très exigeante, elle ne s'épanouit que sur les meilleurs coteaux ensoleillés à l'abri du vent. Elle produit des vins d'une élégance rare, secs ou liquoreux, caractérisés par une vivacité nerveuse, des notes d'agrumes (pamplemousse), de glycine et de rhubarbe, s'achevant toujours sur une finale iodée et saline très distinctive."
+      "explanation": "La Petite Arvine est le cépage blanc noble par excellence du Valais suisse, où elle est mentionnée dès 1602. Très exigeante, elle ne s'épanouit que sur les meilleurs coteaux ensoleillés à l'abri du vent. Elle produit des vins d'une élégance rare, secs ou liquoreux, caractérisés par une vivacité nerveuse, des notes d'agrumes (pamplemousse), de glycine et de rhubarbe, s'achevant toujours sur une finale iodée et saline très distinctive.",
+      "options": [
+        "Le Chasselas",
+        "La Petite Arvine",
+        "Le Gamaret",
+        "Le Musigny"
+      ]
+    },
+    {
+      "id": "cepages_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cépage rouge, l'un des plus cultivés au monde, est la base des grands assemblages du Châteauneuf-du-Pape et porte le nom de 'Garnacha' dans son pays d'origine, l'Espagne ?",
+      "options": [
+        "Le Grenache",
+        "Le Carignan",
+        "Le Mourvèdre",
+        "Le Cinsault"
+      ],
+      "answer": "Le Grenache",
+      "explanation": "Le Grenache s'épanouit particulièrement bien sous les climats chauds et secs du pourtour méditerranéen. Il apporte aux assemblages du sud de la France de l'alcool, de la rondeur et des arômes chaleureux de fruits rouges confiturés et d'épices douces."
+    },
+    {
+      "id": "cepages_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cépage blanc aromatique, aux notes caractéristiques de pamplemousse et de buis, est emblématique des vins de Sancerre et de Pouilly-Fumé ?",
+      "options": [
+        "Le Sauvignon Blanc",
+        "Le Chardonnay",
+        "Le Chenin",
+        "Le Riesling"
+      ],
+      "answer": "Le Sauvignon Blanc",
+      "explanation": "Le Sauvignon Blanc produit des vins secs et nerveux, immédiatement reconnaissables à leurs arômes tranchés d'agrumes, de buis et parfois de silex. Il s'est également imposé comme cépage vedette de la région de Marlborough en Nouvelle-Zélande."
+    },
+    {
+      "id": "cepages_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cépage rouge, vinifié traditionnellement par macération carbonique, est le cépage unique et emblématique des vins du Beaujolais ?",
+      "options": [
+        "Le Gamay",
+        "Le Pinot Noir",
+        "Le Merlot",
+        "Le Cabernet Franc"
+      ],
+      "answer": "Le Gamay",
+      "explanation": "La macération carbonique, technique de vinification où les raisins entiers fermentent en l'absence d'oxygène, confère aux vins de Gamay leurs arômes typiques de fruits rouges frais (banane, fraise, framboise) et leur légèreté caractéristique, notamment dans le Beaujolais nouveau."
+    },
+    {
+      "id": "cepages_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cépage rouge tardif et exigeant en chaleur constitue l'ossature principale des vins puissants et tanniques de Bandol, en Provence ?",
+      "options": [
+        "Le Mourvèdre",
+        "Le Grenache",
+        "La Syrah",
+        "Le Carignan"
+      ],
+      "answer": "Le Mourvèdre",
+      "explanation": "L'appellation Bandol impose un minimum légal de 50% de Mourvèdre dans ses vins rouges. Ce cépage tardif, très sensible à la sécheresse, a besoin d'un ensoleillement maximal pour atteindre une pleine maturité et développer ses tanins puissants."
+    },
+    {
+      "id": "cepages_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cépage blanc, l'un des rares dont le raisin de table conserve exactement le même goût aromatique que le raisin de cuve, sert à produire les vins doux de Beaumes-de-Venise ?",
+      "options": [
+        "Le Muscat",
+        "Le Gewurztraminer",
+        "Le Viognier",
+        "Le Chenin"
+      ],
+      "answer": "Le Muscat",
+      "explanation": "Contrairement à la grande majorité des cépages, dont le raisin frais n'a que peu de rapport gustatif avec le vin qui en est issu, le Muscat conserve un goût de raisin très reconnaissable, à la fois croqué frais ou vinifié en vin doux naturel."
+    },
+    {
+      "id": "cepages_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cépage blanc, cultivé notamment sur les rives du lac Léman, est le cépage roi des vignobles suisses du canton de Vaud ?",
+      "options": [
+        "Le Chasselas",
+        "Le Sylvaner",
+        "L'Altesse",
+        "Le Petit Manseng"
+      ],
+      "answer": "Le Chasselas",
+      "explanation": "Longtemps considéré comme un cépage neutre, le Chasselas révèle en réalité une grande sensibilité au terroir sur les coteaux en terrasses de Lavaux, exprimant des vins délicats aux notes minérales et légèrement salines face au lac Léman."
+    },
+    {
+      "id": "cepages_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cépage blanc, le plus planté d'Autriche, produit des vins secs et vifs reconnaissables à leurs notes caractéristiques de poivre blanc ?",
+      "options": [
+        "Le Grüner Veltliner",
+        "Le Riesling",
+        "Le Furmint",
+        "Le Silvaner"
+      ],
+      "answer": "Le Grüner Veltliner",
+      "explanation": "Le Grüner Veltliner couvre à lui seul près d'un tiers du vignoble autrichien. Il produit des vins d'une grande polyvalence, du style léger et désaltérant jusqu'à des cuvées de garde plus concentrées issues des meilleurs terroirs de la vallée du Danube."
+    },
+    {
+      "id": "cepages_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cépage rouge, créé en 1925 par croisement du Pinot Noir et du Cinsault, est devenu le cépage rouge emblématique de l'Afrique du Sud ?",
+      "options": [
+        "Le Pinotage",
+        "Le Zinfandel",
+        "Le Malbec",
+        "Le Carignan"
+      ],
+      "answer": "Le Pinotage",
+      "explanation": "Développé par le professeur Abraham Perold à l'université de Stellenbosch, le Pinotage associe la finesse recherchée du Pinot Noir à la résistance du Cinsault. Il produit des vins aux arômes particuliers, parfois décrits comme fumés ou légèrement rustiques."
+    },
+    {
+      "id": "cepages_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel cépage rouge grec, cultivé notamment dans la région de Naoussa, produit des vins tanniques et acides souvent comparés au Nebbiolo italien ?",
+      "options": [
+        "Le Xinomavro",
+        "L'Agiorgitiko",
+        "Le Moschofilero",
+        "L'Assyrtiko"
+      ],
+      "answer": "Le Xinomavro",
+      "explanation": "Le Xinomavro ('acide noir' en grec) partage avec le Nebbiolo une robe qui s'éclaircit rapidement, une acidité et des tanins puissants dans sa jeunesse, ainsi qu'un potentiel de garde exceptionnel développant des arômes de tomate séchée et d'olive avec l'âge."
+    },
+    {
+      "id": "cepages_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel cépage blanc hongrois, très sensible à la pourriture noble, est le cépage principal du célèbre vin liquoreux de Tokaji ?",
+      "options": [
+        "Le Furmint",
+        "Le Hárslevelű",
+        "Le Sárga Muskotály",
+        "Le Kéknyelű"
+      ],
+      "answer": "Le Furmint",
+      "explanation": "Grâce à sa peau fine et sa forte acidité naturelle, le Furmint se prête admirablement au développement du botrytis, ce champignon responsable de la pourriture noble qui concentre les sucres et donne naissance au prestigieux Tokaji Aszú hongrois."
     }
   ],
   "Accords mets et vins": [
@@ -902,11 +1282,17 @@
     },
     {
       "id": "accords_mets_vins_2",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quelle boisson effervescente festive et prestigieuse est l'accord idéal pour sublimer des gougères au fromage ou un apéritif dînatoire fin ?",
       "answer": "Le Champagne",
-      "explanation": "Grâce à sa vive acidité et à ses bulles délicates qui nettoient le palais, le Champagne est parfait pour accompagner des mets salés et légèrement gras comme les gougères au fromage. Il stimule les papilles en début de repas. Les cuvées de type \"Blanc de Blancs\" (100% Chardonnay) apportent en plus des notes briochées et d'agrumes qui s'accordent idéalement avec l'apéritif."
+      "explanation": "Grâce à sa vive acidité et à ses bulles délicates qui nettoient le palais, le Champagne est parfait pour accompagner des mets salés et légèrement gras comme les gougères au fromage. Il stimule les papilles en début de repas. Les cuvées de type \"Blanc de Blancs\" (100% Chardonnay) apportent en plus des notes briochées et d'agrumes qui s'accordent idéalement avec l'apéritif.",
+      "options": [
+        "Le Prosecco",
+        "La Crémant d'Alsace",
+        "Le Champagne",
+        "Le cidre pétillant"
+      ]
     },
     {
       "id": "accords_mets_vins_3",
@@ -924,11 +1310,17 @@
     },
     {
       "id": "accords_mets_vins_4",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel célèbre vin liquoreux d'Alsace, issu de vendanges tardives et très aromatique, est l'accord régional par excellence pour accompagner un foie gras poêlé ?",
       "answer": "Le Gewurztraminer (Vendanges Tardives)",
-      "explanation": "Le Gewurztraminer d'Alsace, en particulier lorsqu'il est issu de \"Vendanges Tardives\" (surmaturation des raisins sur pied), possède une richesse en sucre et une puissance aromatique (rose, litchi, épices) qui font écho au gras et à l'onctuosité du foie gras. Sa structure veloutée enveloppe le plat pour un accord de contraste riche et très festif."
+      "explanation": "Le Gewurztraminer d'Alsace, en particulier lorsqu'il est issu de \"Vendanges Tardives\" (surmaturation des raisins sur pied), possède une richesse en sucre et une puissance aromatique (rose, litchi, épices) qui font écho au gras et à l'onctuosité du foie gras. Sa structure veloutée enveloppe le plat pour un accord de contraste riche et très festif.",
+      "options": [
+        "Le Gewurztraminer (Vendanges Tardives)",
+        "Le Riesling (Vendanges Tardives)",
+        "Le Sylvaner (Vieilles Vignes)",
+        "Le Pinot Gris (Sélection de Grains Nobles)"
+      ]
     },
     {
       "id": "accords_mets_vins_5",
@@ -946,11 +1338,17 @@
     },
     {
       "id": "accords_mets_vins_6",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Facile",
       "question": "Quel type de vin blanc, originaire du Jura et élevé sous un voile de levures pendant plus de six ans, est l'accord idéal avec un vieux fromage de Comté et des noix ?",
       "answer": "Le Vin Jaune",
-      "explanation": "Le Vin Jaune, élaboré exclusivement à base du cépage Savagnin, subit un élevage oxydatif unique de 6 ans et 3 mois en fûts de chêne sous un voile de levures (\"la flor\"). Ce processus lui confère des arômes puissants de noix fraîche, de pomme verte, d'épices (curry) et de torréfaction. Il partage ces mêmes molécules aromatiques (notamment la sotolon) avec le Comté affiné, créant un accord fusionnel exceptionnel."
+      "explanation": "Le Vin Jaune, élaboré exclusivement à base du cépage Savagnin, subit un élevage oxydatif unique de 6 ans et 3 mois en fûts de chêne sous un voile de levures (\"la flor\"). Ce processus lui confère des arômes puissants de noix fraîche, de pomme verte, d'épices (curry) et de torréfaction. Il partage ces mêmes molécules aromatiques (notamment la sotolon) avec le Comté affiné, créant un accord fusionnel exceptionnel.",
+      "options": [
+        "Le Chardonnay",
+        "Le Vin Jaune",
+        "Le Pouilly-Fumé",
+        "Le Riesling"
+      ]
     },
     {
       "id": "accords_mets_vins_7",
@@ -968,11 +1366,17 @@
     },
     {
       "id": "accords_mets_vins_8",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel vin rouge léger de Bourgogne ou du Beaujolais est traditionnellement conseillé pour accompagner un fromage à pâte molle et croûte fleurie comme le Camembert ?",
       "answer": "Un Pinot Noir (ou un Gamay)",
-      "explanation": "Le Camembert ou le Brie possèdent une croûte fleurie qui développe de forts arômes d'ammoniaque et de sous-bois qui détruisent la structure des vins rouges très tanniques et boisés. Pour éviter ce conflit, il faut choisir un vin rouge léger, frais et fruité, peu tannique, comme un Pinot Noir bourguignon ou un Gamay du Beaujolais, qui respecte la texture crémeuse du fromage sans écraser ses arômes."
+      "explanation": "Le Camembert ou le Brie possèdent une croûte fleurie qui développe de forts arômes d'ammoniaque et de sous-bois qui détruisent la structure des vins rouges très tanniques et boisés. Pour éviter ce conflit, il faut choisir un vin rouge léger, frais et fruité, peu tannique, comme un Pinot Noir bourguignon ou un Gamay du Beaujolais, qui respecte la texture crémeuse du fromage sans écraser ses arômes.",
+      "options": [
+        "Un Cabernet Sauvignon de Bordeaux.",
+        "Un Merlot de Saint-Émilion.",
+        "Un Syrah de Rhône.",
+        "Un Pinot Noir (ou un Gamay)"
+      ]
     },
     {
       "id": "accords_mets_vins_9",
@@ -990,11 +1394,17 @@
     },
     {
       "id": "accords_mets_vins_10",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel vin rouge de la vallée du Rhône méridionale, dominé par le cépage Grenache, est l'accord de choix pour accompagner un carré d'agneau rôti aux herbes ?",
       "answer": "Un Gigondas (ou Châteauneuf-du-Pape)",
-      "explanation": "Les vins rouges du Rhône sud (comme Gigondas, Vacqueyras ou Châteauneuf-du-Pape) se caractérisent par des arômes chaleureux de fruits rouges confits, d'épices douces et surtout de garrigue (thym, laurier, romarin). Ces notes aromatiques font un écho parfait aux herbes de Provence qui parfument l'agneau rôti, tandis que la puissance du vin soutient le goût typé de cette viande savoureuse."
+      "explanation": "Les vins rouges du Rhône sud (comme Gigondas, Vacqueyras ou Châteauneuf-du-Pape) se caractérisent par des arômes chaleureux de fruits rouges confits, d'épices douces et surtout de garrigue (thym, laurier, romarin). Ces notes aromatiques font un écho parfait aux herbes de Provence qui parfument l'agneau rôti, tandis que la puissance du vin soutient le goût typé de cette viande savoureuse.",
+      "options": [
+        "Un Gigondas (ou Châteauneuf-du-Pape)",
+        "Un Saint-Joseph, un vin puissant mais souvent plus tannique, risquant de masquer les saveurs délicates de l'agneau.",
+        "Un Crozes-Hermitage, plus léger et fruité, mais manquant de structure pour l'agneau.",
+        "Un Côtes du Rhône Village, un vin plus accessible, mais moins complexe pour accompagner un plat riche."
+      ]
     },
     {
       "id": "accords_mets_vins_11",
@@ -1012,11 +1422,17 @@
     },
     {
       "id": "accords_mets_vins_12",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel type de vin doux naturel du Roussillon, issu principalement du cépage Grenache Noir et élevé en milieu oxydatif, est l'accord absolu avec un dessert au chocolat noir intense ?",
       "answer": "Un Maury (ou Banyuls)",
-      "explanation": "Le chocolat noir contient des tanins et une amertume qui assèchent la plupart des vins secs. L'accord parfait réside dans un vin doux naturel rouge comme le Banyuls ou le Maury. Grâce à leur richesse en alcool (mutage), leur sucre résiduel et leurs arômes oxydatifs complexes de cacao, de pruneau et de figue sèche, ils épousent le chocolat noir sans saturation, prolongeant délicieusement ses saveurs en bouche."
+      "explanation": "Le chocolat noir contient des tanins et une amertume qui assèchent la plupart des vins secs. L'accord parfait réside dans un vin doux naturel rouge comme le Banyuls ou le Maury. Grâce à leur richesse en alcool (mutage), leur sucre résiduel et leurs arômes oxydatifs complexes de cacao, de pruneau et de figue sèche, ils épousent le chocolat noir sans saturation, prolongeant délicieusement ses saveurs en bouche.",
+      "options": [
+        "Un Porto Vintage",
+        "Un Cahors Tannat",
+        "Un Muscat de Rivesaltes",
+        "Un Maury (ou Banyuls)"
+      ]
     },
     {
       "id": "accords_mets_vins_13",
@@ -1034,11 +1450,17 @@
     },
     {
       "id": "accords_mets_vins_14",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Moyen",
       "question": "Quel vin rosé de la vallée du Rhône, célèbre pour sa structure puissante, sa robe foncée et son appellation unique, est surnommé \"le roi des rosés\" et accompagne à merveille une bouillabaisse ?",
       "answer": "Le Tavel",
-      "explanation": "Contrairement aux rosés clairs et légers de Provence, le Tavel est un rosé de saignée et de macération longuement structuré, presque à la frontière d'un vin rouge léger. Élaboré principalement à partir de Grenache et de Cinsault, il présente une robe rubis intense et une bouche vineuse, charnue et épicée. Cette structure unique lui permet de résister aux saveurs fortes, safranées et aillées d'une authentique bouillabaisse de poissons de roche."
+      "explanation": "Contrairement aux rosés clairs et légers de Provence, le Tavel est un rosé de saignée et de macération longuement structuré, presque à la frontière d'un vin rouge léger. Élaboré principalement à partir de Grenache et de Cinsault, il présente une robe rubis intense et une bouche vineuse, charnue et épicée. Cette structure unique lui permet de résister aux saveurs fortes, safranées et aillées d'une authentique bouillabaisse de poissons de roche.",
+      "options": [
+        "L'Aptes de Tué",
+        "Le Lirac",
+        "Le Tavel",
+        "Le Cotes de Rhône Villages"
+      ]
     },
     {
       "id": "accords_mets_vins_15",
@@ -1056,11 +1478,17 @@
     },
     {
       "id": "accords_mets_vins_16",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel grand vin blanc sec de la Côte de Beaune en Bourgogne, issu du cépage Chardonnay et réputé pour ses notes beurrées, de noisette grillée et sa noble réduction, est l'accord ultime avec un homard sauce thermidor ?",
       "answer": "Un Meursault (ou Puligny-Montrachet)",
-      "explanation": "Le homard en sauce Thermidor (à base de crème, de fromage et de moutarde) est un plat d'une grande richesse. Pour l'accompagner, il faut un vin blanc sec d'une grande envergure. Un grand cru ou premier cru de Meursault possède cette texture grasse, ample et veloutée en bouche, combinée à des notes boisées et toastées nobles de noisette grillée et de beurre frais qui font écho à la sauce, tout en conservant une colonne vertébrale acide essentielle pour étirer l'accord."
+      "explanation": "Le homard en sauce Thermidor (à base de crème, de fromage et de moutarde) est un plat d'une grande richesse. Pour l'accompagner, il faut un vin blanc sec d'une grande envergure. Un grand cru ou premier cru de Meursault possède cette texture grasse, ample et veloutée en bouche, combinée à des notes boisées et toastées nobles de noisette grillée et de beurre frais qui font écho à la sauce, tout en conservant une colonne vertébrale acide essentielle pour étirer l'accord.",
+      "options": [
+        "Un Chassagne-Montrachet, privilégiant une minéralité plus affirmée et une acidité plus tranchée, mais risquant de masquer les subtilités de la sauce Thermidor.",
+        "Un Pouilly-Fuissé, caractérisé par des notes florales et d'agrumes, qui pourraient s'effacer face à la richesse du homard Thermidor et ne pas apporter l'équilibre recherché.",
+        "Un Meursault (ou Puligny-Montrachet)",
+        "Un Saint-Véran, offrant une fraîcheur et une vivacité appréciables, mais manquant de la complexité aromatique et de la richesse nécessaires pour soutenir la puissance du plat."
+      ]
     },
     {
       "id": "accords_mets_vins_17",
@@ -1078,11 +1506,17 @@
     },
     {
       "id": "accords_mets_vins_18",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel type de vin muté portugais, en version \"Tawny\" aux notes de fruits secs et de caramel, est l'accord d'exception avec un canard laqué aux cinq épices ou des figues rôties ?",
       "answer": "Un Porto (Tawny)",
-      "explanation": "Les vins de Porto de style \"Tawny\" subissent un long vieillissement en fûts de bois, ce qui leur confère une robe ambrée et des arômes complexes de noix, de figue sèche, d'épices douces (cannelle) et de sucre roux. Ces notes confites et caramélisées épousent magnifiquement le profil sucré-salé, la peau croustillante et les épices d'un canard laqué traditionnel chinois, ou la douceur caramélisée de figues rôties au four."
+      "explanation": "Les vins de Porto de style \"Tawny\" subissent un long vieillissement en fûts de bois, ce qui leur confère une robe ambrée et des arômes complexes de noix, de figue sèche, d'épices douces (cannelle) et de sucre roux. Ces notes confites et caramélisées épousent magnifiquement le profil sucré-salé, la peau croustillante et les épices d'un canard laqué traditionnel chinois, ou la douceur caramélisée de figues rôties au four.",
+      "options": [
+        "Un Moscatel de Setúbal",
+        "Un Porto (Tawny)",
+        "Un Banyuls (Réserve)",
+        "Un Madère (Malmsey)"
+      ]
     },
     {
       "id": "accords_mets_vins_19",
@@ -1100,11 +1534,157 @@
     },
     {
       "id": "accords_mets_vins_20",
-      "type": "open",
+      "type": "qcm",
       "difficulty": "Difficile",
       "question": "Quel vin rouge de Galice (Espagne), issu du cépage Mencia très floral et frais, est un accord original et d'exception pour accompagner un poulpe grillé à la galicienne ?",
       "answer": "Un Bierzo (cépage Mencia)",
-      "explanation": "Le poulpe à la galicienne est un plat de caractère, associant la texture ferme du poulpe, le gras de l'huile d'olive et la fumée épicée du pimentón (paprika espagnol). L'accord traditionnel blanc est l'Albariño, mais pour un accord rouge d'exception, les vins de l'appellation Bierzo (100% cépage Mencia) sont magiques. La Mencia offre une robe rubis claire, une acidité rafraîchissante proche d'un Pinot Noir, mais avec des notes épicées sauvages et une minéralité de schiste qui soulignent superbement la fumée du paprika sans écraser la chair délicate du poulpe."
+      "explanation": "Le poulpe à la galicienne est un plat de caractère, associant la texture ferme du poulpe, le gras de l'huile d'olive et la fumée épicée du pimentón (paprika espagnol). L'accord traditionnel blanc est l'Albariño, mais pour un accord rouge d'exception, les vins de l'appellation Bierzo (100% cépage Mencia) sont magiques. La Mencia offre une robe rubis claire, une acidité rafraîchissante proche d'un Pinot Noir, mais avec des notes épicées sauvages et une minéralité de schiste qui soulignent superbement la fumée du paprika sans écraser la chair délicate du poulpe.",
+      "options": [
+        "Un Monterrei (cépage Mencía)",
+        "Un Bierzo (cépage Mencia)",
+        "Un Valdeorras (cépage Caiño)",
+        "Un Ribeira Sacra (cépage Sousão)"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel type de vin blanc sec, issu des vignobles de montagne, est l'accord traditionnel pour une raclette ou une fondue savoyarde au fromage fondu ?",
+      "options": [
+        "Un vin blanc sec de Savoie",
+        "Un vin rouge tannique de Bordeaux",
+        "Un vin doux liquoreux",
+        "Un champagne rosé"
+      ],
+      "answer": "Un vin blanc sec de Savoie",
+      "explanation": "Des cépages comme la Jacquère ou l'Altesse produisent des vins blancs vifs et légers, comme l'Apremont ou la Roussette de Savoie, dont l'acidité tranche idéalement avec le gras du fromage fondu tout en respectant la légèreté de l'accord montagnard."
+    },
+    {
+      "id": "accords_mets_vins_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel vin rouge italien léger et fruité, souvent servi légèrement frais, accompagne traditionnellement une pizza ou des pâtes à la sauce tomate ?",
+      "options": [
+        "Un Chianti italien",
+        "Un Barolo puissant",
+        "Un vin blanc liquoreux",
+        "Un Porto vintage"
+      ],
+      "answer": "Un Chianti italien",
+      "explanation": "Issu majoritairement du cépage Sangiovese, le Chianti possède une acidité naturelle qui fait écho à celle de la sauce tomate, tandis que sa légèreté en tanins évite d'écraser la simplicité conviviale de ces plats du quotidien italien."
+    },
+    {
+      "id": "accords_mets_vins_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle boisson traditionnelle japonaise, obtenue par fermentation de riz, est l'accord culturel classique pour accompagner un plateau de sushis et de sashimis ?",
+      "options": [
+        "Le saké",
+        "Le shochu",
+        "La bière japonaise",
+        "Le umeshu"
+      ],
+      "answer": "Le saké",
+      "explanation": "Servi tiède ou frais selon sa qualité, le saké possède une texture douce et peu d'acidité qui n'entre pas en conflit avec la délicatesse du poisson cru, contrairement à certains vins dont l'acidité ou les tanins peuvent accentuer un goût métallique."
+    },
+    {
+      "id": "accords_mets_vins_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel vin doux et liquoreux, célèbre spécialité de Jerez en Espagne, est l'accord traditionnel avec un dessert à base de figues séchées ou d'amandes ?",
+      "options": [
+        "Le Xérès (Pedro Ximénez)",
+        "Le Porto Ruby",
+        "Le Sauternes",
+        "Le Banyuls"
+      ],
+      "answer": "Le Xérès (Pedro Ximénez)",
+      "explanation": "Élaboré à partir de raisins passerillés au soleil pendant plusieurs semaines, le Xérès de type Pedro Ximénez développe une concentration de sucre extrême et des arômes de fruits secs, de figue et de datte qui font écho naturellement à ces desserts méditerranéens."
+    },
+    {
+      "id": "accords_mets_vins_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel vin rouge corsé et épicé, issu du cépage Syrah dans la vallée du Rhône septentrionale, est l'accord classique pour un gibier à plumes comme le faisan ?",
+      "options": [
+        "Un Hermitage (Syrah)",
+        "Un Beaujolais nouveau",
+        "Un Muscadet",
+        "Un Sauternes"
+      ],
+      "answer": "Un Hermitage (Syrah)",
+      "explanation": "La puissance tannique et les notes épicées (poivre noir, réglisse) de la Syrah de l'Hermitage s'accordent avec la texture ferme et le goût prononcé du gibier à plumes, un accord classique de la gastronomie française d'automne et d'hiver."
+    },
+    {
+      "id": "accords_mets_vins_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel vin blanc sec et vif d'Alsace est l'accord traditionnel pour accompagner des asperges fraîches, un légume réputé particulièrement difficile à marier avec le vin ?",
+      "options": [
+        "Un Sylvaner d'Alsace",
+        "Un Cabernet Sauvignon",
+        "Un Porto Tawny",
+        "Un Banyuls"
+      ],
+      "answer": "Un Sylvaner d'Alsace",
+      "explanation": "L'acide asparagusique contenu dans les asperges accentue l'amertume de nombreux vins, en particulier les rouges tanniques. Un blanc sec, léger et peu boisé comme le Sylvaner limite ce phénomène et respecte la délicatesse végétale du légume."
+    },
+    {
+      "id": "accords_mets_vins_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel type de vin effervescent sec, doté de bulles fines et d'une belle acidité, est recommandé pour accompagner un brunch composé d'œufs et de plats légèrement gras ?",
+      "options": [
+        "Un Crémant",
+        "Un vin rouge tannique",
+        "Un vin doux liquoreux",
+        "Un Xérès"
+      ],
+      "answer": "Un Crémant",
+      "explanation": "Les bulles fines et la fraîcheur acidulée d'un Crémant nettoient agréablement le palais entre chaque bouchée d'un brunch souvent composé de mets gras (œufs, viennoiseries, charcuterie), sans jamais écraser leur saveur par une trop grande puissance."
+    },
+    {
+      "id": "accords_mets_vins_28",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel vin rouge italien, célèbre spécialité du Piémont issue du cépage Nebbiolo, s'accorde traditionnellement avec un risotto aux truffes blanches d'Alba ?",
+      "options": [
+        "Un Barolo",
+        "Un Chianti Classico",
+        "Un Amarone",
+        "Un Valpolicella"
+      ],
+      "answer": "Un Barolo",
+      "explanation": "Le Barolo, surnommé 'le roi des vins et le vin des rois', possède une structure tannique et une complexité aromatique (rose fanée, truffe, sous-bois) capables de dialoguer avec la puissance aromatique de la truffe blanche sans jamais s'effacer devant elle."
+    },
+    {
+      "id": "accords_mets_vins_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel vin rouge toscan structuré, issu à 100% du cépage Sangiovese et élevé plusieurs années en fût, est l'accord de prestige pour une bistecca alla fiorentina, la célèbre côte de bœuf toscane ?",
+      "options": [
+        "Un Brunello di Montalcino",
+        "Un Chianti Classico",
+        "Un Barolo",
+        "Un Amarone"
+      ],
+      "answer": "Un Brunello di Montalcino",
+      "explanation": "Élevé au minimum cinq ans, dont deux en fût de chêne, le Brunello di Montalcino développe une structure tannique dense et des arômes évolués de cuir et d'épices, à la hauteur de la puissance et de la simplicité rustique de cette pièce de bœuf grillée."
+    },
+    {
+      "id": "accords_mets_vins_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel vin effervescent doux italien, élaboré à partir du cépage Moscato dans la région du Piémont, est l'accord classique pour un dessert de fruits frais ou une pâtisserie légère ?",
+      "options": [
+        "L'Asti Spumante",
+        "Le Prosecco",
+        "Le Lambrusco",
+        "Le Franciacorta"
+      ],
+      "answer": "L'Asti Spumante",
+      "explanation": "Contrairement au Prosecco généralement sec ou demi-sec, l'Asti Spumante conserve un sucre résiduel élevé et des arômes intensément fruités et floraux de raisin muscat, ce qui en fait un accord naturel avec les desserts sans jamais paraître écrasant."
     }
   ]
 }

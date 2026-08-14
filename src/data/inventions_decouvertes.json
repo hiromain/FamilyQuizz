@@ -21,6 +21,398 @@
       "question": "Quel ingénieur et physicien visionnaire serbo-américain est célèbre pour ses inventions majeures autour du courant alternatif et de la transmission sans fil ?",
       "answer": "Nikola Tesla",
       "explanation": "Nikola Tesla (1856-1943) a déposé de nombreux brevets révolutionnant le génie électrique. Son travail sur le courant alternatif a permis le transport de l'électricité sur de grandes distances, remportant la 'Guerre des courants' face au courant continu défendu par Thomas Edison."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel duo de frères français est célèbre pour avoir inventé le cinématographe et projeté les premiers films en public en 1895 ?",
+      "options": [
+        "Les frères Lumière",
+        "Les frères Wright",
+        "Les frères Montgolfier",
+        "Les frères Pathé"
+      ],
+      "answer": "Les frères Lumière",
+      "explanation": "Auguste et Louis Lumière projettent leur premier film, 'La Sortie de l'usine Lumière à Lyon', le 28 décembre 1895 à Paris, événement considéré comme l'acte de naissance officiel du cinéma."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_4",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quels deux frères américains sont crédités du premier vol motorisé et contrôlé d'un avion, en 1903 ?",
+      "options": [
+        "Les frères Wright",
+        "Les frères Lumière",
+        "Les frères Montgolfier",
+        "Les frères Renault"
+      ],
+      "answer": "Les frères Wright",
+      "explanation": "Le 17 décembre 1903, Orville et Wilbur Wright réalisent à Kitty Hawk, en Caroline du Nord, le premier vol motorisé et piloté de l'histoire, parcourant 36 mètres en 12 secondes."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_5",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel inventeur américain est crédité de la mise au point de l'ampoule électrique à incandescence durable, commercialisée dès 1879 ?",
+      "options": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Benjamin Franklin"
+      ],
+      "answer": "Thomas Edison",
+      "explanation": "Si le principe de l'incandescence était déjà connu, Thomas Edison a mis au point un filament de carbone durable et un système complet de distribution électrique, rendant l'ampoule véritablement exploitable commercialement."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quels deux frères français sont célèbres pour avoir réalisé, en 1783, le premier vol habité de l'histoire à bord d'une montgolfière ?",
+      "options": [
+        "Les frères Montgolfier",
+        "Les frères Wright",
+        "Les frères Lumière",
+        "Les frères Voisin"
+      ],
+      "answer": "Les frères Montgolfier",
+      "explanation": "Joseph-Michel et Jacques-Étienne Montgolfier font voler leur ballon à air chaud avec deux passagers au-dessus de Paris le 21 novembre 1783, marquant les débuts de l'aviation humaine."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ingénieur écossais a considérablement perfectionné la machine à vapeur à la fin du XVIIIe siècle, jouant un rôle clé dans le déclenchement de la révolution industrielle ?",
+      "options": [
+        "James Watt",
+        "Thomas Newcomen",
+        "George Stephenson",
+        "Richard Trevithick"
+      ],
+      "answer": "James Watt",
+      "explanation": "James Watt n'a pas inventé la machine à vapeur, déjà utilisée par Newcomen, mais y a apporté des améliorations décisives, notamment un condenseur séparé, qui en ont considérablement accru le rendement. L'unité de puissance, le watt, lui rend hommage."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_8",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel scientifique écossais est crédité de l'invention du téléphone, breveté aux États-Unis en 1876 ?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Samuel Morse"
+      ],
+      "answer": "Alexander Graham Bell",
+      "explanation": "Le brevet du téléphone déposé par Alexander Graham Bell en février 1876 a fait l'objet de contestations juridiques, un autre inventeur, Elisha Gray, ayant déposé une demande similaire le même jour."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel chimiste et biologiste français a mis au point le procédé de la pasteurisation et développé le premier vaccin contre la rage ?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Robert Koch",
+        "Claude Bernard"
+      ],
+      "answer": "Louis Pasteur",
+      "explanation": "Louis Pasteur a démontré au XIXe siècle que les micro-organismes sont responsables de nombreuses maladies. La pasteurisation, un chauffage contrôlé, permet encore aujourd'hui de conserver le lait et de nombreux aliments."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien italien a inventé la pile électrique en 1800, premier dispositif capable de générer un courant électrique continu ?",
+      "options": [
+        "Alessandro Volta",
+        "Luigi Galvani",
+        "André-Marie Ampère",
+        "Michael Faraday"
+      ],
+      "answer": "Alessandro Volta",
+      "explanation": "La pile voltaïque, empilement de disques de cuivre et de zinc séparés par des tissus imbibés d'acide, a permis pour la première fois de produire un courant électrique stable et durable. L'unité 'volt' lui rend hommage."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_11",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien écossais est à l'origine de l'invention de la première télévision mécanique fonctionnelle, démontrée en 1926 ?",
+      "options": [
+        "John Logie Baird",
+        "Philo Farnsworth",
+        "Vladimir Zworykin",
+        "Guglielmo Marconi"
+      ],
+      "answer": "John Logie Baird",
+      "explanation": "John Logie Baird a présenté la première démonstration publique d'images animées transmises électriquement à Londres en 1926, avant que la technologie entièrement électronique de Farnsworth ne s'impose par la suite."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_12",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel inventeur écossais est crédité de la mise au point du premier réfrigérateur pratique fonctionnant grâce à la compression de gaz, au début du XIXe siècle ?",
+      "options": [
+        "Jacob Perkins",
+        "James Watt",
+        "Michael Faraday",
+        "William Cullen"
+      ],
+      "answer": "Jacob Perkins",
+      "explanation": "Jacob Perkins a déposé en 1834 le premier brevet d'un système de réfrigération par compression de vapeur, principe qui reste, dans ses grandes lignes, celui utilisé par la majorité des réfrigérateurs modernes."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ingénieur allemand est considéré comme l'inventeur de la première automobile à moteur à combustion pratique, brevetée en 1886 ?",
+      "options": [
+        "Karl Benz",
+        "Gottlieb Daimler",
+        "Rudolf Diesel",
+        "Henry Ford"
+      ],
+      "answer": "Karl Benz",
+      "explanation": "Karl Benz a breveté en janvier 1886 le 'Benz Patent-Motorwagen', généralement considéré comme la première automobile pratique équipée d'un moteur à combustion interne, propulsée par un moteur à essence à un cylindre."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_14",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien allemand a découvert en 1895 les rayons X, permettant l'apparition de la première technique d'imagerie médicale non invasive ?",
+      "options": [
+        "Wilhelm Röntgen",
+        "Marie Curie",
+        "Antoine Becquerel",
+        "Ernest Rutherford"
+      ],
+      "answer": "Wilhelm Röntgen",
+      "explanation": "Wilhelm Röntgen a reçu le tout premier prix Nobel de physique en 1901 pour cette découverte accidentelle, réalisée en manipulant un tube à rayons cathodiques. La toute première radiographie a immortalisé la main de son épouse."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_15",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel physicien écossais a formulé au XIXe siècle les équations unifiant électricité, magnétisme et lumière, posant les bases théoriques de nombreuses inventions à venir ?",
+      "options": [
+        "James Clerk Maxwell",
+        "Michael Faraday",
+        "Lord Kelvin",
+        "Heinrich Hertz"
+      ],
+      "answer": "James Clerk Maxwell",
+      "explanation": "Publiées dans les années 1860, les équations de Maxwell démontrent que la lumière est elle-même une onde électromagnétique, ouvrant la voie théorique à des inventions comme la radio, développée plus tard par Hertz et Marconi."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_16",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur américain a mis au point en 1793 l'égreneuse de coton, une machine ayant considérablement accéléré le traitement du coton brut ?",
+      "options": [
+        "Eli Whitney",
+        "Samuel Slater",
+        "Elias Howe",
+        "Cyrus McCormick"
+      ],
+      "answer": "Eli Whitney",
+      "explanation": "L'égreneuse à coton d'Eli Whitney sépare mécaniquement les fibres de coton de leurs graines, multipliant par cinquante la productivité par rapport au travail manuel, tout en renforçant paradoxalement le recours à l'esclavage dans le sud des États-Unis."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_17",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel chimiste belge a mis au point en 1907 la bakélite, considérée comme la toute première matière plastique entièrement synthétique de l'histoire ?",
+      "options": [
+        "Leo Baekeland",
+        "Alfred Nobel",
+        "Wallace Carothers",
+        "John Wesley Hyatt"
+      ],
+      "answer": "Leo Baekeland",
+      "explanation": "Contrairement aux plastiques précédents dérivés de matières naturelles, la bakélite mise au point par Leo Baekeland est un polymère totalement synthétique, ouvrant la voie à l'immense industrie plastique du XXe siècle."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_18",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel inventeur écossais est à l'origine du principe du macadam, une technique de revêtement des routes encore utilisée sous une forme modernisée aujourd'hui ?",
+      "options": [
+        "John Loudon McAdam",
+        "James Watt",
+        "Thomas Telford",
+        "Robert Stephenson"
+      ],
+      "answer": "John Loudon McAdam",
+      "explanation": "John Loudon McAdam a développé au début du XIXe siècle une méthode de construction routière utilisant des couches de pierres concassées compactées, bien plus durable et économique que les routes pavées traditionnelles."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_19",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel biologiste écossais a découvert par hasard en 1928 la pénicilline, premier antibiotique de l'histoire, en observant une moisissure contaminant une de ses cultures ?",
+      "options": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Joseph Lister"
+      ],
+      "answer": "Alexander Fleming",
+      "explanation": "En revenant de vacances, Alexander Fleming remarque qu'une moisissure du genre Penicillium a détruit les bactéries dans l'une de ses boîtes de culture oubliées, une découverte accidentelle qui sauvera des millions de vies."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_20",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ingénieur allemand a mis au point en 1893 un moteur à combustion interne à haut rendement, fonctionnant grâce à l'auto-inflammation du carburant sous forte pression, qui porte aujourd'hui son nom ?",
+      "options": [
+        "Rudolf Diesel",
+        "Karl Benz",
+        "Nikolaus Otto",
+        "Gottlieb Daimler"
+      ],
+      "answer": "Rudolf Diesel",
+      "explanation": "Contrairement au moteur à essence qui utilise une bougie d'allumage, le moteur mis au point par Rudolf Diesel enflamme le carburant par la seule compression de l'air, un principe plus efficace encore largement utilisé aujourd'hui dans les poids lourds et les navires."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel physicien italien a réalisé en 1901 la première transmission radio transatlantique sans fil, entre l'Angleterre et le Canada ?",
+      "options": [
+        "Guglielmo Marconi",
+        "Nikola Tesla",
+        "Heinrich Hertz",
+        "Alexander Popov"
+      ],
+      "answer": "Guglielmo Marconi",
+      "explanation": "Guglielmo Marconi a capté à Terre-Neuve un simple signal en morse émis depuis les Cornouailles anglaises, prouvant que les ondes radio pouvaient franchir l'Atlantique malgré la courbure de la Terre. Cette prouesse lui vaudra le prix Nobel de physique en 1909."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel industriel américain, fondateur de la marque Kodak, a démocratisé la photographie grand public en 1888 grâce à la pellicule en rouleau ?",
+      "options": [
+        "George Eastman",
+        "Louis Daguerre",
+        "Joseph Nicéphore Niépce",
+        "Thomas Edison"
+      ],
+      "answer": "George Eastman",
+      "explanation": "Avant George Eastman, la photographie exigeait un lourd matériel et des connaissances techniques poussées. Son slogan publicitaire, 'Vous appuyez sur le bouton, nous faisons le reste', résume la simplicité révolutionnaire qu'il a apportée au grand public."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel physicien français a inventé en 1829 un système d'écriture en points en relief permettant aux personnes aveugles de lire et d'écrire ?",
+      "options": [
+        "Louis Braille",
+        "Valentin Haüy",
+        "Charles Barbier",
+        "Denis Diderot"
+      ],
+      "answer": "Louis Braille",
+      "explanation": "Devenu aveugle à l'âge de trois ans, Louis Braille perfectionne dès l'adolescence un système militaire de codage nocturne pour créer, à seulement 15 ans, l'alphabet en points en relief qui porte aujourd'hui son nom dans le monde entier."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel inventeur américain, associé à Isaac Merritt Singer, a perfectionné le mécanisme à point noué de la machine à coudre mécanique au milieu du XIXe siècle ?",
+      "options": [
+        "Elias Howe",
+        "Eli Whitney",
+        "Cyrus McCormick",
+        "Samuel Slater"
+      ],
+      "answer": "Elias Howe",
+      "explanation": "Elias Howe a breveté en 1846 un mécanisme de point noué grâce à une navette et une aiguille à chas percé à la pointe, principe encore utilisé aujourd'hui. Isaac Singer commercialisera ensuite massivement des machines inspirées de ce brevet, non sans un long conflit juridique."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel inventeur américain a mis au point en 1852 le système de frein de sécurité qui a rendu possible la construction des premiers ascenseurs pour passagers ?",
+      "options": [
+        "Elisha Otis",
+        "Werner von Siemens",
+        "George Westinghouse",
+        "Thomas Edison"
+      ],
+      "answer": "Elisha Otis",
+      "explanation": "Lors d'une démonstration spectaculaire à New York en 1854, Elisha Otis se fit hisser dans une plateforme puis fit trancher volontairement le câble porteur devant une foule effrayée : son frein de sécurité stoppa net la chute, rassurant définitivement le public."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien américain d'origine croate a mis au point en 1946 le four à micro-ondes, après avoir remarqué qu'une barre chocolatée avait fondu dans sa poche près d'un magnétron ?",
+      "options": [
+        "Percy Spencer",
+        "Nikola Tesla",
+        "John Bardeen",
+        "William Shockley"
+      ],
+      "answer": "Percy Spencer",
+      "explanation": "Travaillant sur des radars militaires équipés de magnétrons, l'ingénieur Percy Spencer remarque par hasard qu'une barre chocolatée dans sa poche a fondu. Il fait ensuite exploser du pop-corn devant l'appareil, confirmant sa découverte fortuite."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ingénieur américain d'origine russe a mis au point en 1939 le VS-300, premier hélicoptère pratique capable d'un vol stable et durable ?",
+      "options": [
+        "Igor Sikorsky",
+        "Paul Cornu",
+        "Juan de la Cierva",
+        "Arthur Young"
+      ],
+      "answer": "Igor Sikorsky",
+      "explanation": "Après avoir déjà conçu les premiers avions multimoteurs en Russie avant la révolution, Igor Sikorsky émigre aux États-Unis où il se consacre à l'hélicoptère, ouvrant la voie à son usage civil et militaire généralisé après la Seconde Guerre mondiale."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_28",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel inventeur américain a mis au point en 1868 la première machine à écrire commercialement viable, popularisant durablement la disposition de clavier QWERTY ?",
+      "options": [
+        "Christopher Sholes",
+        "Peter Mitterhofer",
+        "Giuseppe Ravizza",
+        "Remington"
+      ],
+      "answer": "Christopher Sholes",
+      "explanation": "Christopher Sholes aurait conçu la disposition QWERTY pour espacer les touches des lettres fréquemment utilisées ensemble, réduisant les blocages mécaniques des tiges métalliques. Ce clavier, vendu ensuite par le fabricant d'armes Remington, s'est imposé durablement malgré des dispositions ultérieures jugées plus efficaces."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur américain a mis au point en 1902 le premier système de climatisation moderne, conçu à l'origine pour contrôler l'humidité dans une imprimerie de Brooklyn ?",
+      "options": [
+        "Willis Carrier",
+        "Thomas Midgley",
+        "Jacob Perkins",
+        "Frederic Tudor"
+      ],
+      "answer": "Willis Carrier",
+      "explanation": "Le système imaginé par Willis Carrier ne visait initialement qu'à stabiliser l'humidité ambiante pour éviter que le papier ne gondole lors de l'impression en couleurs, avant que son potentiel pour le confort humain ne soit exploité bien plus largement."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel chimiste américain a mis au point en 1839 le procédé de vulcanisation du caoutchouc, le rendant enfin résistant à la chaleur et durable ?",
+      "options": [
+        "Charles Goodyear",
+        "John Boyd Dunlop",
+        "Robert William Thomson",
+        "Harvey Firestone"
+      ],
+      "answer": "Charles Goodyear",
+      "explanation": "Charles Goodyear découvre accidentellement le procédé de vulcanisation en laissant tomber un mélange de caoutchouc et de soufre sur un poêle brûlant. Ruiné par ses recherches, il meurt endetté, bien que son nom soit resté attaché à l'une des plus grandes marques de pneumatiques."
     }
   ],
   "Inventions & Découvertes : Pionniers & Savants": [
@@ -45,6 +437,398 @@
       "question": "Quel physicien et mathématicien anglais du XVIIe siècle a formulé la loi de la gravitation universelle et les trois lois fondamentales du mouvement mécanique ?",
       "answer": "Isaac Newton",
       "explanation": "Isaac Newton a publié en 1687 ses 'Principia', posant les bases de la mécanique classique. Sa loi de la gravitation universelle unifie pour la première fois la physique terrestre et les mouvements des corps célestes (les planètes et lunes dans l'espace)."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel physicien allemand a formulé la théorie de la relativité, bouleversant notre compréhension de l'espace et du temps ?",
+      "options": [
+        "Albert Einstein",
+        "Niels Bohr",
+        "Max Planck",
+        "Werner Heisenberg"
+      ],
+      "answer": "Albert Einstein",
+      "explanation": "Albert Einstein publie sa théorie de la relativité restreinte en 1905, puis la relativité générale en 1915. Sa formule E=mc² est devenue l'équation scientifique la plus célèbre au monde."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_4",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel astronome italien, en perfectionnant la lunette astronomique au début du XVIIe siècle, a confirmé que la Terre tourne autour du Soleil ?",
+      "options": [
+        "Galilée",
+        "Nicolas Copernic",
+        "Johannes Kepler",
+        "Tycho Brahe"
+      ],
+      "answer": "Galilée",
+      "explanation": "Galileo Galilei a observé pour la première fois les lunes de Jupiter et les phases de Vénus, apportant des preuves observationnelles décisives au modèle héliocentrique proposé plus tôt par Copernic."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_5",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel naturaliste britannique est l'auteur de la théorie de l'évolution des espèces par sélection naturelle, publiée en 1859 ?",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Alfred Russel Wallace",
+        "Jean-Baptiste Lamarck"
+      ],
+      "answer": "Charles Darwin",
+      "explanation": "Après son célèbre voyage autour du monde à bord du HMS Beagle, Charles Darwin publie 'L'Origine des espèces', bouleversant durablement la biologie et notre compréhension de l'histoire du vivant."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel physicien et chimiste français, avec son épouse Marie Curie, a partagé le prix Nobel de physique 1903 pour leurs travaux sur la radioactivité ?",
+      "options": [
+        "Pierre Curie",
+        "Antoine Becquerel",
+        "Paul Langevin",
+        "Jean Perrin"
+      ],
+      "answer": "Pierre Curie",
+      "explanation": "Pierre et Marie Curie ont travaillé ensemble dans un laboratoire rudimentaire pour isoler le radium et le polonium. Pierre Curie meurt accidentellement en 1906, renversé par une voiture à cheval dans une rue de Paris."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_7",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel moine et botaniste austro-tchèque est considéré comme le fondateur de la génétique moderne grâce à ses expériences sur les petits pois ?",
+      "options": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Louis Pasteur",
+        "Robert Hooke"
+      ],
+      "answer": "Gregor Mendel",
+      "explanation": "En croisant méthodiquement des milliers de plants de petits pois dans le jardin de son monastère, Gregor Mendel a établi dans les années 1860 les lois fondamentales de l'hérédité, longtemps ignorées avant d'être redécouvertes."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_8",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle chercheuse britannique a réalisé des clichés de diffraction aux rayons X essentiels à la découverte de la structure en double hélice de l'ADN ?",
+      "options": [
+        "Rosalind Franklin",
+        "Dorothy Hodgkin",
+        "Barbara McClintock",
+        "Jocelyn Bell Burnell"
+      ],
+      "answer": "Rosalind Franklin",
+      "explanation": "Son célèbre 'Cliché 51', obtenu par diffraction des rayons X, a fourni des indices déterminants exploités par James Watson et Francis Crick pour établir la structure en double hélice de l'ADN en 1953."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel astronome polonais du XVIe siècle est à l'origine du modèle héliocentrique plaçant le Soleil, et non la Terre, au centre du système solaire ?",
+      "options": [
+        "Nicolas Copernic",
+        "Galilée",
+        "Johannes Kepler",
+        "Tycho Brahe"
+      ],
+      "answer": "Nicolas Copernic",
+      "explanation": "Publié l'année de sa mort en 1543, l'ouvrage de Nicolas Copernic 'Des révolutions des orbes célestes' propose un modèle radicalement nouveau, en rupture avec la vision géocentrique dominante depuis l'Antiquité."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel médecin britannique est célèbre pour avoir mis au point la première vaccination de l'histoire, contre la variole, en 1796 ?",
+      "options": [
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Joseph Lister"
+      ],
+      "answer": "Edward Jenner",
+      "explanation": "Edward Jenner a observé que les fermières infectées par la vaccine, une maladie bovine bénigne, semblaient protégées contre la variole humaine. Son expérience fondatrice est à l'origine du mot 'vaccination'."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_11",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel astronome allemand a formulé au début du XVIIe siècle les trois lois décrivant le mouvement elliptique des planètes autour du Soleil ?",
+      "options": [
+        "Johannes Kepler",
+        "Galilée",
+        "Isaac Newton",
+        "Tycho Brahe"
+      ],
+      "answer": "Johannes Kepler",
+      "explanation": "En exploitant les observations extrêmement précises de son mentor Tycho Brahe, Johannes Kepler démontre que les planètes suivent des orbites elliptiques, et non circulaires comme on le pensait auparavant."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_12",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien néo-zélandais est considéré comme le père de la physique nucléaire pour avoir découvert la structure du noyau atomique en 1911 ?",
+      "options": [
+        "Ernest Rutherford",
+        "Niels Bohr",
+        "James Chadwick",
+        "J. J. Thomson"
+      ],
+      "answer": "Ernest Rutherford",
+      "explanation": "Grâce à sa célèbre expérience de la feuille d'or, Ernest Rutherford démontre que l'atome est majoritairement composé de vide, avec une masse concentrée dans un minuscule noyau central chargé positivement."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle astronome américaine a établi, au début du XXe siècle, une méthode permettant de mesurer les distances astronomiques grâce aux étoiles variables céphéides ?",
+      "options": [
+        "Henrietta Leavitt",
+        "Vera Rubin",
+        "Annie Jump Cannon",
+        "Caroline Herschel"
+      ],
+      "answer": "Henrietta Leavitt",
+      "explanation": "La relation découverte par Henrietta Leavitt entre la période de pulsation d'une céphéide et sa luminosité réelle est devenue un outil essentiel pour mesurer les distances dans l'univers, utilisé encore aujourd'hui."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_14",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel physicien danois a proposé en 1913 un modèle de l'atome où les électrons occupent des orbites d'énergie précises et quantifiées ?",
+      "options": [
+        "Niels Bohr",
+        "Max Planck",
+        "Werner Heisenberg",
+        "Erwin Schrödinger"
+      ],
+      "answer": "Niels Bohr",
+      "explanation": "Le modèle atomique de Niels Bohr, s'appuyant sur la théorie quantique naissante, explique pour la première fois pourquoi les atomes émettent de la lumière à des fréquences précises et non continues."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_15",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle chercheuse américaine a découvert dans les années 1940 et 1950 les 'transposons', des séquences d'ADN capables de se déplacer au sein du génome, lui valant le prix Nobel en 1983 ?",
+      "options": [
+        "Barbara McClintock",
+        "Rosalind Franklin",
+        "Rita Levi-Montalcini",
+        "Gerty Cori"
+      ],
+      "answer": "Barbara McClintock",
+      "explanation": "Longtemps incomprise par ses pairs, Barbara McClintock a démontré chez le maïs que certains gènes peuvent changer de position sur les chromosomes, un phénomène aujourd'hui reconnu comme fondamental en génétique."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_16",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel physicien allemand a introduit en 1900 le concept de quantification de l'énergie, posant l'acte fondateur de la physique quantique ?",
+      "options": [
+        "Max Planck",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Erwin Schrödinger"
+      ],
+      "answer": "Max Planck",
+      "explanation": "En cherchant à résoudre un problème théorique lié au rayonnement du corps noir, Max Planck postule que l'énergie n'est pas émise de façon continue mais par petits paquets discrets, qu'il nomme 'quanta'."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_17",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel scientifique français du XVIIe siècle a énoncé la loi physique fondamentale sur la pression des fluides, encore enseignée aujourd'hui, et qui a donné son nom à une unité de pression ?",
+      "options": [
+        "Blaise Pascal",
+        "René Descartes",
+        "Pierre de Fermat",
+        "Antoine Lavoisier"
+      ],
+      "answer": "Blaise Pascal",
+      "explanation": "Le pascal (Pa), unité de pression du système international, rend hommage à Blaise Pascal, qui a formulé au XVIIe siècle le principe fondamental de l'hydrostatique portant son nom."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_18",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle chimiste et physicienne autrichienne a coécrit, avec ses collègues, l'interprétation théorique de la fission nucléaire en 1938, sans jamais recevoir le prix Nobel qui aurait dû lui revenir ?",
+      "options": [
+        "Lise Meitner",
+        "Marie Curie",
+        "Ida Noddack",
+        "Maria Goeppert-Mayer"
+      ],
+      "answer": "Lise Meitner",
+      "explanation": "Lise Meitner a coécrit avec son neveu Otto Frisch l'interprétation théorique déterminante de la fission nucléaire, observée expérimentalement par son ancien collègue Otto Hahn, seul récompensé par le Nobel de chimie en 1944."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_19",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien anglais du XVIIe siècle, rival d'Isaac Newton, a formulé la théorie ondulatoire de la lumière et donné son nom à une unité de fréquence ?",
+      "options": [
+        "Christiaan Huygens",
+        "Robert Hooke",
+        "Edmond Halley",
+        "Christopher Wren"
+      ],
+      "answer": "Christiaan Huygens",
+      "explanation": "Le physicien néerlandais Christiaan Huygens a proposé au XVIIe siècle une théorie ondulatoire de la lumière, s'opposant à la théorie corpusculaire défendue par Newton. Il a aussi perfectionné la lunette astronomique et découvert l'anneau de Saturne."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_20",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel chimiste français est considéré comme le père de la chimie moderne pour avoir établi la loi de conservation de la masse à la fin du XVIIIe siècle ?",
+      "options": [
+        "Antoine Lavoisier",
+        "Louis Pasteur",
+        "Marcellin Berthelot",
+        "Claude Louis Berthollet"
+      ],
+      "answer": "Antoine Lavoisier",
+      "explanation": "Antoine Lavoisier a démontré expérimentalement que 'rien ne se perd, rien ne se crée, tout se transforme', posant les bases de la chimie quantitative moderne. Il a également identifié et nommé l'oxygène."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel chimiste russe a établi en 1869 le tableau périodique des éléments, en laissant volontairement des cases vides pour des éléments alors encore inconnus ?",
+      "options": [
+        "Dmitri Mendeleïev",
+        "John Dalton",
+        "Robert Boyle",
+        "Amedeo Avogadro"
+      ],
+      "answer": "Dmitri Mendeleïev",
+      "explanation": "Dmitri Mendeleïev a classé les éléments chimiques connus selon leur masse atomique et leurs propriétés récurrentes. Son tableau s'est révélé si juste qu'il a permis de prédire avec précision les propriétés d'éléments découverts seulement des années plus tard."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel chimiste suédois, inventeur de la dynamite, a légué sa fortune pour financer les prix prestigieux qui portent aujourd'hui son nom ?",
+      "options": [
+        "Alfred Nobel",
+        "Svante Arrhenius",
+        "Anders Celsius",
+        "Carl von Linné"
+      ],
+      "answer": "Alfred Nobel",
+      "explanation": "Bouleversé par un article de presse qui l'avait prématurément déclaré mort et surnommé 'marchand de mort' en raison de son invention explosive, Alfred Nobel décida de léguer sa fortune pour financer des prix récompensant des avancées bénéfiques à l'humanité."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel médecin et bactériologiste allemand a identifié en 1882 le bacille responsable de la tuberculose, l'une des maladies les plus meurtrières de l'histoire ?",
+      "options": [
+        "Robert Koch",
+        "Louis Pasteur",
+        "Paul Ehrlich",
+        "Alexander Fleming"
+      ],
+      "answer": "Robert Koch",
+      "explanation": "Robert Koch a établi une série de critères rigoureux, encore utilisés aujourd'hui, pour démontrer qu'un micro-organisme précis est bien responsable d'une maladie donnée. Ses travaux lui vaudront le prix Nobel de médecine en 1905."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel naturaliste britannique, contemporain de Charles Darwin, a formulé indépendamment et presque simultanément une théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Alfred Russel Wallace",
+        "Thomas Huxley",
+        "Francis Galton",
+        "Herbert Spencer"
+      ],
+      "answer": "Alfred Russel Wallace",
+      "explanation": "Depuis l'archipel malais où il menait ses propres recherches, Alfred Russel Wallace envoya à Darwin un essai développant des conclusions très similaires aux siennes, poussant ce dernier à publier enfin ses propres travaux restés en attente depuis vingt ans."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien français a découvert par hasard la radioactivité naturelle en 1896, en étudiant des sels d'uranium oubliés dans un tiroir fermé à la lumière ?",
+      "options": [
+        "Antoine Becquerel",
+        "Pierre Curie",
+        "Ernest Rutherford",
+        "Wilhelm Röntgen"
+      ],
+      "answer": "Antoine Becquerel",
+      "explanation": "Antoine Becquerel s'attendait à ce que les sels d'uranium n'impressionnent une plaque photographique qu'après exposition au soleil. Contre toute attente, la plaque fut voilée même conservée dans l'obscurité totale, révélant l'existence d'un rayonnement spontané inconnu jusqu'alors."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel naturaliste français du XVIIIe siècle a proposé, avant Darwin, une première théorie de l'évolution fondée sur l'hérédité des caractères acquis au cours de la vie ?",
+      "options": [
+        "Jean-Baptiste de Lamarck",
+        "Georges-Louis Leclerc de Buffon",
+        "Georges Cuvier",
+        "Étienne Geoffroy Saint-Hilaire"
+      ],
+      "answer": "Jean-Baptiste de Lamarck",
+      "explanation": "Selon la théorie lamarckienne, aujourd'hui largement invalidée par la génétique moderne, les caractères qu'un individu acquiert au cours de sa vie, comme le long cou de la girafe tendu vers les feuillages, pourraient se transmettre directement à sa descendance."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien britannique du XXe siècle, atteint d'une grave maladie neurodégénérative, est célèbre pour ses travaux sur les trous noirs et son ouvrage de vulgarisation 'Une brève histoire du temps' ?",
+      "options": [
+        "Stephen Hawking",
+        "Roger Penrose",
+        "Richard Feynman",
+        "Carl Sagan"
+      ],
+      "answer": "Stephen Hawking",
+      "explanation": "Diagnostiqué à 21 ans d'une sclérose latérale amyotrophique qui ne lui laissait initialement que quelques années à vivre, Stephen Hawking a poursuivi ses recherches en cosmologie théorique pendant plus de cinquante ans, devenant l'un des scientifiques les plus célèbres au monde."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_28",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel physicien allemand a formulé en 1927 le principe d'incertitude, selon lequel on ne peut connaître simultanément et avec précision la position et la vitesse d'une particule ?",
+      "options": [
+        "Werner Heisenberg",
+        "Erwin Schrödinger",
+        "Max Born",
+        "Paul Dirac"
+      ],
+      "answer": "Werner Heisenberg",
+      "explanation": "Le principe d'incertitude de Heisenberg n'est pas une simple limite technique de mesure, mais une propriété fondamentale de la nature à l'échelle quantique, qui a profondément bouleversé la conception déterministe de la physique classique."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel physicien autrichien a imaginé en 1935 une célèbre expérience de pensée mettant en scène un chat à la fois vivant et mort, pour illustrer les paradoxes de la mécanique quantique ?",
+      "options": [
+        "Erwin Schrödinger",
+        "Werner Heisenberg",
+        "Niels Bohr",
+        "Max Planck"
+      ],
+      "answer": "Erwin Schrödinger",
+      "explanation": "Le paradoxe du chat de Schrödinger, enfermé dans une boîte avec un dispositif dont le déclenchement dépend du hasard quantique, visait à souligner l'absurdité apparente d'appliquer les lois du monde subatomique à des objets macroscopiques."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel physicien britannique du XIXe siècle a démontré l'équivalence entre travail mécanique et chaleur, donnant son nom à l'unité d'énergie du système international ?",
+      "options": [
+        "James Prescott Joule",
+        "Lord Kelvin",
+        "Sadi Carnot",
+        "Rudolf Clausius"
+      ],
+      "answer": "James Prescott Joule",
+      "explanation": "En mesurant avec une précision remarquable l'échauffement de l'eau provoqué par un poids en chute entraînant une roue à palettes, James Prescott Joule a établi expérimentalement l'équivalence entre énergie mécanique et chaleur, principe fondateur de la thermodynamique moderne."
     }
   ]
 }

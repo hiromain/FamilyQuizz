@@ -1,5 +1,6 @@
 import React from 'react';
-import { C, CATEGORY_TREE, CAT_EMOJI, DIFF } from '../../constants/design';
+import { C, DIFF } from '../../constants/theme';
+import { CATEGORY_TREE, CAT_EMOJI } from '../../constants/design';
 import MonoLabel from '../../components/ui/MonoLabel';
 import Pill from '../../components/ui/Pill';
 
@@ -58,110 +59,10 @@ export default function FilterPanel({
   setSelectedYear,
   expandedSubcatPanel,
   toggleSubcatPanel,
-  collapsed = false,
+  quizMode = false,
+  onEnterQuizMode,
 }) {
-  if (collapsed) {
-    return (
-      <aside style={{
-        width: 48,
-        background: 'rgba(20, 10, 31, 0.65)',
-        backdropFilter: 'blur(20px)',
-        display: 'flex',
-        flexDirection: 'column',
-        alignItems: 'center',
-        justifyContent: 'space-between',
-        height: '100%',
-        padding: '20px 0',
-        boxSizing: 'border-box',
-        borderRight: '1px solid rgba(255,255,255,0.07)',
-        animation: 'pop-in 0.3s ease',
-      }}>
-        {/* Top Icon */}
-        <div 
-          title="Quiz en cours de jeu - Cliquez sur 'Arrêter le Quiz' dans l'écran principal pour reconfigurer" 
-          style={{ 
-            fontSize: 20, 
-            animation: 'buzz-breathe 2.5s ease-in-out infinite',
-            cursor: 'help'
-          }}
-        >
-          ⚡
-        </div>
-
-        {/* Active Category Emojis Column */}
-        <div style={{ 
-          display: 'flex', 
-          flexDirection: 'column', 
-          gap: 12, 
-          alignItems: 'center',
-          justifyContent: 'center',
-          flex: 1 
-        }}>
-          {Object.keys(CATEGORY_TREE).map((cat) => {
-            const subs = CATEGORY_TREE[cat];
-            const subKeys = Object.keys(subs);
-            
-            const catQCount = subKeys.reduce((acc, sub) => {
-              if (!activeSubcategories[sub]) return acc;
-              const list = subs[sub];
-              const filtered = list.filter(q => activeDifficulties[q.difficulty?.toLowerCase() || 'facile']);
-              if (sub === 'annees') {
-                const targetYears = parseYearQuery(selectedYear);
-                return acc + filtered.filter(q => targetYears.includes(q.year)).length;
-              }
-              return acc + filtered.length;
-            }, 0);
-
-            if (catQCount === 0) return null;
-
-            return (
-              <div 
-                key={cat} 
-                title={`${cat} (${catQCount}Q actives)`}
-                style={{
-                  fontSize: 18,
-                  width: 32,
-                  height: 32,
-                  borderRadius: 8,
-                  background: 'rgba(255,255,255,0.03)',
-                  border: '1px solid rgba(255,255,255,0.08)',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  transition: 'all 0.2s',
-                  cursor: 'help'
-                }}
-              >
-                {CAT_EMOJI[cat] || '📁'}
-              </div>
-            );
-          })}
-        </div>
-
-        {/* Bottom Counter */}
-        <div 
-          title={`${activeQuestionPool.length} questions sélectionnées`}
-          style={{
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'center',
-            justifyContent: 'center',
-            background: `linear-gradient(135deg, ${C.sky}22, ${C.sky}0d)`,
-            border: `1.5px solid ${C.sky}33`,
-            borderRadius: 10,
-            padding: '6px 4px',
-            width: 32,
-            boxSizing: 'border-box',
-            cursor: 'help'
-          }}
-        >
-          <span style={{ fontSize: 9, fontFamily: "'JetBrains Mono', monospace", fontWeight: 700, color: 'rgba(251,243,238,0.4)', lineHeight: 1 }}>Q</span>
-          <span style={{ fontSize: 13, fontFamily: "'JetBrains Mono', monospace", fontWeight: 800, color: C.sky, marginTop: 2, lineHeight: 1 }}>{activeQuestionPool.length}</span>
-        </div>
-      </aside>
-    );
-  }
-
+  const poolCount = activeQuestionPool.length;
   return (
     <aside style={{
       width: '100%',
@@ -571,6 +472,53 @@ export default function FilterPanel({
           })}
         </div>
       </div>
+
+      {/* ─ Sticky footer: start the session with the categories picked above ─ */}
+      {onEnterQuizMode && (
+        <div style={{
+          flexShrink: 0, padding: '12px 16px',
+          borderTop: '1px solid rgba(255,255,255,0.08)',
+          background: 'rgba(0,0,0,0.20)',
+        }}>
+          {!quizMode ? (
+            <button
+              onClick={onEnterQuizMode}
+              disabled={poolCount === 0}
+              style={{
+                width: '100%', height: 48, borderRadius: 14, border: 'none',
+                cursor: poolCount === 0 ? 'not-allowed' : 'pointer',
+                opacity: poolCount === 0 ? 0.4 : 1,
+                background: `linear-gradient(135deg, ${C.mint}, #52c9b0)`,
+                boxShadow: poolCount === 0 ? 'none' : `0 10px 26px -8px ${C.mint}66`,
+                color: '#0d2820', fontWeight: 800, fontSize: 14, letterSpacing: '-0.01em',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
+                transition: 'transform 0.15s, box-shadow 0.15s',
+                touchAction: 'manipulation',
+              }}
+            >
+              🚀 Démarrer la session
+              <span style={{ background: 'rgba(0,0,0,0.15)', padding: '2px 9px', borderRadius: 8, fontSize: 12 }}>
+                {poolCount} Q
+              </span>
+            </button>
+          ) : (
+            <button
+              onClick={onEnterQuizMode}
+              style={{
+                width: '100%', height: 48, borderRadius: 14,
+                border: `1px solid ${C.mint}44`,
+                cursor: 'pointer',
+                background: `${C.mint}14`,
+                color: C.mint, fontWeight: 700, fontSize: 13,
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
+                touchAction: 'manipulation',
+              }}
+            >
+              ✓ Session en cours · Aller au jeu →
+            </button>
+          )}
+        </div>
+      )}
 
     </aside>
   );

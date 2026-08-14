@@ -1,6 +1,6 @@
-# 🚀 Prompt de Migration Autonome pour Jules (jules.google.com)
+# 🚀 Prompt de Migration Autonome de Questions pour Jules (jules.google.com)
 
-Copiez-collez l'intégralité de ce prompt dans **Jules** pour démarrer automatiquement la migration de vos 1 900 questions ouvertes en QCM.
+Copiez-collez l'intégralité de ce prompt dans **Jules** pour démarrer une nouvelle conversation propre et exécuter la migration de manière stable et incrémentale.
 
 ---
 
@@ -9,40 +9,41 @@ Bonjour Jules,
 
 Tu es un développeur et data auditor autonome de génie. Ta mission aujourd'hui est d'effectuer une migration de données majeure sur notre projet de quiz familial : **convertir l'intégralité des questions ouvertes en QCM à 4 propositions**.
 
-Notre base de données de questions est stockée sous forme de fichiers JSON situés dans le dossier `src/data/`. Il y a environ 1 900 questions ouvertes réparties sur 16 fichiers JSON.
+Notre base de données de questions est stockée sous forme de fichiers JSON situés dans le dossier `src/data/`. Il y a environ 1 900 questions ouvertes (où `"type"` est différent de `"qcm"`) réparties sur 16 fichiers JSON.
 
-Voici tes consignes impératives pour mener à bien cette mission de manière autonome :
+Pour mener à bien cette mission sans surcharger ton contexte et éviter tout timeout ou refus lié au grand volume de données, tu dois **automatiser le processus en écrivant et en exécutant un script de migration Python incrémental**.
 
-### 1. Analyse et Planification
-- Parcours le dossier `src/data/` pour identifier tous les fichiers `.json` actifs (exclure les fichiers `.bak`).
-- Charge et analyse chaque fichier JSON. Les fichiers ont une structure où les clés représentent les catégories/sous-catégories (par exemple : `"Géographie : Pays & Capitales"`), et les valeurs sont des listes d'objets questions.
-- Identifie toutes les questions ayant un attribut `"type"` égal à `"open"` (ou différent de `"qcm"`).
+Voici ta feuille de route impérative et structurée pour réaliser cette tâche de manière autonome et sécurisée :
 
-### 2. Algorithme de conversion QCM par IA
-Pour CHAQUE question ouverte identifiée :
-1. Analyse la question originale (`"question"`) et la réponse exacte (`"answer"`).
-2. Utilise tes capacités de raisonnement LLM intégrées pour générer **exactement 3 fausses réponses (leurres / distracteurs) crédibles** :
-   - Les leurres doivent être pertinents, de même nature grammaticale que la bonne réponse, et ne pas prêter à confusion.
-   - Les leurres doivent être rédigés dans un français impeccable et respecter le niveau de difficulté original de la question (`"difficulty"`).
-   - Les leurres ne doivent pas être synonymes ou s'apparenter à une réponse exacte alternative.
-3. Crée un tableau `"options"` contenant la réponse exacte (`"answer"`) et les 3 leurres générés.
-4. **Mélange de manière aléatoire** l'ordre des éléments dans ce tableau `"options"`.
-5. Modifie l'objet question pour :
-   - Ajouter le champ `"options"` contenant ton tableau mélangé de 4 chaînes de caractères.
-   - Changer la valeur de `"type"` à `"qcm"`.
-6. Conserve tous les autres attributs originaux de la question intacts (comme `id`, `difficulty`, `explanation`, etc.).
+### 🛠️ Étape 1 : Écrire un script Python de migration (`scratch/migrate_to_qcm.py`)
+Rédige un script Python robuste qui fera le gros du travail. Le script doit :
+1. **Identifier les cibles :** Scanner les 16 fichiers JSON sous `src/data/` (exclure les fichiers `.bak`).
+2. **Utiliser un mécanisme de Checkpoint :**
+   - Créer un fichier de statut `scratch/migration_checkpoint.json` pour enregistrer l'ID de chaque question déjà convertie.
+   - Si le script est interrompu ou relancé, il doit lire ce fichier et ignorer instantanément les questions déjà traitées.
+3. **Appeler l'API de génération (Gemini ou autre LLM disponible dans ton environnement) :**
+   - Rédige une fonction python qui envoie un prompt à l'API LLM pour lui demander de générer exactement 3 fausses réponses (leurres / distracteurs) crédibles pour une question et sa réponse correcte.
+   - *Exemple de prompt LLM interne au script :*
+     "Pour la question : '{question}' et sa réponse correcte : '{answer}', génère uniquement un tableau JSON de 3 fausses réponses (leurres) crédibles, en français, de même nature grammaticale, non ambiguës et sans répéter la bonne réponse."
+4. **Restructurer la question :**
+   - Fusionner la bonne réponse et les 3 leurres dans un tableau `"options"` et le mélanger aléatoirement.
+   - Modifier `"type"` à `"qcm"`.
+   - Sauvegarder les modifications dans le fichier JSON d'origine après chaque lot ou chaque fichier traité pour sécuriser les données.
 
-### 3. Exécution Résiliente et Validation
-- Effectue la conversion de manière progressive pour chaque fichier JSON.
-- Écris et exécute un script de validation Python à la fin de la migration pour certifier que :
-  - Tous les fichiers JSON sont syntaxiquement parfaits et bien formatés.
-  - Le nombre final de questions ayant `"type": "open"` ou différent de `"qcm"` dans tout le projet est égal à **ZÉRO**.
-  - Toutes les questions ont désormais un attribut `"options"` de taille **exactement égale à 4**.
-- S'il y a la moindre anomalie, corrige-la immédiatement.
+### 📦 Étape 2 : Traiter les fichiers par petits lots (Batching)
+- Ne traite pas les 1 900 questions d'un coup. Configure ton script pour traiter les questions par **lots de 50 à 100 questions** à la fois.
+- Marque des pauses de quelques secondes entre les lots pour respecter les limites de requêtes par minute (Rate Limits) de l'API LLM.
 
-### 4. Commits et Livraison
-- Réalise des commits clairs et progressifs pour chaque fichier converti (ex: `feat(data): convert open questions to QCM in history`).
-- Une fois que toutes les validations sont au vert, pousse directement les modifications ou crée une Pull Request sur notre dépôt GitHub.
+### 🧪 Étape 3 : Exécuter et Valider
+1. Exécute le script `migrate_to_qcm.py` depuis ton terminal. Tu peux le lancer plusieurs fois de suite si nécessaire grâce au système de checkpoint.
+2. Écris et lance un script d'audit final pour valider :
+   - Qu'il reste exactement 0 question de type `"open"` dans tous les fichiers JSON.
+   - Que toutes les questions possèdent bien un tableau `"options"` de taille 4.
+   - Que le format JSON de chaque fichier est parfaitement intègre.
 
-Démarre la mission dès maintenant et convertis ces 1 900 questions de manière autonome !
+### 🚀 Étape 4 : Commit et Pull Request
+- Réalise des commits réguliers (par exemple, fichier par fichier ou lot par lot).
+- Pousse toutes tes modifications sur notre dépôt GitHub.
+
+Démarre l'écriture du script `scratch/migrate_to_qcm.py` dès maintenant, lance l'exécution par lots et convertis ces questions de manière stable !
 ```

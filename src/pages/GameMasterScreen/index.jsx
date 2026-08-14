@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useGame } from '../../context/GameContext';
-import { C, CATEGORY_TREE, DIFF } from '../../constants/design';
+import { C, DIFF } from '../../constants/theme';
+import { CATEGORY_TREE } from '../../constants/design';
 import DotsLoader from '../../components/ui/DotsLoader';
 import FilterPanel, { parseYearQuery } from './FilterPanel';
 import GamePanel from './GamePanel';
@@ -12,7 +13,7 @@ export default function GameMasterScreen({ onBackToWelcome }) {
   const {
     players, gameState,
     activateBuzzer, deactivateBuzzer, resetBuzzer, resetBuzzedStatus,
-    selectQuestion, revealAnswer, revealQuestion, adjustScore, clearAllPlayers,
+    selectQuestion, revealAnswer, revealQuestion, adjustScore, removePlayer, clearAllPlayers,
     resetGameState,
     error: firebaseError,
     loading: firebaseLoading,
@@ -46,6 +47,9 @@ export default function GameMasterScreen({ onBackToWelcome }) {
     if (!gameState?.active_question) {
       handleRandomQuestionDraw();
     }
+    // On mobile, jump straight to the Jeu tab so starting the session from
+    // the Filtres tab lands you where the drawn question actually shows up.
+    setActiveTab('jeu');
   };
 
   const handleExitQuizMode = async () => {
@@ -210,11 +214,10 @@ export default function GameMasterScreen({ onBackToWelcome }) {
       {/* ── LEFT PANEL : Filters (sidebar or mobile tab) ── */}
       {(!isMobile || activeTab === 'filters') && (
         <div style={{
-          width: isMobile ? '100%' : (quizMode ? 48 : 320),
+          width: isMobile ? '100%' : 320,
           height: isMobile ? 'calc(100vh - 64px)' : '100%',
           flexShrink: 0,
           borderRight: isMobile ? 'none' : '1px solid rgba(255,255,255,0.07)',
-          transition: 'width 0.4s cubic-bezier(0.2, 0.8, 0.2, 1)',
           overflow: 'hidden',
         }}>
           <FilterPanel
@@ -232,7 +235,8 @@ export default function GameMasterScreen({ onBackToWelcome }) {
             setSelectedYear={setSelectedYear}
             expandedSubcatPanel={expandedSubcatPanel}
             toggleSubcatPanel={toggleSubcatPanel}
-            collapsed={!isMobile && quizMode}
+            quizMode={quizMode}
+            onEnterQuizMode={handleEnterQuizMode}
           />
         </div>
       )}
@@ -297,6 +301,7 @@ export default function GameMasterScreen({ onBackToWelcome }) {
             buzzerWinnerId={buzzerWinnerId}
             clearAllPlayers={clearAllPlayers}
             adjustScore={adjustScore}
+            removePlayer={removePlayer}
             isMobile={isMobile}
           />
         </div>
@@ -308,7 +313,6 @@ export default function GameMasterScreen({ onBackToWelcome }) {
           activeTab={activeTab}
           setActiveTab={setActiveTab}
           setShowSettings={setShowSettings}
-          quizMode={quizMode}
         />
       )}
 

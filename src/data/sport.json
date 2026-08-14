@@ -761,20 +761,6 @@
       "explanation": "Michael Schumacher a dominé la Formule 1 au début des années 2000 avec l'écurie Ferrari en remportant cinq titres consécutifs. Ses sept couronnes mondiales au total témoignent de son éthique de travail rigoureuse et de son talent de pilote."
     },
     {
-      "id": "sport_legendes_10",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Quel sprinteur jamaïcain détient les records du monde du 100m et du 200m établis à Berlin en 2009 ?",
-      "options": [
-        "Yohan Blake",
-        "Tyson Gay",
-        "Usain Bolt",
-        "Carl Lewis"
-      ],
-      "answer": "Usain Bolt",
-      "explanation": "Le sprinteur jamaïcain Usain Bolt détient les records du monde mythiques du 100m et du 200m. Sa personnalité charismatique et ses célébrations mémorables ont popularisé l'athlétisme auprès d'un public très large à travers le monde."
-    },
-    {
       "id": "sport_legendes_11",
       "type": "open",
       "difficulty": "Difficile",
@@ -993,6 +979,20 @@
       ],
       "answer": "Marcel Cerdan",
       "explanation": "Surnommé 'Le Bombardier Marocain', Marcel Cerdan a été l'un des plus grands sportifs français du XXe siècle. Sa relation passionnée avec la chanteuse Édith Piaf a captivé le public, et sa disparition précoce en 1949 dans l'archipel des Açores a suscité une vive émotion nationale."
+    },
+    {
+      "id": "sport_legendes_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel sprinteur jamaïcain, surnommé 'l'Éclair', détient toujours les records du monde du 100 m et du 200 m établis en 2009 ?",
+      "options": [
+        "Usain Bolt",
+        "Justin Gatlin",
+        "Tyson Gay",
+        "Yohan Blake"
+      ],
+      "answer": "Usain Bolt",
+      "explanation": "Usain Bolt a établi le record du 100 m en 9''58 lors des Championnats du monde 2009 à Berlin. Triple champion olympique sur 100 m consécutivement (2008, 2012, 2016), il reste considéré comme le plus grand sprinteur de l'histoire."
     }
   ],
   "Sport : Sports Individuels": [

@@ -20,13 +20,399 @@
       "difficulty": "Moyen",
       "question": "Quel oiseau incapable de voler est le plus grand et le plus rapide du monde sur la terre ferme ?",
       "answer": "L'autruche",
-      "explanation": "L'autruche d'Afrique peut courir à des vitesses moyennes de 50 km/h et faire des pointes à plus de 70 km/h, effectuant des foulées de plusieurs mètres. Ses œufs sont également les plus gros de toutes les espèces animales vivantes.",
+      "explanation": "L'autruche d'Afrique peut courir à des vitesses moyennes de 50 km/h et faire des pointes à plus de 70 km/h, effectuant des foulées de plusieurs mètres. Ses œufs sont également les plus gros de toutes les espèces animales vivantes."
+    },
+    {
+      "id": "nature_animaux_regne_animal_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le plus grand animal terrestre vivant aujourd'hui sur notre planète ?",
       "options": [
-        "Leurre 2 : La grenouille",
-        "Leurre 1 : Le préau",
+        "L'éléphant d'Afrique",
+        "La girafe",
+        "L'hippopotame",
+        "Le rhinocéros blanc"
+      ],
+      "answer": "L'éléphant d'Afrique",
+      "explanation": "L'éléphant d'Afrique peut peser jusqu'à 6 tonnes et mesurer plus de 3 mètres au garrot, ce qui en fait le plus grand et le plus lourd des mammifères terrestres actuels."
+    },
+    {
+      "id": "nature_animaux_regne_animal_4",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel félin est reconnu comme l'animal terrestre le plus rapide au monde, capable d'atteindre environ 110 km/h ?",
+      "options": [
+        "Le guépard",
+        "Le lion",
+        "Le tigre",
+        "Le léopard"
+      ],
+      "answer": "Le guépard",
+      "explanation": "Le guépard doit sa vitesse exceptionnelle à sa colonne vertébrale très flexible et à ses griffes semi-rétractiles, qui lui offrent une adhérence proche de celle des crampons d'athlétisme."
+    },
+    {
+      "id": "nature_animaux_regne_animal_5",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel animal marin, doté de huit bras, est réputé pour son intelligence exceptionnelle et sa capacité à changer instantanément de couleur ?",
+      "options": [
+        "La pieuvre",
+        "La méduse",
+        "L'étoile de mer",
+        "Le calmar"
+      ],
+      "answer": "La pieuvre",
+      "explanation": "La pieuvre possède un système nerveux très développé et des cellules cutanées spécialisées, les chromatophores, lui permettant de modifier sa couleur et sa texture pour se camoufler ou communiquer."
+    },
+    {
+      "id": "nature_animaux_regne_animal_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel mammifère marin, surnommé la 'licorne des mers', possède une longue défense torsadée pouvant atteindre 3 mètres de long ?",
+      "options": [
+        "Le narval",
+        "Le béluga",
+        "L'orque",
+        "Le dauphin"
+      ],
+      "answer": "Le narval",
+      "explanation": "La défense du narval est en réalité une dent, généralement la canine gauche, qui pousse en spirale à travers la lèvre supérieure. Elle jouerait un rôle sensoriel autant que dans les parades entre mâles."
+    },
+    {
+      "id": "nature_animaux_regne_animal_7",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le plus grand reptile vivant aujourd'hui, pouvant dépasser 6 mètres de long et peupler les côtes d'Australie et d'Asie du Sud-Est ?",
+      "options": [
+        "Le crocodile marin",
+        "L'alligator du Mississippi",
+        "Le varan de Komodo",
+        "Le python réticulé"
+      ],
+      "answer": "Le crocodile marin",
+      "explanation": "Aussi appelé crocodile d'estuaire, ce redoutable prédateur peut peser plus d'une tonne. Excellent nageur, il est capable de parcourir de longues distances en pleine mer entre les îles d'Asie du Sud-Est et d'Océanie."
+    },
+    {
+      "id": "nature_animaux_regne_animal_8",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel est le seul mammifère capable de voler activement grâce à ses ailes membraneuses, contrairement aux espèces qui se contentent de planer ?",
+      "options": [
+        "La chauve-souris",
+        "L'écureuil volant",
+        "Le phalanger volant",
+        "Le colugo"
+      ],
+      "answer": "La chauve-souris",
+      "explanation": "Contrairement à l'écureuil volant, au phalanger ou au colugo, qui se contentent de planer grâce à une membrane tendue entre leurs membres, la chauve-souris possède un véritable vol battu comme les oiseaux."
+    },
+    {
+      "id": "nature_animaux_regne_animal_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel oiseau marin, incapable de voler, utilise ses ailes comme des nageoires pour nager et vit principalement dans l'hémisphère sud ?",
+      "options": [
+        "Le manchot",
+        "Le cormoran",
+        "Le fou de Bassan",
+        "L'albatros"
+      ],
+      "answer": "Le manchot",
+      "explanation": "Les manchots, dont le manchot empereur est la plus grande espèce, ont perdu leur capacité de vol au fil de l'évolution au profit d'une nage extrêmement performante sous l'eau, où ils chassent leurs proies."
+    },
+    {
+      "id": "nature_animaux_regne_animal_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel mammifère australien, doté d'un bec de canard et de pattes palmées, est l'un des seuls mammifères au monde à pondre des œufs ?",
+      "options": [
+        "L'ornithorynque",
+        "L'échidné",
+        "Le wombat",
+        "Le diable de Tasmanie"
+      ],
+      "answer": "L'ornithorynque",
+      "explanation": "L'ornithorynque appartient à l'ordre très restreint des monotrèmes, seuls mammifères pondant des œufs. Les mâles possèdent en outre un éperon venimeux sur les pattes arrière, un cas unique parmi les mammifères."
+    },
+    {
+      "id": "nature_animaux_regne_animal_11",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel serpent, originaire des zones arides d'Australie, est considéré comme le plus venimeux du monde selon la toxicité de son venin ?",
+      "options": [
+        "Le taïpan du désert",
+        "Le mamba noir",
+        "Le cobra royal",
+        "Le crotale diamantin"
+      ],
+      "answer": "Le taïpan du désert",
+      "explanation": "Une seule morsure du taïpan du désert contiendrait assez de venin pour tuer plusieurs dizaines d'adultes. Heureusement, ce serpent très discret vit dans des régions reculées et n'a jamais causé de décès humain documenté."
+    },
+    {
+      "id": "nature_animaux_regne_animal_12",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel animal africain possède le cou le plus long du règne animal, lui permettant d'atteindre le feuillage des arbres les plus hauts ?",
+      "options": [
+        "La girafe",
+        "L'okapi",
         "L'autruche",
-        "Leurre 3 : Le cerf-volant"
-      ]
+        "Le dromadaire"
+      ],
+      "answer": "La girafe",
+      "explanation": "Malgré la longueur impressionnante de son cou, la girafe ne possède que sept vertèbres cervicales, exactement comme la plupart des autres mammifères, y compris l'être humain, mais chacune est considérablement allongée."
+    },
+    {
+      "id": "nature_animaux_regne_animal_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel est le plus grand poisson vivant dans les océans, un requin totalement inoffensif pour l'homme qui se nourrit principalement de plancton ?",
+      "options": [
+        "Le requin-baleine",
+        "Le grand requin blanc",
+        "Le requin pèlerin",
+        "L'espadon"
+      ],
+      "answer": "Le requin-baleine",
+      "explanation": "Pouvant dépasser 12 mètres de long, le requin-baleine se nourrit en filtrant d'énormes volumes d'eau pour capturer plancton et petits poissons, malgré une bouche pouvant atteindre 1,5 mètre de large."
+    },
+    {
+      "id": "nature_animaux_regne_animal_14",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel marsupial australien, souvent confondu avec un ours en peluche, se nourrit presque exclusivement de feuilles d'eucalyptus ?",
+      "options": [
+        "Le koala",
+        "Le wombat",
+        "Le kangourou",
+        "Le phalanger"
+      ],
+      "answer": "Le koala",
+      "explanation": "Le koala dort jusqu'à 20 heures par jour, en grande partie pour économiser l'énergie nécessaire à la digestion des feuilles d'eucalyptus, peu nutritives et légèrement toxiques pour la plupart des autres animaux."
+    },
+    {
+      "id": "nature_animaux_regne_animal_15",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel petit rongeur du désert américain est réputé pour ne jamais avoir besoin de boire de l'eau de toute sa vie, tirant toute l'humidité nécessaire de ses graines ?",
+      "options": [
+        "Le rat-kangourou",
+        "Le fennec",
+        "La gerboise",
+        "Le suricate"
+      ],
+      "answer": "Le rat-kangourou",
+      "explanation": "Grâce à des reins extrêmement efficaces qui concentrent fortement son urine, le rat-kangourou parvient à survivre uniquement grâce à l'eau métabolique produite par la digestion des graines qu'il consomme."
+    },
+    {
+      "id": "nature_animaux_regne_animal_16",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel est le seul primate, en dehors de l'espèce humaine, capable de vivre naturellement dans des régions enneigées et très froides, notamment au Japon ?",
+      "options": [
+        "Le macaque japonais",
+        "Le babouin",
+        "Le gorille",
+        "L'orang-outan"
+      ],
+      "answer": "Le macaque japonais",
+      "explanation": "Surnommés 'singes des neiges', les macaques japonais des montagnes de Jigokudani se réchauffent l'hiver en se baignant dans des sources chaudes naturelles, un comportement devenu emblématique et très photographié."
+    },
+    {
+      "id": "nature_animaux_regne_animal_17",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel crustacé marin est réputé pour posséder la vision la plus complexe du règne animal, avec jusqu'à seize types de récepteurs de couleurs, contre trois seulement chez l'humain ?",
+      "options": [
+        "La crevette-mante",
+        "Le homard",
+        "Le crabe royal",
+        "La langouste"
+      ],
+      "answer": "La crevette-mante",
+      "explanation": "Outre sa vision hors norme, la crevette-mante possède aussi l'un des coups les plus puissants et les plus rapides du règne animal, capable de fracturer une vitre d'aquarium grâce à ses appendices en forme de massue."
+    },
+    {
+      "id": "nature_animaux_regne_animal_18",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on le phénomène par lequel certains animaux, comme l'axolotl, peuvent régénérer intégralement un membre ou un organe perdu ?",
+      "options": [
+        "La régénération",
+        "La métamorphose",
+        "La mue",
+        "L'autotomie"
+      ],
+      "answer": "La régénération",
+      "explanation": "L'axolotl, une salamandre mexicaine, est capable de régénérer non seulement ses membres mais aussi des parties de son cœur, de sa moelle épinière ou de son cerveau, ce qui en fait un modèle d'étude majeur en biologie."
+    },
+    {
+      "id": "nature_animaux_regne_animal_19",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel mammifère marin peut retenir sa respiration plus de deux heures et plonger à plus de 2 000 mètres de profondeur, un record chez les mammifères ?",
+      "options": [
+        "Le cachalot",
+        "La baleine à bosse",
+        "L'éléphant de mer",
+        "L'orque"
+      ],
+      "answer": "Le cachalot",
+      "explanation": "Le cachalot possède le plus gros cerveau du règne animal et chasse en profondeur des calmars géants, parfois lors de plongées de près de deux heures dans une obscurité quasi totale."
+    },
+    {
+      "id": "nature_animaux_regne_animal_20",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le plus grand rongeur du monde, originaire d'Amérique du Sud et vivant généralement au bord des rivières et des lacs ?",
+      "options": [
+        "Le capybara",
+        "Le castor",
+        "Le porc-épic",
+        "La marmotte"
+      ],
+      "answer": "Le capybara",
+      "explanation": "Le capybara peut peser jusqu'à 65 kg. Très sociable, il vit en groupes proches de l'eau, où il excelle à la nage, et est connu pour sa cohabitation pacifique avec de nombreuses autres espèces animales."
+    },
+    {
+      "id": "nature_animaux_regne_animal_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le plus grand félin du monde, pouvant dépasser 300 kg et vivant principalement dans les forêts enneigées de Sibérie ?",
+      "options": [
+        "Le tigre de Sibérie",
+        "Le lion d'Afrique",
+        "Le tigre du Bengale",
+        "Le jaguar"
+      ],
+      "answer": "Le tigre de Sibérie",
+      "explanation": "Aussi appelé tigre de l'Amour, le tigre de Sibérie est la plus grande sous-espèce de tigre et le plus grand félin vivant au monde. Il ne subsiste aujourd'hui à l'état sauvage que quelques centaines d'individus, principalement en Extrême-Orient russe."
+    },
+    {
+      "id": "nature_animaux_regne_animal_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel rapace, considéré comme le plus grand oiseau de proie du monde par son envergure, plane au-dessus de la cordillère des Andes en Amérique du Sud ?",
+      "options": [
+        "Le condor des Andes",
+        "L'aigle royal",
+        "Le vautour fauve",
+        "Le harfang des neiges"
+      ],
+      "answer": "Le condor des Andes",
+      "explanation": "Avec une envergure pouvant dépasser 3 mètres, le condor des Andes est capable de planer pendant des heures sans quasiment battre des ailes, profitant des courants ascendants pour économiser une énergie précieuse."
+    },
+    {
+      "id": "nature_animaux_regne_animal_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le plus petit oiseau du monde, capable de battre des ailes plus de 50 fois par seconde et de voler en arrière ?",
+      "options": [
+        "Le colibri",
+        "Le moineau",
+        "La mésange",
+        "Le roitelet"
+      ],
+      "answer": "Le colibri",
+      "explanation": "Le colibri-abeille de Cuba, la plus petite espèce, ne mesure que quelques centimètres. Grâce à un battement d'ailes extrêmement rapide, les colibris sont les seuls oiseaux capables de voler en marche arrière ou de faire du surplace."
+    },
+    {
+      "id": "nature_animaux_regne_animal_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel mammifère marin, souvent confondu à tort avec un poisson, respire grâce à des poumons et doit régulièrement remonter à la surface pour respirer ?",
+      "options": [
+        "Le dauphin",
+        "Le thon",
+        "L'espadon",
+        "Le requin"
+      ],
+      "answer": "Le dauphin",
+      "explanation": "Contrairement aux poissons qui respirent grâce à des branchies, le dauphin est un mammifère qui doit remonter périodiquement à la surface pour inspirer de l'air par son évent, situé sur le sommet de sa tête."
+    },
+    {
+      "id": "nature_animaux_regne_animal_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel est l'unique grand mammifère terrestre totalement incapable de sauter, même de quelques centimètres, en raison de la structure particulière de ses membres ?",
+      "options": [
+        "L'éléphant",
+        "L'hippopotame",
+        "Le rhinocéros",
+        "Le paresseux"
+      ],
+      "answer": "L'éléphant",
+      "explanation": "La structure des pattes de l'éléphant, dépourvues de la souplesse articulaire nécessaire, et son poids considérable l'empêchent de décoller ne serait-ce qu'un instant l'ensemble de ses quatre membres du sol simultanément."
+    },
+    {
+      "id": "nature_animaux_regne_animal_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel serpent d'Amérique du Sud, l'un des plus lourds et des plus massifs du monde, tue ses proies par constriction plutôt que par le venin ?",
+      "options": [
+        "L'anaconda",
+        "Le python réticulé",
+        "Le boa constrictor",
+        "Le cobra royal"
+      ],
+      "answer": "L'anaconda",
+      "explanation": "L'anaconda vert peut peser plus de 200 kg. Il chasse en s'enroulant progressivement autour de sa proie et en resserrant son étreinte à chaque expiration de celle-ci, jusqu'à provoquer un arrêt cardiaque plutôt qu'une réelle asphyxie."
+    },
+    {
+      "id": "nature_animaux_regne_animal_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel insecte social vit en colonies pouvant compter plusieurs millions d'individus et construit en Afrique des monticules de terre dépassant parfois 6 mètres de haut ?",
+      "options": [
+        "Le termite",
+        "La fourmi",
+        "L'abeille",
+        "Le scarabée"
+      ],
+      "answer": "Le termite",
+      "explanation": "Les termitières géantes, bâties collectivement par des millions de termites ouvriers, intègrent un système de ventilation naturelle sophistiqué qui régule la température et l'humidité intérieure malgré les fortes chaleurs extérieures."
+    },
+    {
+      "id": "nature_animaux_regne_animal_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel est le plus grand serpent venimeux du monde, pouvant dépasser 5 mètres de long et peuplant les forêts d'Asie du Sud et du Sud-Est ?",
+      "options": [
+        "Le cobra royal",
+        "Le mamba noir",
+        "Le taïpan du désert",
+        "Le crotale diamantin"
+      ],
+      "answer": "Le cobra royal",
+      "explanation": "Bien que son venin soit moins toxique dose pour dose que celui d'autres serpents, le cobra royal en injecte une telle quantité en une seule morsure qu'il pourrait théoriquement tuer un éléphant adulte."
+    },
+    {
+      "id": "nature_animaux_regne_animal_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel minuscule animal est connu pour être capable de survivre à des conditions extrêmes, dont le vide spatial, une dessiccation quasi totale et des radiations mortelles, en entrant dans un état appelé cryptobiose ?",
+      "options": [
+        "Le tardigrade",
+        "L'artémia",
+        "Le rotifère",
+        "Le nématode"
+      ],
+      "answer": "Le tardigrade",
+      "explanation": "Surnommé 'ourson d'eau' en raison de sa démarche caractéristique, le tardigrade mesure moins d'un millimètre. En 2007, des spécimens envoyés en orbite ont survécu plusieurs jours exposés directement au vide et aux radiations spatiales."
+    },
+    {
+      "id": "nature_animaux_regne_animal_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel est le plus grand amphibien vivant au monde, une salamandre géante pouvant dépasser 1,80 mètre de long dans les rivières de Chine ?",
+      "options": [
+        "La salamandre géante de Chine",
+        "Le triton crêté",
+        "L'axolotl",
+        "La grenouille goliath"
+      ],
+      "answer": "La salamandre géante de Chine",
+      "explanation": "Vestige vivant datant de plus de 170 millions d'années, la salamandre géante de Chine est aujourd'hui classée en danger critique d'extinction, menacée notamment par la pollution des rivières et une forte demande culinaire locale."
     }
   ],
   "Nature & Animaux : Plantes & Écosystèmes": [
@@ -50,13 +436,399 @@
       "difficulty": "Difficile",
       "question": "Quel gaz à effet de serre est capturé en grande quantité par la photosynthèse des forêts, agissant comme des 'puits de carbone' ?",
       "answer": "Le dioxyde de carbone",
-      "explanation": "Le dioxyde de carbone (CO2) est absorbé par les arbres via la photosynthèse pour être transformé en matière organique tout en rejetant du dioxygène. Les forêts et les océans constituent ainsi d'importants régulateurs naturels du climat.",
+      "explanation": "Le dioxyde de carbone (CO2) est absorbé par les arbres via la photosynthèse pour être transformé en matière organique tout en rejetant du dioxygène. Les forêts et les océans constituent ainsi d'importants régulateurs naturels du climat."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_3",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle plante carnivore, originaire des zones humides d'Amérique du Nord, referme brusquement ses feuilles en forme de mâchoires pour capturer les insectes ?",
       "options": [
-        "Le dioxyde de carbone",
-        "Leurre 2 : Le lapin",
-        "Leurre 3 : La tortue",
-        "Leurre 1 : L'écureuil"
-      ]
+        "La dionée attrape-mouche",
+        "La sarracénie",
+        "Le nénuphar",
+        "L'orchidée"
+      ],
+      "answer": "La dionée attrape-mouche",
+      "explanation": "Les feuilles de la dionée se referment en une fraction de seconde lorsque de minuscules poils sensitifs sont touchés au moins deux fois, un mécanisme qui évite de se déclencher pour de fausses alertes comme une goutte de pluie."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_4",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le plus grand désert chaud du monde, situé en Afrique du Nord ?",
+      "options": [
+        "Le Sahara",
+        "Le désert de Gobi",
+        "Le Kalahari",
+        "Le désert d'Atacama"
+      ],
+      "answer": "Le Sahara",
+      "explanation": "S'étendant sur plus de 9 millions de kilomètres carrés, le Sahara couvre une surface presque aussi vaste que celle des États-Unis, traversant une dizaine de pays d'Afrique du Nord."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_5",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle forêt tropicale, la plus vaste et la plus riche en biodiversité au monde, est traversée par le fleuve au débit le plus important de la planète ?",
+      "options": [
+        "La forêt amazonienne",
+        "La forêt du Congo",
+        "La forêt de Bornéo",
+        "La forêt boréale"
+      ],
+      "answer": "La forêt amazonienne",
+      "explanation": "L'Amazonie abriterait à elle seule environ 10 % de la biodiversité terrestre connue, et le fleuve Amazone qui la traverse déverse à lui seul près d'un cinquième de l'eau douce mondiale rejetée dans les océans."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_6",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle plante grimpante tropicale produit les fèves servant à fabriquer le chocolat ?",
+      "options": [
+        "Le cacaoyer",
+        "Le caféier",
+        "Le théier",
+        "Le vanillier"
+      ],
+      "answer": "Le cacaoyer",
+      "explanation": "Le cacaoyer produit des cabosses directement sur son tronc et ses grosses branches, chacune contenant des dizaines de fèves qui, une fois fermentées, séchées et torréfiées, permettent de fabriquer le chocolat."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_7",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle plante, symbole de la Chine, constitue l'essentiel du régime alimentaire du panda géant ?",
+      "options": [
+        "Le bambou",
+        "Le riz",
+        "Le thé",
+        "Le ginseng"
+      ],
+      "answer": "Le bambou",
+      "explanation": "Bien que classé parmi les carnivores sur le plan de sa physiologie digestive, le panda géant tire près de 99 % de son alimentation du bambou, qu'il doit consommer en très grande quantité chaque jour pour couvrir ses besoins."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_8",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on le processus par lequel les plantes vertes transforment la lumière du soleil, l'eau et le dioxyde de carbone en énergie et en oxygène ?",
+      "options": [
+        "La photosynthèse",
+        "La respiration cellulaire",
+        "La transpiration",
+        "La pollinisation"
+      ],
+      "answer": "La photosynthèse",
+      "explanation": "Grâce à la chlorophylle contenue dans leurs feuilles, les plantes captent l'énergie lumineuse pour synthétiser des sucres à partir d'eau et de CO2, tout en libérant de l'oxygène indispensable à la respiration de la plupart des êtres vivants."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_9",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel écosystème côtier, formé de forêts aux racines aériennes plongeant dans l'eau salée, protège les côtes tropicales de l'érosion ?",
+      "options": [
+        "La mangrove",
+        "Le lagon",
+        "Le récif corallien",
+        "Le marais salant"
+      ],
+      "answer": "La mangrove",
+      "explanation": "Les racines enchevêtrées des palétuviers ralentissent la force des vagues et retiennent les sédiments, protégeant ainsi les côtes tropicales de l'érosion tout en offrant une nurserie précieuse à de nombreuses espèces marines."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_10",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle plante aquatique géante d'Amazonie possède des feuilles rondes pouvant dépasser 3 mètres de diamètre et supporter le poids d'un jeune enfant ?",
+      "options": [
+        "Le nénuphar géant d'Amazonie",
+        "Le lotus sacré",
+        "La jacinthe d'eau",
+        "Le papyrus"
+      ],
+      "answer": "Le nénuphar géant d'Amazonie",
+      "explanation": "Connu sous le nom scientifique Victoria amazonica, ce nénuphar doit sa capacité portante à un réseau de nervures rigides sous ses feuilles, réparties comme des poutres qui répartissent le poids sur toute la surface."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_11",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel est le nom du plus grand récif corallien du monde, visible depuis l'espace, situé au large de l'Australie ?",
+      "options": [
+        "La Grande Barrière de corail",
+        "Le Triangle de corail",
+        "Le récif de Belize",
+        "L'atoll de Bikini"
+      ],
+      "answer": "La Grande Barrière de corail",
+      "explanation": "S'étendant sur plus de 2 300 kilomètres le long des côtes du Queensland, la Grande Barrière de corail est l'une des plus grandes structures vivantes de la planète, formée par des milliards de minuscules organismes marins."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_12",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel type d'écosystème, ni tout à fait terrestre ni tout à fait aquatique, comme les marais ou les tourbières, joue un rôle crucial dans la filtration de l'eau ?",
+      "options": [
+        "Une zone humide",
+        "Une savane",
+        "Une toundra",
+        "Une steppe"
+      ],
+      "answer": "Une zone humide",
+      "explanation": "Les zones humides filtrent naturellement les polluants, atténuent les crues et stockent d'importantes quantités de carbone, ce qui en fait des écosystèmes essentiels malgré leur régression alarmante à l'échelle mondiale."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_13",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel arbre à feuilles persistantes, capable de vivre plusieurs milliers d'années, compte parmi les plus grands et les plus massifs au monde en Californie ?",
+      "options": [
+        "Le séquoia géant",
+        "Le baobab",
+        "Le chêne",
+        "Le cèdre du Liban"
+      ],
+      "answer": "Le séquoia géant",
+      "explanation": "Le plus volumineux séquoia géant connu, surnommé 'General Sherman', pèse à lui seul plus de 1 900 tonnes, ce qui en fait l'organisme vivant unique le plus massif recensé sur Terre."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_14",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel est le nom du plus grand organisme vivant connu sur Terre, un champignon souterrain s'étendant sur près de 9 kilomètres carrés dans l'Oregon, aux États-Unis ?",
+      "options": [
+        "L'armillaire couleur de miel",
+        "Le séquoia géant",
+        "Le corail géant",
+        "La forêt de trembles Pando"
+      ],
+      "answer": "L'armillaire couleur de miel",
+      "explanation": "Ce champignon, dont le mycélium souterrain forme un unique organisme génétiquement identique, serait âgé de plusieurs milliers d'années. Il se distingue de la forêt de trembles Pando, elle aussi immense mais légèrement moins étendue."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_15",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel biome, caractérisé par un sol gelé en permanence appelé pergélisol et une végétation rase, s'étend dans les régions arctiques ?",
+      "options": [
+        "La toundra",
+        "La taïga",
+        "La steppe",
+        "La prairie"
+      ],
+      "answer": "La toundra",
+      "explanation": "Le pergélisol de la toundra empêche l'eau de s'infiltrer en profondeur, favorisant la formation de nombreux lacs et marécages en surface durant le court été arctique, malgré des précipitations globalement faibles."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_16",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle relation biologique de mutualisme unit les champignons mycorhiziens aux racines de la majorité des plantes terrestres, échangeant eau et minéraux contre des sucres ?",
+      "options": [
+        "La symbiose mycorhizienne",
+        "La photosynthèse",
+        "La pollinisation croisée",
+        "L'allélopathie"
+      ],
+      "answer": "La symbiose mycorhizienne",
+      "explanation": "On estime qu'environ 90 % des plantes terrestres vivent en association mycorhizienne avec des champignons, un partenariat essentiel à l'absorption des nutriments du sol et à la santé globale des écosystèmes forestiers."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_17",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle plante parasite, dépourvue de chlorophylle, produit la plus grande fleur individuelle du monde, pouvant atteindre 1 mètre de diamètre ?",
+      "options": [
+        "Le Rafflesia",
+        "L'Amorphophallus titan",
+        "La Nepenthes",
+        "La Welwitschia"
+      ],
+      "answer": "Le Rafflesia",
+      "explanation": "Le Rafflesia dégage une odeur de chair en décomposition pour attirer les mouches qui assurent sa pollinisation, ce qui lui vaut le surnom de 'fleur cadavre', partagé avec l'Amorphophallus titan qui produit toutefois une inflorescence, et non une fleur unique."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_18",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on la strate supérieure d'une forêt tropicale, formée par la cime des arbres les plus hauts et abritant la majorité de la biodiversité forestière ?",
+      "options": [
+        "La canopée",
+        "Le sous-bois",
+        "La strate herbacée",
+        "Le sol forestier"
+      ],
+      "answer": "La canopée",
+      "explanation": "La canopée concentre la grande majorité des espèces vivant en forêt tropicale, notamment de nombreux insectes, oiseaux et primates qui ne descendent quasiment jamais au sol durant toute leur existence."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_19",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on la zone de transition écologique entre deux écosystèmes différents, comme la lisière entre une forêt et une prairie, souvent particulièrement riche en biodiversité ?",
+      "options": [
+        "Un écotone",
+        "Un biotope",
+        "Une niche écologique",
+        "Un microclimat"
+      ],
+      "answer": "Un écotone",
+      "explanation": "L'écotone bénéficie souvent d'une biodiversité supérieure à celle des deux écosystèmes qu'il sépare, car il combine des espèces propres à chacun des deux milieux ainsi que des espèces spécifiques à cette zone de transition."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_20",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle céréale, aliment de base de plus de la moitié de la population mondiale, est principalement cultivée dans des rizières inondées en Asie ?",
+      "options": [
+        "Le riz",
+        "Le blé",
+        "Le maïs",
+        "L'orge"
+      ],
+      "answer": "Le riz",
+      "explanation": "Le riz est cultivé depuis des milliers d'années en Asie, où l'inondation contrôlée des rizières permet de limiter naturellement les mauvaises herbes tout en fournissant à la plante l'eau abondante dont elle a besoin."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_21",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle forêt, la plus grande forêt d'un seul tenant au monde, s'étend principalement sur le territoire russe et représente près d'un tiers des forêts mondiales ?",
+      "options": [
+        "La taïga",
+        "La forêt amazonienne",
+        "La forêt du Congo",
+        "La forêt de Bornéo"
+      ],
+      "answer": "La taïga",
+      "explanation": "Aussi appelée forêt boréale, la taïga s'étend sur une large bande continue à travers la Russie, le Canada et la Scandinavie. Composée majoritairement de conifères résistants au froid, elle constitue le plus vaste biome terrestre de la planète."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_22",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle épice, la plus chère au monde au poids, provient des stigmates séchés d'une fleur de crocus et nécessite une récolte entièrement manuelle ?",
+      "options": [
+        "Le safran",
+        "La vanille",
+        "La cardamome",
+        "Le poivre"
+      ],
+      "answer": "Le safran",
+      "explanation": "Il faut environ 150 000 fleurs de crocus, cueillies et effeuillées entièrement à la main, pour obtenir seulement un kilogramme de safran séché, ce qui explique son prix particulièrement élevé sur les marchés mondiaux."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_23",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel arbre, symbole du Canada dont la feuille orne le drapeau national, produit une sève sucrée récoltée pour fabriquer un sirop réputé ?",
+      "options": [
+        "L'érable",
+        "Le bouleau",
+        "Le chêne",
+        "Le sapin"
+      ],
+      "answer": "L'érable",
+      "explanation": "La sève de l'érable à sucre est récoltée traditionnellement à la fin de l'hiver, lorsque les nuits encore gelées et les journées plus douces favorisent sa circulation. Il faut environ 40 litres de sève pour obtenir un seul litre de sirop."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_24",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel type de sol gelé en permanence, présent sous une grande partie de la toundra et de la taïga, libère du méthane en dégelant progressivement sous l'effet du réchauffement climatique ?",
+      "options": [
+        "Le pergélisol",
+        "Le lœss",
+        "La tourbe",
+        "L'humus"
+      ],
+      "answer": "Le pergélisol",
+      "explanation": "Le dégel du pergélisol, longtemps considéré comme définitivement gelé, inquiète particulièrement les scientifiques : il libère un gaz à effet de serre puissant, le méthane, piégé depuis des milliers d'années dans la matière organique gelée."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_25",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle plante grimpante tropicale, dont on utilise les longues gousses aromatiques, est la deuxième épice la plus chère au monde après le safran ?",
+      "options": [
+        "La vanille",
+        "La cannelle",
+        "La muscade",
+        "Le clou de girofle"
+      ],
+      "answer": "La vanille",
+      "explanation": "La vanille provient d'une orchidée grimpante originaire du Mexique. Sa pollinisation manuelle, fleur par fleur, et la longue préparation nécessaire pour développer ses arômes expliquent son coût très élevé sur le marché mondial des épices."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_26",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on la couche superficielle et fertile du sol, issue de la décomposition de la matière organique, indispensable à la croissance des plantes ?",
+      "options": [
+        "L'humus",
+        "Le limon",
+        "L'argile",
+        "Le lœss"
+      ],
+      "answer": "L'humus",
+      "explanation": "L'humus résulte de la décomposition progressive des feuilles mortes, des racines et des micro-organismes par des champignons, des bactéries et des vers de terre, formant une couche riche en nutriments essentiels aux végétaux."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_27",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel écosystème marin peu profond, formé de vastes prairies sous-marines de plantes à fleurs, sert de nurserie à de nombreuses espèces et stocke d'importantes quantités de carbone ?",
+      "options": [
+        "L'herbier de posidonie",
+        "Le récif corallien",
+        "La mangrove",
+        "Le lagon"
+      ],
+      "answer": "L'herbier de posidonie",
+      "explanation": "Contrairement aux algues, la posidonie est une véritable plante à fleurs sous-marine. Ses vastes prairies, notamment en mer Méditerranée, abritent une biodiversité exceptionnelle tout en stockant du carbone bien plus efficacement qu'une forêt terrestre équivalente."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_28",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle plante carnivore capture ses proies grâce à des feuilles transformées en urnes profondes remplies d'un liquide digestif ?",
+      "options": [
+        "La népenthès",
+        "La dionée attrape-mouche",
+        "La droséra",
+        "La grassette"
+      ],
+      "answer": "La népenthès",
+      "explanation": "Contrairement à la dionée qui referme brusquement ses feuilles, la népenthès attire ses proies grâce au nectar et à la couleur vive de son urne, dans laquelle les insectes glissent et se noient avant d'être lentement digérés."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_29",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel phénomène climatique cyclique, se produisant tous les deux à sept ans dans l'océan Pacifique, perturbe les courants marins et affecte les écosystèmes et le climat à l'échelle mondiale ?",
+      "options": [
+        "El Niño",
+        "La mousson",
+        "L'oscillation nord-atlantique",
+        "Le courant du Labrador"
+      ],
+      "answer": "El Niño",
+      "explanation": "El Niño se caractérise par un réchauffement anormal des eaux de surface du Pacifique équatorial, perturbant les courants marins et les régimes de précipitations sur plusieurs continents, provoquant sécheresses et inondations selon les régions."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_30",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle plante du désert de Namibie, considérée comme un fossile vivant, ne possède que deux feuilles qui poussent en continu durant toute sa vie, pouvant dépasser 1000 ans ?",
+      "options": [
+        "La Welwitschia",
+        "Le baobab",
+        "L'aloès",
+        "Le dragonnier"
+      ],
+      "answer": "La Welwitschia",
+      "explanation": "Unique représentante de sa famille botanique, la Welwitschia mirabilis ne développe jamais que deux feuilles, qui continuent de croître tout au long de sa très longue vie tout en se déchirant progressivement sous l'effet du vent du désert."
     }
   ]
 }

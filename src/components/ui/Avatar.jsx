@@ -1,5 +1,5 @@
 import React from 'react';
-import { C } from '../../constants/design';
+import { C } from '../../constants/theme';
 
 /** Avatar with initials */
 export default function Avatar({ name = '?', tone = C.coral, size = 36 }) {

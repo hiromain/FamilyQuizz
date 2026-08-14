@@ -1,5 +1,5 @@
 import React from 'react';
-import { C } from '../../constants/design';
+import { C } from '../../constants/theme';
 
 /** Animated dots loader */
 export default function DotsLoader({ color = C.amber }) {

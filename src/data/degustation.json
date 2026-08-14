@@ -419,146 +419,6 @@
       ],
       "answer": "Fumé (ou tourbé)",
       "explanation": "Les notes fumées et tourbées qui caractérisent certains Scotch whiskies proviennent du séchage traditionnel des grains d'orge germés au-dessus d'un feu de tourbe. Lors de cette étape du maltage, la fumée dense pénètre l'écorce des grains et y dépose des molécules aromatiques appelées phénols. L'intensité de cette signature fumée est mesurée en parties par million (PPM) de phénols, allant de distillats très légers à des profils extrêmement puissants et médicinaux typiques de l'île d'Islay."
-    },
-    {
-      "id": "whisky_31",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour whisky #1 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour whisky #1."
-    },
-    {
-      "id": "whisky_32",
-      "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour whisky #2 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour whisky #2."
-    },
-    {
-      "id": "whisky_33",
-      "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour whisky #3 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour whisky #3."
-    },
-    {
-      "id": "whisky_34",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour whisky #4 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour whisky #4."
-    },
-    {
-      "id": "whisky_35",
-      "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour whisky #5 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour whisky #5."
-    },
-    {
-      "id": "whisky_36",
-      "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour whisky #6 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour whisky #6."
-    },
-    {
-      "id": "whisky_37",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour whisky #7 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour whisky #7."
-    },
-    {
-      "id": "whisky_38",
-      "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour whisky #8 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour whisky #8."
-    },
-    {
-      "id": "whisky_39",
-      "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour whisky #9 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour whisky #9."
-    },
-    {
-      "id": "whisky_40",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour whisky #10 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour whisky #10."
     }
   ],
   "rhum": [
@@ -981,146 +841,6 @@
       ],
       "answer": "Blanc",
       "explanation": "Tous les rhums du monde, quelle que soit leur matière première (mélasse ou jus de canne) ou leur style de distillation, sortent de l'alambic sous la forme d'un liquide parfaitement limpide, transparent et incolore. C'est le séjour prolongé dans des fûts de bois de chêne qui va progressivement lui conférer sa belle couleur ambrée ou brune au fil des ans par extraction des tannins du bois. Certains rhums blancs de dégustation subissent néanmoins un court passage sous bois de quelques mois avant d'être filtrés au charbon actif pour retrouver leur blancheur d'origine tout en conservant une texture plus grasse en bouche."
-    },
-    {
-      "id": "rhum_31",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour rhum #1 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour rhum #1."
-    },
-    {
-      "id": "rhum_32",
-      "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour rhum #2 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour rhum #2."
-    },
-    {
-      "id": "rhum_33",
-      "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour rhum #3 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour rhum #3."
-    },
-    {
-      "id": "rhum_34",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour rhum #4 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour rhum #4."
-    },
-    {
-      "id": "rhum_35",
-      "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour rhum #5 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour rhum #5."
-    },
-    {
-      "id": "rhum_36",
-      "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour rhum #6 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour rhum #6."
-    },
-    {
-      "id": "rhum_37",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour rhum #7 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour rhum #7."
-    },
-    {
-      "id": "rhum_38",
-      "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour rhum #8 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour rhum #8."
-    },
-    {
-      "id": "rhum_39",
-      "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour rhum #9 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour rhum #9."
-    },
-    {
-      "id": "rhum_40",
-      "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour rhum #10 ?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour rhum #10."
     }
   ],
   "Cépages": [
@@ -1408,141 +1128,141 @@
       "id": "cepages_21",
       "type": "qcm",
       "difficulty": "Facile",
-      "question": "Question de test pour Cépages #1 ?",
+      "question": "Quel cépage rouge, l'un des plus cultivés au monde, est la base des grands assemblages du Châteauneuf-du-Pape et porte le nom de 'Garnacha' dans son pays d'origine, l'Espagne ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Grenache",
+        "Le Carignan",
+        "Le Mourvèdre",
+        "Le Cinsault"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Cépages #1."
+      "answer": "Le Grenache",
+      "explanation": "Le Grenache s'épanouit particulièrement bien sous les climats chauds et secs du pourtour méditerranéen. Il apporte aux assemblages du sud de la France de l'alcool, de la rondeur et des arômes chaleureux de fruits rouges confiturés et d'épices douces."
     },
     {
       "id": "cepages_22",
       "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour Cépages #2 ?",
+      "difficulty": "Facile",
+      "question": "Quel cépage blanc aromatique, aux notes caractéristiques de pamplemousse et de buis, est emblématique des vins de Sancerre et de Pouilly-Fumé ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Sauvignon Blanc",
+        "Le Chardonnay",
+        "Le Chenin",
+        "Le Riesling"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Cépages #2."
+      "answer": "Le Sauvignon Blanc",
+      "explanation": "Le Sauvignon Blanc produit des vins secs et nerveux, immédiatement reconnaissables à leurs arômes tranchés d'agrumes, de buis et parfois de silex. Il s'est également imposé comme cépage vedette de la région de Marlborough en Nouvelle-Zélande."
     },
     {
       "id": "cepages_23",
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour Cépages #3 ?",
+      "difficulty": "Facile",
+      "question": "Quel cépage rouge, vinifié traditionnellement par macération carbonique, est le cépage unique et emblématique des vins du Beaujolais ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Gamay",
+        "Le Pinot Noir",
+        "Le Merlot",
+        "Le Cabernet Franc"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Cépages #3."
+      "answer": "Le Gamay",
+      "explanation": "La macération carbonique, technique de vinification où les raisins entiers fermentent en l'absence d'oxygène, confère aux vins de Gamay leurs arômes typiques de fruits rouges frais (banane, fraise, framboise) et leur légèreté caractéristique, notamment dans le Beaujolais nouveau."
     },
     {
       "id": "cepages_24",
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour Cépages #4 ?",
+      "difficulty": "Moyen",
+      "question": "Quel cépage rouge tardif et exigeant en chaleur constitue l'ossature principale des vins puissants et tanniques de Bandol, en Provence ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Mourvèdre",
+        "Le Grenache",
+        "La Syrah",
+        "Le Carignan"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Cépages #4."
+      "answer": "Le Mourvèdre",
+      "explanation": "L'appellation Bandol impose un minimum légal de 50% de Mourvèdre dans ses vins rouges. Ce cépage tardif, très sensible à la sécheresse, a besoin d'un ensoleillement maximal pour atteindre une pleine maturité et développer ses tanins puissants."
     },
     {
       "id": "cepages_25",
       "type": "qcm",
       "difficulty": "Moyen",
-      "question": "Question de test pour Cépages #5 ?",
+      "question": "Quel cépage blanc, l'un des rares dont le raisin de table conserve exactement le même goût aromatique que le raisin de cuve, sert à produire les vins doux de Beaumes-de-Venise ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Muscat",
+        "Le Gewurztraminer",
+        "Le Viognier",
+        "Le Chenin"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Cépages #5."
+      "answer": "Le Muscat",
+      "explanation": "Contrairement à la grande majorité des cépages, dont le raisin frais n'a que peu de rapport gustatif avec le vin qui en est issu, le Muscat conserve un goût de raisin très reconnaissable, à la fois croqué frais ou vinifié en vin doux naturel."
     },
     {
       "id": "cepages_26",
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour Cépages #6 ?",
+      "difficulty": "Moyen",
+      "question": "Quel cépage blanc, cultivé notamment sur les rives du lac Léman, est le cépage roi des vignobles suisses du canton de Vaud ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Chasselas",
+        "Le Sylvaner",
+        "L'Altesse",
+        "Le Petit Manseng"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Cépages #6."
+      "answer": "Le Chasselas",
+      "explanation": "Longtemps considéré comme un cépage neutre, le Chasselas révèle en réalité une grande sensibilité au terroir sur les coteaux en terrasses de Lavaux, exprimant des vins délicats aux notes minérales et légèrement salines face au lac Léman."
     },
     {
       "id": "cepages_27",
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour Cépages #7 ?",
+      "difficulty": "Moyen",
+      "question": "Quel cépage blanc, le plus planté d'Autriche, produit des vins secs et vifs reconnaissables à leurs notes caractéristiques de poivre blanc ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Grüner Veltliner",
+        "Le Riesling",
+        "Le Furmint",
+        "Le Silvaner"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Cépages #7."
+      "answer": "Le Grüner Veltliner",
+      "explanation": "Le Grüner Veltliner couvre à lui seul près d'un tiers du vignoble autrichien. Il produit des vins d'une grande polyvalence, du style léger et désaltérant jusqu'à des cuvées de garde plus concentrées issues des meilleurs terroirs de la vallée du Danube."
     },
     {
       "id": "cepages_28",
       "type": "qcm",
       "difficulty": "Moyen",
-      "question": "Question de test pour Cépages #8 ?",
+      "question": "Quel cépage rouge, créé en 1925 par croisement du Pinot Noir et du Cinsault, est devenu le cépage rouge emblématique de l'Afrique du Sud ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Pinotage",
+        "Le Zinfandel",
+        "Le Malbec",
+        "Le Carignan"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Cépages #8."
+      "answer": "Le Pinotage",
+      "explanation": "Développé par le professeur Abraham Perold à l'université de Stellenbosch, le Pinotage associe la finesse recherchée du Pinot Noir à la résistance du Cinsault. Il produit des vins aux arômes particuliers, parfois décrits comme fumés ou légèrement rustiques."
     },
     {
       "id": "cepages_29",
       "type": "qcm",
       "difficulty": "Difficile",
-      "question": "Question de test pour Cépages #9 ?",
+      "question": "Quel cépage rouge grec, cultivé notamment dans la région de Naoussa, produit des vins tanniques et acides souvent comparés au Nebbiolo italien ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Xinomavro",
+        "L'Agiorgitiko",
+        "Le Moschofilero",
+        "L'Assyrtiko"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Cépages #9."
+      "answer": "Le Xinomavro",
+      "explanation": "Le Xinomavro ('acide noir' en grec) partage avec le Nebbiolo une robe qui s'éclaircit rapidement, une acidité et des tanins puissants dans sa jeunesse, ainsi qu'un potentiel de garde exceptionnel développant des arômes de tomate séchée et d'olive avec l'âge."
     },
     {
       "id": "cepages_30",
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour Cépages #10 ?",
+      "difficulty": "Difficile",
+      "question": "Quel cépage blanc hongrois, très sensible à la pourriture noble, est le cépage principal du célèbre vin liquoreux de Tokaji ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Furmint",
+        "Le Hárslevelű",
+        "Le Sárga Muskotály",
+        "Le Kéknyelű"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Cépages #10."
+      "answer": "Le Furmint",
+      "explanation": "Grâce à sa peau fine et sa forte acidité naturelle, le Furmint se prête admirablement au développement du botrytis, ce champignon responsable de la pourriture noble qui concentre les sucres et donne naissance au prestigieux Tokaji Aszú hongrois."
     }
   ],
   "Accords mets et vins": [
@@ -1830,141 +1550,141 @@
       "id": "accords_mets_vins_21",
       "type": "qcm",
       "difficulty": "Facile",
-      "question": "Question de test pour Accords mets et vins #1 ?",
+      "question": "Quel type de vin blanc sec, issu des vignobles de montagne, est l'accord traditionnel pour une raclette ou une fondue savoyarde au fromage fondu ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un vin blanc sec de Savoie",
+        "Un vin rouge tannique de Bordeaux",
+        "Un vin doux liquoreux",
+        "Un champagne rosé"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Accords mets et vins #1."
+      "answer": "Un vin blanc sec de Savoie",
+      "explanation": "Des cépages comme la Jacquère ou l'Altesse produisent des vins blancs vifs et légers, comme l'Apremont ou la Roussette de Savoie, dont l'acidité tranche idéalement avec le gras du fromage fondu tout en respectant la légèreté de l'accord montagnard."
     },
     {
       "id": "accords_mets_vins_22",
       "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour Accords mets et vins #2 ?",
+      "difficulty": "Facile",
+      "question": "Quel vin rouge italien léger et fruité, souvent servi légèrement frais, accompagne traditionnellement une pizza ou des pâtes à la sauce tomate ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un Chianti italien",
+        "Un Barolo puissant",
+        "Un vin blanc liquoreux",
+        "Un Porto vintage"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Accords mets et vins #2."
+      "answer": "Un Chianti italien",
+      "explanation": "Issu majoritairement du cépage Sangiovese, le Chianti possède une acidité naturelle qui fait écho à celle de la sauce tomate, tandis que sa légèreté en tanins évite d'écraser la simplicité conviviale de ces plats du quotidien italien."
     },
     {
       "id": "accords_mets_vins_23",
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour Accords mets et vins #3 ?",
+      "difficulty": "Facile",
+      "question": "Quelle boisson traditionnelle japonaise, obtenue par fermentation de riz, est l'accord culturel classique pour accompagner un plateau de sushis et de sashimis ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le saké",
+        "Le shochu",
+        "La bière japonaise",
+        "Le umeshu"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Accords mets et vins #3."
+      "answer": "Le saké",
+      "explanation": "Servi tiède ou frais selon sa qualité, le saké possède une texture douce et peu d'acidité qui n'entre pas en conflit avec la délicatesse du poisson cru, contrairement à certains vins dont l'acidité ou les tanins peuvent accentuer un goût métallique."
     },
     {
       "id": "accords_mets_vins_24",
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour Accords mets et vins #4 ?",
+      "difficulty": "Moyen",
+      "question": "Quel vin doux et liquoreux, célèbre spécialité de Jerez en Espagne, est l'accord traditionnel avec un dessert à base de figues séchées ou d'amandes ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Le Xérès (Pedro Ximénez)",
+        "Le Porto Ruby",
+        "Le Sauternes",
+        "Le Banyuls"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Accords mets et vins #4."
+      "answer": "Le Xérès (Pedro Ximénez)",
+      "explanation": "Élaboré à partir de raisins passerillés au soleil pendant plusieurs semaines, le Xérès de type Pedro Ximénez développe une concentration de sucre extrême et des arômes de fruits secs, de figue et de datte qui font écho naturellement à ces desserts méditerranéens."
     },
     {
       "id": "accords_mets_vins_25",
       "type": "qcm",
       "difficulty": "Moyen",
-      "question": "Question de test pour Accords mets et vins #5 ?",
+      "question": "Quel vin rouge corsé et épicé, issu du cépage Syrah dans la vallée du Rhône septentrionale, est l'accord classique pour un gibier à plumes comme le faisan ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un Hermitage (Syrah)",
+        "Un Beaujolais nouveau",
+        "Un Muscadet",
+        "Un Sauternes"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Accords mets et vins #5."
+      "answer": "Un Hermitage (Syrah)",
+      "explanation": "La puissance tannique et les notes épicées (poivre noir, réglisse) de la Syrah de l'Hermitage s'accordent avec la texture ferme et le goût prononcé du gibier à plumes, un accord classique de la gastronomie française d'automne et d'hiver."
     },
     {
       "id": "accords_mets_vins_26",
       "type": "qcm",
-      "difficulty": "Difficile",
-      "question": "Question de test pour Accords mets et vins #6 ?",
+      "difficulty": "Moyen",
+      "question": "Quel vin blanc sec et vif d'Alsace est l'accord traditionnel pour accompagner des asperges fraîches, un légume réputé particulièrement difficile à marier avec le vin ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un Sylvaner d'Alsace",
+        "Un Cabernet Sauvignon",
+        "Un Porto Tawny",
+        "Un Banyuls"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Accords mets et vins #6."
+      "answer": "Un Sylvaner d'Alsace",
+      "explanation": "L'acide asparagusique contenu dans les asperges accentue l'amertume de nombreux vins, en particulier les rouges tanniques. Un blanc sec, léger et peu boisé comme le Sylvaner limite ce phénomène et respecte la délicatesse végétale du légume."
     },
     {
       "id": "accords_mets_vins_27",
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour Accords mets et vins #7 ?",
+      "difficulty": "Moyen",
+      "question": "Quel type de vin effervescent sec, doté de bulles fines et d'une belle acidité, est recommandé pour accompagner un brunch composé d'œufs et de plats légèrement gras ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un Crémant",
+        "Un vin rouge tannique",
+        "Un vin doux liquoreux",
+        "Un Xérès"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Accords mets et vins #7."
+      "answer": "Un Crémant",
+      "explanation": "Les bulles fines et la fraîcheur acidulée d'un Crémant nettoient agréablement le palais entre chaque bouchée d'un brunch souvent composé de mets gras (œufs, viennoiseries, charcuterie), sans jamais écraser leur saveur par une trop grande puissance."
     },
     {
       "id": "accords_mets_vins_28",
       "type": "qcm",
-      "difficulty": "Moyen",
-      "question": "Question de test pour Accords mets et vins #8 ?",
+      "difficulty": "Difficile",
+      "question": "Quel vin rouge italien, célèbre spécialité du Piémont issue du cépage Nebbiolo, s'accorde traditionnellement avec un risotto aux truffes blanches d'Alba ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un Barolo",
+        "Un Chianti Classico",
+        "Un Amarone",
+        "Un Valpolicella"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Accords mets et vins #8."
+      "answer": "Un Barolo",
+      "explanation": "Le Barolo, surnommé 'le roi des vins et le vin des rois', possède une structure tannique et une complexité aromatique (rose fanée, truffe, sous-bois) capables de dialoguer avec la puissance aromatique de la truffe blanche sans jamais s'effacer devant elle."
     },
     {
       "id": "accords_mets_vins_29",
       "type": "qcm",
       "difficulty": "Difficile",
-      "question": "Question de test pour Accords mets et vins #9 ?",
+      "question": "Quel vin rouge toscan structuré, issu à 100% du cépage Sangiovese et élevé plusieurs années en fût, est l'accord de prestige pour une bistecca alla fiorentina, la célèbre côte de bœuf toscane ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Un Brunello di Montalcino",
+        "Un Chianti Classico",
+        "Un Barolo",
+        "Un Amarone"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Accords mets et vins #9."
+      "answer": "Un Brunello di Montalcino",
+      "explanation": "Élevé au minimum cinq ans, dont deux en fût de chêne, le Brunello di Montalcino développe une structure tannique dense et des arômes évolués de cuir et d'épices, à la hauteur de la puissance et de la simplicité rustique de cette pièce de bœuf grillée."
     },
     {
       "id": "accords_mets_vins_30",
       "type": "qcm",
-      "difficulty": "Facile",
-      "question": "Question de test pour Accords mets et vins #10 ?",
+      "difficulty": "Difficile",
+      "question": "Quel vin effervescent doux italien, élaboré à partir du cépage Moscato dans la région du Piémont, est l'accord classique pour un dessert de fruits frais ou une pâtisserie légère ?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "L'Asti Spumante",
+        "Le Prosecco",
+        "Le Lambrusco",
+        "Le Franciacorta"
       ],
-      "answer": "Option A",
-      "explanation": "Explication de test pour Accords mets et vins #10."
+      "answer": "L'Asti Spumante",
+      "explanation": "Contrairement au Prosecco généralement sec ou demi-sec, l'Asti Spumante conserve un sucre résiduel élevé et des arômes intensément fruités et floraux de raisin muscat, ce qui en fait un accord naturel avec les desserts sans jamais paraître écrasant."
     }
   ]
 }

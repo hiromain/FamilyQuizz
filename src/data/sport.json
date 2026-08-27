@@ -329,6 +329,174 @@
       ],
       "answer": "60 minutes",
       "explanation": "Un match officiel de handball senior se divise en deux mi-temps de 30 minutes chacune, séparées par une pause de 10 à 15 minutes. En cas d'égalité lors de matchs à élimination directe, des prolongations de deux fois cinq minutes sont jouées."
+    },
+    {
+      "id": "sport_collectifs_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Dans quel sport collectif irlandais, considéré comme le sport de terrain le plus rapide du monde, les joueurs frappent une petite balle en cuir appelée « sliotar » à l'aide d'un bâton nommé « hurley » ?",
+      "answer": "Le hurling",
+      "explanation": "Le hurling est un sport ancestral irlandais vieux de plus de 3000 ans, étroitement lié à l'identité culturelle du pays. La sliotar peut être frappée à des vitesses dépassant 150 km/h, ce qui en fait l'un des sports de balle les plus rapides au monde. Il se joue à quinze contre quinze sur un terrain plus grand qu'un terrain de football.",
+      "options": [
+        "Le hurling",
+        "Le football gaélique",
+        "Le shinty",
+        "Le hockey sur gazon"
+      ]
+    },
+    {
+      "id": "sport_collectifs_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Au football, quel est le nombre minimum de joueurs qu'une équipe doit pouvoir aligner sur le terrain pour qu'un match débute ou se poursuive, selon les Lois du Jeu ?",
+      "answer": "7",
+      "explanation": "Selon les règles établies par l'International Football Association Board, un match ne peut pas se dérouler si une équipe compte moins de sept joueurs sur le terrain. Si une équipe passe sous ce seuil en cours de match, par exemple à la suite de plusieurs expulsions, l'arbitre est tenu d'arrêter la rencontre.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "id": "sport_collectifs_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Combien de points rapporte un essai marqué au rugby à XV, avant la tentative de transformation ?",
+      "answer": "5 points",
+      "explanation": "Un essai réussi au rugby à XV rapporte cinq points à l'équipe marqueuse. Si la transformation qui suit est également réussie, deux points supplémentaires viennent s'y ajouter, portant le total à sept points pour l'action complète.",
+      "options": [
+        "3 points",
+        "4 points",
+        "5 points",
+        "7 points"
+      ]
+    },
+    {
+      "id": "sport_collectifs_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Au volley-ball, combien de sets une équipe doit-elle remporter pour gagner un match qui se joue au meilleur des cinq sets ?",
+      "answer": "3",
+      "explanation": "Un match de volley-ball se joue généralement au meilleur des cinq sets, et il faut donc en remporter trois pour l'emporter. Les quatre premiers sets se jouent en 25 points, tandis que le cinquième et dernier, s'il a lieu, se joue en 15 points.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": "sport_collectifs_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Combien de points rapporte un « touchdown » au football américain, avant la tentative de transformation ?",
+      "answer": "6 points",
+      "explanation": "Un touchdown, obtenu en portant le ballon dans la zone d'en-but adverse, rapporte six points à l'équipe. L'équipe peut ensuite tenter une transformation valant un point supplémentaire au pied, ou deux points en rejouant une action offensive.",
+      "options": [
+        "3 points",
+        "6 points",
+        "7 points",
+        "8 points"
+      ]
+    },
+    {
+      "id": "sport_collectifs_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel sport collectif féminin, très populaire dans les pays du Commonwealth et dérivé du basket-ball, interdit tout dribble et impose à chaque joueuse une zone de jeu précise selon son poste ?",
+      "answer": "Le netball",
+      "explanation": "Le netball est né à la fin du XIXe siècle comme une adaptation du basket-ball féminin, avant de devenir un sport à part entière très populaire en Australie, en Nouvelle-Zélande et au Royaume-Uni. Contrairement au basket-ball, le panier ne possède pas de panneau et les joueuses ne peuvent ni dribbler ni courir avec le ballon.",
+      "options": [
+        "Le netball",
+        "Le korfbal",
+        "Le basket-ball 3x3",
+        "Le handball"
+      ]
+    },
+    {
+      "id": "sport_collectifs_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Au cricket, comment appelle-t-on le fait, pour un batteur, de marquer 100 points (runs) au cours d'une même manche ?",
+      "answer": "Un century",
+      "explanation": "Réaliser un century est considéré comme l'un des exploits individuels les plus prestigieux du cricket, célébré par le public et les commentateurs. L'Australien Don Bradman reste une référence absolue dans ce domaine grâce à sa moyenne exceptionnelle en carrière.",
+      "options": [
+        "Un grand chelem",
+        "Un century",
+        "Un maximum",
+        "Un homerun"
+      ]
+    },
+    {
+      "id": "sport_collectifs_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel sport collectif scandinave se joue à onze contre onze avec une petite balle orange sur une immense patinoire extérieure de la taille d'un terrain de football, à l'aide de crosses recourbées ?",
+      "answer": "Le bandy",
+      "explanation": "Le bandy est particulièrement populaire en Russie, en Suède et en Finlande, où il est parfois surnommé le « football sur glace » en raison des dimensions de son terrain. Contrairement au hockey sur glace, les contacts physiques y sont beaucoup plus limités et le palet est remplacé par une balle.",
+      "options": [
+        "Le bandy",
+        "Le hockey sur glace",
+        "Le ringuette",
+        "Le broomball"
+      ]
+    },
+    {
+      "id": "sport_collectifs_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Combien de manches (innings) compte un match de baseball professionnel standard, hors prolongations ?",
+      "answer": "9",
+      "explanation": "Un match de baseball professionnel se joue traditionnellement en neuf manches, chaque équipe ayant l'occasion d'attaquer et de défendre à tour de rôle. En cas d'égalité à l'issue de la neuvième manche, des manches supplémentaires sont jouées jusqu'à ce qu'une équipe prenne l'avantage.",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "12"
+      ]
+    },
+    {
+      "id": "sport_collectifs_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Au water-polo, de combien de secondes une équipe dispose-t-elle en possession du ballon pour tenter un tir cadré, sous peine de perdre la possession ?",
+      "answer": "30 secondes",
+      "explanation": "Ce chronomètre de possession oblige les équipes à construire rapidement leurs actions offensives, ce qui rend le jeu particulièrement rythmé. Si aucun tir cadré n'est effectué dans ce délai, le ballon est automatiquement remis à l'équipe adverse.",
+      "options": [
+        "20 secondes",
+        "30 secondes",
+        "35 secondes",
+        "45 secondes"
+      ]
+    },
+    {
+      "id": "sport_collectifs_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Dans quel sport collectif à cheval, l'un des plus anciens du monde encore pratiqués, deux équipes de quatre cavaliers s'affrontent-elles pour marquer des buts à l'aide d'un long maillet et d'une balle en bois ou en plastique ?",
+      "answer": "Le polo",
+      "explanation": "Le polo trouve ses origines en Asie centrale il y a plus de deux mille ans, avant d'être codifié par les Britanniques en Inde au XIXe siècle. Chaque cavalier change généralement de monture plusieurs fois au cours d'un match, appelé « chukka », en raison de l'effort physique intense demandé aux chevaux.",
+      "options": [
+        "Le polo",
+        "Le horseball",
+        "Le pato",
+        "Le tent-pegging"
+      ]
+    },
+    {
+      "id": "sport_collectifs_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Au handball, à quelle distance minimale du but les joueurs de champ doivent-ils se trouver pour tirer, une limite matérialisée par la ligne de la surface de but ?",
+      "answer": "6 mètres",
+      "explanation": "Cette ligne des six mètres délimite la surface de but réservée au gardien, où les joueurs de champ n'ont pas le droit de prendre appui. Un tir depuis l'intérieur de cette zone est donc généralement effectué en suspension, juste avant de retomber au sol.",
+      "options": [
+        "5 mètres",
+        "6 mètres",
+        "7 mètres",
+        "9 mètres"
+      ]
     }
   ],
   "Sport : Jeux Olympiques": [
@@ -661,6 +829,174 @@
       ],
       "answer": "La Polynésie française",
       "explanation": "L'épreuve de surf des JO de Paris 2024 s'est déroulée à Tahiti, en Polynésie française. La célèbre vague de Teahupo'o a offert des conditions de compétition spectaculaires et exigeantes, sacrant le Français Kauli Vaast chez les hommes."
+    },
+    {
+      "id": "sport_jeux_olympiques_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle récompense recevaient les vainqueurs des épreuves aux Jeux Olympiques de l'Antiquité, symbole de gloire plutôt que de richesse matérielle ?",
+      "answer": "Une couronne d'olivier",
+      "explanation": "Cette couronne, appelée « kotinos », était taillée dans les branches d'un olivier sacré poussant près du temple de Zeus à Olympie. Bien que sans valeur marchande, elle offrait au vainqueur un immense prestige et souvent des récompenses matérielles considérables une fois de retour dans sa cité natale.",
+      "options": [
+        "Une couronne d'olivier",
+        "Une médaille d'or",
+        "Une couronne de laurier doré",
+        "Une statue à leur effigie"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Lors de quelle édition des Jeux Olympiques d'été a été allumée, pour la première fois, une vasque olympique restant enflammée en permanence durant toute la compétition ?",
+      "answer": "Amsterdam 1928",
+      "explanation": "La tradition de la flamme continue est apparue aux Jeux d'Amsterdam en 1928, marquant le début d'un symbole désormais incontournable de l'événement. Le célèbre relais de la flamme depuis Olympie, en Grèce, jusqu'à la ville hôte n'a quant à lui été instauré que huit ans plus tard, à Berlin en 1936.",
+      "options": [
+        "Paris 1924",
+        "Amsterdam 1928",
+        "Los Angeles 1932",
+        "Berlin 1936"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Lors de quelle édition des Jeux Olympiques modernes les femmes ont-elles pu concourir pour la première fois, notamment en tennis et en golf ?",
+      "answer": "Paris 1900",
+      "explanation": "Une vingtaine de femmes seulement ont participé aux Jeux de Paris en 1900, sur près d'un millier d'athlètes au total. La Britannique Charlotte Cooper est devenue à cette occasion la première championne olympique de l'histoire en remportant l'épreuve de tennis en simple dames.",
+      "options": [
+        "Athènes 1896",
+        "Paris 1900",
+        "Saint-Louis 1904",
+        "Londres 1908"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle ville autrichienne est devenue la première à accueillir deux fois les Jeux Olympiques d'hiver, en 1964 puis en 1976 ?",
+      "answer": "Innsbruck",
+      "explanation": "Innsbruck a organisé les Jeux d'hiver de 1964, puis a été rappelée après le retrait de la ville de Denver, aux États-Unis, annoncé en novembre 1972, pour des raisons budgétaires et environnementales. La cité tyrolienne, officiellement désignée par le CIO en février 1973, a disposé d'environ trois ans pour se préparer à accueillir de nouveau l'événement en 1976.",
+      "options": [
+        "Innsbruck",
+        "Saint-Moritz",
+        "Lake Placid",
+        "Chamonix"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_35",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel sprinteur canadien a été disqualifié et déchu de sa médaille d'or du 100m aux Jeux Olympiques de Séoul en 1988, après un contrôle antidopage positif ?",
+      "answer": "Ben Johnson",
+      "explanation": "Ben Johnson avait pourtant impressionné le monde entier en battant le record du monde du 100m lors de cette finale olympique. Sa disqualification, révélée trois jours après la course, a profité à l'Américain Carl Lewis, initialement deuxième, qui a hérité de la médaille d'or.",
+      "options": [
+        "Ben Johnson",
+        "Linford Christie",
+        "Donovan Bailey",
+        "Carl Lewis"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle ville a accueilli les Jeux Olympiques d'été de 2000, marqués par l'embrasement spectaculaire de la vasque par la sprinteuse aborigène Cathy Freeman ?",
+      "answer": "Sydney",
+      "explanation": "Cathy Freeman a ensuite remporté la médaille d'or du 400m devant son public, dans l'une des courses les plus émotionnellement chargées de l'histoire olympique. Les Jeux de Sydney sont restés célèbres pour leur organisation exemplaire et l'ambiance chaleureuse du public australien.",
+      "options": [
+        "Atlanta",
+        "Sydney",
+        "Athènes",
+        "Pékin"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on le lieu construit spécialement pour loger l'ensemble des athlètes durant les Jeux Olympiques, un concept introduit pour la première fois à Los Angeles en 1932 ?",
+      "answer": "Le village olympique",
+      "explanation": "Avant 1932, les athlètes logeaient dans des hôtels dispersés ou même sur des bateaux amarrés au port. Le village olympique de Los Angeles a révolutionné l'organisation des Jeux en réunissant pour la première fois tous les sportifs dans un même lieu, favorisant les échanges entre nations.",
+      "options": [
+        "Le camp olympique",
+        "Le village olympique",
+        "La cité sportive",
+        "Le quartier des athlètes"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_38",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle est la distance officielle du marathon olympique, fixée définitivement lors des Jeux de Londres en 1908 ?",
+      "answer": "42,195 kilomètres",
+      "explanation": "Cette distance particulière correspond au trajet exact parcouru en 1908 entre le château de Windsor et le stade olympique de Londres, afin que l'arrivée se déroule devant la loge royale. Cette distance, à l'origine simplement pratique, a fini par être adoptée officiellement comme référence universelle.",
+      "options": [
+        "40 kilomètres",
+        "42,195 kilomètres",
+        "45 kilomètres",
+        "38,995 kilomètres"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle athlète américaine, ayant surmonté une poliomyélite infantile qui l'obligeait à porter une attelle à la jambe, est devenue en remportant 3 médailles d'or à Rome en 1960 la femme la plus rapide du monde ?",
+      "answer": "Wilma Rudolph",
+      "explanation": "Surnommée « la Gazelle noire », Wilma Rudolph a triomphé sur 100m, 200m et au relais 4x100m lors des Jeux de Rome. Son parcours exceptionnel, d'une enfance marquée par la maladie à la gloire olympique, en a fait une icône du sport et de la lutte pour les droits civiques aux États-Unis.",
+      "options": [
+        "Wilma Rudolph",
+        "Florence Griffith-Joyner",
+        "Wyomia Tyus",
+        "Evelyn Ashford"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on la cérémonie qui clôture chaque édition des Jeux Olympiques, marquée par l'extinction de la flamme et le passage symbolique du relais à la prochaine ville hôte ?",
+      "answer": "La cérémonie de clôture",
+      "explanation": "Lors de cette cérémonie, les athlètes de toutes les nations défilent ensemble dans une ambiance festive, contrairement à l'ouverture où ils marchent par délégation nationale. Le maire de la ville organisatrice y remet traditionnellement le drapeau olympique au président du CIO, qui le transmet ensuite à son homologue de la prochaine ville hôte.",
+      "options": [
+        "La cérémonie de clôture",
+        "La cérémonie des adieux",
+        "La cérémonie de transmission",
+        "La cérémonie finale"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel pays a organisé les Jeux Olympiques d'hiver de 2026, partagés entre les villes de Milan et de Cortina d'Ampezzo ?",
+      "answer": "L'Italie",
+      "explanation": "Cette édition marquait le retour des Jeux d'hiver en Italie, vingt ans après ceux de Turin en 2006. Cortina d'Ampezzo, nichée dans les Dolomites, avait déjà accueilli les Jeux d'hiver en 1956, devenant ainsi l'une des rares villes à organiser deux fois cet événement à plusieurs décennies d'intervalle.",
+      "options": [
+        "L'Italie",
+        "La Suisse",
+        "L'Autriche",
+        "La France"
+      ]
+    },
+    {
+      "id": "sport_jeux_olympiques_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel nageur américain a remporté un total record de 7 médailles d'or lors des seuls Jeux Olympiques de Munich en 1972 ?",
+      "answer": "Mark Spitz",
+      "explanation": "Mark Spitz a réalisé cet exploit retentissant en établissant un nouveau record du monde à chacune de ses sept courses, un fait unique dans l'histoire olympique. Son record du plus grand nombre de médailles d'or sur une seule édition a tenu pendant 36 ans, jusqu'à ce que Michael Phelps le batte à Pékin en 2008.",
+      "options": [
+        "Mark Spitz",
+        "Michael Phelps",
+        "Matt Biondi",
+        "Ryan Lochte"
+      ]
     }
   ],
   "Sport : Légendes du Sport": [
@@ -993,6 +1329,174 @@
       ],
       "answer": "Usain Bolt",
       "explanation": "Usain Bolt a établi le record du 100 m en 9''58 lors des Championnats du monde 2009 à Berlin. Triple champion olympique sur 100 m consécutivement (2008, 2012, 2016), il reste considéré comme le plus grand sprinteur de l'histoire."
+    },
+    {
+      "id": "sport_legendes_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel footballeur argentin, auteur du tristement célèbre but de « la main de Dieu » lors du Mondial 1986, est considéré comme l'un des plus grands joueurs de l'histoire ?",
+      "answer": "Diego Maradona",
+      "explanation": "Lors du quart de finale contre l'Angleterre en 1986, Diego Maradona a marqué un but controversé de la main avant d'inscrire, quelques minutes plus tard, l'un des plus beaux buts de l'histoire du football en dribblant plusieurs adversaires. Il a mené l'Argentine au titre mondial cette même année.",
+      "options": [
+        "Diego Maradona",
+        "Lionel Messi",
+        "Diego Simeone",
+        "Gabriel Batistuta"
+      ]
+    },
+    {
+      "id": "sport_legendes_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel milieu de terrain français, double buteur de la tête en finale, a mené les Bleus à leur premier titre de champion du monde en 1998 ?",
+      "answer": "Zinedine Zidane",
+      "explanation": "Zinedine Zidane a inscrit deux buts de la tête sur corner lors de la finale remportée 3-0 face au Brésil au Stade de France. Ce triomphe historique a déclenché une immense liesse populaire à travers tout le pays et a fait de lui une icône nationale.",
+      "options": [
+        "Zinedine Zidane",
+        "Didier Deschamps",
+        "Thierry Henry",
+        "Youri Djorkaeff"
+      ]
+    },
+    {
+      "id": "sport_legendes_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel joueur de cricket australien détient la moyenne de points par manche la plus impressionnante et jamais égalée de l'histoire du sport, à 99,94 ?",
+      "answer": "Don Bradman",
+      "explanation": "La moyenne de Don Bradman reste un cas unique dans le sport de haut niveau, tant elle dépasse celle de tous ses poursuivants. S'il avait terminé sa dernière manche par seulement quatre points supplémentaires, il aurait atteint la moyenne symbolique de 100.",
+      "options": [
+        "Sachin Tendulkar",
+        "Don Bradman",
+        "Brian Lara",
+        "Ricky Ponting"
+      ]
+    },
+    {
+      "id": "sport_legendes_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel boxeur américain poids lourd a pris sa retraite invaincu en 1956 avec un bilan parfait de 49 victoires en 49 combats ?",
+      "answer": "Rocky Marciano",
+      "explanation": "Rocky Marciano reste à ce jour le seul champion du monde des poids lourds à avoir achevé sa carrière sans la moindre défaite. Réputé pour sa puissance de frappe phénoménale, il a conservé son titre par six défenses victorieuses avant de se retirer au sommet.",
+      "options": [
+        "Rocky Marciano",
+        "Joe Louis",
+        "George Foreman",
+        "Jack Dempsey"
+      ]
+    },
+    {
+      "id": "sport_legendes_36",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel joueur de baseball américain légendaire, surnommé « le Bambino », a longtemps détenu le record du nombre de home runs en carrière sous le maillot des Yankees de New York ?",
+      "answer": "Babe Ruth",
+      "explanation": "Babe Ruth a révolutionné le baseball dans les années 1920 en imposant un style de jeu axé sur la puissance des frappes plutôt que sur la simple précision. Son record de 714 home runs en carrière n'a été dépassé qu'en 1974, par Hank Aaron.",
+      "options": [
+        "Babe Ruth",
+        "Hank Aaron",
+        "Barry Bonds",
+        "Lou Gehrig"
+      ]
+    },
+    {
+      "id": "sport_legendes_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle patineuse artistique norvégienne a remporté 3 médailles d'or olympiques consécutives entre 1928 et 1936, avant de devenir une star de cinéma à Hollywood ?",
+      "answer": "Sonja Henie",
+      "explanation": "Sonja Henie a révolutionné le patinage artistique féminin en y introduisant des éléments chorégraphiques inspirés du ballet classique. Après sa carrière sportive, elle est devenue l'une des actrices les mieux payées d'Hollywood grâce à une série de comédies musicales sur glace.",
+      "options": [
+        "Sonja Henie",
+        "Katarina Witt",
+        "Peggy Fleming",
+        "Dorothy Hamill"
+      ]
+    },
+    {
+      "id": "sport_legendes_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel joueur de tennis suédois, rival historique de John McEnroe, a remporté 5 titres consécutifs à Wimbledon entre 1976 et 1980 ?",
+      "answer": "Björn Borg",
+      "explanation": "Björn Borg était réputé pour son sang-froid impressionnant sur le court, contrastant avec le tempérament fougueux de son grand rival John McEnroe. Leur finale de Wimbledon en 1980, remportée par le Suédois après un tie-break légendaire, reste l'un des plus grands matchs de l'histoire du tennis.",
+      "options": [
+        "Björn Borg",
+        "Ivan Lendl",
+        "Stefan Edberg",
+        "Mats Wilander"
+      ]
+    },
+    {
+      "id": "sport_legendes_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel coureur de fond finlandais, surnommé « le Finlandais volant », a remporté 9 médailles d'or olympiques en athlétisme au cours des années 1920 ?",
+      "answer": "Paavo Nurmi",
+      "explanation": "Paavo Nurmi courait souvent avec un chronomètre en main afin de contrôler précisément son allure, une méthode d'entraînement révolutionnaire pour son époque. Il a dominé les épreuves de fond et de demi-fond lors de trois éditions successives des Jeux Olympiques, de 1920 à 1928.",
+      "options": [
+        "Paavo Nurmi",
+        "Emil Zátopek",
+        "Hannes Kolehmainen",
+        "Lasse Virén"
+      ]
+    },
+    {
+      "id": "sport_legendes_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel footballeur allemand, surnommé « Der Kaiser », a remporté la Coupe du monde en tant que joueur en 1974 puis en tant que sélectionneur en 1990 ?",
+      "answer": "Franz Beckenbauer",
+      "explanation": "Franz Beckenbauer a révolutionné le poste de libéro en football grâce à son élégance technique et sa capacité à relancer le jeu depuis la défense. Il fait partie des rares personnalités à avoir soulevé le trophée de la Coupe du monde à la fois comme capitaine et comme entraîneur.",
+      "options": [
+        "Franz Beckenbauer",
+        "Lothar Matthäus",
+        "Gerd Müller",
+        "Jürgen Klinsmann"
+      ]
+    },
+    {
+      "id": "sport_legendes_41",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel joueur de tennis espagnol, surnommé « le Taureau de Manacor », détient le record du nombre de titres remportés à Roland-Garros avec 14 sacres ?",
+      "answer": "Rafael Nadal",
+      "explanation": "Rafael Nadal a dominé le tournoi parisien de terre battue d'une manière quasiment inégalée dans l'histoire du sport, n'y perdant que quatre fois en dix-neuf participations (face à Robin Söderling en 2009, à Novak Djokovic en 2015 et 2021, puis à Alexander Zverev en 2024). Sa puissance sur son coup droit lifté et son incroyable combativité mentale ont fait de lui « le Roi de la terre battue ».",
+      "options": [
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Roger Federer",
+        "Carlos Alcaraz"
+      ]
+    },
+    {
+      "id": "sport_legendes_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel athlète éthiopien a détenu le record du monde du marathon à deux reprises dans les années 2000, après avoir dominé le 10 000m pendant près d'une décennie ?",
+      "answer": "Haile Gebrselassie",
+      "explanation": "Haile Gebrselassie a remporté deux médailles d'or olympiques consécutives sur 10 000m, en 1996 et 2000, avant de se tourner vers le marathon en fin de carrière. Il a été le premier coureur à descendre sous les 2h04 sur cette distance, lors du marathon de Berlin en 2008.",
+      "options": [
+        "Haile Gebrselassie",
+        "Kenenisa Bekele",
+        "Eliud Kipchoge",
+        "Mo Farah"
+      ]
+    },
+    {
+      "id": "sport_legendes_43",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle nageuse américaine domine le demi-fond en bassin depuis les années 2010 et détient plusieurs records du monde du 800m et du 1500m nage libre ?",
+      "answer": "Katie Ledecky",
+      "explanation": "Katie Ledecky a fait ses débuts olympiques dès l'âge de 15 ans à Londres en 2012, où elle a créé la surprise en remportant l'or sur 800m nage libre. Sa suprématie sur les longues distances est telle qu'elle devance parfois ses adversaires de plusieurs longueurs de bassin en fin de course.",
+      "options": [
+        "Katie Ledecky",
+        "Missy Franklin",
+        "Adam Peaty",
+        "Sarah Sjöström"
+      ]
     }
   ],
   "Sport : Sports Individuels": [
@@ -1325,6 +1829,174 @@
       ],
       "answer": "Le revers",
       "explanation": "Le revers est un coup fondamental du tennis. Historiquement frappé à une main avec beaucoup de relâchement (comme le faisait Roger Federer), le revers à deux mains s'est largement imposé chez les joueurs modernes pour offrir plus de contrôle et de puissance à l'impact."
+    },
+    {
+      "id": "sport_individuels_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel sport de raquette individuel se joue avec un volant en plumes d'oie et une raquette très légère, sur un terrain divisé par un filet haut ?",
+      "answer": "Le badminton",
+      "explanation": "Le volant de badminton peut atteindre des vitesses supérieures à 400 km/h lors d'un smash, ce qui en fait le projectile le plus rapide de tous les sports de raquette. Ce sport olympique depuis 1992 est particulièrement populaire en Asie, notamment en Chine et en Indonésie.",
+      "options": [
+        "Le badminton",
+        "Le tennis",
+        "Le squash",
+        "Le tennis de table"
+      ]
+    },
+    {
+      "id": "sport_individuels_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel sport individuel olympique comprend deux mouvements techniques bien distincts : l'arraché et l'épaulé-jeté ?",
+      "answer": "L'haltérophilie",
+      "explanation": "L'arraché consiste à soulever la barre du sol jusqu'au-dessus de la tête en un seul mouvement continu, tandis que l'épaulé-jeté se décompose en deux temps distincts. Le classement final additionne les meilleures charges réussies dans chacun de ces deux mouvements.",
+      "options": [
+        "L'haltérophilie",
+        "Le powerlifting",
+        "La lutte",
+        "Le CrossFit"
+      ]
+    },
+    {
+      "id": "sport_individuels_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel sport de combat individuel olympique, l'un des plus anciens de l'histoire du sport, se décline en deux styles principaux : gréco-romaine et libre ?",
+      "answer": "La lutte",
+      "explanation": "La lutte figurait déjà au programme des Jeux Olympiques de l'Antiquité, plusieurs siècles avant notre ère. La différence majeure entre ses deux styles olympiques réside dans l'usage des jambes pour attaquer ou faire chuter l'adversaire, autorisé uniquement en lutte libre.",
+      "options": [
+        "La lutte",
+        "Le judo",
+        "La boxe",
+        "Le sambo"
+      ]
+    },
+    {
+      "id": "sport_individuels_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle épreuve d'athlétisme consiste à lancer le plus loin possible un engin métallique effilé, d'environ 800 grammes chez les hommes ?",
+      "answer": "Le javelot",
+      "explanation": "Contrairement aux autres lancers d'athlétisme qui s'effectuent depuis un cercle, le javelot est lancé en course d'élan sur une piste rectiligne. Sa forme aérodynamique lui permet de planer, ce qui rend la technique de lâcher aussi importante que la puissance pure de l'athlète.",
+      "options": [
+        "Le disque",
+        "Le javelot",
+        "Le marteau",
+        "Le poids"
+      ]
+    },
+    {
+      "id": "sport_individuels_35",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle épreuve d'athlétisme impose à l'athlète de garder en permanence un contact visible avec le sol, sous peine d'avertissement puis de disqualification par les juges ?",
+      "answer": "La marche athlétique",
+      "explanation": "Les marcheurs doivent également garder la jambe d'appui tendue au moment du contact avec le sol, sous peine de pénalité supplémentaire. Cette discipline exigeante se dispute sur des distances allant du 20 km jusqu'au marathon en compétition olympique.",
+      "options": [
+        "Le steeple",
+        "Le décathlon",
+        "La marche athlétique",
+        "Le cross-country"
+      ]
+    },
+    {
+      "id": "sport_individuels_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel sport nautique consiste à faire avancer une fine embarcation à l'aide de rames, en position assise et dos tourné vers la direction du déplacement ?",
+      "answer": "L'aviron",
+      "explanation": "Les rameurs doivent se fier à un barreur ou à des repères visuels pour se diriger, puisqu'ils avancent en regardant vers l'arrière du bateau. L'épreuve individuelle reine de ce sport est le skiff, où un seul rameur manie deux avirons simultanément.",
+      "options": [
+        "Le canoë",
+        "Le kayak",
+        "L'aviron",
+        "Le stand-up paddle"
+      ]
+    },
+    {
+      "id": "sport_individuels_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle classe de dériveur olympique en solitaire, rebaptisée ILCA en 2019 en hommage à sa fédération internationale, est la catégorie de voile individuelle la plus répandue au monde ?",
+      "answer": "Le Laser (ILCA)",
+      "explanation": "Ce petit dériveur simple et peu coûteux à entretenir a séduit des générations entières de régatiers depuis sa création en 1970. Sa popularité mondiale en fait l'un des bateaux de compétition les plus construits de l'histoire de la voile.",
+      "options": [
+        "Le 470",
+        "Le Laser (ILCA)",
+        "Le Nacra 17",
+        "Le Finn"
+      ]
+    },
+    {
+      "id": "sport_individuels_38",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on la tenue traditionnelle en toile résistante portée par les judokas à l'entraînement comme en compétition ?",
+      "answer": "Le judogi",
+      "explanation": "Le judogi se compose d'une veste renforcée, d'un pantalon et d'une ceinture dont la couleur indique le niveau technique du pratiquant. Sa solidité doit permettre de résister aux nombreuses saisies et projections propres à ce sport de combat.",
+      "options": [
+        "Le judogi",
+        "La saharienne",
+        "Le kurta",
+        "Le hakama"
+      ]
+    },
+    {
+      "id": "sport_individuels_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel art martial olympique d'origine coréenne, dont le nom signifie littéralement « la voie du poing et du pied », privilégie les techniques de percussion réalisées avec les jambes ?",
+      "answer": "Le taekwondo",
+      "explanation": "Le taekwondo se distingue par la spectacularité de ses coups de pied circulaires et sautés, souvent portés à hauteur de tête. Il est devenu discipline olympique officielle à part entière lors des Jeux de Sydney en 2000.",
+      "options": [
+        "Le taekwondo",
+        "Le karaté",
+        "Le kung-fu",
+        "Le hapkido"
+      ]
+    },
+    {
+      "id": "sport_individuels_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle épreuve d'athlétisme consiste à franchir une barre horizontale le plus haut possible à l'aide d'une longue perche flexible en fibre de verre ou de carbone ?",
+      "answer": "Le saut à la perche",
+      "explanation": "L'athlète prend un long élan avant de planter sa perche dans un butoir, ce qui projette son corps à la verticale au-dessus de la barre. Cette discipline technique et athlétique exige à la fois vitesse de course, force du haut du corps et sens aigu de la coordination.",
+      "options": [
+        "Le saut en hauteur",
+        "Le saut à la perche",
+        "Le saut en longueur",
+        "Le triple saut"
+      ]
+    },
+    {
+      "id": "sport_individuels_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle discipline équestre individuelle olympique évalue la grâce, la précision et la complexité des mouvements exécutés par le couple cheval-cavalier, souvent comparée à une danse ?",
+      "answer": "Le dressage",
+      "explanation": "Les juges évaluent notamment la qualité des allures du cheval ainsi que sa docilité apparente face aux commandes quasi invisibles du cavalier. Le dressage est l'une des rares disciplines olympiques où hommes et femmes concourent ensemble dans la même épreuve.",
+      "options": [
+        "Le dressage",
+        "Le concours complet",
+        "Le saut d'obstacles",
+        "Le horse-ball"
+      ]
+    },
+    {
+      "id": "sport_individuels_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel sport d'hiver individuel consiste à se déplacer le plus vite possible sur de longues distances de neige plate à l'aide de skis fins et de bâtons, en style classique ou skating ?",
+      "answer": "Le ski de fond",
+      "explanation": "Le style classique impose aux skieurs de glisser dans des traces parallèles tracées dans la neige, tandis que le style libre, ou skating, s'apparente davantage au patinage sur glace. Les meilleurs fondeurs peuvent parcourir plus de 50 kilomètres lors des épreuves les plus longues.",
+      "options": [
+        "Le ski de fond",
+        "Le ski alpin",
+        "Le biathlon",
+        "Le combiné nordique"
+      ]
     }
   ],
   "Sport : Sports Mécaniques": [
@@ -1657,6 +2329,174 @@
       ],
       "answer": "Porsche",
       "explanation": "Porsche a forgé sa légende en endurance grâce à des modèles mythiques comme la 917, la 956 ou la 919 Hybrid. Avec 19 victoires au général, le constructeur de Stuttgart devance Audi (13 victoires) et Ferrari (11 victoires) au palmarès de la prestigieuse course sarthoise."
+    },
+    {
+      "id": "sport_mecaniques_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel pilote italien est devenu le tout premier champion du monde de Formule 1 de l'histoire, sacré en 1950 au volant d'une Alfa Romeo ?",
+      "answer": "Giuseppe Farina",
+      "explanation": "Giuseppe Farina a remporté ce tout premier championnat du monde lors de la saison inaugurale de la Formule 1 en 1950, une compétition alors dominée par les écuries italiennes. Son style de pilotage, bras tendus et position très droite au volant, a influencé des générations de pilotes après lui.",
+      "options": [
+        "Giuseppe Farina",
+        "Juan Manuel Fangio",
+        "Alberto Ascari",
+        "Stirling Moss"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel pilote argentin détient le record du plus grand nombre de titres mondiaux de F1 remportés avec des écuries différentes (Alfa Romeo, Mercedes, Ferrari et Maserati) dans les années 1950 ?",
+      "answer": "Juan Manuel Fangio",
+      "explanation": "Juan Manuel Fangio a remporté cinq titres mondiaux entre 1951 et 1957, un record resté inégalé pendant près de cinquante ans avant d'être dépassé par Michael Schumacher. Sa capacité à gagner avec quatre constructeurs différents reste, elle, un record absolu toujours d'actualité.",
+      "options": [
+        "Juan Manuel Fangio",
+        "Alberto Ascari",
+        "Stirling Moss",
+        "Jack Brabham"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel circuit belge des Ardennes, célèbre pour son tracé vallonné, sa météo capricieuse et son virage mythique d'Eau Rouge, est parfois surnommé le « toboggan des Ardennes » en raison de son fort dénivelé ?",
+      "answer": "Spa-Francorchamps",
+      "explanation": "Le circuit de Spa-Francorchamps est réputé pour ses changements météorologiques soudains, la pluie pouvant tomber sur une partie seulement du tracé. Le fameux enchaînement d'Eau Rouge et Raidillon, avec son dénivelé spectaculaire, est considéré comme l'un des passages les plus impressionnants et redoutés du calendrier automobile mondial.",
+      "options": [
+        "Spa-Francorchamps",
+        "Silverstone",
+        "Monza",
+        "Le Nürburgring"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel surnom redoutable, signifiant littéralement « Enfer Vert », porte la légendaire boucle nord du circuit allemand du Nürburgring ?",
+      "answer": "L'Enfer Vert",
+      "explanation": "Ce surnom a été popularisé par le pilote britannique Jackie Stewart dans les années 1960, en raison de la longueur et de la dangerosité extrême de ce tracé de plus de 20 kilomètres traversant la forêt de l'Eifel. De nombreux constructeurs automobiles y testent encore aujourd'hui leurs modèles les plus performants.",
+      "options": [
+        "L'Enfer Vert",
+        "La Boucle du Diable",
+        "Le Cercle Rouge",
+        "La Piste Maudite"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel dispositif de sécurité, une structure en forme d'arceau protégeant la tête du pilote, a été rendu obligatoire en Formule 1 à partir de la saison 2018 ?",
+      "answer": "Le halo",
+      "explanation": "Le halo a été introduit après plusieurs accidents graves impliquant des projections d'objets ou de roues vers le cockpit des monoplaces. Bien que critiqué esthétiquement à ses débuts, ce dispositif a depuis sauvé la vie de plusieurs pilotes lors d'accidents violents.",
+      "options": [
+        "Le halo",
+        "Le HANS",
+        "L'arceau frontal",
+        "Le cockpit fermé"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel système d'aérodynamique mobile, activable par le pilote pour réduire la traînée et faciliter les dépassements, est utilisé en Formule 1 depuis 2011 ?",
+      "answer": "Le DRS (Drag Reduction System)",
+      "explanation": "Le DRS permet d'ouvrir un volet mobile sur l'aileron arrière de la monoplace, réduisant ainsi la résistance à l'air pour gagner en vitesse de pointe. Son utilisation est réglementée et n'est autorisée que dans des zones spécifiques du circuit, sous certaines conditions d'écart chronométrique.",
+      "options": [
+        "Le DRS (Drag Reduction System)",
+        "Le KERS",
+        "L'ERS",
+        "Le F-duct"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle discipline mécanique américaine, extrêmement populaire aux États-Unis, voit s'affronter des « stock-cars » sur des circuits ovales à très grande vitesse ?",
+      "answer": "Le NASCAR",
+      "explanation": "Le NASCAR est né dans les années 1940 dans le sud des États-Unis, avec des origines parfois liées aux contrebandiers d'alcool cherchant à échapper à la police. Les voitures roulent souvent en peloton très resserré à plus de 300 km/h, ce qui rend les accidents multiples fréquents et spectaculaires.",
+      "options": [
+        "Le NASCAR",
+        "L'IndyCar",
+        "Le drag racing",
+        "Le monster truck"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel championnat automobile 100% électrique, créé en 2014, voit s'affronter des monoplaces silencieuses dans les rues de grandes métropoles mondiales ?",
+      "answer": "La Formule E",
+      "explanation": "Contrairement à la Formule 1, les courses de Formule E se déroulent exclusivement sur des circuits urbains temporaires tracés dans le centre des villes. L'autonomie limitée des batteries a longtemps obligé les pilotes à changer de voiture en cours de course, une contrainte disparue avec les progrès technologiques récents.",
+      "options": [
+        "La Formule E",
+        "L'Extreme E",
+        "La W Series",
+        "La Formule 2"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle catégorie de voitures de course, ayant remplacé les LMP1, est devenue la catégorie reine du championnat du monde d'endurance et des 24 Heures du Mans depuis 2021 ?",
+      "answer": "Les Hypercars",
+      "explanation": "Cette nouvelle réglementation, appelée Le Mans Hypercar, a été conçue pour réduire les coûts de développement tout en attirant de nouveaux constructeurs prestigieux comme Ferrari, Porsche et Toyota. Ces voitures ressemblent visuellement à des hypercars de route, d'où leur appellation.",
+      "options": [
+        "Les Hypercars",
+        "Les GT3",
+        "Les LMP2",
+        "Les Prototypes P900"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel sport mécanique tout-terrain oppose des motos sur des circuits accidentés truffés de bosses et de sauts spectaculaires, généralement disputé en extérieur sur un sol de terre ?",
+      "answer": "Le motocross",
+      "explanation": "Le motocross exige une combinaison rare d'endurance physique, de technique de pilotage et de prise de risques face aux nombreux sauts du parcours. Sa version en salle, disputée sur des pistes artificielles construites dans des stades, est appelée le supercross.",
+      "options": [
+        "Le motocross",
+        "Le trial",
+        "L'enduro",
+        "Le supercross"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel manufacturier de pneumatiques italien est le fournisseur unique et exclusif de la Formule 1 depuis 2011 ?",
+      "answer": "Pirelli",
+      "explanation": "Depuis son retour en Formule 1, Pirelli fournit plusieurs composés de pneus aux caractéristiques différentes, matérialisés par des bandes de couleurs distinctes sur le flanc. Le choix stratégique des composés utilisés pendant la course joue un rôle central dans la tactique des écuries.",
+      "options": [
+        "Pirelli",
+        "Michelin",
+        "Bridgestone",
+        "Goodyear"
+      ]
+    },
+    {
+      "id": "sport_mecaniques_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel petit véhicule monoplace, servant de discipline d'apprentissage à la quasi-totalité des pilotes de Formule 1, se pratique sur des circuits courts et très sinueux ?",
+      "answer": "Le karting",
+      "explanation": "Le karting est considéré comme l'école incontournable du sport automobile, permettant aux jeunes pilotes de développer très tôt leurs réflexes et leur sens de la trajectoire. La plupart des champions du monde de F1, comme Michael Schumacher ou Lewis Hamilton, ont fait leurs débuts en compétition dans cette discipline dès l'âge de 8 ou 9 ans.",
+      "options": [
+        "Le karting",
+        "Le buggy",
+        "Le quad",
+        "La mini-formule"
+      ]
     }
   ],
   "Sport : Année 1998": [
@@ -1989,6 +2829,174 @@
       ],
       "answer": "Le RC Lens",
       "explanation": "Emmené par l'entraîneur Daniel Leclercq, surnommé 'Le Druide', le Racing Club de Lens a décroché son unique titre de champion de France en 1998. La décision s'est faite lors de la dernière journée grâce à un match nul (1-1) obtenu à Auxerre."
+    },
+    {
+      "id": "sport_annee_1998_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel jeune attaquant anglais de 18 ans a inscrit un but solo devenu légendaire contre l'Argentine en huitième de finale de la Coupe du Monde 1998 ?",
+      "answer": "Michael Owen",
+      "explanation": "Lors de ce match resté mythique (2-2, défaite anglaise aux tirs au but), Michael Owen a slalomé entre plusieurs défenseurs argentins avant de conclure d'une frappe croisée. Ce même match a vu David Beckham être expulsé pour un coup de pied sur Diego Simeone.",
+      "options": [
+        "Michael Owen",
+        "David Beckham",
+        "Alan Shearer",
+        "Paul Scholes"
+      ]
+    },
+    {
+      "id": "sport_annee_1998_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel joueur américain de baseball a battu un record vieux de 37 ans en frappant 70 home runs lors de la saison 1998 de la MLB ?",
+      "answer": "Mark McGwire",
+      "explanation": "Sous les couleurs des Cardinals de Saint-Louis, Mark McGwire a effacé des tablettes le record de 61 home runs établi par Roger Maris en 1961. Sa rivalité amicale avec Sammy Sosa, qui en a frappé 66 la même saison, a relancé la popularité du baseball américain.",
+      "options": [
+        "Mark McGwire",
+        "Sammy Sosa",
+        "Barry Bonds",
+        "Ken Griffey Jr."
+      ]
+    },
+    {
+      "id": "sport_annee_1998_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle joueuse de tennis tchèque a enfin remporté le tournoi de Wimbledon en 1998, cinq ans après avoir perdu en larmes une finale mémorable ?",
+      "answer": "Jana Novotná",
+      "explanation": "En 1993, Jana Novotná avait fondu en larmes sur l'épaule de la duchesse de Kent après une défaite douloureuse en finale. Cinq ans plus tard, elle a enfin soulevé le trophée en battant la Française Nathalie Tauziat.",
+      "options": [
+        "Jana Novotná",
+        "Martina Hingis",
+        "Lindsay Davenport",
+        "Conchita Martínez"
+      ]
+    },
+    {
+      "id": "sport_annee_1998_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle franchise de football américain a remporté le Super Bowl en janvier 1998 grâce au quarterback légendaire John Elway ?",
+      "answer": "Les Denver Broncos",
+      "explanation": "Les Broncos ont battu les Packers de Green Bay 31 à 24 lors du Super Bowl XXXII. Cette victoire a offert à John Elway le tout premier titre de sa carrière après trois finales perdues auparavant.",
+      "options": [
+        "Les Denver Broncos",
+        "Les Green Bay Packers",
+        "Les Dallas Cowboys",
+        "Les San Francisco 49ers"
+      ]
+    },
+    {
+      "id": "sport_annee_1998_35",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle équipe de hockey sur glace de la NHL a conservé son titre en remportant la Coupe Stanley en 1998, en balayant les Capitals de Washington ?",
+      "answer": "Les Red Wings de Détroit",
+      "explanation": "Les Red Wings de Détroit ont conservé leur couronne en balayant les Capitals de Washington quatre victoires à zéro. Ce doublé consécutif a confirmé la domination de la franchise du Michigan à la fin des années 1990.",
+      "options": [
+        "Les Red Wings de Détroit",
+        "Les Avalanche du Colorado",
+        "Les Devils du New Jersey",
+        "Les Stars de Dallas"
+      ]
+    },
+    {
+      "id": "sport_annee_1998_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Lors de la phase de poules de la Coupe du Monde 1998, quelle sélection a créé la sensation en battant les États-Unis 2-1 lors d'un match à forte portée diplomatique ?",
+      "answer": "L'Iran",
+      "explanation": "Surnommée 'la mère de tous les matchs' en raison des tensions politiques entre les deux pays, cette rencontre s'est déroulée dans un esprit sportif exemplaire. L'Iran s'est imposé grâce à des buts d'Hamid Estili et Mehdi Mahdavikia.",
+      "options": [
+        "L'Iran",
+        "L'Arabie saoudite",
+        "La Corée du Sud",
+        "La Yougoslavie"
+      ]
+    },
+    {
+      "id": "sport_annee_1998_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel attaquant néerlandais a inscrit un but resté célèbre (contrôle, crochet et frappe enchaînés) pour éliminer l'Argentine en quart de finale de la Coupe du Monde 1998 ?",
+      "answer": "Dennis Bergkamp",
+      "explanation": "Dans les arrêts de jeu, Dennis Bergkamp a contrôlé un long ballon d'une touche, éliminé un défenseur d'un crochet et conclu d'une frappe précise. Ce but est régulièrement élu parmi les plus beaux de l'histoire des Coupes du Monde.",
+      "options": [
+        "Dennis Bergkamp",
+        "Patrick Kluivert",
+        "Marc Overmars",
+        "Ronald de Boer"
+      ]
+    },
+    {
+      "id": "sport_annee_1998_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel jeune attaquant vedette brésilien a été au cœur d'une vive polémique après avoir été victime d'un malaise quelques heures avant la finale de la Coupe du Monde 1998 ?",
+      "answer": "Ronaldo",
+      "explanation": "Absent puis réintégré in extremis sur la feuille de match, Ronaldo a finalement disputé une finale bien en dessous de son niveau habituel. Les circonstances exactes de ce malaise sont restées longtemps entourées de mystère et de rumeurs.",
+      "options": [
+        "Ronaldo",
+        "Romário",
+        "Rivaldo",
+        "Bebeto"
+      ]
+    },
+    {
+      "id": "sport_annee_1998_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment se nommait le coq bleu, mascotte officielle de la Coupe du Monde de football organisée en France en 1998 ?",
+      "answer": "Footix",
+      "explanation": "Ce coq bleu au sourire malicieux est devenu un symbole populaire de l'événement, décliné sur d'innombrables produits dérivés. Son nom, contraction de 'football' et du suffixe gaulois '-ix', a marqué durablement la culture populaire française.",
+      "options": [
+        "Footix",
+        "Coq'Art",
+        "Gallix",
+        "Goalix"
+      ]
+    },
+    {
+      "id": "sport_annee_1998_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel joueur de tennis australien a conservé son titre à l'US Open en 1998, en battant son compatriote Mark Philippoussis en finale ?",
+      "answer": "Patrick Rafter",
+      "explanation": "Patrick Rafter a signé un doublé consécutif à l'US Open en 1997 et 1998, décrochant ainsi la première finale entièrement australienne du tournoi depuis des décennies. Son jeu offensif au filet tranchait avec le tennis de fond de court alors dominant.",
+      "options": [
+        "Patrick Rafter",
+        "Pete Sampras",
+        "Andre Agassi",
+        "Marcelo Ríos"
+      ]
+    },
+    {
+      "id": "sport_annee_1998_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle ville asiatique a accueilli les Jeux du Commonwealth de 1998, une grande première pour cet événement multisports ?",
+      "answer": "Kuala Lumpur",
+      "explanation": "La capitale malaisienne est devenue en 1998 la première ville asiatique à accueillir les Jeux du Commonwealth. Cette édition a marqué un tournant dans l'histoire de cette compétition rassemblant les pays de l'ancien empire britannique.",
+      "options": [
+        "Kuala Lumpur",
+        "Singapour",
+        "Bangkok",
+        "Manille"
+      ]
+    },
+    {
+      "id": "sport_annee_1998_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle joueuse américaine a remporté son premier titre du Grand Chelem en simple dames à l'US Open 1998, face à Martina Hingis ?",
+      "answer": "Lindsay Davenport",
+      "explanation": "Lindsay Davenport a décroché son tout premier titre majeur en 1998 grâce à sa puissance de frappe redoutable. Cette victoire a lancé une carrière qui la mènera plus tard à la place de numéro un mondiale.",
+      "options": [
+        "Lindsay Davenport",
+        "Venus Williams",
+        "Serena Williams",
+        "Monica Seles"
+      ]
     }
   ],
   "Sport : Année 2018": [
@@ -2321,6 +3329,174 @@
       ],
       "answer": "L'Olympique de Marseille",
       "explanation": "Porté par une ferveur populaire incroyable tout au long de sa campagne européenne, l'Olympique de Marseille s'est hissé en finale de la Ligue Europa en 2018. Malheureusement pour les Olympiens, ils ont buté sur un Atlético de Madrid impérial emmené par Antoine Griezmann."
+    },
+    {
+      "id": "sport_annee_2018_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle snowboardeuse américaine de 17 ans a remporté la médaille d'or en half-pipe aux Jeux Olympiques d'hiver de PyeongChang en 2018 ?",
+      "answer": "Chloe Kim",
+      "explanation": "Née de parents immigrés coréens, Chloe Kim a impressionné le monde entier en devenant la plus jeune femme championne olympique de snowboard. Ses figures d'une technicité exceptionnelle lui ont valu une note quasi parfaite lors de sa dernière descente.",
+      "options": [
+        "Chloe Kim",
+        "Kelly Clark",
+        "Jamie Anderson",
+        "Arielle Gold"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel patineur artistique japonais a conservé son titre olympique en simple messieurs à PyeongChang en 2018, quatre ans après son sacre à Sotchi ?",
+      "answer": "Yuzuru Hanyu",
+      "explanation": "Malgré une grave blessure à la cheville quelques mois avant les Jeux, Yuzuru Hanyu a réussi à défendre son titre olympique. Il est ainsi devenu le premier homme à conserver la couronne olympique en patinage artistique depuis 66 ans.",
+      "options": [
+        "Yuzuru Hanyu",
+        "Nathan Chen",
+        "Javier Fernández",
+        "Shoma Uno"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel capitaine anglais a terminé meilleur buteur (Soulier d'or) de la Coupe du Monde 2018 en Russie avec 6 buts ?",
+      "answer": "Harry Kane",
+      "explanation": "Harry Kane a terminé meilleur buteur du tournoi grâce notamment à plusieurs réalisations sur pénalty. Sous sa direction, l'Angleterre a atteint les demi-finales pour la première fois depuis 1990.",
+      "options": [
+        "Harry Kane",
+        "Romelu Lukaku",
+        "Antoine Griezmann",
+        "Kylian Mbappé"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle sélection européenne a créé la surprise en éliminant le grand favori brésilien en quart de finale de la Coupe du Monde 2018, sur le score de 2-1 ?",
+      "answer": "La Belgique",
+      "explanation": "Portée par un but somptueux de Kevin De Bruyne et un but contre son camp de Fernandinho, la Belgique a stoppé net le parcours du Brésil. Cette génération dorée belge a ensuite atteint les demi-finales de la compétition.",
+      "options": [
+        "La Belgique",
+        "La France",
+        "La Croatie",
+        "L'Angleterre"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle équipe tenante du titre a créé l'une des plus grosses surprises de la Coupe du Monde 2018 en étant éliminée dès la phase de groupes ?",
+      "answer": "L'Allemagne",
+      "explanation": "Battue par la Corée du Sud 2-0 lors de son dernier match de groupe, l'Allemagne, championne du monde en titre, a connu sa première élimination au premier tour depuis 1938. Ce fiasco a provoqué une profonde remise en question du football allemand.",
+      "options": [
+        "L'Allemagne",
+        "L'Espagne",
+        "L'Argentine",
+        "Le Portugal"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel boxeur britannique a unifié plusieurs ceintures mondiales des poids lourds en battant le Néo-Zélandais Joseph Parker par décision en mars 2018 ?",
+      "answer": "Anthony Joshua",
+      "explanation": "Devant plus de 78 000 spectateurs au stade de la Principauté à Cardiff, Anthony Joshua a réuni les ceintures IBF, WBA et WBO. Cette victoire l'a rapproché un peu plus du statut de champion incontesté de la catégorie reine.",
+      "options": [
+        "Anthony Joshua",
+        "Tyson Fury",
+        "Deontay Wilder",
+        "Dillian Whyte"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel coureur cycliste britannique a remporté le classement général de la Vuelta a España en 2018, après avoir craqué au Giro d'Italia la même année ?",
+      "answer": "Simon Yates",
+      "explanation": "Après avoir perdu le maillot rose du Giro dans les dernières étapes, Simon Yates a pris sa revanche quelques mois plus tard en Espagne. Sa combativité en montagne lui a permis de décrocher son tout premier grand tour.",
+      "options": [
+        "Simon Yates",
+        "Chris Froome",
+        "Geraint Thomas",
+        "Adam Yates"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel coureur britannique a remporté le Giro d'Italia 2018 grâce à une attaque solitaire spectaculaire de 80 km dans l'ascension du Colle delle Finestre ?",
+      "answer": "Chris Froome",
+      "explanation": "Alors distancé de près de quatre minutes au classement général, Chris Froome a renversé la course lors de l'étape 19 avec une échappée solitaire de 80 kilomètres sur les routes gravillonnées du Piémont. Ce retournement de situation reste l'un des plus spectaculaires de l'histoire du cyclisme moderne.",
+      "options": [
+        "Chris Froome",
+        "Simon Yates",
+        "Tom Dumoulin",
+        "Vincenzo Nibali"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel joueur suisse a remporté son 20e titre du Grand Chelem à l'Open d'Australie en janvier 2018, en battant Marin Čilić ?",
+      "answer": "Roger Federer",
+      "explanation": "En s'imposant en cinq sets face à Marin Čilić, Roger Federer a décroché son vingtième titre majeur à l'âge de 36 ans. Il est alors devenu l'homme le plus âgé à remporter un tournoi du Grand Chelem depuis le début de l'ère Open.",
+      "options": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Stan Wawrinka"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle joueuse roumaine a enfin décroché son premier titre du Grand Chelem à Roland-Garros en juin 2018, face à l'Américaine Sloane Stephens ?",
+      "answer": "Simona Halep",
+      "explanation": "Après trois finales de Grand Chelem perdues, Simona Halep a enfin soulevé son premier trophée majeur sur la terre battue parisienne. Cette victoire tant attendue a récompensé sa persévérance après plusieurs années au sommet du classement mondial.",
+      "options": [
+        "Simona Halep",
+        "Sloane Stephens",
+        "Angelique Kerber",
+        "Elina Svitolina"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle joueuse allemande a remporté le tournoi de Wimbledon en 2018 en battant Serena Williams en finale ?",
+      "answer": "Angelique Kerber",
+      "explanation": "Angelique Kerber a décroché son troisième titre du Grand Chelem en carrière en dominant Serena Williams, qui effectuait son retour en Grand Chelem après la naissance de sa fille. Cette victoire a confirmé la solidité mentale de l'Allemande dans les grands rendez-vous.",
+      "options": [
+        "Angelique Kerber",
+        "Steffi Graf",
+        "Julia Görges",
+        "Andrea Petkovic"
+      ]
+    },
+    {
+      "id": "sport_annee_2018_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle sportive tchèque est devenue la première athlète de l'histoire à remporter une médaille d'or dans deux sports différents lors des mêmes Jeux Olympiques d'hiver, à PyeongChang en 2018 ?",
+      "answer": "Ester Ledecká",
+      "explanation": "Grande outsider, Ester Ledecká a d'abord décroché l'or en snowboard slalom géant parallèle avant de créer la sensation quelques jours plus tard en remportant le super-G de ski alpin. Cet exploit inédit dans deux disciplines olympiques distinctes reste sans équivalent.",
+      "options": [
+        "Ester Ledecká",
+        "Anna Veith",
+        "Mikaela Shiffrin",
+        "Sofia Goggia"
+      ]
     }
   ],
   "Sport : Année 2024": [
@@ -2653,6 +3829,174 @@
       ],
       "answer": "L'Espagne",
       "explanation": "L'Espagne a complété son été footballistique triomphal en remportant l'or olympique en août 2024 à Paris. Au terme d'une finale spectaculaire et riche en rebondissements contre l'équipe de France entraînée par Thierry Henry, la Rojita s'est imposée 5-3 en prolongations."
+    },
+    {
+      "id": "sport_annee_2024_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel joueur italien a remporté son tout premier titre du Grand Chelem à l'Open d'Australie en janvier 2024 ?",
+      "answer": "Jannik Sinner",
+      "explanation": "Mené deux sets à zéro face à Daniil Medvedev, Jannik Sinner a réalisé une remontée spectaculaire pour décrocher son premier titre majeur. Il est ainsi devenu le premier joueur italien de l'histoire à remporter l'Open d'Australie.",
+      "options": [
+        "Jannik Sinner",
+        "Matteo Berrettini",
+        "Lorenzo Musetti",
+        "Daniil Medvedev"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel joueur italien a confirmé sa domination en 2024 en remportant également le titre de l'US Open, face à l'Américain Taylor Fritz ?",
+      "answer": "Jannik Sinner",
+      "explanation": "En s'imposant en finale à Flushing Meadows, Jannik Sinner a décroché son deuxième titre du Grand Chelem de la saison. Il a terminé l'année 2024 en tant que numéro un mondial malgré une affaire de contrôle antidopage qui a agité le circuit.",
+      "options": [
+        "Jannik Sinner",
+        "Carlos Alcaraz",
+        "Novak Djokovic",
+        "Alexander Zverev"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle sélection sud-américaine, tenante du titre, a remporté la Copa América 2024 aux États-Unis en battant la Colombie 1-0 en finale ?",
+      "answer": "L'Argentine",
+      "explanation": "Lautaro Martínez a inscrit l'unique but de la finale en prolongation, permettant à l'Argentine de conserver son titre continental. Lionel Messi, blessé en cours de match, avait dû quitter la pelouse en larmes avant la fin de la rencontre.",
+      "options": [
+        "L'Argentine",
+        "Le Brésil",
+        "L'Uruguay",
+        "La Colombie"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle athlète néerlandaise a réalisé l'exploit unique de remporter le marathon olympique après avoir déjà décroché deux médailles de bronze sur 5000m et 10000m aux JO de Paris 2024 ?",
+      "answer": "Sifan Hassan",
+      "explanation": "Après avoir couru deux finales éprouvantes sur piste, Sifan Hassan a enchaîné avec une victoire renversante sur marathon quelques jours plus tard. Cette triple performance sur des distances aussi variées reste inédite dans l'histoire de l'athlétisme olympique.",
+      "options": [
+        "Sifan Hassan",
+        "Faith Kipyegon",
+        "Tigist Assefa",
+        "Letesenbet Gidey"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel sprinteur américain a remporté le 100m masculin aux JO de Paris 2024 pour seulement 5 millièmes de seconde, décidé à la photo-finish ?",
+      "answer": "Noah Lyles",
+      "explanation": "L'écart entre Noah Lyles et le Jamaïcain Kishane Thompson était si infime qu'il a fallu plusieurs minutes d'analyse d'image pour départager les deux athlètes. Cette course figure parmi les finales de 100m les plus serrées de l'histoire olympique.",
+      "options": [
+        "Noah Lyles",
+        "Kishane Thompson",
+        "Fred Kerley",
+        "Akani Simbine"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_36",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle nageuse américaine est devenue la femme la plus médaillée de l'histoire olympique des États-Unis grâce à ses performances aux JO de Paris 2024 ?",
+      "answer": "Katie Ledecky",
+      "explanation": "En remportant l'or du 800m nage libre pour la quatrième fois consécutive (après Londres 2012, Rio 2016 et Tokyo 2020), Katie Ledecky a encore enrichi son immense palmarès olympique, devenant à Paris 2024 la femme la plus médaillée de l'histoire olympique des États-Unis. Sa domination sur les longues distances en fait l'une des plus grandes nageuses de tous les temps.",
+      "options": [
+        "Katie Ledecky",
+        "Simone Manuel",
+        "Missy Franklin",
+        "Regan Smith"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle joueuse tchèque a créé la surprise en remportant le tournoi de Wimbledon en simple dames en 2024, face à l'Italienne Jasmine Paolini ?",
+      "answer": "Barbora Krejčíková",
+      "explanation": "Non tête de série favorite, Barbora Krejčíková a livré un parcours étonnant jusqu'au titre sur le gazon londonien. Il s'agissait de son deuxième sacre en Grand Chelem en simple, après sa victoire à Roland-Garros en 2021.",
+      "options": [
+        "Barbora Krejčíková",
+        "Markéta Vondroušová",
+        "Karolína Muchová",
+        "Petra Kvitová"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel sprinteur britannique a battu le record historique du nombre de victoires d'étapes sur le Tour de France, détenu depuis des décennies par Eddy Merckx ?",
+      "answer": "Mark Cavendish",
+      "explanation": "Lors de l'étape de Saint-Vulbas, Mark Cavendish a décroché sa 35e victoire d'étape sur le Tour de France, dépassant le record de 34 succès détenu par Eddy Merckx. Ce succès historique est survenu lors de ce qui devait être son tout dernier Tour de France.",
+      "options": [
+        "Mark Cavendish",
+        "Jasper Philipsen",
+        "Dylan Groenewegen",
+        "Fabio Jakobsen"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle franchise de la NBA a remporté son record de 18e titre de champion en 2024, en battant les Dallas Mavericks en finale ?",
+      "answer": "Les Boston Celtics",
+      "explanation": "Les Celtics de Boston ont dépassé les Lakers de Los Angeles pour devenir la franchise la plus titrée de l'histoire de la NBA. Cette victoire est intervenue après plusieurs saisons de frustration en playoffs pour la franchise du Massachusetts.",
+      "options": [
+        "Les Boston Celtics",
+        "Les Los Angeles Lakers",
+        "Les Golden State Warriors",
+        "Les Denver Nuggets"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle écurie de Formule 1 a remporté le championnat du monde des constructeurs en 2024, mettant fin à plusieurs années de domination de Red Bull ?",
+      "answer": "McLaren",
+      "explanation": "Portée par ses pilotes Lando Norris et Oscar Piastri, l'écurie McLaren a décroché son premier titre constructeurs depuis 1998. Max Verstappen a néanmoins conservé son titre pilotes avec Red Bull malgré cette domination retrouvée de McLaren en fin de saison.",
+      "options": [
+        "McLaren",
+        "Ferrari",
+        "Mercedes",
+        "Aston Martin"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle joueuse biélorusse a conservé son titre à l'Open d'Australie en janvier 2024, devenant la première joueuse à défendre ce titre depuis Victoria Azarenka ?",
+      "answer": "Aryna Sabalenka",
+      "explanation": "En battant la Chinoise Zheng Qinwen en finale, Aryna Sabalenka a décroché son deuxième titre consécutif à Melbourne. Sa puissance de frappe redoutable lui permet de dominer le circuit féminin depuis plusieurs saisons.",
+      "options": [
+        "Aryna Sabalenka",
+        "Iga Świątek",
+        "Elena Rybakina",
+        "Coco Gauff"
+      ]
+    },
+    {
+      "id": "sport_annee_2024_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel milieu de terrain espagnol de Manchester City a remporté le Ballon d'Or 2024, dans une cérémonie marquée par une vive controverse ?",
+      "answer": "Rodri",
+      "explanation": "Sacré après avoir remporté l'Euro 2024 avec l'Espagne et le championnat d'Angleterre avec Manchester City, Rodri a créé la surprise en devançant Vinícius Júnior. Le Real Madrid, jugeant la décision injuste, a boycotté la cérémonie de remise du trophée.",
+      "options": [
+        "Rodri",
+        "Vinícius Júnior",
+        "Jude Bellingham",
+        "Erling Haaland"
+      ]
     }
   ],
   "Sport : Records Insolites": [
@@ -2985,6 +4329,174 @@
       ],
       "answer": "472 mètres",
       "explanation": "Mike Crean a réalisé l'exploit le plus chanceux et incroyable de l'histoire du golf en réussissant un trou en un sur le trou numéro 9 (un par 5) du Green Valley Ranch Golf Club à Denver. Sa balle a parcouru 472 mètres (517 yards), bien aidée par l'altitude et la sécheresse de l'air du Colorado."
+    },
+    {
+      "id": "sport_records_insolites_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel kicker américain de la NFL détient le record du plus long field goal réussi en match officiel, avec 66 yards en 2021 ?",
+      "answer": "Justin Tucker",
+      "explanation": "Justin Tucker a inscrit ce tir légendaire alors que le temps réglementaire venait de s'écouler, offrant la victoire aux Ravens de Baltimore face aux Lions de Détroit. Ce record a battu de deux yards la précédente marque établie par Matt Prater.",
+      "options": [
+        "Justin Tucker",
+        "Matt Prater",
+        "Tom Dempsey",
+        "Brett Maher"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel joueur de tennis australien détient le record du service le plus rapide jamais enregistré, à 263,4 km/h en 2012 ?",
+      "answer": "Sam Groth",
+      "explanation": "Cette performance a été enregistrée lors d'un tournoi Challenger disputé en Corée du Sud. Aucun joueur n'a officiellement approché cette vitesse lors d'un match de niveau ATP depuis, ce qui rend ce record d'autant plus impressionnant.",
+      "options": [
+        "Sam Groth",
+        "John Isner",
+        "Ivo Karlović",
+        "Milos Raonic"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel golfeur américain détient le record du plus long drive jamais mesuré en compétition officielle, avec environ 471 mètres en 1974 ?",
+      "answer": "Mike Austin",
+      "explanation": "Âgé de 64 ans, Mike Austin a réalisé ce coup extraordinaire lors du championnat national des seniors américains, aidé par un vent arrière très favorable. Ce record est toujours reconnu aujourd'hui comme le plus long drive jamais mesuré en compétition officielle.",
+      "options": [
+        "Mike Austin",
+        "John Daly",
+        "Bubba Watson",
+        "Dustin Johnson"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel athlète polonais détient le record du plus grand nombre de titres remportés au concours de 'l'homme le plus fort du monde' (World's Strongest Man), avec 5 victoires ?",
+      "answer": "Mariusz Pudzianowski",
+      "explanation": "Mariusz Pudzianowski a dominé cette compétition légendaire d'athlétisme de force au cours des années 2000. Ses cinq titres en font le concurrent le plus titré de l'histoire de cette épreuve créée en 1977.",
+      "options": [
+        "Mariusz Pudzianowski",
+        "Brian Shaw",
+        "Žydrūnas Savickas",
+        "Hafþór Björnsson"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_35",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel joueur légendaire des Yankees de New York a frappé en 1953 un home run resté célèbre sous le nom de 'tape measure home run' ?",
+      "answer": "Mickey Mantle",
+      "explanation": "Frappée au stade de Washington, cette balle exceptionnelle a parcouru une distance estimée à plus de 170 mètres. L'expression 'tape measure home run' est née de cet exploit et est depuis utilisée pour qualifier tout coup particulièrement puissant.",
+      "options": [
+        "Mickey Mantle",
+        "Babe Ruth",
+        "Joe DiMaggio",
+        "Lou Gehrig"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_36",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel joueur d'échecs soviétique est devenu, à 22 ans en 1985, le plus jeune champion du monde de l'histoire ?",
+      "answer": "Garry Kasparov",
+      "explanation": "Garry Kasparov a détrôné son compatriote Anatoly Karpov au terme d'un long duel, devenant le plus jeune champion du monde d'échecs de l'histoire. Il allait ensuite dominer sa discipline pendant plus de quinze années consécutives.",
+      "options": [
+        "Garry Kasparov",
+        "Anatoly Karpov",
+        "Bobby Fischer",
+        "Magnus Carlsen"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle athlète kényane est devenue en 2024 la première femme à courir un marathon en moins de 2h10, en établissant le record du monde à Chicago ?",
+      "answer": "Ruth Chepngetich",
+      "explanation": "Avec un temps de 2h09m56s au marathon de Chicago, Ruth Chepngetich a amélioré de près de deux minutes le précédent record du monde féminin. Cette performance a marqué un tournant historique pour l'endurance féminine sur cette distance.",
+      "options": [
+        "Ruth Chepngetich",
+        "Tigist Assefa",
+        "Brigid Kosgei",
+        "Sifan Hassan"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_38",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle écurie de Formule 1 détient le record du changement de pneus le plus rapide de l'histoire, effectué en seulement 1,82 seconde lors du Grand Prix du Brésil 2019 ?",
+      "answer": "Red Bull",
+      "explanation": "Les mécaniciens de l'écurie Red Bull ont changé les quatre pneus de la monoplace de Max Verstappen en un temps record encore inégalé aujourd'hui. Cette prouesse illustre la précision millimétrée exigée dans la préparation d'un stand de F1.",
+      "options": [
+        "Red Bull",
+        "Ferrari",
+        "Mercedes",
+        "Williams"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel attaquant sénégalais détient le record du triplé le plus rapide de l'histoire de la Premier League anglaise, réalisé en 2 minutes et 56 secondes en 2015 ?",
+      "answer": "Sadio Mané",
+      "explanation": "Entré en jeu comme remplaçant sous les couleurs de Southampton, Sadio Mané a inscrit trois buts en un temps record face à Aston Villa. Cette explosion offensive a lancé sa réputation d'attaquant capable de renverser un match en quelques minutes.",
+      "options": [
+        "Sadio Mané",
+        "Mohamed Salah",
+        "Sergio Agüero",
+        "Robbie Fowler"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle joueuse de tennis allemande est la seule de l'histoire à avoir réalisé un 'Golden Slam' en remportant les quatre tournois du Grand Chelem et la médaille d'or olympique la même année (1988) ?",
+      "answer": "Steffi Graf",
+      "explanation": "Steffi Graf a réalisé cet exploit unique lors des Jeux Olympiques de Séoul en 1988, en ajoutant l'or olympique à ses quatre titres majeurs de la saison. Aucun autre joueur ou joueuse n'a jamais réédité cette performance depuis.",
+      "options": [
+        "Steffi Graf",
+        "Martina Navratilova",
+        "Chris Evert",
+        "Monica Seles"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel défenseur slovaque de hockey sur glace détient le record du tir le plus puissant jamais enregistré en NHL, à 108,8 mph lors d'un concours d'habileté ?",
+      "answer": "Zdeno Chára",
+      "explanation": "Zdeno Chára a établi ce record impressionnant lors du concours d'habileté du match des étoiles de la NHL en 2012. Sa taille imposante de 2,06 mètres a largement contribué à la puissance exceptionnelle de son tir frappé.",
+      "options": [
+        "Zdeno Chára",
+        "Shea Weber",
+        "Alexander Ovechkin",
+        "Bobby Hull"
+      ]
+    },
+    {
+      "id": "sport_records_insolites_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle plongeuse américaine détient le record de la plus jeune championne olympique individuelle de l'histoire, sacrée à seulement 13 ans en 1936 ?",
+      "answer": "Marjorie Gestring",
+      "explanation": "Marjorie Gestring a décroché l'or olympique au tremplin lors des Jeux de Berlin en 1936, à l'âge de treize ans seulement. Ce record de précocité pour un titre olympique individuel demeure inégalé à ce jour.",
+      "options": [
+        "Marjorie Gestring",
+        "Fu Mingxia",
+        "Nadia Comăneci",
+        "Kim Yuna"
+      ]
     }
   ],
   "Sport : Événements Historiques": [
@@ -3317,6 +4829,552 @@
       ],
       "answer": "La Juventus de Turin",
       "explanation": "Le scandale d'arbitrage du Calciopoli a profondément secoué le football italien en 2006. La Juventus, reconnue coupable d'avoir influencé la désignation des arbitres, a été déchue de ses titres de champion 2005 et 2006 et a été rétrogradée en deuxième division avec des points de pénalité."
+    },
+    {
+      "id": "sport_evenements_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel pays a remporté sa seule Coupe du Monde de football à domicile en 1966, en battant l'Allemagne de l'Ouest 4-2 en finale à Wembley ?",
+      "answer": "L'Angleterre",
+      "explanation": "Geoff Hurst est resté dans l'histoire en inscrivant un triplé en finale, dont un but toujours contesté qui n'aurait peut-être pas totalement franchi la ligne. Cette victoire reste à ce jour le seul titre mondial remporté par l'Angleterre.",
+      "options": [
+        "L'Angleterre",
+        "L'Écosse",
+        "Le Pays de Galles",
+        "L'Irlande du Nord"
+      ]
+    },
+    {
+      "id": "sport_evenements_32",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Lors de la finale de la Coupe du Monde 1954, quelle sélection a créé la sensation surnommée le 'Miracle de Berne' en battant la Hongrie, pourtant intouchable depuis quatre ans ?",
+      "answer": "L'Allemagne de l'Ouest",
+      "explanation": "L'Allemagne de l'Ouest s'est imposée 3 à 2 face à une équipe hongroise qui l'avait pourtant écrasée 8 à 3 quelques semaines plus tôt en phase de groupes. Ce succès inattendu a eu une portée symbolique immense pour l'Allemagne de l'après-guerre.",
+      "options": [
+        "L'Allemagne de l'Ouest",
+        "L'Autriche",
+        "L'Uruguay",
+        "La Suisse"
+      ]
+    },
+    {
+      "id": "sport_evenements_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Sous quel nom un certain Cassius Clay, futur Mohamed Ali, a-t-il remporté la médaille d'or de boxe chez les mi-lourds aux Jeux Olympiques de Rome en 1960 ?",
+      "answer": "Cassius Clay",
+      "explanation": "Encore amateur et âgé de seulement 18 ans, Cassius Clay a remporté le titre olympique quatre ans avant de devenir champion du monde professionnel et de changer de nom. Ce sacre a marqué les débuts prometteurs d'une future légende de la boxe.",
+      "options": [
+        "Cassius Clay",
+        "Sonny Liston",
+        "Joe Frazier",
+        "George Foreman"
+      ]
+    },
+    {
+      "id": "sport_evenements_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle joueuse de tennis britannique est devenue la toute première championne olympique féminine de l'histoire, lors des Jeux de Paris en 1900 ?",
+      "answer": "Charlotte Cooper",
+      "explanation": "Les Jeux de Paris 1900 furent les premiers à autoriser la participation de femmes, avec environ 22 athlètes féminines parmi plus de 900 concurrents. Charlotte Cooper a marqué l'histoire en devenant la toute première femme sacrée championne olympique.",
+      "options": [
+        "Charlotte Cooper",
+        "Suzanne Lenglen",
+        "Helen Wills",
+        "Alice Marble"
+      ]
+    },
+    {
+      "id": "sport_evenements_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel nageur américain a remporté un total record de 7 médailles d'or, toutes en record du monde, lors des Jeux Olympiques de Munich en 1972 ?",
+      "answer": "Mark Spitz",
+      "explanation": "Ce record de sept médailles d'or lors d'une seule édition olympique est resté inégalé pendant 36 ans, jusqu'à ce que Michael Phelps en remporte huit à Pékin en 2008. Chacune des victoires de Mark Spitz s'est accompagnée d'un nouveau record du monde.",
+      "options": [
+        "Mark Spitz",
+        "Michael Phelps",
+        "Matt Biondi",
+        "Don Schollander"
+      ]
+    },
+    {
+      "id": "sport_evenements_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Lors du marathon olympique de Saint-Louis en 1904, quel coureur américain a été disqualifié après avoir franchi la ligne d'arrivée en tête alors qu'il avait parcouru une partie du trajet en voiture ?",
+      "answer": "Fred Lorz",
+      "explanation": "Victime de crampes, Fred Lorz avait parcouru près de 18 kilomètres en automobile avant de reprendre la course et de franchir la ligne en premier. Le vainqueur officiellement homologué, Thomas Hicks, avait quant à lui terminé la course sous l'effet de doses de strychnine, une pratique tolérée à l'époque.",
+      "options": [
+        "Fred Lorz",
+        "Thomas Hicks",
+        "John Hayes",
+        "Dorando Pietri"
+      ]
+    },
+    {
+      "id": "sport_evenements_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Lors de la finale de la Coupe du Monde 2006, quel geste resté célèbre de Zinédine Zidane contre l'Italien Marco Materazzi a marqué la fin de sa carrière internationale ?",
+      "answer": "Un coup de tête",
+      "explanation": "Après une provocation verbale de Materazzi, Zinédine Zidane l'a percuté de la tête en pleine poitrine, ce qui lui a valu une expulsion directe en prolongation. L'Italie a finalement remporté cette finale aux tirs au but.",
+      "options": [
+        "Un coup de tête",
+        "Un tacle appuyé",
+        "Un coup de coude",
+        "Une gifle"
+      ]
+    },
+    {
+      "id": "sport_evenements_38",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel club anglais a réalisé l'un des plus grands exploits de l'histoire du sport en remportant le titre de Premier League en 2016, alors qu'il était donné à 5000 contre 1 par les bookmakers ?",
+      "answer": "Leicester City",
+      "explanation": "Dirigé par l'entraîneur italien Claudio Ranieri et emmené par l'attaquant Jamie Vardy, Leicester City a devancé des clubs autrement plus richement dotés comme Manchester City ou Arsenal. Ce sacre est régulièrement cité comme le plus improbable de l'histoire du sport collectif.",
+      "options": [
+        "Leicester City",
+        "Bournemouth",
+        "Watford",
+        "Stoke City"
+      ]
+    },
+    {
+      "id": "sport_evenements_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel joueur de tennis américain a été le premier de l'histoire à réaliser le Grand Chelem calendaire masculin, en remportant les quatre tournois majeurs la même année en 1938 ?",
+      "answer": "Don Budge",
+      "explanation": "Don Budge a raflé les titres d'Australie, de Roland-Garros, de Wimbledon et de l'US Open au cours de la même saison 1938. Seul l'Australien Rod Laver a réédité cet exploit depuis, à deux reprises, en 1962 et 1969.",
+      "options": [
+        "Don Budge",
+        "Bill Tilden",
+        "Fred Perry",
+        "Rod Laver"
+      ]
+    },
+    {
+      "id": "sport_evenements_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel joueur ouest-allemand de seulement 17 ans est devenu en 1985 le plus jeune vainqueur masculin de l'histoire de Wimbledon ?",
+      "answer": "Boris Becker",
+      "explanation": "Non tête de série et pratiquement inconnu du grand public, Boris Becker a stupéfié le monde du tennis grâce à son service-volée surpuissant. Cette victoire inattendue a lancé une carrière exceptionnelle qui allait durer plus d'une décennie.",
+      "options": [
+        "Boris Becker",
+        "Stefan Edberg",
+        "Ivan Lendl",
+        "Michael Stich"
+      ]
+    },
+    {
+      "id": "sport_evenements_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment est surnommée la soirée du 4 août 2012 aux Jeux Olympiques de Londres, durant laquelle la Grande-Bretagne a remporté trois médailles d'or en athlétisme en moins d'une heure ?",
+      "answer": "'Super Saturday'",
+      "explanation": "Jessica Ennis, Greg Rutherford puis Mo Farah ont chacun décroché l'or en l'espace de 46 minutes sous les acclamations du public londonien. Cette soirée reste l'une des plus célébrées de l'histoire du sport britannique.",
+      "options": [
+        "'Super Saturday'",
+        "'Golden Night'",
+        "'Magic Monday'",
+        "'Union Jack Hour'"
+      ]
+    },
+    {
+      "id": "sport_evenements_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans quel pays s'est déroulée la toute première Coupe du Monde féminine de football de la FIFA en 1991, remportée par les États-Unis ?",
+      "answer": "La Chine",
+      "explanation": "Organisée à l'époque sous le nom de 'Championnat du monde féminin de football FIFA', cette première édition a posé les fondations de la Coupe du Monde féminine moderne. Les États-Unis ont décroché le tout premier titre mondial de l'histoire du football féminin.",
+      "options": [
+        "La Chine",
+        "Le Danemark",
+        "La Suède",
+        "Le Japon"
+      ]
+    }
+  ],
+  "sports_collectifs": [
+    {
+      "question": "Quel sport collectif se joue avec un ballon ovale et oppose deux équipes cherchant à enfoncer le ballon dans la zone d'en-but adverse ?",
+      "options": [
+        "Le football américain",
+        "Le rugby à sept",
+        "Le rugby à XV",
+        "Le football australien"
+      ],
+      "answer": "Le rugby à XV",
+      "explanation": "Le rugby à XV se joue avec 15 joueurs par équipe et se déroule sur 80 minutes (2 × 40 minutes). Le but est de marquer des essais (5 points) en aplatissant le ballon en zone d'en-but.",
+      "difficulty": "facile",
+      "id": "sports_collectifs_1"
+    },
+    {
+      "question": "Quel pays a remporté le plus de titres du Tournoi des Six Nations de rugby depuis sa création en 1871 ?",
+      "options": [
+        "L'Angleterre",
+        "La France",
+        "Le Pays de Galles",
+        "L'Irlande"
+      ],
+      "answer": "L'Angleterre",
+      "explanation": "L'Angleterre a remporté 29 titres du Tournoi des Six Nations (incluant l'ancienne édition du Home Championship), devant la France avec 27 titres et le Pays de Galles avec 26 titres.",
+      "difficulty": "moyen",
+      "id": "sports_collectifs_2"
+    },
+    {
+      "question": "En quelle année la Coupe du Monde de football s'est-elle déroulée en France, marquant le retour du tournoi en Europe après le Brésil ?",
+      "options": [
+        "1996",
+        "1998",
+        "2000",
+        "2002"
+      ],
+      "answer": "1998",
+      "explanation": "La Coupe du Monde 1998 s'est déroulée en France. La France a remporté le titre en battant le Brésil 3-0 en finale au Stade de France, avec un triplé de Zinédine Zidane.",
+      "difficulty": "moyen",
+      "id": "sports_collectifs_3"
+    },
+    {
+      "question": "Quel sport collectif se joue sur un terrain avec des filets de chaque côté, opposant deux équipes qui doivent faire tomber un ballon dans le camp adverse ?",
+      "options": [
+        "Le basketball",
+        "Le volley-ball",
+        "Le badminton",
+        "Le handball"
+      ],
+      "answer": "Le volley-ball",
+      "explanation": "Le volley-ball se joue avec 6 joueurs par équipe sur un terrain divisé par un filet à 2,43 m de hauteur pour les hommes. L'objectif est de faire tomber le ballon dans le camp adverse.",
+      "difficulty": "facile",
+      "id": "sports_collectifs_4"
+    }
+  ],
+  "jeux_olympiques": [
+    {
+      "question": "Aux Jeux Olympiques, quel pays a accueilli les épreuves de Pékin en tant que première nation d'Asie à être deux fois hôte des JO d'été ?",
+      "options": [
+        "La Chine (Tokyo en 1964)",
+        "La Chine (aucun avant 2008)",
+        "Le Japon",
+        "La Corée du Sud"
+      ],
+      "answer": "La Chine (aucun avant 2008)",
+      "explanation": "La Chine a accueilli les Jeux Olympiques d'été pour la première fois à Pékin en 2008. Le Japon avait accueilli Tokyo en 1964, faisant de lui le premier pays asiatique à accueillir les JO d'été.",
+      "difficulty": "moyen",
+      "id": "jeux_olympiques_1"
+    },
+    {
+      "question": "Aux Jeux Olympiques modernes, combien de fois les Jeux ont-ils été annulés ou reportés ?",
+      "options": [
+        "Une fois (1945)",
+        "Deux fois (1916 et 1945)",
+        "Trois fois (1916, 1940 et 1944)",
+        "Quatre fois"
+      ],
+      "answer": "Trois fois (1916, 1940 et 1944)",
+      "explanation": "Les Jeux Olympiques ont été annulés trois fois à cause des deux Guerres mondiales : en 1916 (Première Guerre), en 1940 et 1944 (Deuxième Guerre mondiale).",
+      "difficulty": "difficile",
+      "id": "jeux_olympiques_2"
+    },
+    {
+      "question": "Quel sport a été retiré du programme olympique en 1996 avant de faire son retour spectaculaire en 2016 à Rio de Janeiro ?",
+      "options": [
+        "L'escrime",
+        "La lutte gréco-romaine",
+        "La canoë-kayak",
+        "Le badminton"
+      ],
+      "answer": "La lutte gréco-romaine",
+      "explanation": "La lutte gréco-romaine a fait ses débuts aux Jeux Olympiques de 1900 et a été excluée en 1996. Cependant, elle a figuré continuellement au programme depuis. La lutte libre, elle, a connu une inclusion plus précoce mais régulière.",
+      "difficulty": "difficile",
+      "id": "jeux_olympiques_3"
+    },
+    {
+      "question": "Quel est le sport incluant des événements exclusivement féminins aux Jeux Olympiques d'été (aucun équivalent masculin) ?",
+      "options": [
+        "L'haltérophilie",
+        "Le pentathlon moderne",
+        "Le rugby à sept",
+        "La marche athlétique"
+      ],
+      "answer": "Le rugby à sept",
+      "explanation": "Le rugby à sept féminin a été introduit aux Jeux Olympiques de 2016 à Rio. Il n'existe pas d'équivalent masculin aux Jeux, contrairement au rugby à XV qui ne figurait pas au programme olympique régulièrement.",
+      "difficulty": "moyen",
+      "id": "jeux_olympiques_4"
+    }
+  ],
+  "legendes_du_sport": [
+    {
+      "question": "Quel est le temps record du monde établi par Usain Bolt au 100 mètres plat ?",
+      "options": [
+        "9,58 secondes",
+        "9,63 secondes",
+        "9,69 secondes",
+        "9,72 secondes"
+      ],
+      "answer": "9,58 secondes",
+      "explanation": "Usain Bolt a établi le record du monde du 100 m en 9,58 secondes lors des Jeux Olympiques de Londres en 2012. Ce record demeure inégalé à ce jour.",
+      "difficulty": "facile",
+      "id": "legendes_du_sport_1"
+    },
+    {
+      "question": "Combien de titres du Grand Chelem le légendaire joueur de tennis Roger Federer a-t-il remportés durant sa carrière ?",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "answer": "20",
+      "explanation": "Roger Federer a remporté 20 titres du Grand Chelem au cours de sa carrière professionnelle (1998-2022). Il a remporté Wimbledon 8 fois, l'Open d'Australie 6 fois, l'US Open 5 fois et Roland-Garros 1 fois.",
+      "difficulty": "moyen",
+      "id": "legendes_du_sport_2"
+    },
+    {
+      "question": "En quelle année Pelé a-t-il remporté son troisième titre de Coupe du Monde avec le Brésil ?",
+      "options": [
+        "1958",
+        "1962",
+        "1970",
+        "1974"
+      ],
+      "answer": "1970",
+      "explanation": "Pelé a remporté trois Coupes du Monde : 1958 en Suède (à 17 ans), 1962 au Chili et 1970 au Mexique. Il reste le seul joueur à avoir remporté trois Coupes du Monde.",
+      "difficulty": "facile",
+      "id": "legendes_du_sport_3"
+    },
+    {
+      "question": "Quel est le vrai nom de Muhammad Ali, la légende de la boxe qui a dominé le sport dans les années 1960 et 1970 ?",
+      "options": [
+        "Cassius Clay",
+        "Cornelius Williams",
+        "Elijah Shabaaz",
+        "Floyd Patterson"
+      ],
+      "answer": "Cassius Clay",
+      "explanation": "Muhammad Ali est né Cassius Marcellus Clay Jr. le 17 janvier 1942. Il a changé son nom en Muhammad Ali en 1964 après avoir rejoint la Nation de l'Islam.",
+      "difficulty": "facile",
+      "id": "legendes_du_sport_4"
+    }
+  ],
+  "sports_individuels": [
+    {
+      "question": "Quel tenniswoman a remporté le record de 24 titres du Grand Chelem en simple ?",
+      "options": [
+        "Serena Williams",
+        "Margaret Court",
+        "Steffi Graf",
+        "Navratilova Martina"
+      ],
+      "answer": "Margaret Court",
+      "explanation": "Margaret Court détient le record de 24 titres du Grand Chelem en simple, remportés entre 1960 et 1973. Serena Williams en compte 23, établissant le record moderne.",
+      "difficulty": "moyen",
+      "id": "sports_individuels_1"
+    },
+    {
+      "question": "Dans le cyclisme, combien de fois le Français Eddy Merckx a-t-il remporté le Tour de France ?",
+      "options": [
+        "4 fois",
+        "5 fois",
+        "6 fois",
+        "7 fois"
+      ],
+      "answer": "5 fois",
+      "explanation": "Eddy Merckx, le légendaire cycliste belge (pas français), a remporté le Tour de France 5 fois (1969, 1970, 1971, 1972, 1974). Correction : Merckx est belge, pas français.",
+      "difficulty": "moyen",
+      "id": "sports_individuels_2"
+    },
+    {
+      "question": "Quel record a établi Nadia Comăneci à la gymnastique aux Jeux Olympiques de 1976 ?",
+      "options": [
+        "Le premier score parfait de 10.0",
+        "Le plus grand nombre de médailles d'or individuelles",
+        "Le plus jeune champion olympique",
+        "Le record de flexibilité"
+      ],
+      "answer": "Le premier score parfait de 10.0",
+      "explanation": "Nadia Comăneci a établi un score parfait de 10.0 à la poutre aux Jeux Olympiques de Montréal en 1976, à seulement 14 ans. C'était le premier score parfait de l'histoire de la gymnastique olympique moderne.",
+      "difficulty": "facile",
+      "id": "sports_individuels_3"
+    },
+    {
+      "question": "Quel golfeur a remporté le Master d'Augusta 2019, son premier Major depuis 2008 ?",
+      "options": [
+        "Rory McIlroy",
+        "Tiger Woods",
+        "Jordan Spieth",
+        "Brooks Koepka"
+      ],
+      "answer": "Tiger Woods",
+      "explanation": "Tiger Woods a remporté le Masters d'Augusta en 2019 après une absence de 11 ans sans Major. Cette victoire marquait son retour triomphal après de nombreux problèmes de santé.",
+      "difficulty": "moyen",
+      "id": "sports_individuels_4"
+    }
+  ],
+  "sports_mecaniques": [
+    {
+      "question": "Quel circuit de Formule 1 italien est surnommé le 'Temple de la vitesse' en raison de ses longs virages rapides ?",
+      "options": [
+        "Spa-Francorchamps",
+        "Monza",
+        "Mugello",
+        "Vallelunga"
+      ],
+      "answer": "Monza",
+      "explanation": "Monza, le circuit italien situé près de Milan, est célèbre pour ses longs virages de haute vitesse et ses rares zones de freinage. Il est connu comme le 'Temple de la vitesse'. Spa-Francorchamps en Belgique est appelé le 'toboggan des Ardennes'.",
+      "difficulty": "moyen",
+      "id": "sports_mecaniques_1"
+    },
+    {
+      "question": "En quelle année le circuit de Monza en Italie a-t-il été inauguré en tant que piste de course automobile ?",
+      "options": [
+        "1910",
+        "1920",
+        "1930",
+        "1950"
+      ],
+      "answer": "1910",
+      "explanation": "Le circuit de Monza a été inauguré en 1910 et a accueilli les premiers championnats automobiles d'envergure internationale. Il est l'un des plus anciens circuits encore en activité.",
+      "difficulty": "difficile",
+      "id": "sports_mecaniques_2"
+    },
+    {
+      "question": "Quel pilote de Formule 1 détient le record du plus grand nombre de victoires en Grand Prix ?",
+      "options": [
+        "Alain Prost",
+        "Ayrton Senna",
+        "Lewis Hamilton",
+        "Max Verstappen"
+      ],
+      "answer": "Lewis Hamilton",
+      "explanation": "Lewis Hamilton détient le record de 103 victoires en Grand Prix de Formule 1 (au-delà de 2024). Il a dépassé le record précédent de Michael Schumacher avec 91 victoires.",
+      "difficulty": "moyen",
+      "id": "sports_mecaniques_3"
+    },
+    {
+      "question": "Aux 24 Heures du Mans, quel constructeur automobile français a remporté le plus de victoires ?",
+      "options": [
+        "Alpine",
+        "Bugatti",
+        "Matra",
+        "Renault"
+      ],
+      "answer": "Matra",
+      "explanation": "Matra a remporté 4 victoires aux 24 Heures du Mans (1972, 1973, 1974, 1978). Le constructeur français est célèbre pour ses victoires avec des pilotes emblématiques dans cette épreuve d'endurance.",
+      "difficulty": "difficile",
+      "id": "sports_mecaniques_4"
+    }
+  ],
+  "records_insolites": [
+    {
+      "question": "Quel athlète détient le record du monde du lancer du poids avec une distance de 23,12 mètres ?",
+      "options": [
+        "Randy Barnes",
+        "Astrid Kumbernuss",
+        "Yuriy Zakharevich",
+        "Ulf Timmermann"
+      ],
+      "answer": "Randy Barnes",
+      "explanation": "Randy Barnes, l'athlète américain, détient le record du monde du lancer du poids avec 23,12 mètres, établi en 1990. Ce record est controversé en raison de soupçons de dopage à l'époque.",
+      "difficulty": "difficile",
+      "id": "records_insolites_1"
+    },
+    {
+      "question": "Quel est le plus grand nombre de buts marqués par un joueur dans un match de football professionnel reconnu officiellement ?",
+      "options": [
+        "16 buts",
+        "12 buts",
+        "10 buts",
+        "14 buts"
+      ],
+      "answer": "16 buts",
+      "explanation": "Le record du plus grand nombre de buts dans un match professionnel de football est de 16, marqués par Sergei Komdyaev lors d'une rencontre de championnat russe en 1957.",
+      "difficulty": "difficile",
+      "id": "records_insolites_2"
+    },
+    {
+      "question": "Quel nageur détient le record du monde du 100 mètres nage libre en bassin de 50 mètres (piscine olympique) ?",
+      "options": [
+        "Caeleb Dressel",
+        "Pan Zhanle",
+        "Michael Phelps",
+        "Nathan Adrian"
+      ],
+      "answer": "Pan Zhanle",
+      "explanation": "Pan Zhanle, nageur chinois, a établi le record du monde du 100 m nage libre en 47,40 secondes lors de la Coupe du Monde de Shanghai en 2023.",
+      "difficulty": "moyen",
+      "id": "records_insolites_3"
+    },
+    {
+      "question": "En tennis, combien de fois Serena Williams a-t-elle remporté l'intégralité des quatre Grand Chelems en une seule année (Grand Chelem calendaire) ?",
+      "options": [
+        "Jamais",
+        "Une fois (2015)",
+        "Deux fois",
+        "Trois fois"
+      ],
+      "answer": "Jamais",
+      "explanation": "Serena Williams n'a jamais remporté le Grand Chelem calendaire (les quatre Grand Chelems en une année civile). En 2015, elle a remporté 4 Grand Chelems consécutifs sur le plan calendrier (Open d'Australie 2015 à Open d'Australie 2016).",
+      "difficulty": "difficile",
+      "id": "records_insolites_4"
+    }
+  ],
+  "evenements_historiques": [
+    {
+      "question": "En quelle année la première Coupe du Monde de football s'est-elle déroulée et dans quel pays ?",
+      "options": [
+        "1930 en Uruguay",
+        "1934 en Italie",
+        "1938 en France",
+        "1950 au Brésil"
+      ],
+      "answer": "1930 en Uruguay",
+      "explanation": "La première Coupe du Monde de football s'est déroulée en Uruguay en 1930. L'Uruguay, pays hôte, a remporté le tournoi en battant l'Argentine 4-2 en finale.",
+      "difficulty": "facile",
+      "id": "evenements_historiques_1"
+    },
+    {
+      "question": "Quel événement sportif historique a marqué le retour des Jeux Olympiques modernes en 1896 ?",
+      "options": [
+        "Les Jeux Olympiques à Athènes en Grèce",
+        "Les Jeux Olympiques à Paris en France",
+        "Les Jeux Olympiques à Berlin en Allemagne",
+        "Les Jeux Olympiques à Stockholm en Suède"
+      ],
+      "answer": "Les Jeux Olympiques à Athènes en Grèce",
+      "explanation": "Les premiers Jeux Olympiques modernes se sont déroulés à Athènes en Grèce en 1896. Ils ont marqué la résurrection des Jeux Olympiques antiques, initiés par le Baron Pierre de Coubertin.",
+      "difficulty": "facile",
+      "id": "evenements_historiques_2"
+    },
+    {
+      "question": "Quel pays a été interdit de participer aux Jeux Olympiques de 1980 à Moscou et pour quelle raison ?",
+      "options": [
+        "Les États-Unis, en raison de l'invasion de l'Afghanistan par l'URSS",
+        "L'Afrique du Sud, en raison de l'apartheid",
+        "La Chine, en raison de désaccords politiques",
+        "L'Allemagne de l'Ouest, en raison de tensions froides"
+      ],
+      "answer": "Les États-Unis, en raison de l'invasion de l'Afghanistan par l'URSS",
+      "explanation": "Les États-Unis ont mené un boycott des Jeux Olympiques de Moscou en 1980 pour protester contre l'invasion soviétique de l'Afghanistan. De nombreux pays ont suivi ce boycott.",
+      "difficulty": "moyen",
+      "id": "evenements_historiques_3"
+    },
+    {
+      "question": "Quel athlète africain a remporté le marathon des Jeux Olympiques de 1960 à Rome, marquant une victoire historique ?",
+      "options": [
+        "Abebe Bikila",
+        "Mirna Valerio",
+        "Emil Zátopek",
+        "Kenenisa Bekele"
+      ],
+      "answer": "Abebe Bikila",
+      "explanation": "Abebe Bikila, marathonien éthiopien, a remporté le marathon des Jeux Olympiques de Rome en 1960, en courant pieds nus. Il a remporté une deuxième médaille d'or olympique au marathon en 1964 à Tokyo.",
+      "difficulty": "moyen",
+      "id": "evenements_historiques_4"
     }
   ]
 }

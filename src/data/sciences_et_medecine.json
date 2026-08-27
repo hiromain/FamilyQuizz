@@ -1331,6 +1331,48 @@
       ],
       "answer": "Bjørn Ibsen",
       "explanation": "En août 1952, l'hôpital de Copenhague est submergé par des enfants paralysés par la polio et mourant d'asphyxie dans de trop rares poumons d'acier. L'anesthésiste Bjørn Ibsen propose de pratiquer des trachéotomies et d'insuffler de l'air directement dans les poumons par pression positive. Il recrute 1 500 étudiants en médecine qui se relaient jour et nuit pour ventiler manuellement les malades à l'aide de ballons. Le taux de mortalité s'effondre de 85 % à 25 %, et cette expérience a donné naissance à la première unité de soins intensifs (réanimation) au monde."
+    },
+    {
+      "id": "anesth_sie_r_animation_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel agent de réversion, une cyclodextrine modifiée, agit en encapsulant directement la molécule de rocuronium pour lever rapidement un bloc neuromusculaire profond ?",
+      "answer": "Le sugammadex",
+      "explanation": "Le sugammadex, commercialisé en Europe depuis 2008, forme un complexe hydrosoluble stable avec le rocuronium (et dans une moindre mesure le vécuronium), l'inactivant chimiquement en quelques minutes. Contrairement à la néostigmine, un anticholinestérasique qui agit indirectement en augmentant l'acétylcholine synaptique, il permet de lever même un bloc neuromusculaire très profond, sans provoquer d'effets muscariniques indésirables.",
+      "options": [
+        "Le sugammadex",
+        "La néostigmine",
+        "Le flumazénil",
+        "La naloxone"
+      ]
+    },
+    {
+      "id": "anesth_sie_r_animation_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel paramètre, mesuré en continu par capnographie, correspond à la concentration de CO2 en fin d'expiration et constitue la méthode de référence pour confirmer le bon positionnement trachéal d'une sonde d'intubation ?",
+      "answer": "Le CO2 télé-expiratoire (EtCO2)",
+      "explanation": "La capnographie affiche en temps réel la courbe de concentration de CO2 expiré. L'apparition d'un plateau capnographique après intubation confirme que la sonde est bien positionnée dans la trachée et non dans l'œsophage, où aucun CO2 ne serait détecté. Elle permet aussi de surveiller en continu l'adéquation de la ventilation alvéolaire tout au long de l'anesthésie.",
+      "options": [
+        "Le CO2 télé-expiratoire (EtCO2)",
+        "La saturation en oxygène (SpO2)",
+        "La pression artérielle invasive",
+        "Le volume courant"
+      ]
+    },
+    {
+      "id": "anesth_sie_r_animation_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle manœuvre, décrite en 1961 par l'anesthésiste britannique Brian Sellick, consiste à exercer une pression manuelle sur le cartilage cricoïde afin de comprimer l'œsophage et de prévenir la régurgitation lors d'une induction en séquence rapide ?",
+      "answer": "La manœuvre de Sellick",
+      "explanation": "Classiquement utilisée chez les patients à estomac plein, comme en urgence ou en obstétrique, lors d'une induction en séquence rapide, la pression cricoïdienne vise à occlure la lumière œsophagienne entre le cartilage cricoïde et le rachis cervical pour empêcher le reflux passif du contenu gastrique vers le pharynx. Son efficacité réelle et sa systématisation font aujourd'hui l'objet de débats dans la littérature anesthésique récente.",
+      "options": [
+        "La manœuvre de Sellick",
+        "La manœuvre de Heimlich",
+        "La manœuvre de Valsalva",
+        "La subluxation mandibulaire"
+      ]
     }
   ],
   "Médecine Générale": [

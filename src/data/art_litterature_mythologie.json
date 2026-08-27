@@ -419,6 +419,174 @@
       ],
       "answer": "Seth",
       "explanation": "Seth incarne les forces destructrices et le désordre dans la mythologie égyptienne. Il affronte longuement son neveu Horus pour la possession du trône d'Égypte, avant que les dieux ne tranchent finalement en faveur de ce dernier."
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle déesse grecque de la sagesse et de la guerre stratégique serait née directement de la tête de Zeus, déjà adulte et armée ?",
+      "answer": "Athéna",
+      "explanation": "Selon le mythe, Zeus avait avalé la Titanide Métis, enceinte d'Athéna, par crainte d'une prophétie. La déesse aurait alors jailli de son crâne, en armure complète, après qu'Héphaïstos lui eut fendu la tête d'un coup de hache. Athéna devient la protectrice d'Athènes, qui lui doit son nom.",
+      "options": [
+        "Athéna",
+        "Héra",
+        "Artémis",
+        "Déméter"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel dieu grec du vin et de la vigne, fils de Zeus et de la mortelle Sémélé, est aussi à l'origine du théâtre antique ?",
+      "answer": "Dionysos",
+      "explanation": "Les fêtes en l'honneur de Dionysos, les Dionysies, donnent naissance à Athènes aux concours de tragédie et de comédie qui fondent le théâtre occidental. Sa mère Sémélé meurt foudroyée en voyant Zeus dans toute sa splendeur, et c'est le dieu lui-même qui achève sa gestation cousu dans sa cuisse.",
+      "options": [
+        "Dionysos",
+        "Apollon",
+        "Pan",
+        "Hermès"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel roi grec, condamné pour avoir défié la mort à deux reprises, doit pousser éternellement un rocher en haut d'une colline avant de le voir toujours redévaler ?",
+      "answer": "Sisyphe",
+      "explanation": "Sisyphe avait réussi à enchaîner Thanatos, la Mort elle-même, puis à convaincre Perséphone de le laisser retourner brièvement chez les vivants. Pour ces ruses répétées, les dieux le condamnent à un supplice absurde et sans fin, devenu le symbole du travail vain.",
+      "options": [
+        "Sisyphe",
+        "Tantale",
+        "Ixion",
+        "Prométhée"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle déesse nordique de l'amour et de la fertilité, sœur du dieu Freyr, se déplace dans un char tiré par deux chats ?",
+      "answer": "Freyja",
+      "explanation": "Freyja appartient au clan des Vanes, dieux liés à la fertilité et à la prospérité. Elle possède aussi un manteau de plumes de faucon lui permettant de voler, et partage avec Odin les guerriers tombés au combat.",
+      "options": [
+        "Freyja",
+        "Frigg",
+        "Idunn",
+        "Sif"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel dieu nordique du courage et de la justice a sacrifié sa main droite pour permettre aux autres dieux d'enchaîner le loup Fenrir ?",
+      "answer": "Tyr",
+      "explanation": "Pour rassurer le loup méfiant, Tyr accepte de placer sa main dans sa gueule en gage de bonne foi pendant qu'on lui passe le lien magique Gleipnir. Comprenant la ruse, Fenrir referme aussitôt ses mâchoires, faisant de Tyr le dieu manchot.",
+      "options": [
+        "Tyr",
+        "Heimdall",
+        "Njord",
+        "Vidar"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel dieu nordique, réputé invulnérable à tout sauf au gui, meurt transpercé par un rameau lancé par son frère aveugle manipulé par Loki ?",
+      "answer": "Baldr",
+      "explanation": "Sa mère Frigg avait fait promettre à toute chose au monde de ne jamais blesser Baldr, oubliant la modeste plante de gui. Loki en fabrique un projectile et guide la main de Höd pour tuer Baldr, précipitant les événements qui mèneront au Ragnarök.",
+      "options": [
+        "Baldr",
+        "Höd",
+        "Heimdall",
+        "Freyr"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel dieu égyptien à tête de faucon, fils d'Isis et d'Osiris, symbolise le pouvoir légitime des pharaons ?",
+      "answer": "Horus",
+      "explanation": "Horus affronte son oncle Seth pour venger son père et récupérer le trône d'Égypte, perdant un œil dans la bataille. Cet 'œil d'Horus' reconstitué devient un puissant symbole de protection porté en amulette.",
+      "options": [
+        "Horus",
+        "Anubis",
+        "Thot",
+        "Seth"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel dieu égyptien de l'écriture et du savoir, représenté avec une tête d'ibis, tient les registres des jugements de l'au-delà ?",
+      "answer": "Thot",
+      "explanation": "Thot aurait inventé les hiéroglyphes et passe pour l'inventeur du calendrier égyptien. Lors de la pesée du cœur des défunts, il consigne par écrit le verdict rendu selon que le cœur est plus léger ou plus lourd que la plume de Maât.",
+      "options": [
+        "Thot",
+        "Horus",
+        "Khnoum",
+        "Sobek"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel dieu romain à deux visages, tourné à la fois vers le passé et vers l'avenir, donne son nom au mois de janvier ?",
+      "answer": "Janus",
+      "explanation": "Janus est le dieu romain des commencements, des portes et des transitions, ce qui explique ses deux visages opposés. Les portes de son temple à Rome restaient ouvertes en temps de guerre et fermées en temps de paix.",
+      "options": [
+        "Janus",
+        "Saturne",
+        "Vulcain",
+        "Mercure"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Selon la légende, quels jumeaux, allaités par une louve après avoir été abandonnés sur les rives du Tibre, sont considérés comme les fondateurs de Rome ?",
+      "answer": "Romulus et Remus",
+      "explanation": "Petits-fils d'un roi déchu, les jumeaux sont recueillis et allaités par une louve avant d'être élevés par un berger. Une fois adultes, une querelle éclate entre eux sur l'emplacement de la future ville, et Romulus tue Remus avant de fonder Rome et de lui donner son nom.",
+      "options": [
+        "Romulus et Remus",
+        "Castor et Pollux",
+        "Énée et Ascagne",
+        "Titus et Tatius"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle déesse mésopotamienne de l'amour et de la guerre descend au royaume des morts, se dépouillant d'un vêtement ou d'un bijou à chacune de ses sept portes ?",
+      "answer": "Ishtar",
+      "explanation": "Ce mythe akkadien, dérivé d'un récit sumérien plus ancien mettant en scène la déesse Inanna, raconte la descente d'Ishtar auprès de sa sœur Ereshkigal, reine des Enfers. Ishtar y meurt et doit être ressuscitée grâce à l'intervention d'autres dieux.",
+      "options": [
+        "Ishtar",
+        "Ereshkigal",
+        "Tiamat",
+        "Ninhursag"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_mythologies_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Dans la mythologie chinoise, quelle déesse créatrice a façonné les premiers humains à partir d'argile puis réparé une brèche du ciel avec des pierres de cinq couleurs ?",
+      "answer": "Nüwa",
+      "explanation": "Selon la légende, Nüwa modèle patiemment les humains un par un avant d'accélérer le processus en trempant une corde dans la boue et en l'agitant. Le ciel se brise ensuite lors d'un combat entre dieux, et c'est elle qui le répare pour éviter une catastrophe universelle.",
+      "options": [
+        "Nüwa",
+        "Xiwangmu",
+        "Guanyin",
+        "Chang'e"
+      ]
     }
   ],
   "Art, Littérature & Mythologie : Chefs-d'œuvre & Écrivains": [
@@ -841,6 +1009,228 @@
       ],
       "answer": "Donatello",
       "explanation": "Réalisé vers 1440 pour la famille Médicis, le 'David' de Donatello précède de plus de soixante ans celui, en marbre, de Michel-Ange. Sa nudité et sa pose sensuelle ont profondément marqué la sculpture de la Renaissance."
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel écrivain et aviateur français est l'auteur du 'Petit Prince', l'un des livres les plus traduits au monde ?",
+      "answer": "Antoine de Saint-Exupéry",
+      "explanation": "Publié en 1943 aux États-Unis, 'Le Petit Prince' raconte la rencontre d'un aviateur en panne dans le désert avec un petit prince venu d'une autre planète. Saint-Exupéry, lui-même pilote, disparaît en vol de reconnaissance au-dessus de la Méditerranée en 1944.",
+      "options": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Marcel Pagnol",
+        "Romain Gary"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel romancier français du XIXe siècle a créé les personnages de d'Artagnan et des 'Trois Mousquetaires' ?",
+      "answer": "Alexandre Dumas",
+      "explanation": "Publié en feuilleton en 1844, 'Les Trois Mousquetaires' met en scène le jeune Gascon d'Artagnan aux côtés d'Athos, Porthos et Aramis. Dumas est aussi l'auteur du 'Comte de Monte-Cristo', autre grand roman d'aventures et de vengeance.",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Théophile Gautier",
+        "Prosper Mérimée"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel poète de la Grèce antique est traditionnellement considéré comme l'auteur des épopées fondatrices 'L'Iliade' et 'L'Odyssée' ?",
+      "answer": "Homère",
+      "explanation": "L'existence même d'Homère reste débattue par les historiens, certains y voyant plutôt le fruit d'une tradition orale collective. Ces deux épopées, composées autour du VIIIe siècle avant notre ère, comptent parmi les plus anciens textes de la littérature occidentale.",
+      "options": [
+        "Homère",
+        "Virgile",
+        "Hésiode",
+        "Ovide"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel écrivain britannique est l'auteur du roman dystopique '1984', mettant en scène le régime totalitaire de Big Brother ?",
+      "answer": "George Orwell",
+      "explanation": "Publié en 1949, '1984' décrit une société sous surveillance permanente où le Parti unique réécrit sans cesse l'histoire et impose une langue appauvrie, la novlangue. Le roman a durablement enrichi le vocabulaire courant, avec des expressions comme 'Big Brother' ou 'novlangue'.",
+      "options": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "H. G. Wells"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel romancier français est l'auteur du cycle romanesque 'À la recherche du temps perdu', où le goût d'une madeleine trempée dans le thé ravive des souvenirs d'enfance ?",
+      "answer": "Marcel Proust",
+      "explanation": "Composée de sept tomes publiés entre 1913 et 1927, cette œuvre monumentale explore la mémoire involontaire déclenchée par des sensations du quotidien. Proust a travaillé une grande partie de sa vie dans une chambre tapissée de liège pour s'isoler du bruit.",
+      "options": [
+        "Marcel Proust",
+        "André Gide",
+        "Romain Rolland",
+        "Anatole France"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel écrivain espagnol du Siècle d'or est l'auteur de 'Don Quichotte', souvent considéré comme le premier roman moderne ?",
+      "answer": "Miguel de Cervantès",
+      "explanation": "Publié en deux parties en 1605 et 1615, 'Don Quichotte' raconte les aventures d'un hidalgo qui se prend pour un chevalier errant et charge des moulins à vent qu'il confond avec des géants. Cervantès a écrit une partie du roman alors qu'il était emprisonné pour dettes.",
+      "options": [
+        "Miguel de Cervantès",
+        "Lope de Vega",
+        "Federico García Lorca",
+        "Calderón de la Barca"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel peintre néerlandais du Siècle d'or a réalisé 'La Jeune Fille à la perle', tableau parfois surnommé la 'Joconde du Nord' ?",
+      "answer": "Johannes Vermeer",
+      "explanation": "Peint vers 1665, ce portrait énigmatique d'une jeune femme au turban et à la boucle d'oreille en perle ne représente aucune commanditaire identifiée avec certitude. Vermeer n'a laissé qu'une trentaine de tableaux connus, peints avec une maîtrise exceptionnelle de la lumière.",
+      "options": [
+        "Johannes Vermeer",
+        "Rembrandt",
+        "Frans Hals",
+        "Pieter Bruegel l'Ancien"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel peintre florentin de la Renaissance a représenté la déesse de l'amour émergeant d'un coquillage dans 'La Naissance de Vénus' ?",
+      "answer": "Sandro Botticelli",
+      "explanation": "Peinte vers 1485 pour la famille Médicis, cette toile s'inspire de récits antiques décrivant Vénus née de l'écume marine. Botticelli y innove en peignant un grand nu profane sur toile, genre alors rare en dehors des sujets religieux.",
+      "options": [
+        "Sandro Botticelli",
+        "Raphaël",
+        "Fra Angelico",
+        "Piero della Francesca"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle peintre mexicaine est célèbre pour ses nombreux autoportraits explorant la douleur physique, l'identité et la culture mexicaine ?",
+      "answer": "Frida Kahlo",
+      "explanation": "Victime d'un grave accident de tramway à l'adolescence, Frida Kahlo peint une grande partie de son œuvre alitée, à l'aide d'un miroir fixé au-dessus de son lit. Mariée au muraliste Diego Rivera, elle est devenue une icône de l'art mexicain du XXe siècle.",
+      "options": [
+        "Frida Kahlo",
+        "Tamara de Lempicka",
+        "Georgia O'Keeffe",
+        "Leonora Carrington"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel poète italien du Moyen Âge est l'auteur de 'La Divine Comédie', récit d'un voyage à travers l'Enfer, le Purgatoire et le Paradis guidé par Virgile ?",
+      "answer": "Dante Alighieri",
+      "explanation": "Écrite en toscan et non en latin, 'La Divine Comédie' contribue à faire de ce dialecte la base de l'italien moderne. Dante y place son guide, le poète latin Virgile, pour le mener à travers les cercles de l'Enfer avant que Béatrice ne prenne le relais au Paradis.",
+      "options": [
+        "Dante Alighieri",
+        "Pétrarque",
+        "Boccace",
+        "Torquato Tasso"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel écrivain américain, précurseur du roman policier avec les enquêtes du chevalier Dupin, est aussi l'auteur du poème 'Le Corbeau' ?",
+      "answer": "Edgar Allan Poe",
+      "explanation": "Avec 'Double Assassinat dans la rue Morgue' (1841), Poe invente le personnage du détective analytique, qui inspirera plus tard Arthur Conan Doyle pour Sherlock Holmes. Son poème 'Le Corbeau', publié en 1845, le rend célèbre grâce à son refrain lancinant 'Nevermore'.",
+      "options": [
+        "Edgar Allan Poe",
+        "Nathaniel Hawthorne",
+        "Herman Melville",
+        "Washington Irving"
+      ]
+    },
+    {
+      "id": "art_litterature_mythologie_chefs_oeuvre_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel peintre d'origine biélorusse, connu pour son style onirique mêlant souvenirs de son village natal et références musicales, a peint le nouveau plafond de l'Opéra Garnier à Paris ?",
+      "answer": "Marc Chagall",
+      "explanation": "Commandé par André Malraux, ce plafond peint en 1964 rend hommage à quatorze compositeurs, de Mozart à Ravel, à travers des figures flottantes et des couleurs vives typiques de Chagall. L'œuvre recouvre l'ancien plafond du XIXe siècle, conservé en dessous.",
+      "options": [
+        "Marc Chagall",
+        "Wassily Kandinsky",
+        "Amedeo Modigliani",
+        "Chaïm Soutine"
+      ]
+    }
+  ],
+  "Mythologies du Monde": [
+    {
+      "question": "Dans la mythologie égyptienne, le Sphinx de Gizeh symbolise la protection du pharaon. Quelle est la créature hybride qui compose ce Sphinx?",
+      "options": [
+        "Un lion avec une tête de faucon",
+        "Un lion avec une tête humaine",
+        "Un aigle avec un corps de lion",
+        "Un serpent avec une tête de pharaon"
+      ],
+      "answer": 1,
+      "explanation": "Le Sphinx de Gizeh est un lion au repos avec une tête humaine, probablement celle du pharaon Khéops (IV-ème dynastie). C'est un symbole de force et de protection dans la mythologie égyptienne.",
+      "difficulty": "medium",
+      "id": "mythologies_du_monde_1"
+    },
+    {
+      "question": "Dans la mythologie nordique, quel est le nom de l'arbre géant aux neuf mondes reliés par ses racines et ses branches?",
+      "options": [
+        "Jörmungandr",
+        "Yggdrasil",
+        "Bifrost",
+        "Ragnarök"
+      ],
+      "answer": 1,
+      "explanation": "Yggdrasil est l'Arbre du Monde dans la cosmologie nordique. C'est un frêne gigantesque dont les racines et branches relient les neuf royaumes : Midgard (le monde des humains), Asgard (le monde des dieux), Muspelheim, etc.",
+      "difficulty": "medium",
+      "id": "mythologies_du_monde_2"
+    },
+    {
+      "question": "Qui était Quetzalcóatl dans la mythologie aztèque?",
+      "options": [
+        "Le dieu du maïs et de l'agriculture",
+        "Le dieu-serpent à plumes, patron des vents et de la sagesse",
+        "Le dieu guerrier du soleil et de la nuit",
+        "Le dieu de la pluie et de la foudre"
+      ],
+      "answer": 1,
+      "explanation": "Quetzalcóatl (« serpent à plumes » en nahuatl) était l'une des divinités majeures des civilisations mésoaméricaines. Il représentait le vent (Ehecatl), la sagesse, l'apprentissage et était associé à la civilisation et à la culture.",
+      "difficulty": "hard",
+      "id": "mythologies_du_monde_3"
+    },
+    {
+      "question": "Dans la mythologie grecque, Méduse était une créature avec une particularité dangereuse. Laquelle?",
+      "options": [
+        "Son hurlement transformait les hommes en pierre",
+        "Son regard pétrifait ceux qui la fixaient",
+        "Ses cheveux venimeux tuaient instantanément",
+        "Sa salive dissolvait les armures"
+      ],
+      "answer": 1,
+      "explanation": "Méduse était une Gorgone avec des serpents à la place des cheveux. Quiconque croisait son regard était transformé en pierre. Persée la combattit en utilisant son propre reflet dans son bouclier de bronze pour éviter son regard fatal.",
+      "difficulty": "easy",
+      "id": "mythologies_du_monde_4"
     }
   ]
 }

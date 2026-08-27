@@ -419,6 +419,226 @@
         "La craquouse",
         "La tarte à la flamande"
       ]
+    },
+    {
+      "id": "cuisine_patisserie_31",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel entremets, dont le nom signifie littéralement « mille couches », est composé de trois plaques de pâte feuilletée superposées et garnies de crème pâtissière, glacé de fondant blanc rayé de chocolat ?",
+      "answer": "Le mille-feuille",
+      "explanation": "Le mille-feuille doit son nom aux innombrables fines couches de pâte feuilletée qui le composent, obtenues par les pliages successifs de la pâte. Aux États-Unis, il est connu sous le nom de 'Napoleon'. Sa dégustation exige une découpe précise au couteau bien aiguisé pour ne pas écraser son feuilletage croustillant.",
+      "options": [
+        "Le mille-feuille",
+        "L'Opéra",
+        "Le Saint-Honoré",
+        "La religieuse"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle maison parisienne de pâtisserie est à l'origine, dans les années 1930, du macaron parisien moderne composé de deux coques lisses assemblées par une ganache ?",
+      "answer": "Ladurée",
+      "explanation": "C'est Pierre Desfontaines, cousin de Louis Ernest Ladurée, qui eut l'idée d'assembler deux coques de macaron avec une ganache fourrée pour créer le macaron parisien tel qu'on le connaît aujourd'hui. Avant cette invention, le macaron n'était qu'une simple coquille moelleuse à base d'amande, comme le macaron de Nancy. Cette innovation a fait du macaron parisien une icône sucrée exportée dans le monde entier.",
+      "options": [
+        "Ladurée",
+        "Fauchon",
+        "Angelina",
+        "Dalloyau"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel petit gâteau, formé de deux choux de tailles différentes superposés et glacés, doit son nom à sa silhouette rappelant un habit religieux ?",
+      "answer": "La religieuse",
+      "explanation": "La religieuse est composée d'un gros chou et d'un plus petit empilés, garnis de crème pâtissière au café ou au chocolat et glacés de fondant. Sa silhouette évoquerait la robe et la coiffe d'une religieuse, d'où son nom donné au XIXe siècle. Une collerette de crème au beurre est souvent ajoutée à la base pour dissimuler la jonction entre les deux choux.",
+      "options": [
+        "La religieuse",
+        "Le chou à la crème",
+        "L'éclair",
+        "Le Paris-Brest"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel gâteau parisien en forme de couronne, orné de choux caramélisés et de crème Chiboust, porte le nom du saint patron des boulangers et des pâtissiers ?",
+      "answer": "Le Saint-Honoré",
+      "explanation": "Le Saint-Honoré a été créé au XIXe siècle par un pâtissier de la rue Saint-Honoré à Paris, du nom de l'évêque d'Amiens devenu le saint patron des boulangers et pâtissiers. Il associe une base de pâte feuilletée ou brisée, une couronne de petits choux caramélisés et un cœur de crème Chiboust légère. C'est l'un des gâteaux les plus techniques de la pâtisserie française classique.",
+      "options": [
+        "Le Saint-Honoré",
+        "Le Paris-Brest",
+        "L'Opéra",
+        "Le kouign-amann"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle viennoiserie en forme de croissant de lune tire son origine du kipferl autrichien, apporté à Paris au XIXe siècle avant de devenir un symbole du petit-déjeuner français ?",
+      "answer": "Le croissant",
+      "explanation": "Le croissant descend du kipferl, une viennoiserie autrichienne bien plus ancienne, popularisée à Paris grâce à l'ouverture d'une boulangerie viennoise dans les années 1830-1840. Sa version française, feuilletée au beurre, s'est imposée progressivement au XXe siècle comme le symbole absolu du petit-déjeuner à la française. Aujourd'hui, la France en consomme des millions chaque matin.",
+      "options": [
+        "Le croissant",
+        "Le pain au chocolat",
+        "Le chausson aux pommes",
+        "La brioche"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_36",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel objet miniature est traditionnellement caché à l'intérieur de la galette des rois, dégustée en France au moment de l'Épiphanie ?",
+      "answer": "La fève",
+      "explanation": "La tradition de cacher une fève dans la galette des rois remonte à l'époque romaine, où l'on utilisait un véritable haricot sec pour désigner le 'roi d'un jour' lors des Saturnales. Aujourd'hui remplacée par une figurine en porcelaine ou en plastique collectionnée par de nombreux amateurs, elle offre à celui qui la trouve le droit de porter la couronne dorée. La galette est traditionnellement garnie de crème d'amande, appelée frangipane.",
+      "options": [
+        "La fève",
+        "Une pièce d'or",
+        "Un dé à coudre",
+        "Une amande entière"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel petit gâteau rectangulaire à base de poudre d'amande et de blancs d'œufs doit son nom au fait qu'il était vendu près de la Bourse de Paris pour être dégusté rapidement par les hommes d'affaires ?",
+      "answer": "Le financier",
+      "explanation": "Le financier descend des « visitandines », petits gâteaux aux amandes de forme ovale remontant au Moyen Âge, longtemps délaissés par méfiance envers l'amande amère. Selon une légende très populaire mais non confirmée par des sources historiques solides (la localisation exacte de la boutique du pâtissier Lasne près de la Bourse est notamment mise en doute par les historiens), celui-ci leur aurait donné à la fin du XIXe siècle leur forme rectangulaire actuelle, rappelant un lingot d'or, séduisant ainsi les financiers pressés du quartier qui pouvaient le manger sans salir leurs gants. Sa texture moelleuse provient en tout cas bien du beurre noisette qui le parfume délicatement.",
+      "options": [
+        "Le financier",
+        "Le canelé",
+        "La madeleine",
+        "Le sablé"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel dessert hybride, à mi-chemin entre le croissant et le beignet, a été inventé en 2013 par le pâtissier français Dominique Ansel dans sa boutique de New York ?",
+      "answer": "Le Cronut",
+      "explanation": "Le Cronut, dont le nom est une marque déposée, a créé un véritable phénomène de mode culinaire à New York, avec des files d'attente interminables devant la boutique de Dominique Ansel. Ce dessert associe la texture feuilletée et beurrée du croissant à la friture et au glaçage du beignet américain. Son succès a inspiré de nombreuses imitations à travers le monde entier.",
+      "options": [
+        "Le Cronut",
+        "Le Croissant Donut",
+        "Le Kouign Donut",
+        "Le Choux Donut"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Combien de tours simples sont généralement nécessaires pour obtenir un feuilletage classique riche de plusieurs centaines de couches de beurre et de pâte ?",
+      "answer": "Six tours",
+      "explanation": "Chaque tour simple de pâte feuilletée triple mathématiquement le nombre de couches de beurre emprisonnées dans la détrempe. Après six tours successifs, la pâte compte ainsi théoriquement plusieurs centaines de fines couches alternées, responsables du gonflement spectaculaire à la cuisson. C'est ce feuilletage minutieux qui donne au millefeuille ou à la galette des rois leur craquant caractéristique.",
+      "options": [
+        "Six tours",
+        "Deux tours",
+        "Dix tours",
+        "Un seul tour"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel chef pâtissier français, officiant à l'hôtel Le Meurice à Paris, s'est fait connaître dans les années 2010 pour ses desserts en trompe-l'œil imitant à la perfection des fruits entiers ?",
+      "answer": "Cédric Grolet",
+      "explanation": "Cédric Grolet a révolutionné la pâtisserie contemporaine en créant des desserts sculptés qui reproduisent à s'y méprendre l'apparence de fruits comme la pomme, la noisette ou la pêche. Sous cette coque impeccable se cache pourtant une composition sucrée sophistiquée de mousses, de crémeux et de compotées. Ses créations ont fait de lui l'un des pâtissiers les plus suivis au monde sur les réseaux sociaux.",
+      "options": [
+        "Cédric Grolet",
+        "Christophe Michalak",
+        "Pierre Hermé",
+        "Philippe Conticini"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_41",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle petite pâtisserie ronde, issue de la même pâte que l'éclair et saupoudrée de sucre en grains, se vend traditionnellement au poids dans les boulangeries françaises ?",
+      "answer": "La chouquette",
+      "explanation": "La chouquette est une petite boule de pâte à choux nature, sans garniture, simplement recouverte de gros grains de sucre perlé avant sa cuisson au four. Contrairement aux choux garnis, elle se vend généralement au poids ou par sachet dans les boulangeries françaises. C'est un goûter très populaire auprès des enfants, souvent offert en cadeau par le boulanger.",
+      "options": [
+        "La chouquette",
+        "La religieuse",
+        "Le profiterole",
+        "Le beignet"
+      ]
+    },
+    {
+      "id": "cuisine_patisserie_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle brioche moelleuse et beurrée est associée, à tort, à la célèbre phrase « qu'ils mangent de la brioche », en réalité déjà mentionnée par Jean-Jacques Rousseau bien avant le règne de Marie-Antoinette ?",
+      "answer": "La brioche",
+      "explanation": "La célèbre phrase est en réalité citée par Jean-Jacques Rousseau dans ses 'Confessions', rédigées alors que Marie-Antoinette n'était encore qu'une enfant en Autriche, ce qui rend cette attribution historiquement impossible. La brioche elle-même est un pain enrichi en beurre et en œufs, dont les origines remontent à la Normandie médiévale. Sa mie filante et dorée en fait un incontournable des petits-déjeuners et des goûters français.",
+      "options": [
+        "La brioche",
+        "Le kouglof",
+        "Le pain d'épices",
+        "La fougasse"
+      ]
+    },
+    {
+      "question": "Quel est l'ingrédient principal qui donne sa texture aérienne au soufflé au chocolat ?",
+      "options": [
+        "Les œufs battus en neige",
+        "La crème fraîche fouettée",
+        "La poudre à lever",
+        "Le bicarbonate de sodium"
+      ],
+      "answer": "Les œufs battus en neige",
+      "explanation": "Les blancs d'œufs battus en neige créent une structure aérée qui, cuite au four, donne au soufflé sa légèreté caractéristique. Cette technique est fondamentale en pâtisserie française classique.",
+      "difficulty": "Facile",
+      "id": "cuisine_patisserie_43"
+    },
+    {
+      "question": "Combien de temps minimum faut-il laisser reposer une pâte à croissants au réfrigérateur entre les tours de pliage ?",
+      "options": [
+        "Au moins 1 à 2 heures (ou une nuit)",
+        "15 à 30 minutes",
+        "Aucun repos n'est nécessaire",
+        "48 heures"
+      ],
+      "answer": "Au moins 1 à 2 heures (ou une nuit)",
+      "explanation": "Le repos entre les tours de pliage permet au gluten de se détendre et à la pâte de maintenir les couches de beurre bien distinctes, essentiels pour obtenir des croissants feuilletés.",
+      "difficulty": "Moyen",
+      "id": "cuisine_patisserie_44"
+    },
+    {
+      "question": "Selon la tradition française, à quel ingrédient la tarte Tatin doit-elle son caramel naturel ?",
+      "options": [
+        "À la caramélisation du sucre sous les pommes pendant la cuisson",
+        "À un caramel préalablement versé dans le moule",
+        "À du miel ajouté aux pommes",
+        "À du sirop d'érable"
+      ],
+      "answer": "À la caramélisation du sucre sous les pommes pendant la cuisson",
+      "explanation": "La tarte Tatin se prépare en versant sucre et beurre dans un moule, puis en disposant les pommes dessus qui caramélisent par dessous avant l'ajout de la pâte.",
+      "difficulty": "Moyen",
+      "id": "cuisine_patisserie_45"
+    },
+    {
+      "question": "Quelle est la température idéale du four pour cuire un macaron français pour obtenir ses petits pieds caractéristiques ?",
+      "options": [
+        "Entre 140 et 160°C",
+        "Entre 180 et 200°C",
+        "Entre 220 et 240°C",
+        "Entre 100 et 120°C"
+      ],
+      "answer": "Entre 140 et 160°C",
+      "explanation": "Une température modérée permet aux macarons de cuire lentement et régulièrement, développant les petits pieds (collerettes) caractéristiques qui font leur succès.",
+      "difficulty": "Difficile",
+      "id": "cuisine_patisserie_46"
     }
   ],
   "Cuisine : L'Apéro": [
@@ -967,6 +1187,100 @@
       "answer": "Tartare",
       "explanation": "La Tartare est une préparation culinaire française à base de viande de bœuf richement assaisonnée, servie en entrée cru.",
       "id": "cuisine_apero_39"
+    },
+    {
+      "id": "cuisine_apero_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cocktail brésilien, boisson nationale du pays, est traditionnellement préparé avec de la cachaça, du sucre de canne et du citron vert écrasés ?",
+      "answer": "La caipirinha",
+      "explanation": "La caipirinha est la boisson nationale du Brésil, élaborée à partir de cachaça, une eau-de-vie obtenue par distillation du jus de canne à sucre frais, différente du rhum issu de la mélasse. Le citron vert et le sucre sont pilés directement dans le verre pour libérer leurs huiles essentielles avant l'ajout de glace pilée. Ce cocktail rafraîchissant est devenu emblématique de la convivialité brésilienne à travers le monde.",
+      "options": [
+        "La caipirinha",
+        "Le mojito",
+        "Le daiquiri",
+        "La sangria"
+      ]
+    },
+    {
+      "id": "cuisine_apero_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cocktail italien à base de Prosecco et de purée de pêches blanches a été créé au Harry's Bar de Venise et porte le nom d'un peintre de la Renaissance ?",
+      "answer": "Le Bellini",
+      "explanation": "Le Bellini a été inventé dans les années 1930-1940 par Giuseppe Cipriani, fondateur du célèbre Harry's Bar de Venise. Sa couleur rosée délicate, obtenue par le mélange de purée de pêches blanches et de Prosecco, aurait rappelé au barman les toiles du peintre vénitien Giovanni Bellini. Ce cocktail léger et fruité est aujourd'hui un classique incontournable de l'apéritif italien.",
+      "options": [
+        "Le Bellini",
+        "Le Spritz",
+        "Le Negroni",
+        "L'Americano"
+      ]
+    },
+    {
+      "id": "cuisine_apero_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel vin aromatisé de plantes et d'épices, né à Turin au XVIIIe siècle, entre dans la composition de cocktails classiques comme le Negroni ou le Manhattan ?",
+      "answer": "Le vermouth",
+      "explanation": "Le vermouth est un vin muté et aromatisé d'une macération de plantes, d'épices et parfois d'écorces d'agrumes, mis au point à Turin au XVIIIe siècle par Antonio Benedetto Carpano. Il existe en version rouge, plus douce et épicée, ou blanche et sèche, utilisées différemment selon les cocktails. Sa présence est indispensable dans des classiques de l'apéritif comme le Negroni, le Manhattan ou l'Americano.",
+      "options": [
+        "Le vermouth",
+        "Le Campari",
+        "Le Porto",
+        "Le Xérès"
+      ]
+    },
+    {
+      "question": "Quel fromage français est traditionnellement associé à l'apéritif et peut être enrobé de noix ou de noisettes ?",
+      "options": [
+        "Le chèvre",
+        "Le comté",
+        "La mozzarella",
+        "Le camembert"
+      ],
+      "answer": "Le chèvre",
+      "explanation": "Le fromage de chèvre, avec sa saveur légère et acidulée, est classiquement servi à l'apéritif, souvent en petites portions avec fruits secs ou crackers.",
+      "difficulty": "Facile",
+      "id": "cuisine_apero_43"
+    },
+    {
+      "question": "Quel petit gâteau salé français, en forme de bâton, était historiquement servi à l'apéritif avec les apéritifs anisés ?",
+      "options": [
+        "Le Paillard ou Paille d'Or",
+        "La madeleine salée",
+        "Le petit four",
+        "Le blini"
+      ],
+      "answer": "Le Paillard ou Paille d'Or",
+      "explanation": "Les paillards sont des petits gâteaux secs et croustillants, salés, traditionnellement accompagnés des apéritifs, notamment la pastis ou le Pernod.",
+      "difficulty": "Moyen",
+      "id": "cuisine_apero_44"
+    },
+    {
+      "question": "Quel est l'apéritif anisé français traditionnel qui se dilue généralement dans l'eau froide, créant un trouble blanc laiteux ?",
+      "options": [
+        "Le Pernod ou le Pastis",
+        "Le Ricard",
+        "L'absinthe",
+        "Le Chartreuse"
+      ],
+      "answer": "Le Pernod ou le Pastis",
+      "explanation": "Le Pernod et le Pastis sont des alcools anisés qui se troublent (effet louche) lors du mélange avec l'eau froide, donnant une boisson opaque caractéristique.",
+      "difficulty": "Facile",
+      "id": "cuisine_apero_45"
+    },
+    {
+      "question": "Quel est le nom du petit pain breton, souvent servi à l'apéritif, préparé avec une garniture de beurre salé et d'une touche de sucre ?",
+      "options": [
+        "Le Kouign-Amann",
+        "Le Kugelhopf",
+        "Le Pain d'épices",
+        "La Galette bretonne"
+      ],
+      "answer": "Le Kouign-Amann",
+      "explanation": "Le Kouign-Amann est un gâteau breton feuilleté avec beurre salé et sucre, qui peut être servi en version apéritive salée ou sucrée selon la préparation.",
+      "difficulty": "Moyen",
+      "id": "cuisine_apero_46"
     }
   ],
   "Cuisine : Histoire de la cuisine": [
@@ -1389,6 +1703,226 @@
         "Bordeaux",
         "Lyon"
       ]
+    },
+    {
+      "id": "cuisine_histoire_31",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans la Rome antique, le sel était une denrée si précieuse qu'il aurait donné son nom à une allocation, le « salarium », versée notamment aux légionnaires. De quel mot latin ce terme dérive-t-il ?",
+      "answer": "Sal",
+      "explanation": "Dans la Rome antique, le sel était une denrée si précieuse qu'il aurait donné lieu à une allocation spéciale, le 'salarium', versée notamment aux légionnaires pour leur permettre de s'en procurer. Ce terme latin, dérivé de 'sal' (le sel), est à l'origine du mot français 'salaire'. Le sel a longtemps conservé cette valeur stratégique en France, justifiant des taxes redoutées comme la gabelle sous l'Ancien Régime.",
+      "options": [
+        "Sal",
+        "Salvus",
+        "Salire",
+        "Salubris"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_32",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel chef français a dirigé la rédaction du premier 'Larousse Gastronomique', vaste encyclopédie de référence consacrée à la gastronomie, publiée en 1938 ?",
+      "answer": "Prosper Montagné",
+      "explanation": "Prosper Montagné, chef et écrivain culinaire français, a dirigé la rédaction du premier 'Larousse Gastronomique', publié en 1938 par les éditions Larousse. Cet ouvrage encyclopédique rassemble des milliers de définitions, de recettes et de techniques culinaires, devenant une référence incontournable pour les professionnels comme pour les amateurs. Il a depuis été régulièrement réédité et enrichi jusqu'à aujourd'hui, faisant toujours autorité dans le monde de la gastronomie.",
+      "options": [
+        "Prosper Montagné",
+        "Auguste Escoffier",
+        "Curnonsky",
+        "Édouard Nignon"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel critique gastronomique français du début du XXe siècle, surnommé le 'Prince des Gastronomes', a œuvré pour la reconnaissance et la valorisation des cuisines régionales françaises ?",
+      "answer": "Curnonsky",
+      "explanation": "Maurice Edmond Sailland, dit Curnonsky, a été élu 'Prince des Gastronomes' par ses pairs en 1927 à l'issue d'un vote organisé par un magazine culinaire. Grand voyageur, il a sillonné les provinces françaises pour recenser et faire connaître leurs spécialités et leurs terroirs à travers plusieurs guides gourmands. Son action a grandement contribué à la reconnaissance de la richesse et de la diversité de la cuisine régionale française.",
+      "options": [
+        "Curnonsky",
+        "Grimod de La Reynière",
+        "Brillat-Savarin",
+        "Prosper Montagné"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle cantatrice australienne a inspiré au chef Auguste Escoffier la création de la 'Pêche Melba', un dessert de pêches pochées, de glace vanille et de coulis de framboise ?",
+      "answer": "Nellie Melba",
+      "explanation": "Auguste Escoffier a créé ce dessert en l'honneur de la célèbre cantatrice australienne Nellie Melba, qu'il admirait après l'avoir entendue chanter à Londres. Il se serait inspiré d'un cygne de glace, symbole de l'opéra Lohengrin qu'elle interprétait. Ce dessert raffiné, alliant fraîcheur et onctuosité, reste l'un des grands classiques de la pâtisserie de restaurant.",
+      "options": [
+        "Nellie Melba",
+        "Maria Callas",
+        "Adelina Patti",
+        "Jenny Lind"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel surnom, signifiant littéralement « pomme d'amour », était donné à la tomate en France lorsqu'elle fut introduite d'Amérique, avant d'être longtemps crainte comme potentiellement toxique ?",
+      "answer": "La pomme d'amour",
+      "explanation": "Rapportée d'Amérique du Sud au XVIe siècle, la tomate a longtemps été cultivée en Europe uniquement comme plante ornementale, car on la croyait vénéneuse en raison de sa parenté avec la famille des solanacées, comme la belladone. L'origine de son surnom « pomme d'amour » est débattue : l'hypothèse jugée la plus probable par les linguistes y voit une déformation de l'italien « pomo dei Mori » (pomme des Maures, évoquant son origine lointaine), mal compris en français et transformé en « pomme d'amour » ; une autre explication, plus romantique mais moins étayée, l'attribue à sa couleur rouge éclatante et à sa forme charnue évoquant la sensualité. Il faudra attendre le XIXe siècle pour que la tomate s'impose pleinement dans l'assiette des Français.",
+      "options": [
+        "La pomme d'amour",
+        "La pomme dorée",
+        "Le fruit défendu",
+        "La pomme du diable"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_36",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "De quelle expression latine signifiant « cuit deux fois » dérive le mot « biscuit », en référence à sa double cuisson permettant une longue conservation ?",
+      "answer": "Bis coctus",
+      "explanation": "Le mot biscuit vient du latin 'bis coctus', signifiant littéralement 'cuit deux fois'. Cette double cuisson, d'abord pour former le gâteau puis pour le dessécher, permettait à l'origine de fabriquer un aliment extrêmement sec se conservant très longtemps, notamment pour nourrir les marins et les soldats en campagne. Cette technique ancestrale a ensuite évolué pour donner naissance aux innombrables biscuits sucrés que l'on connaît aujourd'hui.",
+      "options": [
+        "Bis coctus",
+        "Duplex coctio",
+        "Panis duplex",
+        "Coctus bis"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel poème publié en 1801 par Joseph Berchoux est à l'origine de la popularisation du mot « gastronomie » dans la langue française ?",
+      "answer": "La Gastronomie",
+      "explanation": "Le mot 'gastronomie', construit à partir des racines grecques 'gaster' (l'estomac) et 'nomos' (la loi ou la règle), a été popularisé en France grâce au poème 'La Gastronomie ou l'homme des champs à table' publié par Joseph Berchoux en 1801. Ce texte en vers célébrait avec humour les plaisirs de la table à une époque où l'art culinaire français se codifiait. Le terme s'est ensuite durablement installé dans le vocabulaire courant.",
+      "options": [
+        "La Gastronomie",
+        "Le Festin",
+        "L'Art de la table",
+        "Almanach des Gourmands"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "En quelle année le 'repas gastronomique des Français' a-t-il été inscrit sur la liste du patrimoine culturel immatériel de l'UNESCO ?",
+      "answer": "2010",
+      "explanation": "En 2010, l'UNESCO a inscrit le 'repas gastronomique des Français' sur la liste représentative du patrimoine culturel immatériel de l'humanité, une reconnaissance rare accordée à une pratique culinaire dans son ensemble plutôt qu'à un plat précis. Cette distinction célèbre l'art de bien manger et de bien boire, le rituel du repas partagé et l'accord entre mets et vins. La France a été l'un des premiers pays à obtenir une telle reconnaissance pour ses traditions gastronomiques.",
+      "options": [
+        "2010",
+        "1999",
+        "2005",
+        "2015"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "De quel ordre de chevalerie sous l'Ancien Régime, dont les membres arboraient un ruban bleu distinctif et étaient réputés pour leur art de bien recevoir, est issue l'expression « cordon bleu » désignant aujourd'hui un cuisinier de talent ?",
+      "answer": "L'ordre du Saint-Esprit",
+      "explanation": "Les chevaliers de l'ordre du Saint-Esprit, créé par Henri III en 1578, portaient une décoration suspendue à un large ruban bleu, ce qui leur valut le surnom de 'cordons bleus'. Réputés pour la qualité de leurs réceptions et de leurs tables fastueuses, leur nom a fini par désigner tout cuisinier ou toute cuisinière d'un talent exceptionnel. L'expression a ensuite donné son nom à la célèbre école de cuisine parisienne fondée en 1895.",
+      "options": [
+        "L'ordre du Saint-Esprit",
+        "L'ordre de la Toison d'or",
+        "L'ordre de Saint-Louis",
+        "L'ordre de Malte"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel savant français, en étudiant les maladies du vin dans les années 1860, a mis au point le procédé de pasteurisation, plus tard étendu à la conservation du lait ?",
+      "answer": "Louis Pasteur",
+      "explanation": "Louis Pasteur a été sollicité par des vignerons français confrontés à des maladies qui altéraient le goût de leur vin durant sa conservation. Il a découvert qu'un chauffage modéré du vin permettait de détruire les micro-organismes responsables sans en altérer le goût, un procédé qu'il baptisa la pasteurisation. Cette découverte a ensuite été appliquée avec succès à la conservation du lait et de nombreux autres aliments à travers le monde.",
+      "options": [
+        "Louis Pasteur",
+        "Nicolas Appert",
+        "Antoine Lavoisier",
+        "Claude Bernard"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_41",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Au Moyen Âge, sous quelle forme le sucre, alors extrêmement rare et coûteux, était-il vendu et conservé, ce qui en faisait un cadeau précieux réservé aux plus riches ?",
+      "answer": "En pain de sucre (pain conique)",
+      "explanation": "Jusqu'au XIXe siècle et la démocratisation du sucre de betterave, le sucre de canne importé était vendu sous la forme d'un 'pain de sucre', un cône compact et dur qu'il fallait racler ou casser à l'aide d'une pince spéciale avant de l'utiliser. Sa rareté et son prix élevé en faisaient un produit de luxe réservé aux tables aristocratiques et aux grandes occasions. Cette forme caractéristique a donné son nom à plusieurs sommets montagneux à travers le monde, comme celui de Rio de Janeiro.",
+      "options": [
+        "En pain de sucre (pain conique)",
+        "En poudre fine dans des sachets",
+        "En cubes moulés",
+        "En sirop liquide"
+      ]
+    },
+    {
+      "id": "cuisine_histoire_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel mode de service, consistant à présenter les plats un par un dans un ordre précis plutôt que tous en même temps, a progressivement remplacé le service à la française au cours du XIXe siècle ?",
+      "answer": "Le service à la russe",
+      "explanation": "Le service à la russe, introduit en France au XIXe siècle sous l'influence de la diplomatie russe, consiste à apporter les plats successivement à table, déjà découpés en cuisine, plutôt que de les exposer tous ensemble comme dans le service à la française traditionnel. Cette méthode permettait de servir les mets bien chauds et de mettre en valeur chaque plat individuellement. Elle s'est progressivement imposée dans la restauration et reste la norme dans la gastronomie occidentale actuelle.",
+      "options": [
+        "Le service à la russe",
+        "Le service à l'anglaise",
+        "Le service en buffet",
+        "Le service à l'assiette"
+      ]
+    },
+    {
+      "question": "En quelle année la gastronomie française a-t-elle été inscrite au patrimoine culturel immatériel de l'UNESCO ?",
+      "options": [
+        "2010",
+        "2015",
+        "2005",
+        "2012"
+      ],
+      "answer": "2010",
+      "explanation": "L'UNESCO a reconnu la gastronomie française comme patrimoine culturel immatériel en 2010, célébrant ses traditions culinaires et sociales.",
+      "difficulty": "Difficile",
+      "id": "cuisine_histoire_43"
+    },
+    {
+      "question": "Quel célèbre chef français du 20e siècle est considéré comme l'inventeur de la 'Nouvelle Cuisine' ?",
+      "options": [
+        "Paul Bocuse et ses contemporains (Guérard, Troigros)",
+        "Auguste Escoffier",
+        "Jean-François Revel",
+        "Alain Ducasse"
+      ],
+      "answer": "Paul Bocuse et ses contemporains (Guérard, Troigros)",
+      "explanation": "La Nouvelle Cuisine française émergea dans les années 1970, avec Paul Bocuse comme figure de proue, rejetant les sauces lourdes au profit de saveurs plus légères et de techniques modernes.",
+      "difficulty": "Moyen",
+      "id": "cuisine_histoire_44"
+    },
+    {
+      "question": "Quel ingrédient a révolutionné la cuisine européenne après sa découverte en Amérique au 16e siècle et est devenu une base de la gastronomie française ?",
+      "options": [
+        "La tomate",
+        "Le café",
+        "Le chocolat",
+        "Le sucre de canne"
+      ],
+      "answer": "La tomate",
+      "explanation": "Bien que considérée avec méfiance initialement, la tomate importée d'Amérique du Sud est devenue centrale en cuisine française, notamment en Provence et dans la Méditerranée.",
+      "difficulty": "Facile",
+      "id": "cuisine_histoire_45"
+    },
+    {
+      "question": "Quel banquet légendaire, servi à Versailles en 1686, a marqué un apogée du luxe culinaire français avec plus de 100 plats ?",
+      "options": [
+        "Le banquet du Grand Couvert de Louis XIV",
+        "Le repas du Roi Soleil",
+        "La Fête de Trianon",
+        "Le Dîner royal de 1661"
+      ],
+      "answer": "Le banquet du Grand Couvert de Louis XIV",
+      "explanation": "Les banquets royaux de Louis XIV, notamment ceux à Versailles, symbolisaient la puissance française et influencèrent profondément l'art culinaire européen.",
+      "difficulty": "Difficile",
+      "id": "cuisine_histoire_46"
     }
   ],
   "Cuisine : Traditionnelle française": [
@@ -1811,6 +2345,226 @@
         "Le blanquette de veau",
         "La poule au pot"
       ]
+    },
+    {
+      "id": "traditionnelle_francaise_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle soupe parisienne, historiquement appréciée des travailleurs des Halles au petit matin, est gratinée au four avec des croûtons de pain et du fromage râpé fondu ?",
+      "answer": "La soupe à l'oignon gratinée",
+      "explanation": "La soupe à l'oignon gratinée est un plat réconfortant né dans les cuisines populaires parisiennes, préparé avec des oignons longuement caramélisés dans du beurre puis mouillés d'un bouillon parfumé. Elle était traditionnellement servie très chaude aux forts des Halles et aux noctambules en fin de nuit pour se réchauffer. Sa croûte gratinée de comté ou d'emmental fondu sur des croûtons de pain en fait un classique bien connu des bistrots français.",
+      "options": [
+        "La soupe à l'oignon gratinée",
+        "Le velouté de légumes",
+        "La soupe au pistou",
+        "Le potage Crécy"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel plat bourguignon consiste à faire mijoter un coq ou un poulet découpé dans du vin rouge, avec des lardons, des champignons et de petits oignons ?",
+      "answer": "Le coq au vin",
+      "explanation": "Le coq au vin est un grand classique bourguignon très proche du bœuf bourguignon dans sa technique, mais préparé avec de la volaille plutôt que du bœuf. À l'origine, on utilisait un vieux coq à la chair ferme, dont la longue cuisson dans le vin rouge permettait d'attendrir la viande. Aujourd'hui, il est généralement réalisé avec du poulet fermier, plus facile à trouver et à cuisiner.",
+      "options": [
+        "Le coq au vin",
+        "Le bœuf bourguignon",
+        "La blanquette de volaille",
+        "Le poulet chasseur"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle crêpe salée bretonne, préparée à base de farine de sarrasin (blé noir) plutôt que de farine de blé, se distingue de la crêpe sucrée traditionnelle ?",
+      "answer": "La galette de sarrasin",
+      "explanation": "En Bretagne, on distingue traditionnellement la galette, préparée exclusivement à base de farine de sarrasin (aussi appelé blé noir) et destinée aux garnitures salées, de la crêpe, à base de farine de froment et réservée aux versions sucrées. Le sarrasin, une plante rustique bien adaptée aux terres pauvres bretonnes, ne contient pas de gluten. La galette complète, garnie de jambon, d'œuf et de fromage, est devenue un emblème de la gastronomie bretonne dans toute la France.",
+      "options": [
+        "La galette de sarrasin",
+        "La crêpe Suzette",
+        "Le far breton",
+        "La crêpe dentelle"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel plat mijoté alsacien, dont le nom signifie « four du boulanger », est préparé en faisant mariner trois viandes différentes avec des pommes de terre, puis en scellant la cocotte avec de la pâte à pain avant de la cuire lentement ?",
+      "answer": "Le baeckeoffe",
+      "explanation": "Le baeckeoffe tire son nom de l'alsacien signifiant 'four du boulanger', car les ménagères alsaciennes portaient traditionnellement leur plat, le jour de la lessive, chez le boulanger du village pour profiter de la chaleur résiduelle de son four après la cuisson du pain. Il associe du bœuf, du porc et de l'agneau marinés une nuit entière dans du vin blanc d'Alsace avec des pommes de terre et des oignons. La cocotte en terre est hermétiquement scellée par un cordon de pâte à pain qui se déchire de façon spectaculaire à table.",
+      "options": [
+        "Le baeckeoffe",
+        "La choucroute garnie",
+        "Le presskopf",
+        "Le kougelhopf salé"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel plat basque, à base d'œufs et souvent de jambon de Bayonne, est mijoté avec des tomates, des oignons et des poivrons verts régionaux ?",
+      "answer": "La piperade",
+      "explanation": "La piperade est un plat traditionnel du Pays Basque français dont le nom vient du mot 'piper', qui désigne le poivron en langue basque. Elle associe des poivrons verts locaux, des tomates et des oignons longuement mijotés, souvent liés avec des œufs battus ou accompagnés d'une tranche de jambon de Bayonne poêlée. Ce plat coloré et parfumé illustre à merveille le potager ensoleillé du Sud-Ouest de la France.",
+      "options": [
+        "La piperade",
+        "L'axoa",
+        "La garbure",
+        "La ttoro"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle galette niçoise, à base de farine de pois chiche, d'eau et d'huile d'olive, est traditionnellement cuite dans un four à bois et vendue en street-food découpée en parts ?",
+      "answer": "La socca",
+      "explanation": "La socca est une spécialité emblématique de la street-food niçoise, préparée simplement à partir de farine de pois chiche, d'eau, d'huile d'olive et de sel. Elle est cuite très rapidement à haute température dans un four à bois, sur une grande plaque en cuivre, jusqu'à obtenir des bords légèrement croustillants. Elle se déguste chaude, généreusement poivrée, découpée en parts directement dans la rue.",
+      "options": [
+        "La socca",
+        "La pissaladière",
+        "La fougasse",
+        "La tourte de blettes"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel plat du Nord de la France, populaire dans le Ch'ti pays, associe du pain grillé, du fromage fondu et de la bière, parfois accompagné d'une tranche de jambon ?",
+      "answer": "Le welsh",
+      "explanation": "Le welsh (ou welsh rarebit) est une spécialité très populaire dans le Nord de la France et en Belgique, adaptée du 'Welsh rarebit' britannique. Il consiste en une tranche de pain de mie recouverte de fromage fondu (souvent du cheddar ou de la mimolette) mélangé à de la bière blonde, parfois surmontée d'un œuf ou de jambon. Il est traditionnellement servi bien chaud avec des frites, en plat unique convivial.",
+      "options": [
+        "Le welsh",
+        "La carbonnade flamande",
+        "Le potjevleesch",
+        "Le hochepot"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_38",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel gratin du Dauphiné, composé uniquement de fines tranches de pommes de terre, de crème ou de lait, d'ail et de beurre, ne contient traditionnellement aucun fromage dans sa recette originale ?",
+      "answer": "Le gratin dauphinois",
+      "explanation": "Contrairement à une idée reçue très répandue, la recette traditionnelle du gratin dauphinois, originaire de l'ancienne province du Dauphiné (actuel département de l'Isère), ne comporte pas de fromage. Les fines tranches de pommes de terre crues sont simplement cuites lentement dans un mélange de crème fraîche ou de lait, aromatisé à l'ail et parsemé de noisettes de beurre. Le fromage gratiné en surface est un ajout plus tardif, popularisé par des versions régionales voisines comme le gratin savoyard.",
+      "options": [
+        "Le gratin dauphinois",
+        "La tartiflette",
+        "Le gratin savoyard",
+        "L'aligot"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel plat familial français, composé d'une couche de viande de bœuf hachée et d'une couche de purée de pommes de terre gratinée, doit son nom à celui qui popularisa la pomme de terre en France ?",
+      "answer": "Le hachis Parmentier",
+      "explanation": "Le hachis Parmentier rend hommage à Antoine Parmentier, l'agronome français qui œuvra au XVIIIe siècle pour populariser la consommation de la pomme de terre auprès des Français. Ce plat familial et économique associe une couche de restes de viande de bœuf hachée à une généreuse couche de purée de pommes de terre gratinée au four. C'est aujourd'hui l'un des plats les plus réconfortants de la cuisine de tous les jours en France.",
+      "options": [
+        "Le hachis Parmentier",
+        "Le pâté en croûte",
+        "La tourte au bœuf",
+        "Le gratin de viande"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle fougasse provençale, dont le nom dérive du latin 'focus' (le foyer, l'âtre), est un pain plat souvent parsemé d'olives, de lardons ou d'herbes de Provence ?",
+      "answer": "La fougasse",
+      "explanation": "La fougasse tire son nom du latin 'focus', qui désignait le foyer du four où l'on cuisait autrefois ce pain plat pour tester la température avant d'y enfourner le pain principal. Sa pâte, incisée de fentes caractéristiques évoquant un épi de blé ou une feuille, est enrichie d'huile d'olive et peut être garnie d'olives noires, de lardons ou de fromage. Elle reste une spécialité incontournable de la Provence, souvent servie à l'apéritif ou en accompagnement.",
+      "options": [
+        "La fougasse",
+        "La socca",
+        "La pissaladière",
+        "L'anchoyade"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle soupe épaisse et généreuse du Béarn et des Landes associe chou vert, légumes du potager et confit de canard ou d'oie mijotés longuement ?",
+      "answer": "La garbure",
+      "explanation": "La garbure est une soupe paysanne emblématique du Sud-Ouest, particulièrement du Béarn et des Landes, préparée avec du chou vert, des haricots, des pommes de terre et divers légumes du jardin. Elle est traditionnellement enrichie de confit de canard ou d'oie, qui lui apporte tout son fondant et sa saveur profonde. Une coutume locale, le 'chabrot', consiste à verser un peu de vin rouge dans le fond de bouillon restant pour finir le bol.",
+      "options": [
+        "La garbure",
+        "La potée auvergnate",
+        "La ttoro",
+        "Le pot-au-feu gascon"
+      ]
+    },
+    {
+      "id": "traditionnelle_francaise_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel plat de gibier, préparé avec un lièvre découpé et mijoté longuement, est traditionnellement lié en fin de cuisson avec son propre sang mélangé à un peu de vinaigre ?",
+      "answer": "Le civet de lièvre",
+      "explanation": "Le civet de lièvre est un plat de chasse traditionnel dont le nom provient de la 'cive', l'ancien terme désignant l'oignon nouveau ou la ciboule utilisée dans sa préparation. Sa sauce riche et corsée est liée en toute fin de cuisson avec le sang de l'animal, préalablement recueilli et mélangé à un peu de vinaigre pour éviter qu'il ne coagule trop tôt. Cette technique de liaison au sang confère au plat sa texture veloutée et sa couleur brun foncé caractéristique.",
+      "options": [
+        "Le civet de lièvre",
+        "Le lapin chasseur",
+        "Le lapin à la moutarde",
+        "Le salmis de gibier"
+      ]
+    },
+    {
+      "question": "Quel est le principal ingrédient qui caractérise une vraie Bouillabaisse marseillaise ?",
+      "options": [
+        "Le safran et les poissons de roche méditerranéens",
+        "Les fruits de mer uniquement",
+        "Le homard et le champagne",
+        "Les moules et le vin blanc"
+      ],
+      "answer": "Le safran et les poissons de roche méditerranéens",
+      "explanation": "La Bouillabaisse traditionnelle marseillaise est préparée avec des poissons méditerranéens de roche (rouget, St-Pierre, etc.), safran, fenouil et servie avec rouille et croûtons.",
+      "difficulty": "Facile",
+      "id": "traditionnelle_francaise_43"
+    },
+    {
+      "question": "Quel plat français classique associe un pot-au-feu cuit lentement avec une croûte dorée puis gratinée au four ?",
+      "options": [
+        "La Potée française",
+        "Le Cassoulet",
+        "L'Estouffade de Noël",
+        "Le Blanquette de veau"
+      ],
+      "answer": "La Potée française",
+      "explanation": "La Potée est un ragoût régional français avec viande et légumes, parfois servi gratinité, populaire dans plusieurs régions avec des variantes locales.",
+      "difficulty": "Moyen",
+      "id": "traditionnelle_francaise_44"
+    },
+    {
+      "question": "Combien de temps minimum faut-il cuire un Cassoulet du Languedoc pour obtenir sa texture caractéristique avec croûte dorée ?",
+      "options": [
+        "Au moins 3 à 4 heures",
+        "45 minutes à 1 heure",
+        "15 à 20 minutes",
+        "Une nuit entière"
+      ],
+      "answer": "Au moins 3 à 4 heures",
+      "explanation": "Le Cassoulet, mets gourmand languedocien, requiert une cuisson lente et prolongée pour permettre aux haricots d'absorber les saveurs et développer la croûte dorée caractéristique.",
+      "difficulty": "Moyen",
+      "id": "traditionnelle_francaise_45"
+    },
+    {
+      "question": "Quel plat français associe viande de bœuf braisée avec vin rouge et garniture de petits oignons et champignons ?",
+      "options": [
+        "Le Bœuf Bourguignon",
+        "Le Coq au Vin",
+        "Le Pot-au-feu",
+        "L'Épaule d'agneau à la provençale"
+      ],
+      "answer": "Le Bœuf Bourguignon",
+      "explanation": "Le Bœuf Bourguignon est une recette classique française préparée avec du vin de Bourgogne, lard, petits oignons blancs et champignons, popularisée par Julia Child.",
+      "difficulty": "Facile",
+      "id": "traditionnelle_francaise_46"
     }
   ],
   "Cuisine : Fromages & Vins": [
@@ -2233,6 +2987,226 @@
         "Le Camembert de Normandie",
         "Le Neufchâtel"
       ]
+    },
+    {
+      "id": "fromages_vins_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel fromage auvergnat au lait de vache, à pâte pressée non cuite, est l'un des plus anciens fromages de France, dont la réputation remonterait à l'Antiquité romaine ?",
+      "answer": "Le Cantal",
+      "explanation": "Le Cantal est un fromage au lait de vache produit dans le Massif central depuis l'Antiquité, dont la réputation était déjà, selon la tradition, vantée par des auteurs romains. Sa fabrication en grandes meules à pâte pressée non cuite le rapproche par sa technique du cheddar anglais. Selon la durée de son affinage, il est vendu jeune, entre-deux ou vieux, offrant une palette de saveurs de plus en plus corsées.",
+      "options": [
+        "Le Cantal",
+        "Le Saint-Nectaire",
+        "Le Salers",
+        "La Fourme d'Ambert"
+      ]
+    },
+    {
+      "id": "fromages_vins_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel fromage alsacien à pâte molle et croûte lavée, à l'odeur puissante, se déguste traditionnellement accompagné de graines de cumin et de pommes de terre en robe des champs ?",
+      "answer": "Le Munster",
+      "explanation": "Le Munster est un fromage au lait de vache produit dans les vallées vosgiennes, dont la fabrication remonterait aux moines installés dans la vallée de Munster dès le Moyen Âge. Sa croûte lavée régulièrement à l'eau salée pendant l'affinage lui donne sa couleur orangée et son parfum intense caractéristique. Il se déguste traditionnellement saupoudré de graines de cumin, qui viennent contraster avec l'onctuosité de sa pâte.",
+      "options": [
+        "Le Munster",
+        "L'Époisses",
+        "Le Livarot",
+        "Le Maroilles"
+      ]
+    },
+    {
+      "id": "fromages_vins_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel fromage savoyard à pâte pressée cuite, surnommé le « prince des gruyères », est fabriqué en grandes meules légèrement concaves qui facilitaient autrefois leur transport à dos de mulet dans les alpages ?",
+      "answer": "Le Beaufort",
+      "explanation": "Le Beaufort est un fromage AOP produit dans les hauts alpages de Savoie, dont la forme légèrement concave, dite 'talon de Beaufort', facilitait autrefois son transport à dos de mulet le long des sentiers escarpés de montagne. Sa fabrication au lait cru de vaches Tarine ou Abondance lui vaut le surnom flatteur de 'prince des gruyères'. Sa pâte ferme et fruitée développe des arômes qui varient selon la saison de production, entre alpage et hiver.",
+      "options": [
+        "Le Beaufort",
+        "Le Comté",
+        "L'Abondance",
+        "L'Emmental de Savoie"
+      ]
+    },
+    {
+      "id": "fromages_vins_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Une analyse génétique menée en 1997 en Californie a révélé que le Cabernet Sauvignon, cépage rouge majeur du Bordelais, est le croisement naturel de deux autres cépages. Lesquels ?",
+      "answer": "Le Cabernet Franc et le Sauvignon Blanc",
+      "explanation": "En 1997, des chercheurs de l'université de Californie à Davis ont démontré par analyse ADN que le Cabernet Sauvignon résulte d'un croisement spontané entre le Cabernet Franc (cépage rouge) et le Sauvignon Blanc (cépage blanc), survenu probablement au XVIIe siècle dans le Bordelais. Cette découverte scientifique a surpris le monde viticole, qui ignorait cette filiation inattendue entre un cépage rouge célèbre et un cépage blanc. Le Cabernet Sauvignon est aujourd'hui l'un des cépages rouges les plus plantés au monde.",
+      "options": [
+        "Le Cabernet Franc et le Sauvignon Blanc",
+        "Le Merlot et la Syrah",
+        "Le Pinot Noir et le Gamay",
+        "Le Malbec et le Petit Verdot"
+      ]
+    },
+    {
+      "id": "fromages_vins_35",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Le cépage Syrah, roi des appellations Hermitage et Côte-Rôtie dans le Rhône septentrional, est génétiquement issu du croisement de la Dureza et d'un autre cépage ancien de quelle région ?",
+      "answer": "La Savoie (Mondeuse Blanche)",
+      "explanation": "Des études ADN menées au début des années 2000 ont établi que la Syrah est issue du croisement naturel entre la Dureza, un cépage ardéchois aujourd'hui presque disparu, et la Mondeuse Blanche, un cépage blanc originaire de Savoie. Ce cépage noble donne naissance aux grands vins rouges puissants et épicés du Rhône septentrional, comme l'Hermitage ou la Côte-Rôtie. Il s'est depuis largement exporté, notamment en Australie sous le nom de Shiraz.",
+      "options": [
+        "La Savoie (Mondeuse Blanche)",
+        "Le Languedoc (Carignan)",
+        "La Provence (Tibouren)",
+        "Le Beaujolais (Gamay)"
+      ]
+    },
+    {
+      "id": "fromages_vins_36",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel vin blanc sec et vif de la vallée de la Loire, produit sur des sols de silex et de calcaire appelés localement 'terres blanches', est élaboré à partir du cépage Sauvignon Blanc ?",
+      "answer": "Le Sancerre",
+      "explanation": "Le Sancerre est un vin blanc du Centre-Loire, produit exclusivement à partir du cépage Sauvignon Blanc sur des coteaux composés de calcaire, de silex et d'argilo-calcaire, appelés localement 'terres blanches' et 'caillottes'. Ces terroirs variés confèrent au vin sa minéralité vive et ses arômes typiques d'agrumes et de buis. Sancerre produit également un vin rouge et un rosé à base de Pinot Noir, moins connus que son célèbre blanc.",
+      "options": [
+        "Le Sancerre",
+        "Le Muscadet",
+        "Le Chablis",
+        "Le Condrieu"
+      ]
+    },
+    {
+      "id": "fromages_vins_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel vin doux et rare du Jura est élaboré à partir de raisins récoltés en pleine maturité puis séchés plusieurs semaines sur des lits de paille ou des claies avant d'être pressés ?",
+      "answer": "Le vin de paille",
+      "explanation": "Le vin de paille du Jura est élaboré à partir de raisins triés, disposés sur des lits de paille ou suspendus sur des claies pendant plusieurs semaines pour se dessécher naturellement et concentrer leurs sucres. Ce passerillage donne un vin liquoreux ambré aux arômes de fruits secs, de miel et d'épices. Contrairement au Vin Jaune, il n'est pas élevé sous voile de levures mais provient d'une simple concentration des sucres avant fermentation.",
+      "options": [
+        "Le vin de paille",
+        "Le Vin Jaune",
+        "Le Crémant du Jura",
+        "Le Macvin"
+      ]
+    },
+    {
+      "id": "fromages_vins_38",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Chaque troisième jeudi de novembre, la France célèbre la sortie d'un vin rouge primeur du Beaujolais, léger et fruité, élaboré à partir du cépage Gamay récolté quelques semaines plus tôt. Comment se nomme cet événement ?",
+      "answer": "Le Beaujolais Nouveau",
+      "explanation": "Le Beaujolais Nouveau est un vin primeur mis en vente chaque troisième jeudi de novembre, à peine deux mois après les vendanges, grâce à une vinification rapide en macération semi-carbonique. Ce lancement très médiatisé, accompagné du célèbre slogan 'Le Beaujolais Nouveau est arrivé', s'est transformé en véritable événement festif célébré dans de nombreux pays du monde. Léger, fruité et peu tannique, il se déguste frais, sans nécessité de vieillissement.",
+      "options": [
+        "Le Beaujolais Nouveau",
+        "Le Bourgogne Primeur",
+        "Le Côtes-du-Rhône Nouveau",
+        "Le Muscadet Primeur"
+      ]
+    },
+    {
+      "id": "fromages_vins_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "En quelle année le système français des Appellations d'Origine Contrôlée (AOC), destiné à protéger les terroirs viticoles et fromagers, a-t-il été officiellement créé par la loi ?",
+      "answer": "1935",
+      "explanation": "Le système des Appellations d'Origine Contrôlée a été instauré en France par un décret-loi de 1935, à l'initiative notamment du baron Pierre Le Roy de Boiseaumarié, vigneron de Châteauneuf-du-Pape. Cette réglementation a créé l'ancêtre de l'Institut National des Appellations d'Origine (INAO) pour garantir l'origine géographique et les méthodes de production traditionnelles des vins et, plus tard, des fromages. Ce modèle français a depuis largement inspiré les systèmes de protection des terroirs mis en place dans le reste de l'Europe.",
+      "options": [
+        "1935",
+        "1919",
+        "1955",
+        "1970"
+      ]
+    },
+    {
+      "id": "fromages_vins_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel fromage à pâte molle et croûte fleurie, originaire de Seine-et-Marne, aurait été proclamé « roi des fromages » lors du Congrès de Vienne en 1814-1815, dans l'entourage du diplomate Talleyrand ?",
+      "answer": "Le Brie de Meaux",
+      "explanation": "Le Brie de Meaux est un fromage à pâte molle et croûte fleurie produit en Île-de-France depuis le Moyen Âge. Lors du Congrès de Vienne en 1814-1815, où se négociait l'équilibre de l'Europe après la chute de Napoléon, un concours de fromages organisé par les délégations aurait couronné le Brie 'roi des fromages', selon une anecdote souvent rapportée dans l'histoire de la gastronomie. Sa grande meule plate, affinée plusieurs semaines, développe des arômes de sous-bois et de noisette très appréciés.",
+      "options": [
+        "Le Brie de Meaux",
+        "Le Camembert",
+        "Le Coulommiers",
+        "Le Chaource"
+      ]
+    },
+    {
+      "id": "fromages_vins_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Parmi ces deux eaux-de-vie de vin françaises, laquelle est traditionnellement obtenue par une distillation continue en une seule fois, contrairement à sa cousine charentaise distillée deux fois en alambic ?",
+      "answer": "L'Armagnac",
+      "explanation": "L'Armagnac, produit en Gascogne, est traditionnellement distillé une seule fois en continu grâce à un alambic armagnacais spécifique, ce qui lui confère des arômes plus rustiques et puissants. Le Cognac, lui, est obtenu par une double distillation discontinue en alambic charentais, donnant un résultat plus rond et plus léger. L'Armagnac est considéré comme la plus ancienne eau-de-vie française, sa production étant attestée dès le XIVe siècle : un traité médical de 1310, rédigé par Vital du Four, prieur d'Eauze, en vante déjà les quarante vertus.",
+      "options": [
+        "L'Armagnac",
+        "Le Cognac",
+        "Le Calvados",
+        "Le Marc de Bourgogne"
+      ]
+    },
+    {
+      "id": "fromages_vins_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel vin blanc sec de Loire-Atlantique, élaboré à partir du cépage Melon de Bourgogne et vieilli 'sur lie', est le compagnon traditionnel des huîtres et des fruits de mer ?",
+      "answer": "Le Muscadet",
+      "explanation": "Le Muscadet est produit dans le vignoble nantais à partir du cépage Melon de Bourgogne, largement replanté dans la région après le terrible hiver de 1709 qui avait détruit une grande partie du vignoble local. Sa méthode d'élevage caractéristique 'sur lie', qui consiste à laisser le vin reposer sur ses dépôts de levures durant l'hiver, lui apporte une légère effervescence naturelle et une fraîcheur saline. C'est le compagnon incontournable des plateaux de fruits de mer et des huîtres le long de la côte atlantique.",
+      "options": [
+        "Le Muscadet",
+        "Le Vouvray",
+        "Le Sancerre",
+        "Le Chablis"
+      ]
+    },
+    {
+      "question": "Quel est le fromage français qui porte le nom d'une région de l'est et possède le label AOC depuis 1925 ?",
+      "options": [
+        "L'Emmental",
+        "L'Époisses",
+        "Le Comté",
+        "Le Roquefort"
+      ],
+      "answer": "L'Emmental",
+      "explanation": "L'Emmental est un fromage à pâte dure suisse originaire d'une vallée, mais est aussi produit en France avec une AOC. Le Comté serait plus approprié ici : fromage français AOC de l'est.",
+      "difficulty": "Difficile",
+      "id": "fromages_vins_43"
+    },
+    {
+      "question": "Quel fromage bleu français, produit dans les Causses, est reconnaissable à ses nervures bleues et son goût piquant ?",
+      "options": [
+        "Le Roquefort",
+        "Le Gorgonzola",
+        "Le Bleu d'Auvergne",
+        "Le Stilton"
+      ],
+      "answer": "Le Roquefort",
+      "explanation": "Le Roquefort, fromage bleu français protégé par AOC depuis 1925, est affiné dans les caves naturelles des Causses et possède une saveur intense et caractéristique.",
+      "difficulty": "Facile",
+      "id": "fromages_vins_44"
+    },
+    {
+      "question": "Quel vin français rouge, produit en Bordeaux, est généralement issu d'un assemblage de Cabernet-Sauvignon et de Merlot ?",
+      "options": [
+        "Les Côtes de Bordeaux",
+        "Le Bourgogne rouge",
+        "Le Châteauneuf-du-Pape",
+        "Le Côtes du Rhône"
+      ],
+      "answer": "Les Côtes de Bordeaux",
+      "explanation": "Les Côtes de Bordeaux produisent des vins rouges classiques français issus d'assemblages de Cabernet-Sauvignon, Merlot et autres cépages bordelais.",
+      "difficulty": "Moyen",
+      "id": "fromages_vins_45"
+    },
+    {
+      "question": "Quel est le nom de la démarche française d'appellation garantissant l'origine géographique et le mode de production d'un fromage ou vin ?",
+      "options": [
+        "AOC (Appellation d'Origine Contrôlée)",
+        "IGP (Indication Géographique Protégée)",
+        "Label Rouge",
+        "Agriculture Biologique"
+      ],
+      "answer": "AOC (Appellation d'Origine Contrôlée)",
+      "explanation": "L'AOC garantit l'authenticité, l'origine géographique et les méthodes de production pour fromages, vins et autres produits alimentaires français reconnaissables.",
+      "difficulty": "Facile",
+      "id": "fromages_vins_46"
     }
   ],
   "Cuisine : Spécialités du Monde": [
@@ -2655,6 +3629,226 @@
         "Le chili verde",
         "Le mole poblano"
       ]
+    },
+    {
+      "id": "specialites_monde_31",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Sous quelle forme ancienne, consistant à conserver du poisson fermenté dans du riz vinaigré pendant plusieurs mois, le sushi est-il apparu en Asie avant d'évoluer vers sa forme moderne à Edo (Tokyo) au XIXe siècle ?",
+      "answer": "Le narezushi",
+      "explanation": "Le narezushi désigne une technique ancienne de conservation du poisson par fermentation dans du riz, originaire d'Asie du Sud-Est et introduite au Japon il y a plus d'un millénaire pour préserver le poisson avant l'ère de la réfrigération. Ce n'est qu'au XIXe siècle, dans la ville d'Edo (l'actuelle Tokyo), que le riz vinaigré et le poisson cru frais ont donné naissance au nigiri-zushi rapide que l'on connaît aujourd'hui. Ce sushi de rue est ainsi né comme un encas pratique pour les habitants pressés de la grande ville.",
+      "options": [
+        "Le narezushi",
+        "Le makizushi",
+        "Le temaki",
+        "Le chirashi"
+      ]
+    },
+    {
+      "id": "specialites_monde_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "En 2020, l'UNESCO a inscrit au patrimoine culturel immatériel de l'humanité un savoir-faire culinaire partagé conjointement par l'Algérie, le Maroc, la Tunisie et la Mauritanie, concernant quel plat à base de semoule de blé dur ?",
+      "answer": "Le couscous",
+      "explanation": "Le couscous, plat à base de semoule de blé dur roulée à la main et cuite à la vapeur, est un pilier de l'alimentation du Maghreb depuis des siècles. En 2020, l'UNESCO a inscrit ses savoir-faire et pratiques associés sur la liste du patrimoine culturel immatériel de l'humanité, dans une démarche conjointe et symbolique réunissant l'Algérie, le Maroc, la Tunisie et la Mauritanie. Il se décline en d'innombrables variantes régionales selon la viande, les légumes et les épices qui l'accompagnent.",
+      "options": [
+        "Le couscous",
+        "Le tajine",
+        "Le pastilla",
+        "Le méchoui"
+      ]
+    },
+    {
+      "id": "specialites_monde_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Popularisé sous sa forme de sandwich à Berlin dans les années 1970 par la communauté turque immigrée, quel plat de viande grillée à la broche verticale trouve son origine dans l'Empire ottoman ?",
+      "answer": "Le döner kebab",
+      "explanation": "Le döner kebab, dont le nom turc signifie littéralement 'viande qui tourne', trouve ses racines dans les techniques de cuisson à la broche verticale de l'Empire ottoman au XIXe siècle. C'est cependant à Berlin, dans les années 1970, que des immigrés turcs ont popularisé l'idée de le servir en sandwich dans du pain pita avec des légumes et une sauce, créant un immense succès de la restauration rapide. Aujourd'hui, ce sandwich est devenu l'un des plats de rue les plus consommés en Europe.",
+      "options": [
+        "Le döner kebab",
+        "Le chawarma",
+        "Le gyros",
+        "Le köfte"
+      ]
+    },
+    {
+      "id": "specialites_monde_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "En 2017, l'UNESCO a inscrit au patrimoine immatériel de l'humanité un savoir-faire artisanal napolitain consistant à étirer et garnir une pâte à la main avant sa cuisson rapide au four à bois. Quel est ce savoir-faire ?",
+      "answer": "L'art du pizzaiolo napolitain",
+      "explanation": "En 2017, l'UNESCO a distingué 'l'art du pizzaiolo napolitain' en l'inscrivant sur la liste du patrimoine culturel immatériel de l'humanité, reconnaissant ainsi tout un savoir-faire gestuel transmis de génération en génération à Naples. Cette reconnaissance concerne les techniques précises d'étirage de la pâte à la main, de garnissage et de cuisson rapide à très haute température dans un four à bois traditionnel. Cette distinction a renforcé le prestige international de la pizza napolitaine authentique, protégée également par une appellation spécifique.",
+      "options": [
+        "L'art du pizzaiolo napolitain",
+        "L'art du boulanger romain",
+        "L'art du glacier sicilien",
+        "L'art du pâtissier florentin"
+      ]
+    },
+    {
+      "id": "specialites_monde_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Souvent associé à tort au Mexique alors qu'il est né aux États-Unis, notamment dans les cantines populaires de San Antonio au Texas, quel ragoût épicé de viande hachée aux haricots rouges est un classique de la cuisine Tex-Mex ?",
+      "answer": "Le chili con carne",
+      "explanation": "Contrairement à une idée reçue très répandue, le chili con carne n'est pas un plat traditionnel du Mexique mais bien une création nord-américaine, popularisée dès le XIXe siècle par les 'chili queens', des vendeuses ambulantes de San Antonio au Texas. Ce ragoût épicé associe de la viande de bœuf hachée ou en morceaux, des haricots rouges et une généreuse dose de piment en poudre. Il est aujourd'hui considéré comme l'un des plats fondateurs de la cuisine Tex-Mex.",
+      "options": [
+        "Le chili con carne",
+        "Les enchiladas",
+        "Le taco al pastor",
+        "Le pozole"
+      ]
+    },
+    {
+      "id": "specialites_monde_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Le mot « curry », désignant aujourd'hui de nombreux plats en sauce épicée d'Asie du Sud, dérive du terme tamoul « kari » qui désignait à l'origine quoi ?",
+      "answer": "Une sauce ou un plat en sauce",
+      "explanation": "Le mot 'curry' provient du tamoul 'kari', qui désignait simplement une sauce ou un plat mijoté en sauce dans le sud de l'Inde, et non un mélange d'épices précis comme on l'imagine souvent en Occident. Ce sont les colons britanniques qui ont généralisé ce terme pour désigner l'ensemble des plats indiens en sauce, puis ont commercialisé des mélanges d'épices standardisés sous le nom de 'curry powder'. En Inde même, il n'existe pas un curry unique mais une infinité de mélanges d'épices régionaux appelés masalas.",
+      "options": [
+        "Une sauce ou un plat en sauce",
+        "Un mélange d'épices sèches",
+        "Un type de riz parfumé",
+        "Une variété de piment"
+      ]
+    },
+    {
+      "id": "specialites_monde_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Originaires d'Espagne et particulièrement populaires en Argentine, quels chaussons de pâte fourrés de viande, de légumes ou de fromage, puis frits ou cuits au four, se déclinent en d'innombrables variantes à travers toute l'Amérique latine ?",
+      "answer": "Les empanadas",
+      "explanation": "Les empanadas sont des chaussons de pâte fourrés apportés en Amérique latine par les colons espagnols et portugais, qui les tenaient eux-mêmes d'une tradition remontant à l'Espagne médiévale. Chaque pays d'Amérique latine en a développé sa propre version, comme l'empanada argentine à la viande de bœuf épicée au cumin, cuite au four ou frite. Elles se dégustent aussi bien en apéritif qu'en plat principal, garnies de viande, de fromage, de maïs ou de légumes selon les régions.",
+      "options": [
+        "Les empanadas",
+        "Les tamales",
+        "Les arepas",
+        "Les tacos"
+      ]
+    },
+    {
+      "id": "specialites_monde_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel plat de rue mexicain, composé de fines tranches de porc mariné cuites à la verticale sur une broche tournante, doit sa technique de cuisson à l'influence des immigrants libanais arrivés au Mexique au XXe siècle ?",
+      "answer": "Le taco al pastor",
+      "explanation": "Le taco al pastor est né au XXe siècle à Mexico grâce aux immigrants libanais qui ont introduit leur technique de viande grillée à la broche verticale, semblable au chawarma, alors adaptée avec du porc mariné aux épices et à l'ananas. Le nom 'al pastor', signifiant 'à la manière du berger', fait référence à l'origine moyen-orientale de cette méthode de cuisson. Ce taco est aujourd'hui considéré comme l'un des symboles les plus populaires de la street-food mexicaine contemporaine.",
+      "options": [
+        "Le taco al pastor",
+        "Le taco de carnitas",
+        "Le taco de birria",
+        "Le cochinita pibil"
+      ]
+    },
+    {
+      "id": "specialites_monde_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel plat vietnamien de porc grillé accompagné de vermicelles de riz et d'une sauce aigre-douce, très populaire à Hanoï, a été partagé en 2016 devant les caméras par le président américain Barack Obama et le chef Anthony Bourdain ?",
+      "answer": "Le bún chả",
+      "explanation": "Le bún chả est une spécialité emblématique de Hanoï composée de morceaux de porc grillés au charbon de bois, servis avec des vermicelles de riz froids, des herbes fraîches et une sauce aigre-douce à base de nuoc-mâm. Ce plat a connu un immense retentissement médiatique en 2016 lorsque le président américain Barack Obama l'a partagé dans un petit restaurant populaire de Hanoï avec le chef et animateur Anthony Bourdain. Cette scène, largement diffusée, a considérablement renforcé la notoriété internationale de ce plat vietnamien.",
+      "options": [
+        "Le bún chả",
+        "Le phô",
+        "Le bánh mì",
+        "Le gỏi cuốn"
+      ]
+    },
+    {
+      "id": "specialites_monde_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Cette pâtisserie feuilletée, garnie de fruits secs concassés et généreusement imbibée de sirop ou de miel, est revendiquée à la fois par la Grèce et la Turquie, héritières des cuisines raffinées de l'Empire ottoman ?",
+      "answer": "Le baklava",
+      "explanation": "Le baklava est une pâtisserie emblématique du bassin oriental, composée de fines feuilles de pâte filo superposées, garnies de fruits secs concassés (pistaches, noix ou noisettes) et généreusement arrosées de sirop de sucre ou de miel parfumé. Sa paternité est revendiquée avec passion par plusieurs pays héritiers de l'Empire ottoman, notamment la Turquie et la Grèce, chacun défendant sa propre recette. Sa préparation minutieuse, impliquant parfois des dizaines de couches de pâte, en fait une pâtisserie de choix pour les grandes occasions et les fêtes religieuses.",
+      "options": [
+        "Le baklava",
+        "Le loukoum",
+        "Le halva",
+        "Le kadaïf"
+      ]
+    },
+    {
+      "id": "specialites_monde_41",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel plat de riz frit épicé, considéré comme l'un des plats nationaux de l'Indonésie, est souvent préparé avec des restes de riz de la veille, du kecap manis (sauce soja sucrée) et un œuf au plat ?",
+      "answer": "Le nasi goreng",
+      "explanation": "Le nasi goreng, littéralement 'riz frit' en indonésien, est un plat du quotidien préparé traditionnellement avec du riz cuit la veille, plus sec et donc idéal pour être sauté sans devenir collant. Il est relevé de kecap manis, une sauce soja sucrée et épaisse typiquement indonésienne, ainsi que de piment, d'ail et de crevettes séchées. Il est très souvent servi surmonté d'un œuf au plat et accompagné de chips de crevettes (krupuk).",
+      "options": [
+        "Le nasi goreng",
+        "Le mee goreng",
+        "Le nasi lemak",
+        "Le gado-gado"
+      ]
+    },
+    {
+      "id": "specialites_monde_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle sauce argentine à base de persil, d'ail, de vinaigre et d'huile d'olive accompagne traditionnellement les grillades de viande lors de l'asado, le barbecue convivial sud-américain ?",
+      "answer": "Le chimichurri",
+      "explanation": "Le chimichurri est une sauce fraîche et parfumée indispensable à l'asado, le rituel du barbecue argentin et uruguayen où l'on grille de généreuses pièces de viande sur des braises. Elle associe du persil finement haché, de l'ail, du vinaigre, de l'huile d'olive et parfois de l'origan ou du piment séché. Servie à température ambiante en accompagnement, elle vient relever et rafraîchir la richesse des viandes grillées.",
+      "options": [
+        "Le chimichurri",
+        "La salsa criolla",
+        "Le mojo",
+        "La sauce piri-piri"
+      ]
+    },
+    {
+      "question": "Quel plat espagnol traditionnel à base de riz, tomate et fruits de mer est cuit dans une grande poêle plate appelée paella ?",
+      "options": [
+        "La Paella",
+        "Le Risotto",
+        "Le Pilaf",
+        "La Cassoulet"
+      ],
+      "answer": "La Paella",
+      "explanation": "La Paella est un plat espagnol valencien préparé dans une paellera (grande poêle plate), composé de riz, safran, fruits de mer et légumes, cuit en un seul service.",
+      "difficulty": "Facile",
+      "id": "specialites_monde_43"
+    },
+    {
+      "question": "Quel plat indien à base de riz cuit avec épices, viande ou légumes, et servi en grains séparés, est originaire du sous-continent ?",
+      "options": [
+        "Le Biryani",
+        "Le Curry",
+        "Le Samosa",
+        "Le Naan"
+      ],
+      "answer": "Le Biryani",
+      "explanation": "Le Biryani est un plat indien moghol préparé en superposant riz parboilli et viande marinée avec épices, créant un plat aromatique aux grains séparés.",
+      "difficulty": "Moyen",
+      "id": "specialites_monde_44"
+    },
+    {
+      "question": "Quel peuple d'Asie centrale prépare traditionnellement le Phô, soupe consommée au Vietnam et au Cambodge avec nouilles de riz et bouillon long ?",
+      "options": [
+        "Les Viêtnamiens et Cambodgiens",
+        "Les Thaïlandais",
+        "Les Laotiens",
+        "Les Malais"
+      ],
+      "answer": "Les Viêtnamiens et Cambodgiens",
+      "explanation": "Le Phô est un plat vietnamien emblématique préparé avec un bouillon aromatique cuit des heures avec os et épices, servi avec nouilles de riz.",
+      "difficulty": "Moyen",
+      "id": "specialites_monde_45"
+    },
+    {
+      "question": "Quel est le plat brésilien à base de riz blanc, haricots noirs et viande de porc ou bœuf, considéré comme l'emblème culinaire national ?",
+      "options": [
+        "La Feijoada",
+        "Le Churrasco",
+        "La Moqueca",
+        "Le Ceviche"
+      ],
+      "answer": "La Feijoada",
+      "explanation": "La Feijoada est le plat national brésilien, mijoté lentement avec haricots noirs, viandes variées (lard, saucisse, bœuf) et servi avec riz et oranges.",
+      "difficulty": "Moyen",
+      "id": "specialites_monde_46"
     }
   ],
   "Cuisine : Street Food": [
@@ -3077,6 +4271,226 @@
         "Le Monte Cristo",
         "Le Philly Cheesesteak"
       ]
+    },
+    {
+      "id": "street_food_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle spécialité sicilienne de street food consiste en une boule de riz cuisiné, souvent fourrée de ragù et de mozzarella, panée puis frite ?",
+      "answer": "L'arancino (ou arancini)",
+      "explanation": "L'arancino tient son nom de sa forme et de sa couleur dorée qui rappellent une petite orange (arancia en italien). Selon les villes de Sicile, il peut être rond (à Palerme) ou conique (à Catane), chaque forme correspondant traditionnellement à une garniture différente. C'est l'un des en-cas de rue les plus emblématiques et les plus copieux de l'île.",
+      "options": [
+        "L'arancino (ou arancini)",
+        "La suppli (spécialité romaine)",
+        "Le baccalà frit",
+        "La focaccia farcie"
+      ]
+    },
+    {
+      "id": "street_food_32",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel sandwich de street food indien, surnommé le « hamburger du pauvre », est composé d'une boulette de pomme de terre épicée et frite, glissée dans un petit pain moelleux appelé pav ?",
+      "answer": "Le vada pav",
+      "explanation": "Le vada pav est né dans les rues de Mumbai à la fin des années 1960, popularisé notamment près de la gare de Dadar. Sa garniture principale, le batata vada, est une boulette de pomme de terre épicée enrobée de pâte de pois chiches et frite, souvent accompagnée de chutneys piquants. C'est aujourd'hui l'un des encas les plus consommés par les habitants de la mégapole indienne.",
+      "options": [
+        "Le vada pav",
+        "Le pav bhaji",
+        "Le samoussa",
+        "Le dosa roulé"
+      ]
+    },
+    {
+      "id": "street_food_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel petit pain en forme d'anneau, d'abord poché dans l'eau bouillante puis cuit au four, est un incontournable des delis new-yorkais, souvent garni de saumon fumé et de cream cheese ?",
+      "answer": "Le bagel",
+      "explanation": "Le bagel trouve ses origines dans les communautés juives d'Europe centrale et orientale, avant d'être largement diffusé à New York par les immigrants au tournant du XXe siècle. Sa cuisson en deux temps, d'abord poché puis passé au four, lui donne sa croûte brillante et sa mie dense et moelleuse si caractéristique. Il est devenu un symbole culinaire incontournable de la ville de New York.",
+      "options": [
+        "Le bagel",
+        "Le pretzel",
+        "Le bialy",
+        "Le muffin anglais"
+      ]
+    },
+    {
+      "id": "street_food_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel pain en forme d'anneau, recouvert de graines de sésame grillées, est vendu depuis des siècles par des marchands ambulants dans les rues d'Istanbul ?",
+      "answer": "Le simit",
+      "explanation": "Le simit est traditionnellement trempé dans du sirop de mélasse de raisin (pekmez) avant d'être roulé dans les graines de sésame et cuit au four, ce qui lui donne son parfum torréfié caractéristique. Il est vendu dans toute la Turquie par des marchands portant leur plateau en équilibre sur la tête, appelés simitçi. C'est l'en-cas de rue le plus populaire pour le petit-déjeuner turc.",
+      "options": [
+        "Le simit",
+        "Le lavash",
+        "Le pide",
+        "La poğaça"
+      ]
+    },
+    {
+      "id": "street_food_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle fine galette de pain italienne, typique de la région de Romagne, est cuite sur une plaque puis pliée en deux autour d'une garniture de jambon cru et de fromage stracchino ?",
+      "answer": "La piadina",
+      "explanation": "La piadina romagnola est une galette non levée traditionnellement cuite sur une plaque en terre cuite ou en fonte appelée testo. Historiquement préparée avec du saindoux, elle se garnit aujourd'hui aussi bien de charcuterie que de légumes grillés ou de fromage fondant. C'est l'un des symboles culinaires les plus populaires de la côte adriatique italienne.",
+      "options": [
+        "La piadina",
+        "La focaccia",
+        "La schiacciata",
+        "La farinata"
+      ]
+    },
+    {
+      "id": "street_food_36",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle saucisse allemande grillée, spécialité de la ville de Nuremberg, se déguste traditionnellement par trois dans un petit pain rond et est plus petite que les autres saucisses régionales ?",
+      "answer": "La Nürnberger Bratwurst",
+      "explanation": "La Nürnberger Bratwurst bénéficie d'une indication géographique protégée qui garantit sa composition à base de viande de porc pure et sa taille réduite, à peine plus longue qu'un doigt. Elle est traditionnellement grillée sur un feu de bois de hêtre, ce qui lui confère un léger goût fumé. Elle se déguste classiquement « drei im Weckla », c'est-à-dire trois saucisses glissées dans un petit pain.",
+      "options": [
+        "La Nürnberger Bratwurst",
+        "La Weisswurst",
+        "La Currywurst",
+        "La Frankfurter"
+      ]
+    },
+    {
+      "id": "street_food_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle grande crêpe salée japonaise, surnommée « pizza japonaise », est composée de chou émincé et de pâte à base d'œufs et de farine, garnie de porc ou de fruits de mer et nappée d'une sauce brune sucrée et de mayonnaise ?",
+      "answer": "L'okonomiyaki",
+      "explanation": "Le nom okonomiyaki signifie littéralement « grillé comme on l'aime », chacun pouvant choisir librement sa garniture. Deux grandes écoles régionales s'affrontent amicalement : le style d'Osaka, où tous les ingrédients sont mélangés avant cuisson, et le style de Hiroshima, où les couches (chou, nouilles, œuf) sont superposées séparément. Elle se déguste directement sur la plaque chaude où elle a été cuite, dans les restaurants de teppanyaki populaires.",
+      "options": [
+        "L'okonomiyaki",
+        "Le takoyaki",
+        "Les yakisoba",
+        "Le monjayaki"
+      ]
+    },
+    {
+      "id": "street_food_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel encas de rue coréen, très populaire, est composé de petits gâteaux de riz cylindriques mijotés dans une sauce pimentée à base de gochujang ?",
+      "answer": "Le tteokbokki",
+      "explanation": "Le tteokbokki tire sa saveur épicée et légèrement sucrée du gochujang, une pâte de piment fermentée emblématique de la Corée. Il est traditionnellement vendu dans de petits stands de rue appelés pojangmacha, souvent accompagné de gâteaux de poisson (eomuk) et d'œufs durs mijotés dans la même sauce. Sa texture moelleuse et collante en fait un plaisir très populaire auprès des lycéens coréens en sortie de classe.",
+      "options": [
+        "Le tteokbokki",
+        "Le kimbap",
+        "Le bibimbap",
+        "Le jjajangmyeon"
+      ]
+    },
+    {
+      "id": "street_food_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle crêpe chinoise de street food matinale, cuite sur une plaque circulaire avec un œuf battu étalé par-dessus, est garnie de sauce hoisin, de coriandre fraîche et d'un cracker croustillant roulé à l'intérieur ?",
+      "answer": "Le jianbing",
+      "explanation": "Le jianbing est le petit-déjeuner de rue le plus emblématique du nord de la Chine, notamment à Pékin et Tianjin. Le cuisinier étale la pâte fine sur une plaque brûlante, y casse un œuf, puis ajoute sauces, herbes et un cracker frit (baocui) avant de replier le tout en un rouleau compact. Il se prépare et se mange en quelques minutes à peine, généralement debout devant l'échoppe.",
+      "options": [
+        "Le jianbing",
+        "Le congee",
+        "Les baozi",
+        "Le mantou"
+      ]
+    },
+    {
+      "id": "street_food_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quels petits beignets grecs ronds et moelleux, frits puis trempés dans du miel chaud et saupoudrés de cannelle ou de noix concassées, sont considérés comme l'un des ancêtres des beignets modernes ?",
+      "answer": "Les loukoumades",
+      "explanation": "Les loukoumades sont des boules de pâte levée frites jusqu'à devenir dorées et croustillantes à l'extérieur, moelleuses à l'intérieur. Certains historiens de la gastronomie les considèrent comme l'une des plus anciennes friandises frites du bassin méditerranéen, ancêtres possibles de nombreux beignets modernes à travers le monde. Elles sont vendues chaudes dans les rues de Grèce lors des fêtes populaires et des marchés.",
+      "options": [
+        "Les loukoumades",
+        "Les churros",
+        "Les beignets de carnaval",
+        "Les zeppole"
+      ]
+    },
+    {
+      "id": "street_food_41",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Dans quel pays la friterie de rue, avec ses cornets de frites doubles-cuites servis avec des sauces variées comme l'andalouse ou la samouraï, est-elle revendiquée comme une véritable institution nationale ?",
+      "answer": "La Belgique",
+      "explanation": "Les Belges défendent avec fierté la paternité de la frite, dont la légende situe l'invention dans la vallée de la Meuse au XVIIe siècle, lorsque des pêcheurs auraient frit des tranches de pomme de terre pour remplacer le petit poisson qu'ils ne pouvaient plus pêcher en hiver. La technique de la double cuisson, une première fois à basse température puis une seconde à haute température, est essentielle pour obtenir des frites croustillantes à l'extérieur et fondantes à l'intérieur. Les friteries (« frietkot ») font partie intégrante du paysage urbain belge.",
+      "options": [
+        "La Belgique",
+        "Les Pays-Bas",
+        "La France",
+        "Le Luxembourg"
+      ]
+    },
+    {
+      "id": "street_food_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel petit pain vapeur taïwanais, plié en portefeuille et fourré de porc braisé, de légumes fermentés et de cacahuètes concassées, a donné son nom à une célèbre chaîne de restaurants londonienne ?",
+      "answer": "Le gua bao (bao)",
+      "explanation": "Le gua bao, souvent simplement appelé bao, est une spécialité de street food taïwanaise composée d'un petit pain vapeur moelleux replié autour d'une garniture savoureuse et sucrée-salée. Sa popularité a explosé en Occident dans les années 2010, portée notamment par des restaurants spécialisés qui en ont fait leur plat signature à Londres et dans de nombreuses grandes villes occidentales. Il se distingue des baozi chinois par sa forme ouverte en portefeuille plutôt que fermée.",
+      "options": [
+        "Le gua bao (bao)",
+        "Le xiaolongbao",
+        "Le char siu bao",
+        "Le jiaozi"
+      ]
+    },
+    {
+      "question": "Quel sandwich français traditionnel, préparé avec une baguette évidée, est farci de garnitures variées (jambon, fromage, salade) ?",
+      "options": [
+        "La Baguette garnie (sandwich français classique)",
+        "Le Croque-monsieur",
+        "La Ciabatta",
+        "Le Pain au jambon"
+      ],
+      "answer": "La Baguette garnie (sandwich français classique)",
+      "explanation": "Le sandwich classique français préparé dans une baguette évidée avec jambon, fromage, beurre et salade est l'aliment de rue français emblématique.",
+      "difficulty": "Facile",
+      "id": "street_food_43"
+    },
+    {
+      "question": "Quel sandwich français cuit à la poêle associe deux tranches de pain de mie, jambon et fromage fondu ?",
+      "options": [
+        "Le Croque-monsieur",
+        "Le Panini",
+        "Le Club sandwich",
+        "Le Pain brioché farci"
+      ],
+      "answer": "Le Croque-monsieur",
+      "explanation": "Le Croque-monsieur est un classique de la gastronomie française de rue : pain de mie, jambon, fromage, grillé à la poêle et servi chaud et croustillant.",
+      "difficulty": "Facile",
+      "id": "street_food_44"
+    },
+    {
+      "question": "Quel plat asiatique de rue, d'origine thaïlandaise, est préparé sur une plaque chauffante avec nouilles, œufs et germes de soja ?",
+      "options": [
+        "Le Pad Thaï",
+        "Le Ramen",
+        "Le Soba",
+        "Le Chow mein"
+      ],
+      "answer": "Le Pad Thaï",
+      "explanation": "Le Pad Thaï est un plat de rue thaïlandais ubiquitaire, préparé rapidement avec nouilles de riz, œufs, arachides et sauce tamarind, servi chaud et parfumé.",
+      "difficulty": "Facile",
+      "id": "street_food_45"
+    },
+    {
+      "question": "Quel aliment de rue moyen-oriental, composé de pois chiches frits, est généralement servi dans un pain pita avec sauce tahini ?",
+      "options": [
+        "Le Falafel",
+        "Le Shawarma",
+        "Le Kebab",
+        "Le Hummus"
+      ],
+      "answer": "Le Falafel",
+      "explanation": "Le Falafel est une boulette frite levantine à base de pois chiches, servie dans le pain pita avec sauce tahini, légumes et accompagnements, aliment de rue populaire.",
+      "difficulty": "Facile",
+      "id": "street_food_46"
     }
   ],
   "Cuisine : Ustensiles & Techniques": [
@@ -3499,6 +4913,226 @@
         "Le fer à crème",
         "Le vaporisateur à flamme"
       ]
+    },
+    {
+      "id": "ustensiles_techniques_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel ustensile de cuisine, muni d'une lame réglable fixée sur un cadre, permet de couper des légumes en tranches très fines et régulières ou en julienne rapide ?",
+      "answer": "La mandoline",
+      "explanation": "La mandoline est un ustensile redoutablement efficace mais réputé dangereux, car sa lame très affûtée expose les doigts à des coupures fréquentes si l'on n'utilise pas le poussoir de protection. Elle permet d'obtenir en quelques secondes des tranches parfaitement régulières, indispensables pour un gratin dauphinois harmonieux ou des chips de légumes croustillantes. Certains modèles professionnels permettent également de régler l'épaisseur au millimètre près.",
+      "options": [
+        "La mandoline",
+        "L'économe",
+        "Le couteau éminceur",
+        "La râpe à quatre faces"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle poêle asiatique à fond arrondi et parois évasées, traditionnellement en fonte ou en acier, permet une cuisson très rapide à feu vif tout en remuant constamment les aliments ?",
+      "answer": "Le wok",
+      "explanation": "Le wok est originaire de Chine et sa forme incurvée concentre la chaleur intense au centre du fond, tandis que les parois évasées offrent une zone plus tempérée pour maintenir les aliments au chaud. Cette conception permet la technique du sauté rapide, qui préserve le croquant des légumes et la jutosité des viandes. Son maniement exige un geste vif du poignet pour projeter et retourner continuellement les ingrédients.",
+      "options": [
+        "Le wok",
+        "La sauteuse",
+        "Le tajine",
+        "La cocotte en fonte"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ustensile hermétique, dont le principe fut découvert au XVIIe siècle par le physicien français Denis Papin, permet de cuire les aliments plus rapidement grâce à la pression de la vapeur ?",
+      "answer": "L'autocuiseur (ou cocotte-minute)",
+      "explanation": "Denis Papin conçut en 1679 un « digesteur » à vapeur permettant de ramollir les os sous haute pression, ancêtre direct de l'autocuiseur moderne. Ce n'est qu'au milieu du XXe siècle que l'entreprise française SEB démocratisa l'objet dans les foyers sous le nom commercial de Cocotte-Minute. La pression élevée à l'intérieur du récipient permet de diviser par deux ou trois le temps de cuisson de nombreux plats mijotés.",
+      "options": [
+        "L'autocuiseur (ou cocotte-minute)",
+        "Le faitout",
+        "La marmite norvégienne",
+        "Le diable en terre cuite"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel duo d'ustensiles, composé d'un récipient robuste et d'un bâton pour écraser, est utilisé depuis l'Antiquité pour piler les épices, l'ail ou préparer le pesto traditionnel ?",
+      "answer": "Le mortier et le pilon",
+      "explanation": "Le mortier et le pilon comptent parmi les plus anciens ustensiles de cuisine connus, utilisés depuis des millénaires sur tous les continents pour broyer et libérer les huiles essentielles des épices ou des herbes. En Ligurie, le pesto traditionnel est encore préparé au mortier de marbre par les puristes, car ce geste écrase les feuilles de basilic sans les oxyder comme le ferait la lame d'un mixeur ; cette méthode reste recommandée par le consortium qui promeut le pesto genovese authentique, sans pour autant constituer une obligation légale. C'est également l'outil indispensable pour réduire l'ail et le sel en pâte homogène.",
+      "options": [
+        "Le mortier et le pilon",
+        "Le moulin à épices",
+        "La râpe Microplane",
+        "Le presse-ail"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_35",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel terme technique désigne le fait de cuire doucement des légumes, comme des oignons ou des échalotes, dans un corps gras à couvert et sans coloration, afin d'en extraire l'eau et les arômes ?",
+      "answer": "Suer",
+      "explanation": "Faire suer des légumes consiste à les cuire à feu très doux, souvent à couvert, pour ramollir leurs fibres et libérer leurs sucs sans qu'ils ne prennent la moindre couleur. Cette étape se distingue du fait de « faire revenir », qui recherche au contraire une légère coloration. C'est la base indispensable de très nombreuses soupes, fonds et sauces mijotées de la cuisine française.",
+      "options": [
+        "Suer",
+        "Snacker",
+        "Étuver à sec",
+        "Poêler"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel mode de cuisson consiste à immerger un aliment dans un liquide frémissant, mais jamais bouillant, comme pour cuire un œuf sans coquille ou un filet de poisson délicat ?",
+      "answer": "Pocher",
+      "explanation": "Pocher exige une grande maîtrise de la température, le liquide devant rester juste en dessous du point d'ébullition, entre 85 et 95 degrés environ, pour ne pas brutaliser l'aliment. Cette cuisson douce préserve la texture fondante des œufs pochés ou des filets de poisson les plus fragiles. Elle s'oppose à la cuisson à gros bouillons, beaucoup trop violente pour ces préparations délicates.",
+      "options": [
+        "Pocher",
+        "Blanchir",
+        "Braiser",
+        "Cuire à la vapeur"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel geste technique consiste à saupoudrer légèrement de farine une viande en cours de cuisson dans une cocotte, juste avant d'ajouter le liquide de mouillement, afin d'épaissir naturellement la future sauce ?",
+      "answer": "Singer",
+      "explanation": "Singer une viande consiste à la saupoudrer d'un voile fin de farine directement dans la cocotte, puis à la laisser légèrement torréfier une minute avant de mouiller avec le vin ou le bouillon. Cette technique permet à l'amidon de la farine de lier progressivement la sauce sans avoir besoin de préparer un roux séparé. Elle est employée dans de nombreux plats mijotés classiques comme la blanquette de veau ou la daube.",
+      "options": [
+        "Singer",
+        "Fariner",
+        "Lier",
+        "Poudrer"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_38",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on le beurre cuit à feu doux jusqu'à ce qu'il prenne une couleur dorée et dégage un parfum caractéristique de noisette grillée ?",
+      "answer": "Le beurre noisette",
+      "explanation": "Le beurre noisette s'obtient en faisant chauffer doucement du beurre jusqu'à ce que ses protéines de lait caramélisent légèrement, développant un parfum torréfié rappelant la noisette. Il faut surveiller la cuisson de très près, car il passe rapidement du stade doré parfait à celui de beurre brûlé et amer. Il sublime des plats classiques comme la sole meunière ou les madeleines.",
+      "options": [
+        "Le beurre noisette",
+        "Le beurre clarifié",
+        "Le beurre pommade",
+        "Le beurre fondu"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle technique de pâtisserie consiste à garnir l'intérieur d'un moule à tarte avec une abaisse de pâte, en la faisant bien adhérer aux parois et au fond avant la cuisson ?",
+      "answer": "Foncer",
+      "explanation": "Foncer un moule consiste à disposer délicatement l'abaisse de pâte à l'intérieur, en la pressant doucement contre les parois pour éliminer les bulles d'air et éviter qu'elle ne se rétracte à la cuisson. On pique généralement le fond à la fourchette pour empêcher la pâte de gonfler de façon inégale. C'est une étape indispensable avant toute cuisson à blanc d'un fond de tarte.",
+      "options": [
+        "Foncer",
+        "Chemiser",
+        "Abaisser",
+        "Sabler"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle technique de découpe consiste à lever les quartiers d'un agrume en retirant entièrement la membrane blanche et la peau, pour obtenir des segments de chair nue ?",
+      "answer": "Suprêmer",
+      "explanation": "Suprêmer un agrume consiste à trancher les deux extrémités du fruit, puis à retirer l'écorce et le ziste en suivant la courbe avec un couteau bien affûté, avant de détacher chaque quartier entre les fines membranes. On obtient ainsi des segments de chair pure, sans aucune amertume, du plus bel effet dans une salade ou un dressage de ceviche. Cette technique demande de la précision pour ne pas gaspiller trop de pulpe.",
+      "options": [
+        "Suprêmer",
+        "Ciseler",
+        "Zester",
+        "Émincer"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle technique classique consiste à tailler des légumes comme les carottes ou les pommes de terre en forme de petit ballon à sept faces régulières, à l'aide d'un couteau à lame courbe ?",
+      "answer": "Tourner",
+      "explanation": "Tourner des légumes est un exercice technique exigeant de la haute cuisine française, réalisé avec un petit couteau à lame courbe appelé couteau à tourner ou bec d'oiseau. Chaque légume doit présenter sept faces parfaitement régulières pour une cuisson homogène et une présentation soignée dans l'assiette. Cette technique, aujourd'hui plus rare dans la restauration courante, reste enseignée dans les écoles hôtelières comme exercice de dextérité.",
+      "options": [
+        "Tourner",
+        "Canneler",
+        "Tailler en biseau",
+        "Tourneviser"
+      ]
+    },
+    {
+      "id": "ustensiles_techniques_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel ustensile souple en forme de cône, muni d'un embout métallique interchangeable, permet de dresser précisément de la crème, de la pâte à choux ou un glaçage ?",
+      "answer": "La poche à douille",
+      "explanation": "La poche à douille est un accessoire indispensable de la pâtisserie, permettant de doser et de dresser avec précision des préparations molles ou crémeuses. Les douilles interchangeables, unies ou cannelées, offrent des rendus très différents, du simple point de crème à la rosace décorative. Elle sert aussi bien à coucher des choux réguliers qu'à fourrer délicatement un éclair.",
+      "options": [
+        "La poche à douille",
+        "La seringue à pâtisserie",
+        "Le pinceau à pâtisserie",
+        "La corne à pâte"
+      ]
+    },
+    {
+      "question": "Quel ustensile de cuisine français, en cuivre ou acier inoxydable, est utilisé pour fouetter, mélanger et incorporer de l'air dans les préparations ?",
+      "options": [
+        "Le fouet",
+        "Le mélangeur électrique",
+        "La spatule",
+        "Le rouleau à pâtisserie"
+      ],
+      "answer": "Le fouet",
+      "explanation": "Le fouet (fouet de cuisine) est l'ustensile classique français pour battre, fouetter et créer de l'aération dans les crèmes, blancs d'œufs et sauces.",
+      "difficulty": "Facile",
+      "id": "ustensiles_techniques_43"
+    },
+    {
+      "question": "Quel procédé culinaire français consiste à braiser viande ou légumes lentement dans un liquide fermé pour attendre la tendreté ?",
+      "options": [
+        "Le Braisage",
+        "La Poêlée",
+        "La Friture",
+        "La Vapeur"
+      ],
+      "answer": "Le Braisage",
+      "explanation": "Le Braisage est une technique classique française : la viande ou légumes sont sautés puis cuits lentement dans peu de liquide couvert, donnant une cuisson douce et saveur concentrée.",
+      "difficulty": "Moyen",
+      "id": "ustensiles_techniques_44"
+    },
+    {
+      "question": "Quel est le nom de la technique culinaire consistant à cuire rapidement à feu très vif en versant un liquide chaud sur la viande pour créer une croûte ?",
+      "options": [
+        "Le Déglaçage ou réduction de jus",
+        "La Saisie",
+        "Le Poêlage",
+        "La Brûlure"
+      ],
+      "answer": "Le Déglaçage ou réduction de jus",
+      "explanation": "Le Déglaçage consiste à verser un liquide (vin, bouillon) sur les sucs caramélisés au fond du plat de cuisson, créant un jus riche et savoureux.",
+      "difficulty": "Moyen",
+      "id": "ustensiles_techniques_45"
+    },
+    {
+      "question": "Quel est le nom du couteau français de chef, courbé et servant à hacher finement les ingrédients sur une planche à découper ?",
+      "options": [
+        "Le Couteau de chef ou Bec d'aigle",
+        "Le Couteau à dents",
+        "Le Couteau à beurre",
+        "Le Couteau de filet"
+      ],
+      "answer": "Le Couteau de chef ou Bec d'aigle",
+      "explanation": "Le couteau de chef français (ou Bec d'aigle pour la version courbe) est l'outil fondamental pour émincer, hacher et préparer les ingrédients en cuisine.",
+      "difficulty": "Facile",
+      "id": "ustensiles_techniques_46"
     }
   ],
   "Cuisine : Épices & Herbes": [
@@ -3921,6 +5555,226 @@
         "La menthe",
         "Le romarin"
       ]
+    },
+    {
+      "id": "epices_herbes_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle épice, considérée comme le « roi des épices » et la plus consommée au monde, est obtenue en faisant sécher les baies encore vertes d'une liane grimpante originaire de la côte de Malabar en Inde ?",
+      "answer": "Le poivre noir",
+      "explanation": "Le poivre noir provient de la liane Piper nigrum, dont les baies sont cueillies vertes puis séchées au soleil jusqu'à noircir et se rider. Il fut l'un des moteurs majeurs du commerce des épices entre l'Inde et l'Europe dès l'Antiquité, valant parfois son poids en or. Poivre blanc, vert et rouge proviennent tous de la même plante, seul le stade de maturité et le mode de traitement diffèrent.",
+      "options": [
+        "Le poivre noir",
+        "Le poivre de Sichuan",
+        "La badiane",
+        "Le clou de girofle"
+      ]
+    },
+    {
+      "id": "epices_herbes_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle baie chinoise, qui n'est botaniquement pas un vrai poivre, provoque une sensation de picotement et d'engourdissement caractéristique sur la langue et est essentielle à la cuisine du Sichuan ?",
+      "answer": "Le poivre de Sichuan",
+      "explanation": "Le poivre de Sichuan appartient à la famille des agrumes et non à celle du poivrier, ce qui explique son parfum citronné et floral très particulier. Sa molécule caractéristique provoque un léger engourdissement et un picotement sur les lèvres et la langue, formant avec le piment la fameuse saveur « mala » de la cuisine chinoise du Sichuan. Il est indispensable au poulet Kung Pao et à la fondue chinoise épicée.",
+      "options": [
+        "Le poivre de Sichuan",
+        "Le poivre long",
+        "Le poivre de Kampot",
+        "La cardamome noire"
+      ]
+    },
+    {
+      "id": "epices_herbes_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle herbe emblématique du Sud de la France, aux petites feuilles très parfumées, est l'un des composants indispensables du mélange « herbes de Provence » avec le romarin et la sarriette ?",
+      "answer": "Le thym",
+      "explanation": "Le thym est un petit arbrisseau méditerranéen dont les feuilles minuscules concentrent une huile essentielle riche en thymol, un composé aux propriétés antiseptiques reconnues. Séché, il conserve très bien ses arômes et parfume aussi bien les plats mijotés que les grillades. Il pousse spontanément sur les collines calcaires et ensoleillées de Provence, d'où son surnom de « farigoule ».",
+      "options": [
+        "Le thym",
+        "La sarriette",
+        "L'origan",
+        "Le romarin"
+      ]
+    },
+    {
+      "id": "epices_herbes_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle graine aromatique au léger goût anisé, récoltée sur une plante ombellifère, parfume traditionnellement le court-bouillon de poissons et certaines saucisses italiennes comme la finocchiona ?",
+      "answer": "La graine de fenouil",
+      "explanation": "La graine de fenouil provient de la même plante que le bulbe consommé comme légume, mais c'est bien la graine séchée qui est utilisée comme épice pour son parfum anisé plus concentré. Elle entre dans la composition de nombreux mélanges d'épices méditerranéens et indiens, ainsi que dans certaines charcuteries italiennes qu'elle parfume délicatement. Elle facilite également la digestion, d'où sa présence traditionnelle en fin de repas dans certains pays.",
+      "options": [
+        "La graine de fenouil",
+        "La graine de coriandre",
+        "La graine de carvi",
+        "L'anis vert"
+      ]
+    },
+    {
+      "id": "epices_herbes_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle petite graine, jaune ou brune, une fois broyée et mélangée à du vinaigre ou du verjus, donne naissance au célèbre condiment de Dijon ?",
+      "answer": "La graine de moutarde",
+      "explanation": "La graine de moutarde est broyée puis mélangée à un liquide acide, historiquement du verjus (jus de raisin vert acide) pour la moutarde de Dijon traditionnelle. Selon qu'elle est jaune, brune ou noire, elle offre une force et une saveur différentes, la moutarde brune étant la plus piquante. La ville de Dijon a donné son nom à cette préparation sans pour autant bénéficier d'une protection géographique garantissant une production locale.",
+      "options": [
+        "La graine de moutarde",
+        "La graine de pavot",
+        "La graine de sésame",
+        "La graine de nigelle"
+      ]
+    },
+    {
+      "id": "epices_herbes_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel mélange d'épices et d'herbes du Levant, associant du thym séché, du sumac, des graines de sésame grillées et du sel, est traditionnellement saupoudré sur du pain plat arrosé d'huile d'olive au petit-déjeuner ?",
+      "answer": "Le zaatar",
+      "explanation": "Le zaatar désigne à la fois une plante proche du thym et le mélange d'épices qui porte son nom, très populaire au Liban, en Syrie, en Jordanie et en Palestine. Il est le plus souvent mélangé à de l'huile d'olive pour former une pâte que l'on étale sur du pain avant de le passer au four. Sa saveur combine la note terreuse du thym, l'acidité citronnée du sumac et le croquant grillé du sésame.",
+      "options": [
+        "Le zaatar",
+        "Le dukkah",
+        "Le ras el hanout",
+        "Le baharat"
+      ]
+    },
+    {
+      "id": "epices_herbes_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel mélange d'épices marocain, dont le nom signifie littéralement « la tête de la boutique », peut réunir plus d'une vingtaine d'épices différentes selon la recette du marchand ?",
+      "answer": "Le ras el hanout",
+      "explanation": "Le ras el hanout désigne traditionnellement le meilleur assortiment d'épices qu'un marchand puisse proposer, sa composition exacte variant donc considérablement d'une échoppe à l'autre. Il peut contenir de la cannelle, du poivre, du gingembre, du curcuma, des boutons de rose séchés ou encore de la cardamome. Il parfume principalement les tagines et le couscous de la cuisine marocaine.",
+      "options": [
+        "Le ras el hanout",
+        "Le tabil tunisien",
+        "La harissa en poudre",
+        "Le baharat libanais"
+      ]
+    },
+    {
+      "id": "epices_herbes_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel mélange français traditionnel, malgré son nom trompeur, est en réalité le plus souvent composé de poivre, de muscade, de girofle et de gingembre moulus, et sert surtout à assaisonner les charcuteries et les pâtés ?",
+      "answer": "Le quatre-épices",
+      "explanation": "Le quatre-épices tire son nom du nombre d'ingrédients qui le composent traditionnellement, bien que certaines recettes régionales y ajoutent parfois de la cannelle. Sa saveur chaude et légèrement piquante en fait un assaisonnement classique pour les terrines, les pâtés et certains plats mijotés d'hiver. On le trouve aujourd'hui tout prêt en poudre dans la plupart des épiceries françaises.",
+      "options": [
+        "Le quatre-épices",
+        "Le pain d'épices en poudre",
+        "Le mélange épices à pain",
+        "Le curry doux français"
+      ]
+    },
+    {
+      "id": "epices_herbes_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle petite graine piquante d'Afrique de l'Ouest, aussi appelée maniguette, a longtemps servi de substitut au poivre noir en Europe médiévale en raison de son coût moindre ?",
+      "answer": "Les grains de paradis",
+      "explanation": "Les grains de paradis, aussi connus sous le nom de maniguette ou poivre de Guinée, proviennent d'une plante de la famille du gingembre poussant en Afrique de l'Ouest. Au Moyen Âge, ils étaient largement utilisés en Europe comme épice de substitution moins coûteuse que le poivre noir importé d'Asie. Leur saveur poivrée est enrichie de notes chaudes rappelant la cardamome et les agrumes.",
+      "options": [
+        "Les grains de paradis",
+        "Le poivre long",
+        "La cardamome verte",
+        "Le galanga"
+      ]
+    },
+    {
+      "id": "epices_herbes_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle herbe aromatique délicate aux feuilles finement découpées, au léger goût anisé, fait partie des « fines herbes » classiques avec le persil, la ciboulette et l'estragon ?",
+      "answer": "Le cerfeuil",
+      "explanation": "Le cerfeuil possède des feuilles très fines et légères, proches de celles du persil, mais dégage un parfum délicat rappelant l'anis et la réglisse. Très fragile, il perd rapidement ses arômes à la cuisson et à la conservation, et doit donc être ciselé cru au tout dernier moment. Il entre dans la composition classique des fines herbes qui parfument omelettes, salades et sauces froides.",
+      "options": [
+        "Le cerfeuil",
+        "L'aneth",
+        "La coriandre",
+        "La marjolaine"
+      ]
+    },
+    {
+      "id": "epices_herbes_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle herbe aromatique méditerranéenne, cousine plus douce et plus sucrée de l'origan, est parfois surnommée « l'herbe à saucisses » en Allemagne ?",
+      "answer": "La marjolaine",
+      "explanation": "La marjolaine partage la même famille botanique que l'origan, mais ses feuilles gris-vert développent une saveur beaucoup plus douce, florale et légèrement sucrée. Elle est traditionnellement utilisée en Allemagne pour parfumer les farces de saucisses et les plats de charcuterie, d'où son surnom populaire outre-Rhin. Elle se marie également très bien avec les pommes de terre, les champignons et les légumineuses.",
+      "options": [
+        "La marjolaine",
+        "L'origan",
+        "La sarriette",
+        "Le basilic pourpre"
+      ]
+    },
+    {
+      "id": "epices_herbes_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle racine à la saveur anisée et très sucrée est utilisée pour fabriquer des bâtons à mâcher et des bonbons noirs, la ville de Pontarlier dans le Doubs étant historiquement réputée pour sa production ?",
+      "answer": "La réglisse",
+      "explanation": "La réglisse est extraite de la racine d'une plante légumineuse dont la saveur sucrée provient d'un composé, la glycyrrhizine, environ cinquante fois plus sucrant que le sucre ordinaire. La ville de Pontarlier dans le Doubs a développé au XIXe siècle une importante industrie de transformation de la réglisse, donnant naissance à des marques de bonbons devenues emblématiques. Elle parfume aussi bien les confiseries que certaines liqueurs anisées.",
+      "options": [
+        "La réglisse",
+        "La badiane",
+        "La racine de gingembre",
+        "La racine d'angélique"
+      ]
+    },
+    {
+      "question": "Quel est l'épice français classique fabriquée à partir de la graine de fenouil séchée, utilisée dans les sauces et marinades ?",
+      "options": [
+        "Le Fenouil ou la Graine de fenouil",
+        "La Badiane (anis étoilé)",
+        "La Coriandre",
+        "Le Cumin"
+      ],
+      "answer": "Le Fenouil ou la Graine de fenouil",
+      "explanation": "Le fenouil, herbe méditerranéenne française, est utilisé en graines sèches pour aromatiser plats de poisson et liqueurs apéritives traditionnelles.",
+      "difficulty": "Moyen",
+      "id": "epices_herbes_43"
+    },
+    {
+      "question": "Quel mélange français d'épices, contenant généralement cannelle, clou de girofle et muscade, est utilisé en pâtisserie et cuisine sucrée ?",
+      "options": [
+        "Le Mélange à Épices douce ou Quatre-épices (variante sucrée)",
+        "L'Herbes de Provence",
+        "Le Curry français",
+        "Le Mélange Tandoori"
+      ],
+      "answer": "Le Mélange à Épices douce ou Quatre-épices (variante sucrée)",
+      "explanation": "Les Quatre-épices françaises (cannelle, girofle, muscade, poivre) ou versions sucrées sont classiquement utilisées en pâtisserie française et gâteaux spécialisés.",
+      "difficulty": "Difficile",
+      "id": "epices_herbes_44"
+    },
+    {
+      "question": "Quel est le nom du mélange d'herbes séchées provençales, typiquement composé de thym, romarin, basilic et laurier ?",
+      "options": [
+        "Les Herbes de Provence",
+        "L'Herbes méditerranéennes",
+        "Le Bouquet Garni",
+        "L'Herbes françaises"
+      ],
+      "answer": "Les Herbes de Provence",
+      "explanation": "Les Herbes de Provence sont un mélange d'herbes séchées traditionnel du sud français, utilisé pour assaisonner ratatouille, ragoûts et plats méditerranéens.",
+      "difficulty": "Facile",
+      "id": "epices_herbes_45"
+    },
+    {
+      "question": "Quel est le nom du petit faisceau de brins d'herbes (thym, laurier, persil) lié ensemble et utilisé pour aromatiser bouillons et ragoûts ?",
+      "options": [
+        "Le Bouquet Garni",
+        "L'Herbes Ligaturées",
+        "Le Fagot d'herbes",
+        "Le Mélange aromatique"
+      ],
+      "answer": "Le Bouquet Garni",
+      "explanation": "Le Bouquet Garni est un mélange français classique de thym, laurier et persil attachés, plongé dans les bouillons pour les aromatiser sans laisser de résidus.",
+      "difficulty": "Facile",
+      "id": "epices_herbes_46"
     }
   ],
   "Cuisine : Chocolat & Confiserie": [
@@ -4343,6 +6197,226 @@
         "La Tablette aux Noisettes",
         "Le Bêtise de Lyon"
       ]
+    },
+    {
+      "id": "chocolat_confiserie_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle confiserie translucide en forme de bâtonnet coloré, spécialité historique de la ville de Moret-sur-Loing, aurait été confectionnée à l'origine par des religieuses bénédictines dès le XVIIe siècle ?",
+      "answer": "Le sucre d'orge",
+      "explanation": "Le sucre d'orge de Moret-sur-Loing doit son nom à l'eau d'orge autrefois utilisée dans sa préparation, bien que la recette actuelle repose essentiellement sur du sucre cuit et parfumé. Sa fabrication artisanale traditionnelle donne un bonbon dur et translucide, souvent tordu en bâtonnet ou en petit ruban. Cette confiserie ancienne reste un symbole du patrimoine sucré de cette petite ville de Seine-et-Marne.",
+      "options": [
+        "Le sucre d'orge",
+        "Le berlingot",
+        "Le sucre candi",
+        "La papillote"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle petite confiserie dure de sucre cuit, de forme pyramidale à quatre faces rayées de couleurs, est une spécialité que revendiquent aussi bien la ville de Nantes que celle de Carpentras ?",
+      "answer": "Le berlingot",
+      "explanation": "Le berlingot se caractérise par sa forme pyramidale à quatre faces obtenue en tordant puis en découpant un boudin de sucre cuit strié de plusieurs couleurs. Nantes et Carpentras revendiquent chacune leur tradition du berlingot, avec des parfums et des tailles parfois différents. Sa texture très dure impose de le laisser fondre longuement en bouche plutôt que de le croquer d'emblée.",
+      "options": [
+        "Le berlingot",
+        "La bêtise de Cambrai",
+        "Le sucre d'orge",
+        "Le calisson"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle barre de caramel mou français, emballée dans un papier orange contenant traditionnellement une blague, a été inventée en 1954 dans le Nord de la France ?",
+      "answer": "Le Carambar",
+      "explanation": "Le Carambar aurait été créé en 1954 par la confiserie Delespaul-Havez, installée dans le Nord de la France, à la suite d'un incident de fabrication qui aurait mélangé accidentellement caramel et cacao dans une même machine. L'ajout des célèbres blagues sur l'emballage n'est venu qu'en 1969 pour dynamiser les ventes. Sa texture très collante et sa forme allongée en ont fait un classique intemporel des cours de récréation françaises.",
+      "options": [
+        "Le Carambar",
+        "Le Michoko",
+        "La Malabar",
+        "Le Krema"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel bonbon français en forme de fraise, moelleux et sucré, recouvert de sucre cristallisé, a été lancé par la confiserie Haribo en 1980 ?",
+      "answer": "La fraise Tagada",
+      "explanation": "La fraise Tagada a été inventée en 1980 par la marque de confiseries allemande Haribo, spécifiquement pour le marché français. Sa texture moelleuse à mi-chemin entre le bonbon gélifié et la guimauve, associée à son enrobage de sucre granuleux, en a fait l'un des bonbons préférés des enfants français. Son nom fait référence au galop du cheval, en clin d'œil à une célèbre publicité télévisée de la marque.",
+      "options": [
+        "La fraise Tagada",
+        "La banane Haribo",
+        "Le Dragibus",
+        "Le Croco"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_35",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle fleur, cristallisée dans du sucre pour en préserver la forme et la couleur, est une spécialité confite emblématique de la ville de Toulouse depuis le XIXe siècle ?",
+      "answer": "La violette (de Toulouse)",
+      "explanation": "La violette de Toulouse est cultivée dans la région toulousaine depuis le XIXe siècle, où elle est devenue un emblème local aussi bien en fleuriste qu'en confiserie. Sa cristallisation, un procédé long et minutieux, permet de conserver sa forme délicate et sa couleur violette pendant plusieurs mois. Elle est utilisée pour décorer les pâtisseries autant que dégustée telle quelle comme bonbon.",
+      "options": [
+        "La violette (de Toulouse)",
+        "La rose confite",
+        "La fleur d'oranger cristallisée",
+        "Le mimosa confit"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel bonbon bourguignon, créé à Nevers au début du XXe siècle en hommage au titre porté par le souverain d'Éthiopie, est un caramel dur fourré d'une ganache fondante au chocolat ?",
+      "answer": "Le Négus (de Nevers)",
+      "explanation": "Le Négus de Nevers a été inventé en 1900 par le confiseur nivernais Grelier (successeur de la maison Randier), puis baptisé « Négus » en 1902 en hommage à la visite en France de Ménélik II, empereur d'Éthiopie surnommé « le Négus », qui avait séjourné à Nevers peu de temps auparavant. Ce bonbon associe une coque de caramel dur cuit à une ganache au chocolat fondante en son centre. Il reste aujourd'hui une spécialité fièrement défendue par les confiseurs de la ville de Nevers.",
+      "options": [
+        "Le Négus (de Nevers)",
+        "La Forestine",
+        "Le Duc de Nevers",
+        "La Praline royale"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle confiserie berrichonne, créée à Bourges en 1879, associe un praliné aux amandes et noisettes à une fine coque croquante bicolore, rose et marron ?",
+      "answer": "La Forestine",
+      "explanation": "La Forestine a été inventée en 1879 par un confiseur de Bourges qui souhaitait créer une friandise distinctive pour sa boutique. Sa coque croustillante à deux couleurs enrobe un cœur de praliné onctueux aux amandes et aux noisettes torréfiées. Elle demeure une spécialité fièrement locale du Berry, peu connue en dehors de sa région d'origine.",
+      "options": [
+        "La Forestine",
+        "La prasline de Montargis",
+        "Le calisson",
+        "Le Négus"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle confiserie populaire et estivale, un sucre cuit parfumé moulé directement dans un petit coquillage que l'on lèche à même l'emballage naturel, est traditionnellement vendue sur les plages françaises ?",
+      "answer": "Le roudoudou",
+      "explanation": "Le roudoudou est un sucre cuit et parfumé coulé encore chaud dans un petit coquillage ou un minuscule pot, qui sert à la fois de moule et d'emballage naturel. Une fois le sucre durci et refroidi, on le lèche directement à l'intérieur de sa coquille à l'aide d'une petite cuillère ou du doigt. Cette confiserie très populaire chez les enfants est particulièrement associée aux marchés et aux plages de Bretagne.",
+      "options": [
+        "Le roudoudou",
+        "Le sucre d'orge",
+        "La sucette plate",
+        "Le berlingot"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Pour porter légalement la mention « chocolat noir » selon la réglementation européenne, une tablette doit contenir au minimum quel pourcentage de matière sèche totale de cacao ?",
+      "answer": "35%",
+      "explanation": "La directive européenne encadrant la dénomination du chocolat fixe un seuil minimal de 35% de matière sèche totale de cacao pour qu'un produit puisse être appelé chocolat. Les grandes marques de chocolat noir haut de gamme dépassent très largement ce minimum, certaines tablettes atteignant 70%, 85% voire davantage. Ce seuil réglementaire distingue le chocolat noir des imitations moins riches en cacao.",
+      "options": [
+        "35%",
+        "50%",
+        "70%",
+        "20%"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle confiserie moelleuse est obtenue en faisant cuire une purée ou un jus de fruits avec du sucre et de la pectine, avant d'être coulée en carrés puis roulée dans du sucre cristallisé ?",
+      "answer": "La pâte de fruits",
+      "explanation": "La pâte de fruits est réalisée en cuisant longuement une purée de fruits avec du sucre et de la pectine, un gélifiant naturellement présent dans certains fruits comme la pomme ou le coing. Une fois refroidie et découpée en cubes, elle est roulée dans du sucre cristallisé pour la texture croustillante finale. Elle se décline dans une infinité de parfums selon les fruits de saison utilisés.",
+      "options": [
+        "La pâte de fruits",
+        "La gelée de fruits",
+        "Le loukoum",
+        "La confiture solide"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle variante plus dure et plus foncée du nougat traditionnel, préparée uniquement avec du miel cuit et des amandes sans blancs d'œufs, fait partie des treize desserts de Noël provençaux aux côtés du nougat blanc ?",
+      "answer": "Le nougat noir",
+      "explanation": "Le nougat noir se distingue du nougat blanc par l'absence de blancs d'œufs montés, ce qui lui donne une texture beaucoup plus dure et cassante sous la dent. Sa couleur brune provient de la cuisson prolongée du miel, poussée jusqu'à une légère caramélisation. Dans la tradition provençale des treize desserts servis à la veillée de Noël, le contraste entre nougat noir et nougat blanc symbolise le bien et le mal.",
+      "options": [
+        "Le nougat noir",
+        "Le nougat de Montélimar",
+        "La nougatine",
+        "Le croquant aux amandes"
+      ]
+    },
+    {
+      "id": "chocolat_confiserie_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle confiserie de fête foraine consiste en des cacahuètes enrobées d'une fine couche de sucre caramélisé rose ou rouge, vendue traditionnellement chaude dans un cornet en papier ?",
+      "answer": "Le chouchou",
+      "explanation": "Le chouchou est préparé en faisant tourner des cacahuètes dans un bain de sucre coloré et caramélisé, chauffé en continu dans une machine rotative typique des fêtes foraines. Servi encore tiède dans un cornet, il dégage un parfum sucré caractéristique qui embaume les allées des fêtes. Cette confiserie populaire se décline parfois aussi avec des amandes.",
+      "options": [
+        "Le chouchou",
+        "La barbe à papa",
+        "La pomme d'amour",
+        "Le nougat de foire"
+      ]
+    },
+    {
+      "question": "Quel est le pourcentage minimum de cacao dans une tablette de chocolat pour qu'elle soit qualifiée de chocolat noir en France ?",
+      "options": [
+        "50% minimum",
+        "70% minimum",
+        "85% minimum",
+        "100% (chocolat pur)"
+      ],
+      "answer": "50% minimum",
+      "explanation": "En France, le chocolat noir est défini légalement comme contenant minimum 50% de cacao (solide ou beurre de cacao) pour être appelé chocolat noir.",
+      "difficulty": "Moyen",
+      "id": "chocolat_confiserie_43"
+    },
+    {
+      "question": "Quel confiseur français du 18e siècle est crédité d'avoir inventé la technique de tempérage du chocolat pour lui donner son brillant ?",
+      "options": [
+        "Le tempérage est une technique ancienne non attribuée à une personne unique",
+        "Mademoiselle de Châtillon",
+        "François Cadou",
+        "Jean Anthelme Brillat-Savarin"
+      ],
+      "answer": "Le tempérage est une technique ancienne non attribuée à une personne unique",
+      "explanation": "Le tempérage du chocolat est une technique ancienne raffinée dans les manufctures européennes, perfectionner au fil des siècles sans attribution unique.",
+      "difficulty": "Difficile",
+      "id": "chocolat_confiserie_44"
+    },
+    {
+      "question": "Quel bonbon français classique, sucre cuit et aromatisé, est coulé en forme et enrobé de sucre cristallisé ?",
+      "options": [
+        "Le Bonbon ou la Friandise cristallisée",
+        "Le Caramel",
+        "La Pastille",
+        "Le Dragée"
+      ],
+      "answer": "Le Bonbon ou la Friandise cristallisée",
+      "explanation": "Les bonbons français classiques sont préparés avec sucre cuit, aromatisés et enrobés de sucre cristallisé, formant une texture cristalline caractéristique.",
+      "difficulty": "Facile",
+      "id": "chocolat_confiserie_45"
+    },
+    {
+      "question": "Quel est le nom de la technique française consistant à recouvrir des fruits secs ou d'amandes d'une couche fine et brillante de sucre cuit ?",
+      "options": [
+        "La Glacerie ou Glaçage sucré",
+        "Le Caramélage",
+        "Le Dragéage",
+        "L'Enrobage au sucre"
+      ],
+      "answer": "La Glacerie ou Glaçage sucré",
+      "explanation": "La Glacerie est l'art français classique de couvrir fruits, amandes ou noisettes d'une couche de sucre cuit, créant une friandise brillante et croustillante.",
+      "difficulty": "Difficile",
+      "id": "chocolat_confiserie_46"
     }
   ],
   "Cuisine : Plats Mythiques": [
@@ -4765,6 +6839,226 @@
         "La farcis niçois",
         "La pissaladière"
       ]
+    },
+    {
+      "id": "plats_mythiques_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel gâteau français en forme de couronne, garni de crème pralinée et parsemé d'amandes effilées, a été créé en 1910 en hommage à une célèbre course cycliste ?",
+      "answer": "Le Paris-Brest",
+      "explanation": "Le Paris-Brest a été créé par le pâtissier Louis Durand, installé à Maisons-Laffitte sur le parcours de la course cycliste Paris-Brest-Paris. Sa forme circulaire évoque directement la roue d'une bicyclette, en hommage à cette épreuve d'endurance légendaire. La pâte à choux garnie de crème mousseline pralinée en fait aujourd'hui l'un des desserts préférés des Français.",
+      "options": [
+        "Le Paris-Brest",
+        "Le Saint-Honoré",
+        "La religieuse",
+        "L'éclair au café"
+      ]
+    },
+    {
+      "id": "plats_mythiques_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle tarte aux pommes caramélisées, cuite à l'envers puis retournée avant d'être servie, doit son nom à deux sœurs hôtelières de Sologne qui l'auraient inventée par accident ?",
+      "answer": "La tarte Tatin",
+      "explanation": "La tarte Tatin serait née à la fin du XIXe siècle à l'Hôtel Tatin de Lamotte-Beuvron, en Sologne, tenu par les sœurs Stéphanie et Caroline Tatin. Selon la légende, Stéphanie aurait oublié de placer la pâte avant les pommes et aurait rattrapé son erreur en la posant par-dessus avant d'enfourner le tout. Démoulée à l'envers, cette tarte accidentelle est devenue un classique incontournable de la pâtisserie française.",
+      "options": [
+        "La tarte Tatin",
+        "La tarte Bourdaloue",
+        "La tarte normande",
+        "Le chausson aux pommes"
+      ]
+    },
+    {
+      "id": "plats_mythiques_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel plat de poulet mijoté avec tomates, champignons, écrevisses et œufs frits aurait été improvisé par le chef de Napoléon Bonaparte avec les seuls vivres disponibles, juste après une bataille victorieuse de 1800 ?",
+      "answer": "Le poulet Marengo",
+      "explanation": "Selon la légende culinaire, ce plat aurait été improvisé après la bataille de Marengo en Italie, remportée par Napoléon Bonaparte en juin 1800, à partir des maigres provisions trouvées aux alentours du champ de bataille. Poulet, écrevisses de rivière, tomates, œufs et ail auraient ainsi été réunis dans une même cocotte. Bien que cette origine soit débattue par les historiens, l'anecdote reste attachée à ce plat depuis plus de deux siècles.",
+      "options": [
+        "Le poulet Marengo",
+        "Le poulet chasseur",
+        "Le coq au vin",
+        "Le poulet basquaise"
+      ]
+    },
+    {
+      "id": "plats_mythiques_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel plat de homard, dont la chair est mélangée à une sauce crémeuse à la moutarde et au cognac puis regratinée dans sa carapace, a été créé en 1894 dans un restaurant parisien en l'honneur d'une pièce de théâtre ?",
+      "answer": "Le homard Thermidor",
+      "explanation": "Le homard Thermidor a été créé au restaurant Maire à Paris en 1894, l'année même de la création de la pièce controversée « Thermidor » de Victorien Sardou, qui donna son nom au plat. La chair du homard est mélangée à une sauce à la moutarde, au cognac et à la crème, puis remise dans la carapace et gratinée au four. C'est aujourd'hui l'une des préparations de homard les plus prestigieuses de la gastronomie française.",
+      "options": [
+        "Le homard Thermidor",
+        "Le homard à l'américaine",
+        "Le homard Newburg",
+        "La bisque de homard"
+      ]
+    },
+    {
+      "id": "plats_mythiques_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle pièce montée traditionnelle des mariages et baptêmes français est composée d'une pyramide de petits choux garnis de crème, soudés entre eux par du caramel filé ?",
+      "answer": "Le croquembouche",
+      "explanation": "Le croquembouche tire son nom de l'expression « qui croque en bouche », en référence au caramel croustillant qui enrobe chaque petit chou. Sa popularisation est attribuée au grand pâtissier Antonin Carême au début du XIXe siècle, qui en fit une pièce montée spectaculaire pour les grandes réceptions. Encore aujourd'hui, il reste le dessert traditionnel des mariages français, souvent décoré de fils de sucre filé et de dragées.",
+      "options": [
+        "Le croquembouche",
+        "Le Saint-Honoré",
+        "La religieuse géante",
+        "Le mille-feuille"
+      ]
+    },
+    {
+      "id": "plats_mythiques_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel gâteau moelleux en pâte levée, imbibé d'un sirop au rhum et parfois garni de crème Chantilly, doit sa création légendaire à un roi de Pologne exilé en Lorraine au XVIIIe siècle ?",
+      "answer": "Le baba au rhum",
+      "explanation": "La légende attribue l'invention du baba au rhum à Stanislas Leszczynski, roi de Pologne détrôné devenu duc de Lorraine, qui aurait trouvé son kouglof trop sec et l'aurait arrosé d'alcool pour l'attendrir. La recette fut ensuite perfectionnée à Paris par le pâtissier Nicolas Stohrer, ancien pâtissier du roi, qui ouvrit sa boutique rue Montorgueil en 1730. Aujourd'hui imbibé de sirop au rhum plutôt que de vin de Malaga d'origine, il reste un classique des pâtisseries françaises.",
+      "options": [
+        "Le baba au rhum",
+        "Le kouglof",
+        "La brioche des rois",
+        "Le savarin"
+      ]
+    },
+    {
+      "id": "plats_mythiques_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel plat de poulet mariné au yaourt et aux épices, grillé puis nappé d'une sauce tomate crémeuse, est souvent considéré comme un plat national britannique bien que né dans un restaurant indo-pakistanais du Royaume-Uni ?",
+      "answer": "Le chicken tikka masala",
+      "explanation": "L'origine du chicken tikka masala est souvent associée à Glasgow, en Écosse, dans les années 1970, où un restaurateur aurait ajouté une sauce tomate et crème à du poulet tikka grillé pour répondre à une demande de sauce. Ce plat est devenu si populaire au Royaume-Uni que le ministre britannique des Affaires étrangères Robin Cook l'a qualifié en 2001 de véritable plat national britannique. Son histoire précise reste toutefois débattue et disputée par plusieurs restaurateurs.",
+      "options": [
+        "Le chicken tikka masala",
+        "Le poulet korma",
+        "Le poulet tandoori",
+        "Le butter chicken"
+      ]
+    },
+    {
+      "id": "plats_mythiques_38",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel plat de riz safrané mijoté dans une grande poêle plate, à l'origine composé de poulet, de lapin et de haricots verts et non de fruits de mer, est originaire de la région de Valence en Espagne ?",
+      "answer": "La paella",
+      "explanation": "La paella valenciana traditionnelle, dans sa version originale et authentique, ne contient ni fruits de mer ni chorizo, contrairement à la version mixte devenue célèbre à l'international. Sa recette historique associe poulet, lapin, haricots verts plats et haricots blancs, colorés par le safran précieux. Le nom du plat viendrait de la poêle plate en fer dans laquelle il est traditionnellement cuit et servi.",
+      "options": [
+        "La paella",
+        "Le risotto",
+        "La jambalaya",
+        "L'arroz con pollo"
+      ]
+    },
+    {
+      "id": "plats_mythiques_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle soupe froide espagnole, à base de tomates, de poivrons, de concombre et de pain rassis mixés avec de l'huile d'olive, est originaire de la région d'Andalousie ?",
+      "answer": "Le gazpacho",
+      "explanation": "Le gazpacho est dégusté bien frais l'été pour se rafraîchir sous la chaleur andalouse, sa version moderne à base de tomates datant de l'introduction de ce légume venu d'Amérique. Il existait avant cela une version blanche, l'ajo blanco, préparée uniquement à base de pain, d'ail, d'amandes et d'huile d'olive. Aujourd'hui mixé finement au robot, il se sert comme une soupe froide, presque comme une boisson.",
+      "options": [
+        "Le gazpacho",
+        "La ratatouille",
+        "Le velouté froid",
+        "L'ajo blanco"
+      ]
+    },
+    {
+      "id": "plats_mythiques_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle viennoiserie française en forme de croissant de lune, à base de pâte feuilletée levée au beurre, serait inspirée d'une pâtisserie viennoise appelée kipferl selon une légende liée au siège de Vienne au XVIIe siècle ?",
+      "answer": "Le croissant",
+      "explanation": "La légende, aujourd'hui largement contestée par les historiens de la gastronomie, raconte que des boulangers viennois auraient donné l'alerte en entendant les Ottomans creuser un tunnel sous la ville en 1683, et qu'un pâtissier aurait ensuite créé une viennoiserie en forme de croissant de lune, symbole du drapeau ottoman, pour célébrer la victoire. Le kipferl autrichien existait en réalité bien avant cet épisode. Ce n'est qu'au XIXe siècle, en France, que la pâte feuilletée levée au beurre donna naissance au croissant tel qu'on le connaît aujourd'hui.",
+      "options": [
+        "Le croissant",
+        "Le pain au chocolat",
+        "Le kouign-amann",
+        "La brioche"
+      ]
+    },
+    {
+      "id": "plats_mythiques_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel plat mijoté du Sud-Ouest, à base de haricots blancs, de saucisse et de viande de porc ou de confit, doit son nom au récipient en terre cuite conique dans lequel il cuit traditionnellement, la cassole ?",
+      "answer": "Le cassoulet",
+      "explanation": "Le cassoulet tire son nom de la cassole, un plat en terre cuite vernissée conique fabriqué historiquement à Issel, près de Castelnaudary. Trois villes du Sud-Ouest, Castelnaudary, Toulouse et Carcassonne, revendiquent chacune leur propre tradition et leur recette de cassoulet, avec des ingrédients légèrement différents. C'est aujourd'hui l'un des plats mijotés les plus emblématiques et les plus copieux de la gastronomie régionale française.",
+      "options": [
+        "Le cassoulet",
+        "Le confit de canard",
+        "La garbure",
+        "La potée auvergnate"
+      ]
+    },
+    {
+      "id": "plats_mythiques_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle soupe de poissons marseillaise mythique, traditionnellement servie en deux services (le bouillon, puis les poissons), tirerait son nom d'une expression provençale signifiant faire bouillir puis baisser le feu ?",
+      "answer": "La bouillabaisse",
+      "explanation": "La bouillabaisse était à l'origine un plat de pêcheurs marseillais, préparé avec les poissons invendus ou abîmés lors de la criée du matin. Son étymologie populaire, souvent citée mais parfois débattue par les linguistes, la relierait au provençal évoquant le fait de porter le bouillon à ébullition puis de baisser aussitôt le feu. Aujourd'hui codifiée, elle associe traditionnellement rascasse, rouget et congre, accompagnés de rouille et de croûtons.",
+      "options": [
+        "La bouillabaisse",
+        "La bourride",
+        "La soupe de poisson provençale",
+        "Le ttoro basque"
+      ]
+    },
+    {
+      "question": "Selon l'anecdote, le Poulet Marengo aurait été créé lors d'une bataille célèbre. En quelle année cette bataille a-t-elle eu lieu ?",
+      "options": [
+        "1800",
+        "1815",
+        "1789",
+        "1804"
+      ],
+      "answer": "1800",
+      "explanation": "Selon la légende culinaire, le Poulet Marengo aurait été préparé après la bataille de Marengo (1800) en Italie du nord, en cuisant du poulet avec les ingrédients disponibles.",
+      "difficulty": "Difficile",
+      "id": "plats_mythiques_43"
+    },
+    {
+      "question": "La Tarte Tatin porte le nom des sœurs qui ont popularisé ce dessert dans leur hôtel. Quel était leur nom de famille ?",
+      "options": [
+        "Tatin",
+        "Tatinienne",
+        "Tartinelle",
+        "Tartine"
+      ],
+      "answer": "Tatin",
+      "explanation": "La Tarte Tatin porte le nom des sœurs Tatin qui l'ont popularisée en servant ce dessert caramélisé à l'envers dans leur hôtel de Lamotte-Beuvron en Sologne.",
+      "difficulty": "Moyen",
+      "id": "plats_mythiques_44"
+    },
+    {
+      "question": "Quel plat français à base de pâte brisée et garniture de fruits rouges, créé selon une anecdote pour une reine, porte son nom ?",
+      "options": [
+        "La Tarte Bourdaloue ou Tarte aux fruits selon anecdote royale",
+        "La Tarte Normande",
+        "La Clafoutis",
+        "Le Flan pâtissier"
+      ],
+      "answer": "La Tarte Bourdaloue ou Tarte aux fruits selon anecdote royale",
+      "explanation": "Plusieurs tartes française portent des noms de personnages royaux ou nobles historiques, dont la Tarte Bourdaloue. Les origines exactes restent partiellement légendaires.",
+      "difficulty": "Difficile",
+      "id": "plats_mythiques_45"
+    },
+    {
+      "question": "Le Paris-Brest, gâteau français en forme de couronne, aurait été créé en l'honneur de quelle course cycliste française ?",
+      "options": [
+        "La course Paris-Brest-Paris",
+        "Le Tour de France",
+        "Le Giro d'Italia",
+        "La Vuelta d'Espagne"
+      ],
+      "answer": "La course Paris-Brest-Paris",
+      "explanation": "Le Paris-Brest, chou en couronne farci de pralin et crème, aurait été créé selon la tradition pour commémorer la course cycliste Paris-Brest-Paris lancée en 1910.",
+      "difficulty": "Moyen",
+      "id": "plats_mythiques_46"
     }
   ],
   "Cuisine : Sauces Classiques": [
@@ -5187,6 +7481,226 @@
         "La sauce Maltaise",
         "La sauce Gribiche"
       ]
+    },
+    {
+      "id": "sauces_classiques_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle sauce classique française est une béchamel enrichie de purée d'oignons finement cuits, traditionnellement servie avec des viandes blanches ?",
+      "answer": "La sauce Soubise",
+      "explanation": "La sauce Soubise doit son nom au prince de Soubise, maréchal de France du XVIIIe siècle réputé pour sa table raffinée. Elle s'obtient en incorporant une purée d'oignons doucement fondus au beurre dans une béchamel classique, ce qui lui donne une douceur particulière. Elle accompagne traditionnellement les volailles, le veau ou les œufs mollets.",
+      "options": [
+        "La sauce Soubise",
+        "La sauce Mornay",
+        "La sauce Nantua",
+        "La sauce Aurore"
+      ]
+    },
+    {
+      "id": "sauces_classiques_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle sauce brune classique, idéale pour accompagner le lapin ou le poulet sauté, est préparée avec des champignons de Paris, des échalotes, du vin blanc et de la tomate concassée ?",
+      "answer": "La sauce chasseur",
+      "explanation": "La sauce chasseur tire son nom du gibier autrefois rapporté de la chasse, bien qu'elle accompagne aujourd'hui surtout la volaille et le lapin d'élevage. Elle se prépare en faisant revenir des champignons et des échalotes, déglacés au vin blanc, puis liés à une base de tomate concassée et de fond brun. Sa saveur boisée et légèrement acidulée en fait un classique des bistrots français.",
+      "options": [
+        "La sauce chasseur",
+        "La sauce forestière",
+        "La sauce Bercy",
+        "La sauce Diable"
+      ]
+    },
+    {
+      "id": "sauces_classiques_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle sauce classique très relevée, préparée avec une réduction de vinaigre, d'échalotes, de vin blanc et de poivre de Cayenne, doit son nom piquant à sa forte teneur en épices ?",
+      "answer": "La sauce Diable",
+      "explanation": "La sauce Diable est l'une des sauces les plus corsées du répertoire classique français, sa réduction vinaigrée et poivrée lui donnant une force qui justifie pleinement son nom. Elle accompagne traditionnellement les grillades de volaille, notamment le poulet à la diable, cuit fendu et badigeonné avant d'être grillé. Sa préparation exige un dosage précis pour ne pas masquer complètement la saveur de la viande.",
+      "options": [
+        "La sauce Diable",
+        "La sauce Robert",
+        "La sauce Périgueux",
+        "La sauce Grand Veneur"
+      ]
+    },
+    {
+      "id": "sauces_classiques_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle sauce brune classique à base d'oignons, de vin blanc et de moutarde, mentionnée dès le XVIe siècle dans la littérature française, accompagne traditionnellement le porc grillé ?",
+      "answer": "La sauce Robert",
+      "explanation": "La sauce Robert compte parmi les plus anciennes sauces nommées de la cuisine française, déjà évoquée au XVIe siècle sous le nom de « sausse Robert ». Elle associe des oignons finement ciselés, une réduction de vin blanc et une pointe de moutarde forte ajoutée en toute fin de cuisson. C'est d'ailleurs à partir de cette base que fut créée plus tard la sauce charcutière, en y ajoutant des cornichons.",
+      "options": [
+        "La sauce Robert",
+        "La sauce Lyonnaise",
+        "La sauce Bercy",
+        "La sauce Bourguignonne"
+      ]
+    },
+    {
+      "id": "sauces_classiques_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle sauce classique de la région lyonnaise, à base de béchamel enrichie de beurre d'écrevisses et de crème, accompagne traditionnellement les quenelles de brochet ?",
+      "answer": "La sauce Nantua",
+      "explanation": "La sauce Nantua doit son nom à la petite ville de Nantua, dans l'Ain, réputée depuis longtemps pour ses écrevisses de rivière et ses quenelles de brochet. Elle se prépare en incorporant un beurre d'écrevisses, obtenu en broyant les carapaces avec du beurre, à une béchamel enrichie de crème fraîche. Sa couleur rosée caractéristique et son parfum iodé en font une sauce d'exception de la gastronomie lyonnaise.",
+      "options": [
+        "La sauce Nantua",
+        "La sauce Newburg",
+        "La sauce Cardinal",
+        "La sauce Bercy"
+      ]
+    },
+    {
+      "id": "sauces_classiques_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle sauce classique, à base de crème fraîche et de cidre ou de vin blanc, parfois enrichie de moules et de champignons, accompagne traditionnellement les poissons en Normandie ?",
+      "answer": "La sauce normande",
+      "explanation": "La sauce normande met à l'honneur les produits laitiers riches de la région, associant crème fraîche épaisse et cidre ou vin blanc en réduction. Elle peut être enrichie de moules, de champignons et parfois de jaunes d'œufs pour davantage d'onctuosité. Elle est traditionnellement servie avec des poissons fins comme le turbot ou la sole.",
+      "options": [
+        "La sauce normande",
+        "La sauce bretonne",
+        "La sauce vin blanc",
+        "Le beurre blanc"
+      ]
+    },
+    {
+      "id": "sauces_classiques_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle sauce classique, à base d'oignons finement émincés et caramélisés puis déglacés au vinaigre, est typique de la cuisine des bouchons lyonnais et accompagne souvent les abats ?",
+      "answer": "La sauce lyonnaise",
+      "explanation": "La sauce lyonnaise associe des oignons longuement caramélisés à une pointe de vinaigre qui vient réveiller leur douceur, le tout lié par un fond brun. Elle accompagne traditionnellement le foie de veau ou les rognons dans les bouchons, ces petits restaurants typiques de Lyon. Sa préparation simple mais savoureuse en fait un classique incontournable du répertoire régional français.",
+      "options": [
+        "La sauce lyonnaise",
+        "La sauce bordelaise",
+        "La sauce charcutière",
+        "La sauce chasseur"
+      ]
+    },
+    {
+      "id": "sauces_classiques_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle sauce froide classique, proche de la vinaigrette, est relevée de câpres, d'oignons ou d'échalotes hachées et de fines herbes, et peut aussi se servir chaude sur une tête de veau ?",
+      "answer": "La sauce ravigote",
+      "explanation": "La sauce ravigote tire son nom du verbe « ravigoter », qui signifie redonner de la vigueur, en référence à son caractère relevé et acidulé. Sa version froide se rapproche d'une vinaigrette agrémentée de câpres et d'herbes fraîches, tandis que sa version chaude accompagne traditionnellement les abats comme la tête de veau. Elle se distingue de la gribiche par l'absence d'œuf dur dans sa composition classique.",
+      "options": [
+        "La sauce ravigote",
+        "La sauce gribiche",
+        "La sauce rémoulade",
+        "La sauce verte"
+      ]
+    },
+    {
+      "id": "sauces_classiques_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle pâte de piments rouges, relevée d'ail, de cumin et de coriandre, est un condiment emblématique de la cuisine tunisienne et maghrébine ?",
+      "answer": "La harissa",
+      "explanation": "La harissa est préparée en broyant des piments rouges séchés réhydratés avec de l'ail, du cumin, de la coriandre et de l'huile d'olive. Elle accompagne traditionnellement le couscous, les merguez grillées et de nombreux plats mijotés d'Afrique du Nord. Sa force piquante peut varier considérablement selon les variétés de piments utilisées et les proportions de chaque cuisinier.",
+      "options": [
+        "La harissa",
+        "Le zaatar",
+        "Le ras el hanout",
+        "Le chermoula"
+      ]
+    },
+    {
+      "id": "sauces_classiques_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle sauce catalane, à base de poivrons et de tomates grillés, d'amandes ou de noisettes torréfiées, d'ail et de pain, accompagne traditionnellement les grillades et le poisson ?",
+      "answer": "La sauce romesco",
+      "explanation": "La sauce romesco est originaire de la région de Tarragone en Catalogne, où elle est traditionnellement associée à la fête populaire de la calçotada, célébrant la dégustation d'oignons grillés. Sa texture épaisse et légèrement granuleuse provient du mélange de fruits secs torréfiés et de pain rassis mixés avec les légumes grillés. Elle accompagne aussi bien le poisson que les viandes grillées et les légumes de saison.",
+      "options": [
+        "La sauce romesco",
+        "Le pesto rosso",
+        "La sauce chimichurri",
+        "Le mojo rojo"
+      ]
+    },
+    {
+      "id": "sauces_classiques_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle sauce vietnamienne, à base de nuoc-mâm, de citron vert, de sucre, d'ail et de piment, accompagne traditionnellement les nems et les bols de vermicelles de riz ?",
+      "answer": "Le nuoc-cham",
+      "explanation": "Le nuoc-cham est préparé en diluant du nuoc-mâm, une sauce de poisson fermenté très concentrée, avec de l'eau, du sucre, du jus de citron vert, de l'ail et du piment frais émincé. Cet équilibre entre saveurs salée, sucrée, acide et piquante est caractéristique de la cuisine vietnamienne. Il accompagne aussi bien les nems croustillants que les bols de vermicelles de riz garnis d'herbes fraîches.",
+      "options": [
+        "Le nuoc-cham",
+        "Le nuoc-mâm pur",
+        "La sauce satay",
+        "Le ponzu"
+      ]
+    },
+    {
+      "id": "sauces_classiques_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle sauce épaisse et onctueuse d'Asie du Sud-Est, à base de cacahuètes grillées broyées, de lait de coco et d'épices, accompagne traditionnellement les brochettes grillées au charbon de bois ?",
+      "answer": "La sauce satay (sauce cacahuète)",
+      "explanation": "La sauce satay est originaire d'Indonésie avant de se répandre en Malaisie, à Singapour et en Thaïlande, chaque pays y apportant ses propres variantes d'épices. Elle associe des cacahuètes grillées finement broyées à du lait de coco, de la sauce soja et parfois du tamarin pour une touche acidulée. Elle est indissociable des brochettes de poulet ou de bœuf marinées, grillées sur des braises de charbon de bois.",
+      "options": [
+        "La sauce satay (sauce cacahuète)",
+        "La sauce hoisin",
+        "Le gado-gado",
+        "La sauce teriyaki"
+      ]
+    },
+    {
+      "question": "Quel est l'ingrédient principal qui épaissit traditionnellement une sauce béarnaise française classique ?",
+      "options": [
+        "Les jaunes d'œufs et le beurre fondu émulsionné",
+        "La farine et le bouillon",
+        "La crème fraîche",
+        "L'amidon de maïs"
+      ],
+      "answer": "Les jaunes d'œufs et le beurre fondu émulsionné",
+      "explanation": "La sauce Béarnaise est une émulsion française classique de jaunes d'œufs et beurre fondu, aromatisée d'estragon, associée aux grillades et poissons.",
+      "difficulty": "Moyen",
+      "id": "sauces_classiques_43"
+    },
+    {
+      "question": "Quel est le nom français de la sauce à base de crème fraîche, moutarde et cornichons, servie traditionnellement avec le bifteck ?",
+      "options": [
+        "La Sauce Poivrade",
+        "La Sauce Hollandaise",
+        "La Sauce Mousseline",
+        "La Sauce Rémoulade"
+      ],
+      "answer": "La Sauce Poivrade",
+      "explanation": "La Sauce Poivrade est une sauce française classique de crème, moutarde, cornichons et poivre, traditionnellement servie avec les grillades de viande rouge.",
+      "difficulty": "Moyen",
+      "id": "sauces_classiques_44"
+    },
+    {
+      "question": "Quelle sauce française, riche et luisante, est préparée à partir d'un roux brun cuit lentement avec bouillon ?",
+      "options": [
+        "La Sauce Espagnole ou Demi-glace",
+        "La Sauce Mornay",
+        "La Sauce Soubise",
+        "La Sauce Velouté"
+      ],
+      "answer": "La Sauce Espagnole ou Demi-glace",
+      "explanation": "La Sauce Espagnole (ou Demi-glace) est une sauce française fondamentale : roux brun cuit avec os rôtis et légumes, réduite jusqu'à glacer les viandes.",
+      "difficulty": "Difficile",
+      "id": "sauces_classiques_45"
+    },
+    {
+      "question": "Quel est le nom français de la sauce à base de tomates fraîches ou en conserve, oignons, ail et herbes ?",
+      "options": [
+        "La Sauce Tomate",
+        "La Sauce Marinara",
+        "La Sauce Bolognaise",
+        "La Sauce Napolitaine"
+      ],
+      "answer": "La Sauce Tomate",
+      "explanation": "La Sauce Tomate est la base française classique pour pâtes, pizzas et ragouts, préparée avec tomates, huile d'olive, ail et herbes de Provence.",
+      "difficulty": "Facile",
+      "id": "sauces_classiques_46"
     }
   ]
 }

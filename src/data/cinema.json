@@ -419,6 +419,226 @@
       ],
       "answer": "Darren Aronofsky",
       "explanation": "Darren Aronofsky est un réalisateur américain connu pour ses œuvres intenses et dérangeantes explorant les obsessions humaines, l'autodestruction et la quête de perfection. Avec 'Black Swan' en 2010, il a signé un drame psychologique étouffant au cœur du milieu du ballet qui a valu l'Oscar de la meilleure actrice à Natalie Portman. Son style visuel viscéral utilise fréquemment des plans serrés extrêmes et une bande-son oppressante composée par son fidèle collaborateur Clint Mansell."
+    },
+    {
+      "id": "cinema_realisateurs_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel réalisateur italien emblématique du cinéma d'auteur a réalisé 'La Dolce Vita' et '8½', explorant souvent la démesure et le rêve ?",
+      "answer": "Federico Fellini",
+      "explanation": "Federico Fellini est une figure majeure du cinéma italien, connu pour son style flamboyant mêlant réalisme et onirisme. 'La Dolce Vita', sorti en 1960, a immortalisé la Fontaine de Trevi grâce à sa scène culte avec l'actrice Anita Ekberg. Il a remporté quatre Oscars du meilleur film en langue étrangère au cours de sa carrière, un record toujours en vigueur.",
+      "options": [
+        "Federico Fellini",
+        "Michelangelo Antonioni",
+        "Luchino Visconti",
+        "Pier Paolo Pasolini"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel réalisateur français, figure fondatrice de la Nouvelle Vague, a réalisé 'Les Quatre Cents Coups' et 'La Nuit américaine' ?",
+      "answer": "François Truffaut",
+      "explanation": "François Truffaut a marqué l'histoire du cinéma français en réalisant 'Les Quatre Cents Coups' en 1959, film largement autobiographique qui lui vaut le prix de la mise en scène à Cannes. Ancien critique aux Cahiers du cinéma, il est l'un des pères du mouvement de la Nouvelle Vague. Son film 'La Nuit américaine', sorti en 1973 et déclaration d'amour au métier de cinéaste, lui vaut l'Oscar du meilleur film étranger.",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Éric Rohmer",
+        "Claude Chabrol"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel réalisateur mexicain a remporté l'Oscar du meilleur réalisateur pour 'Gravity' en 2014 puis pour 'Roma' en 2019 ?",
+      "answer": "Alfonso Cuarón",
+      "explanation": "Alfonso Cuarón fait partie des cinéastes mexicains parfois surnommés les 'Tres Amigos' aux côtés de Guillermo del Toro et Alejandro González Iñárritu. Il a également réalisé le troisième volet de la saga Harry Potter, 'Le Prisonnier d'Azkaban', avant de se consacrer à des projets plus personnels. Son film 'Roma', tourné en noir et blanc et inspiré de son enfance à Mexico, a remporté trois Oscars en 2019.",
+      "options": [
+        "Alfonso Cuarón",
+        "Alejandro González Iñárritu",
+        "Guillermo del Toro",
+        "Guillermo Arriaga"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel réalisateur mexicain a remporté deux Oscars consécutifs du meilleur réalisateur, pour 'Birdman' en 2015 puis 'The Revenant' en 2016 ?",
+      "answer": "Alejandro González Iñárritu",
+      "explanation": "Alejandro González Iñárritu n'est que le second réalisateur de l'histoire des Oscars à remporter le prix du meilleur réalisateur deux années consécutives, après Joseph L. Mankiewicz dans les années 1950. Son film 'Birdman' donne l'illusion d'un plan-séquence unique grâce à un montage extrêmement sophistiqué. Le tournage difficile de 'The Revenant' dans des conditions climatiques extrêmes est resté célèbre pour son exigence physique envers l'équipe.",
+      "options": [
+        "Alejandro González Iñárritu",
+        "Alfonso Cuarón",
+        "Guillermo del Toro",
+        "Pedro Almodóvar"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel réalisateur américain, connu pour ses explosions spectaculaires, a dirigé les films d'action 'Armageddon' et la saga 'Transformers' ?",
+      "answer": "Michael Bay",
+      "explanation": "Michael Bay est devenu la référence du blockbuster américain rythmé par des explosions démesurées et un montage extrêmement nerveux. Sa collaboration fructueuse avec le producteur Jerry Bruckheimer dans les années 1990 a donné naissance à des succès comme 'The Rock' et 'Armageddon'. Il a ensuite porté à l'écran la franchise de jouets Hasbro 'Transformers', devenue une saga d'action à très gros budget.",
+      "options": [
+        "Michael Bay",
+        "Roland Emmerich",
+        "Jerry Bruckheimer",
+        "Tony Scott"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel réalisateur américain, réputé pour son esthétique visuelle stylisée au ralenti, a dirigé '300' et le film de super-héros 'Watchmen' ?",
+      "answer": "Zack Snyder",
+      "explanation": "Zack Snyder s'est fait remarquer par une esthétique très marquée, mêlant ralentis stylisés et teintes désaturées, notamment dans son adaptation du roman graphique '300' de Frank Miller en 2007. Il a ensuite été chargé de relancer l'univers cinématographique DC avec des films comme 'Man of Steel' et 'Batman v Superman'. Sa version longue du film 'Justice League', réclamée pendant des années par ses fans, a finalement été diffusée en 2021.",
+      "options": [
+        "Zack Snyder",
+        "Zack Braff",
+        "David Ayer",
+        "Matthew Vaughn"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel réalisateur américain a dirigé le drame pétrolier 'There Will Be Blood' avec Daniel Day-Lewis et la comédie chorale 'Boogie Nights' ?",
+      "answer": "Paul Thomas Anderson",
+      "explanation": "Paul Thomas Anderson est un cinéaste américain exigeant, connu pour ses fresques ambitieuses aux personnages complexes et ses longs plans-séquences virtuoses. 'There Will Be Blood', sorti en 2007, vaut à Daniel Day-Lewis son deuxième Oscar du meilleur acteur pour son rôle de prospecteur pétrolier impitoyable. Il ne doit pas être confondu avec le réalisateur Wes Anderson, bien que les deux partagent le même nom de famille.",
+      "options": [
+        "Paul Thomas Anderson",
+        "Wes Anderson",
+        "David O. Russell",
+        "Alexander Payne"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel réalisateur afro-américain engagé a dirigé 'Do the Right Thing' et 'BlacKkKlansman', et a remporté l'Oscar du meilleur scénario adapté en 2019 ?",
+      "answer": "Spike Lee",
+      "explanation": "Spike Lee est un réalisateur et producteur américain dont l'œuvre engagée explore avec force les questions raciales et sociales aux États-Unis. Son film 'Do the Right Thing' de 1989, situé lors d'une journée caniculaire à Brooklyn, est aujourd'hui considéré comme un classique incontournable du cinéma américain. Après des décennies de carrière, il a finalement remporté son premier Oscar compétitif pour le scénario de 'BlacKkKlansman' en 2019.",
+      "options": [
+        "Spike Lee",
+        "John Singleton",
+        "Barry Jenkins",
+        "Jordan Peele"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel réalisateur américain à l'univers onirique et dérangeant a dirigé 'Mulholland Drive' et créé la série culte 'Twin Peaks' ?",
+      "answer": "David Lynch",
+      "explanation": "David Lynch est un cinéaste américain singulier, réputé pour son univers surréaliste mêlant Amérique idyllique et inquiétante étrangeté. Son film 'Mulholland Drive', sorti en 2001, lui a valu le prix de la mise en scène à Cannes et est régulièrement cité parmi les meilleurs films du XXIe siècle. Sa série télévisée 'Twin Peaks', diffusée dès 1990, a profondément marqué la manière de raconter des histoires à la télévision.",
+      "options": [
+        "David Lynch",
+        "David Cronenberg",
+        "Terry Gilliam",
+        "David Fincher"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel réalisateur américain prolifique, également acteur, a dirigé 'Annie Hall' (Oscar du meilleur film en 1978) et 'Minuit à Paris' ?",
+      "answer": "Woody Allen",
+      "explanation": "Woody Allen est un cinéaste américain extrêmement prolifique, ayant réalisé près d'un film par an pendant plus de cinquante ans. Sa comédie romantique 'Annie Hall' a créé la surprise en remportant l'Oscar du meilleur film en 1978, devançant notamment 'Star Wars'. Son style, fait d'humour névrosé et de dialogues rapides, a profondément influencé la comédie américaine moderne.",
+      "options": [
+        "Woody Allen",
+        "Mel Brooks",
+        "Sydney Pollack",
+        "Sidney Lumet"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel réalisateur franco-polonais a dirigé 'Chinatown' et 'Rosemary's Baby', et a remporté l'Oscar du meilleur réalisateur en 2003 pour 'Le Pianiste' ?",
+      "answer": "Roman Polanski",
+      "explanation": "Roman Polanski est un réalisateur franco-polonais dont l'œuvre oscille entre thrillers psychologiques anxiogènes et fresques historiques. Son film 'Chinatown', sorti en 1974 avec Jack Nicholson, est considéré comme l'un des sommets du film noir américain. 'Le Pianiste', récit de la survie d'un musicien juif dans le ghetto de Varsovie, lui a valu la Palme d'or à Cannes en 2002 puis l'Oscar du meilleur réalisateur.",
+      "options": [
+        "Roman Polanski",
+        "Costa-Gavras",
+        "Andrzej Wajda",
+        "Krzysztof Kieślowski"
+      ]
+    },
+    {
+      "id": "cinema_realisateurs_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel réalisateur américain discret et contemplatif, connu pour ses images poétiques de la nature, a dirigé 'La Ligne rouge' et 'The Tree of Life' ?",
+      "answer": "Terrence Malick",
+      "explanation": "Terrence Malick est un cinéaste américain rare et discret, réputé pour son approche contemplative mêlant images naturalistes somptueuses et voix off philosophiques. Après un silence de vingt ans entre ses deuxième et troisième films, il a signé 'La Ligne rouge' en 1998, un film de guerre méditatif situé lors de la bataille de Guadalcanal. 'The Tree of Life', Palme d'or à Cannes en 2011, mêle l'histoire intime d'une famille du Texas à des images grandioses de la création de l'univers.",
+      "options": [
+        "Terrence Malick",
+        "Sean Penn",
+        "Robert Redford",
+        "Clint Eastwood"
+      ]
+    },
+    {
+      "question": "En quelle année Luc Besson a-t-il réalisé 'Le Cinquième Élément', un chef-d'œuvre de science-fiction française?",
+      "options": [
+        "1995",
+        "1997",
+        "1999",
+        "2001"
+      ],
+      "answer": "1997",
+      "explanation": "Le Cinquième Élément a été réalisé en 1997. C'est l'un des grands films de science-fiction français avec un budget record pour l'époque.",
+      "difficulty": "Facile",
+      "id": "cinema_realisateurs_43"
+    },
+    {
+      "question": "Quel réalisateur français a réalisé 'Amélie' en 2001, devenant un film culte international?",
+      "options": [
+        "Jean-Pierre Jeunet",
+        "Michel Gondry",
+        "Mathieu Kassovitz",
+        "Jean-Jacques Beineix"
+      ],
+      "answer": "Jean-Pierre Jeunet",
+      "explanation": "Jean-Pierre Jeunet a réalisé 'Amélie' (Le Fabuleux Destin d'Amélie Poulain) en 2001, un film devenu culte avec son univers fantaisiste unique.",
+      "difficulty": "Facile",
+      "id": "cinema_realisateurs_44"
+    },
+    {
+      "question": "Quel réalisateur est à l'origine de 'La Forme de l'eau' (2017), un film fantastique qui a remporté l'Oscar du meilleur film?",
+      "options": [
+        "Guillermo del Toro",
+        "Denis Villeneuve",
+        "Pedro Almodóvar",
+        "Sam Mendes"
+      ],
+      "answer": "Guillermo del Toro",
+      "explanation": "Guillermo del Toro, réalisateur mexicain, a créé 'La Forme de l'eau' en 2017, remportant l'Oscar du meilleur film en 2018 pour ce conte fantastique.",
+      "difficulty": "Moyen",
+      "id": "cinema_realisateurs_45"
+    },
+    {
+      "question": "Quel film Wes Anderson a-t-il réalisé en 2014, devenu l'un de ses chefs-d'œuvre visuels reconnaissables?",
+      "options": [
+        "Rushmore",
+        "The Grand Budapest Hotel",
+        "Moonrise Kingdom",
+        "The French Dispatch"
+      ],
+      "answer": "The Grand Budapest Hotel",
+      "explanation": "Wes Anderson a réalisé 'The Grand Budapest Hotel' en 2014, connu pour son esthétique distinctive, sa composition symétrique et sa palette de couleurs originale.",
+      "difficulty": "Moyen",
+      "id": "cinema_realisateurs_46"
     }
   ],
   "Cinéma : Acteurs & Actrices de Légende": [
@@ -841,6 +1061,226 @@
       ],
       "answer": "Denzel Washington",
       "explanation": "Denzel Washington est l'un des acteurs américains les plus respectés et charismatiques de sa génération, réputé pour la puissance dramatique et la dignité qu'il insuffle à ses personnages. Il a remporté deux Oscars au cours de sa carrière prestigieuse : le premier en 1990 pour son second rôle dans le film historique sur la guerre de Sécession 'Glory', et le second en 2002 pour son rôle à contre-emploi d'un inspecteur de police corrompu et manipulateur dans 'Training Day'. Ses collaborations fructueuses avec des cinéastes majeurs comme Spike Lee ou Tony Scott ont donné naissance à de grands classiques du cinéma américain contemporain."
+    },
+    {
+      "id": "cinema_acteurs_31",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel acteur américain incarne Michael Corleone dans la trilogie 'Le Parrain' et le trafiquant Tony Montana dans 'Scarface' ?",
+      "answer": "Al Pacino",
+      "explanation": "Al Pacino est l'un des acteurs les plus emblématiques du Nouvel Hollywood, révélé au grand public par son rôle de fils cadet devenu chef de la mafia dans 'Le Parrain'. Sa réplique culte 'Say hello to my little friend' dans 'Scarface' est devenue un symbole incontournable de la pop culture. Il a finalement remporté l'Oscar du meilleur acteur en 1993 pour 'Le Temps d'un week-end' (Scent of a Woman), après plusieurs nominations infructueuses.",
+      "options": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Dustin Hoffman",
+        "James Caan"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_32",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel acteur américain détient le record du plus grand nombre de nominations aux Oscars pour un acteur, avec douze nominations au total ?",
+      "answer": "Jack Nicholson",
+      "explanation": "Jack Nicholson est réputé pour son sourire ravageur et son regard inquiétant, qu'il a mis au service de personnages excentriques ou menaçants. Il détient le record du nombre de nominations aux Oscars du meilleur acteur ou second rôle masculin, avec un total de douze nominations. Il a remporté trois statuettes au cours de sa carrière, dont celle du meilleur acteur pour 'Vol au-dessus d'un nid de coucou' en 1976, son rôle du romancier sombrant dans la folie dans 'Shining' n'ayant lui jamais été récompensé.",
+      "options": [
+        "Jack Nicholson",
+        "Paul Newman",
+        "Dustin Hoffman",
+        "Robert De Niro"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel acteur américain a remporté l'Oscar du meilleur second rôle en 2020 pour 'Once Upon a Time... in Hollywood' de Quentin Tarantino ?",
+      "answer": "Brad Pitt",
+      "explanation": "Brad Pitt est l'une des plus grandes stars hollywoodiennes depuis les années 1990, capable d'alterner entre blockbusters populaires et films d'auteur exigeants. Son rôle de cascadeur décontracté aux côtés de Leonardo DiCaprio dans 'Once Upon a Time... in Hollywood' lui a valu son premier Oscar en tant qu'acteur en 2020. Il a également coproduit plusieurs films acclamés via sa société Plan B Entertainment, dont '12 Years a Slave', récompensé de l'Oscar du meilleur film.",
+      "options": [
+        "Brad Pitt",
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "George Clooney"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle actrice australienne a remporté un Oscar en incarnant Katharine Hepburn dans 'Aviator', puis un second en 2014 pour 'Blue Jasmine' de Woody Allen ?",
+      "answer": "Cate Blanchett",
+      "explanation": "Cate Blanchett est une actrice australienne d'une grande polyvalence, aussi à l'aise dans les superproductions que dans le cinéma d'auteur exigeant. Son interprétation de l'actrice légendaire Katharine Hepburn dans 'Aviator' de Martin Scorsese lui a valu l'Oscar du meilleur second rôle en 2005. Elle a remporté son second Oscar, celui de la meilleure actrice cette fois, pour son rôle d'une femme new-yorkaise déchue dans 'Blue Jasmine' en 2014.",
+      "options": [
+        "Cate Blanchett",
+        "Nicole Kidman",
+        "Naomi Watts",
+        "Rachel Weisz"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle actrice australienne a remporté l'Oscar de la meilleure actrice en 2003 pour son incarnation de l'écrivaine Virginia Woolf dans 'The Hours' ?",
+      "answer": "Nicole Kidman",
+      "explanation": "Nicole Kidman est une actrice australienne à la carrière internationale impressionnante, capable de passer du drame intimiste à la comédie musicale flamboyante. Pour incarner l'écrivaine britannique Virginia Woolf dans 'The Hours', elle a porté un célèbre faux nez prothétique qui a d'abord rendu son visage méconnaissable pour les journalistes présents lors de la sortie du film. Cette performance transformiste lui a valu l'Oscar de la meilleure actrice en 2003.",
+      "options": [
+        "Nicole Kidman",
+        "Cate Blanchett",
+        "Naomi Watts",
+        "Julianne Moore"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle actrice sud-africaine a remporté l'Oscar de la meilleure actrice en 2004 pour son rôle de tueuse en série dans 'Monster', après une transformation physique radicale ?",
+      "answer": "Charlize Theron",
+      "explanation": "Charlize Theron a surpris la critique en 2003 en prenant du poids et en portant un maquillage prothétique important pour incarner la tueuse en série Aileen Wuornos dans 'Monster'. Cette transformation radicale, aux antipodes de son image de star glamour, lui a valu l'Oscar de la meilleure actrice. Elle s'est ensuite imposée comme une héroïne d'action redoutable, notamment dans le rôle de Furiosa dans 'Mad Max: Fury Road'.",
+      "options": [
+        "Charlize Theron",
+        "Naomi Watts",
+        "Reese Witherspoon",
+        "Renée Zellweger"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel acteur britannique est devenu, à 83 ans, la personne la plus âgée à remporter l'Oscar du meilleur acteur, pour le film 'The Father' en 2021 ?",
+      "answer": "Anthony Hopkins",
+      "explanation": "Anthony Hopkins est un acteur britannique légendaire, mondialement connu pour son incarnation glaçante du docteur Hannibal Lecter dans 'Le Silence des agneaux' en 1991. Trente ans plus tard, sa performance bouleversante d'un homme âgé atteint de démence dans 'The Father' lui a valu un second Oscar du meilleur acteur. Il est ainsi devenu, à 83 ans, l'acteur le plus âgé jamais récompensé dans cette catégorie.",
+      "options": [
+        "Anthony Hopkins",
+        "Ian McKellen",
+        "Michael Caine",
+        "Ben Kingsley"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle actrice française détient le record du nombre de César de la meilleure actrice remportés, avec cinq statuettes ?",
+      "answer": "Isabelle Adjani",
+      "explanation": "Isabelle Adjani est une actrice française au jeu intense et habité, révélée très jeune à la Comédie-Française avant de conquérir le cinéma. Elle détient le record du nombre de César de la meilleure actrice, avec cinq récompenses obtenues notamment pour 'Possession', 'L'Été meurtrier' et 'Camille Claudel'. Elle a également été nommée à deux reprises aux Oscars, une performance rare pour une actrice française à l'époque.",
+      "options": [
+        "Isabelle Adjani",
+        "Catherine Deneuve",
+        "Isabelle Huppert",
+        "Juliette Binoche"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle actrice française a été révélée à quatorze ans dans 'La Boum' avant d'incarner une James Bond girl dans 'Le Monde ne suffit pas' ?",
+      "answer": "Sophie Marceau",
+      "explanation": "Sophie Marceau est devenue une véritable icône populaire en France dès 1980 grâce à son rôle d'adolescente dans la comédie 'La Boum'. Elle a ensuite mené une carrière internationale remarquée, notamment aux côtés de Mel Gibson dans 'Braveheart'. En 1999, elle est devenue l'une des rares actrices françaises à incarner une James Bond girl dans 'Le Monde ne suffit pas'.",
+      "options": [
+        "Sophie Marceau",
+        "Marion Cotillard",
+        "Léa Seydoux",
+        "Audrey Tautou"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle actrice américaine incarne la super-héroïne Black Widow dans l'univers cinématographique Marvel ?",
+      "answer": "Scarlett Johansson",
+      "explanation": "Scarlett Johansson est l'une des actrices les mieux payées d'Hollywood, révélée dans des films d'auteur avant de devenir une star mondiale du cinéma de super-héros. Elle a incarné l'espionne Natasha Romanoff, alias Black Widow, dans une dizaine de films de l'univers cinématographique Marvel entre 2010 et 2021. Elle avait déjà été saluée par la critique pour son rôle dans le film indépendant 'Lost in Translation' en 2003.",
+      "options": [
+        "Scarlett Johansson",
+        "Elizabeth Olsen",
+        "Brie Larson",
+        "Zoe Saldana"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_41",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel acteur et rappeur américain a remporté l'Oscar du meilleur acteur en 2022 pour son rôle du père des sœurs Williams dans 'King Richard' ?",
+      "answer": "Will Smith",
+      "explanation": "Will Smith a débuté comme rappeur avant de devenir l'une des plus grandes stars du box-office mondial grâce à des blockbusters comme 'Men in Black' et 'Independence Day'. Dans 'King Richard', il incarne Richard Williams, le père et entraîneur des championnes de tennis Venus et Serena Williams. Cette performance saluée par la critique lui a valu l'Oscar du meilleur acteur en 2022.",
+      "options": [
+        "Will Smith",
+        "Denzel Washington",
+        "Jamie Foxx",
+        "Eddie Murphy"
+      ]
+    },
+    {
+      "id": "cinema_acteurs_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle actrice américaine incarne l'intrépide Ellen Ripley dans la saga de science-fiction 'Alien' ?",
+      "answer": "Sigourney Weaver",
+      "explanation": "Sigourney Weaver s'est imposée comme une pionnière des héroïnes d'action grâce à son rôle de l'officière Ellen Ripley, seule survivante face au redoutable Xénomorphe dans 'Alien' en 1979. Sa performance physique et déterminée a contribué à changer la représentation des femmes dans le cinéma de science-fiction. Elle a repris ce rôle emblématique dans plusieurs films de la saga et a également incarné le docteur Grace Augustine dans 'Avatar' de James Cameron.",
+      "options": [
+        "Sigourney Weaver",
+        "Linda Hamilton",
+        "Jamie Lee Curtis",
+        "Milla Jovovich"
+      ]
+    },
+    {
+      "question": "Marilyn Monroe a chanté la célèbre chanson 'Diamonds Are a Girl's Best Friend' dans quel film de 1953?",
+      "options": [
+        "The Seven Year Itch",
+        "Gentlemen Prefer Blondes",
+        "How to Marry a Millionaire",
+        "Some Like It Hot"
+      ],
+      "answer": "Gentlemen Prefer Blondes",
+      "explanation": "Marilyn Monroe a rendu cette chanson célèbre dans 'Gentlemen Prefer Blondes' (1953), l'une des performances les plus mémorables du cinéma classique.",
+      "difficulty": "Facile",
+      "id": "cinema_acteurs_43"
+    },
+    {
+      "question": "Dans quel film emblématique Humphrey Bogart joue-t-il le rôle d'un propriétaire de bar cynique nommé Rick Blaine?",
+      "options": [
+        "Le Grand Sommeil",
+        "Casablanca",
+        "Le Faucon Maltais",
+        "La Grande Chaleur"
+      ],
+      "answer": "Casablanca",
+      "explanation": "Humphrey Bogart joue Rick Blaine dans 'Casablanca' (1942), un film devenu l'un des plus célèbres et aimés de l'histoire du cinéma.",
+      "difficulty": "Facile",
+      "id": "cinema_acteurs_44"
+    },
+    {
+      "question": "Quel acteur britannique a incarné le détective privé Harry Palmer dans la trilogie des années 1960?",
+      "options": [
+        "Sean Connery",
+        "Michael Caine",
+        "Roger Moore",
+        "Daniel Craig"
+      ],
+      "answer": "Michael Caine",
+      "explanation": "Michael Caine a joué Harry Palmer dans trois films (The Ipcress File, Funeral in Berlin, Billion Dollar Brain), devenant une icône du cinéma d'espionnage.",
+      "difficulty": "Moyen",
+      "id": "cinema_acteurs_45"
+    },
+    {
+      "question": "Quelle actrice a joué le rôle principal dans 'Vacances romaines' (1953), aux côtés de Gregory Peck?",
+      "options": [
+        "Grace Kelly",
+        "Audrey Hepburn",
+        "Ava Gardner",
+        "Elizabeth Taylor"
+      ],
+      "answer": "Audrey Hepburn",
+      "explanation": "Audrey Hepburn a incarné une princesse en fuite dans 'Vacances romaines' (1953), un rôle qui a lancé sa carrière internationale.",
+      "difficulty": "Facile",
+      "id": "cinema_acteurs_46"
     }
   ],
   "Cinéma : Sagas Célèbres": [
@@ -1263,6 +1703,226 @@
       ],
       "answer": "Les Trois Mousquetaires",
       "explanation": "L'œuvre littéraire monumentale d'Alexandre Dumas, 'Les Trois Mousquetaires', a fait l'objet de dizaines d'adaptations cinématographiques mondiales depuis les débuts du cinéma muet. En 2023, le réalisateur français Martin Bourboulon a signé un diptyque ambitieux ('D'Artagnan' et 'Milady') doté d'une esthétique réaliste, de combats filmés en plans-séquences physiques et d'une distribution prestigieuse. Cette saga d'aventure historique moderne a permis de faire redécouvrir le grand spectacle romanesque français au public contemporain."
+    },
+    {
+      "id": "cinema_sagas_31",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans la saga 'Pirates des Caraïbes', quel est le nom du navire du Capitaine Jack Sparrow, réputé être le bateau le plus rapide des Caraïbes ?",
+      "answer": "La Perle Noire",
+      "explanation": "La Perle Noire est le navire pirate emblématique du Capitaine Jack Sparrow dans la saga à succès 'Pirates des Caraïbes', lancée par les studios Disney en 2003. Ce voilier légendaire peut naviguer à une vitesse surnaturelle et changer d'apparence de manière mystérieuse. Le Hollandais Volant, quant à lui, est le navire fantôme rival commandé par le terrifiant Davy Jones.",
+      "options": [
+        "Le Hollandais Volant",
+        "La Perle Noire",
+        "Le Queen Anne's Revenge",
+        "L'Endeavour"
+      ]
+    },
+    {
+      "id": "cinema_sagas_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans la saga 'X-Men', quel mutant possède des griffes rétractables en adamantium ainsi qu'un pouvoir de régénération accéléré ?",
+      "answer": "Wolverine",
+      "explanation": "Wolverine, alias Logan, est l'un des mutants les plus populaires de l'univers Marvel, doté d'un squelette et de griffes recouverts du métal quasi indestructible adamantium. Son facteur d'auto-guérison exceptionnel lui permet de survivre à des blessures normalement mortelles et ralentit considérablement son vieillissement. L'acteur australien Hugh Jackman a incarné ce personnage emblématique au cinéma dès l'an 2000, un record de fidélité à un rôle de super-héros.",
+      "options": [
+        "Wolverine",
+        "Cyclope",
+        "Gambit",
+        "Diablo"
+      ]
+    },
+    {
+      "id": "cinema_sagas_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle saga cinématographique américaine suit les combats d'un modeste boxeur de Philadelphie incarné par Sylvester Stallone ?",
+      "answer": "Rocky",
+      "explanation": "Sorti en 1976, le premier film 'Rocky' a raconté l'histoire d'un boxeur amateur obtenant contre toute attente un combat pour le titre mondial, dans la pure tradition du récit de l'outsider. Sylvester Stallone, qui a lui-même écrit le scénario, a vu ce triomphe inattendu remporter l'Oscar du meilleur film. La franchise s'est prolongée des décennies plus tard avec le spin-off 'Creed', centré sur le fils de son ancien rival Apollo Creed.",
+      "options": [
+        "Rocky",
+        "Creed",
+        "Raging Bull",
+        "Southpaw"
+      ]
+    },
+    {
+      "id": "cinema_sagas_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans quelle saga d'action des années 1980, l'inspecteur John McClane, incarné par Bruce Willis, affronte-t-il des terroristes dans une tour de Los Angeles la veille de Noël ?",
+      "answer": "Piège de cristal (Die Hard)",
+      "explanation": "Sorti en 1988, 'Piège de cristal' a définitivement lancé la carrière de Bruce Willis en tant que star du cinéma d'action et a établi les codes du genre du 'die hard movie', où un héros isolé affronte des ennemis retranchés dans un lieu clos. Le nom du gratte-ciel fictif, le Nakatomi Plaza, est resté associé à ce classique du genre. La franchise s'est poursuivie avec plusieurs suites tout au long des décennies suivantes.",
+      "options": [
+        "Piège de cristal (Die Hard)",
+        "L'Arme fatale",
+        "58 minutes pour vivre",
+        "Sous surveillance"
+      ]
+    },
+    {
+      "id": "cinema_sagas_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle saga de science-fiction met en scène des agents secrets en costume noir qui surveillent les extraterrestres vivant sur Terre et effacent la mémoire des témoins ?",
+      "answer": "Men in Black",
+      "explanation": "'Men in Black', sorti en 1997 avec Will Smith et Tommy Lee Jones, mêle habilement comédie et science-fiction autour d'une agence gouvernementale secrète chargée de surveiller les extraterrestres vivant incognito sur Terre. Le petit gadget lumineux appelé Neuralyzer, qui efface la mémoire des témoins, est devenu l'un des objets les plus reconnaissables de cette franchise. Le film s'inspire librement d'une bande dessinée américaine du même nom créée par Lowell Cunningham.",
+      "options": [
+        "Men in Black",
+        "Independence Day",
+        "Signes",
+        "La Guerre des mondes"
+      ]
+    },
+    {
+      "id": "cinema_sagas_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel acteur incarne Batman dans le film de Tim Burton sorti en 1989, aux côtés de Jack Nicholson dans le rôle du Joker ?",
+      "answer": "Michael Keaton",
+      "explanation": "En 1989, le réalisateur Tim Burton a imposé une vision gothique et sombre du justicier masqué, tranchant radicalement avec la série télévisée kitsch des années 1960. Le choix de Michael Keaton, jusque-là surtout connu pour des rôles comiques, avait suscité une vive polémique parmi les fans avant sa sortie. Michael Keaton a repris ce rôle emblématique plus de trente ans plus tard dans le film 'The Flash' sorti en 2023.",
+      "options": [
+        "Michael Keaton",
+        "Val Kilmer",
+        "George Clooney",
+        "Christian Bale"
+      ]
+    },
+    {
+      "id": "cinema_sagas_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel gigantesque gorille légendaire, capturé sur une île mystérieuse, escalade l'Empire State Building à New York en tenant une femme dans sa main ?",
+      "answer": "King Kong",
+      "explanation": "Le personnage de King Kong est apparu pour la première fois en 1933 dans un film pionnier des effets spéciaux en stop-motion, devenant instantanément une icône du cinéma fantastique. Son ascension dramatique de l'Empire State Building, alors le plus haut gratte-ciel du monde, pour échapper aux avions qui l'attaquent, reste l'une des scènes les plus célèbres de l'histoire du cinéma. Le personnage a connu de nombreux remakes, dont celui du réalisateur Peter Jackson en 2005.",
+      "options": [
+        "King Kong",
+        "Godzilla",
+        "Mighty Joe Young",
+        "Rampage"
+      ]
+    },
+    {
+      "id": "cinema_sagas_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel monstre géant japonais, réveillé et transformé par des essais nucléaires, a fait sa première apparition au cinéma en 1954 avant de devenir une icône mondiale du cinéma de kaiju ?",
+      "answer": "Godzilla",
+      "explanation": "Créé par le studio japonais Tōhō, Godzilla est né en 1954 d'une allégorie directe des bombardements atomiques d'Hiroshima et de Nagasaki ainsi que des essais nucléaires américains dans le Pacifique. Ce monstre géant, ou 'kaiju', est devenu une véritable icône culturelle mondiale ayant inspiré des dizaines de films japonais et plusieurs versions américaines. Il affronte régulièrement d'autres créatures géantes comme Mothra ou King Kong dans des combats titanesques.",
+      "options": [
+        "Godzilla",
+        "Mothra",
+        "Gamera",
+        "Rodan"
+      ]
+    },
+    {
+      "id": "cinema_sagas_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle saga d'animation Pixar met en scène une famille de super-héros vivant incognito, les Parr, contrainte de ressortir ses costumes ?",
+      "answer": "Les Indestructibles",
+      "explanation": "Sorti en 2004, 'Les Indestructibles' a marqué les studios Pixar par son inventivité visuelle et son hommage réjouissant aux comics de super-héros classiques. La famille Parr doit dissimuler ses pouvoirs extraordinaires pour mener une vie ordinaire, avant qu'une nouvelle menace ne l'oblige à reprendre du service. Sa suite, sortie quatorze ans plus tard en 2018, a battu le record d'entrées en salles pour un film d'animation lors de son week-end de sortie aux États-Unis.",
+      "options": [
+        "Les Indestructibles",
+        "Big Hero 6",
+        "Les Gardiens de la Galaxie",
+        "Sky High"
+      ]
+    },
+    {
+      "id": "cinema_sagas_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle saga d'animation DreamWorks suit les aventures d'animaux du zoo de Central Park, dont le lion Alex, échoués sur une île après avoir quitté New York ?",
+      "answer": "Madagascar",
+      "explanation": "Sorti en 2005, 'Madagascar' met en scène un groupe d'animaux vedettes du zoo de Central Park qui se retrouvent malencontreusement livrés à eux-mêmes sur l'île sauvage de Madagascar. Le personnage du roi Julien, lémurien extravagant régnant sur l'île, est rapidement devenu l'un des plus populaires de la franchise. Le succès de cette saga a donné naissance à plusieurs suites ainsi qu'à un spin-off consacré aux pingouins espions.",
+      "options": [
+        "Madagascar",
+        "L'Âge de Glace",
+        "Kung Fu Panda",
+        "Shrek"
+      ]
+    },
+    {
+      "id": "cinema_sagas_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle saga de science-fiction américaine, à l'origine une série télévisée des années 1960, suit les voyages du vaisseau spatial USS Enterprise sous le commandement du capitaine Kirk ?",
+      "answer": "Star Trek",
+      "explanation": "Créée par Gene Roddenberry en 1966, 'Star Trek' est l'une des franchises de science-fiction les plus anciennes et les plus influentes de la culture populaire, portée par un message optimiste d'exploration et de tolérance entre civilisations. Le vaisseau USS Enterprise, commandé par le capitaine Kirk aux côtés du légendaire Spock au sang-froid tout vulcain, y explore des mondes inconnus. La franchise a été relancée avec succès au cinéma en 2009 par le réalisateur J.J. Abrams, avec un casting rajeuni.",
+      "options": [
+        "Star Trek",
+        "Star Wars",
+        "Battlestar Galactica",
+        "Stargate"
+      ]
+    },
+    {
+      "id": "cinema_sagas_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle saga comique et policière des années 1980 met en scène l'inspecteur Axel Foley, incarné par Eddie Murphy, débarquant à Beverly Hills pour enquêter sur le meurtre d'un ami ?",
+      "answer": "Le Flic de Beverly Hills",
+      "explanation": "Sorti en 1984, 'Le Flic de Beverly Hills' a définitivement propulsé Eddie Murphy au rang de star comique la plus populaire d'Hollywood grâce à son personnage insolent et débrouillard. Le film mêle avec efficacité scènes d'action et répliques comiques improvisées par son acteur principal. La franchise a connu un net regain de popularité avec un quatrième volet diffusé en streaming en 2024, trente ans après le précédent film.",
+      "options": [
+        "Le Flic de Beverly Hills",
+        "L'Arme fatale",
+        "48 heures",
+        "Un flic à la maternelle"
+      ]
+    },
+    {
+      "question": "En quelle année le premier film 'Star Wars', intitulé 'A New Hope', a-t-il été réalisé par George Lucas?",
+      "options": [
+        "1975",
+        "1977",
+        "1979",
+        "1981"
+      ],
+      "answer": "1977",
+      "explanation": "Star Wars: Episode IV - A New Hope a été réalisé en 1977 et a révolutionné le cinéma de science-fiction, devenant un phénomène culturel mondial.",
+      "difficulty": "Facile",
+      "id": "cinema_sagas_43"
+    },
+    {
+      "question": "Quel réalisateur a adapté 'Le Seigneur des Anneaux' en trois films entre 2001 et 2003?",
+      "options": [
+        "Steven Spielberg",
+        "Peter Jackson",
+        "James Cameron",
+        "Sam Raimi"
+      ],
+      "answer": "Peter Jackson",
+      "explanation": "Peter Jackson a réalisé la trilogie du Seigneur des Anneaux (2001-2003), remportant 17 Oscars au total, établissant un record pour une trilogie.",
+      "difficulty": "Facile",
+      "id": "cinema_sagas_44"
+    },
+    {
+      "question": "Combien de livres la série Harry Potter de J.K. Rowling a-t-elle compris avant son adaptation au cinéma?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "7",
+      "explanation": "La série Harry Potter comprend 7 livres, qui ont été adaptés en 8 films au cinéma (le dernier livre adapté en 2 films).",
+      "difficulty": "Facile",
+      "id": "cinema_sagas_45"
+    },
+    {
+      "question": "En quelle année la trilogie originale 'Jurassic Park' s'est-elle terminée avec un troisième film?",
+      "options": [
+        "1999",
+        "2001",
+        "2003",
+        "2005"
+      ],
+      "answer": "2001",
+      "explanation": "La trilogie originale de Jurassic Park s'est terminée avec 'Jurassic Park III' en 2001, réalisé par Joe Johnston.",
+      "difficulty": "Moyen",
+      "id": "cinema_sagas_46"
     }
   ],
   "Cinéma : Chefs-d'œuvre du Box-Office": [
@@ -1685,6 +2345,226 @@
       ],
       "answer": "Gladiator",
       "explanation": "Avec 'Gladiator', le réalisateur Ridley Scott a ressuscité avec faste le genre du péplum, tombé en désuétude depuis les années 1960. Russell Crowe y livre une performance d'une intensité physique et dramatique exceptionnelle dans le rôle du général romain déchu Maximus Decimus Meridius devenu gladiateur pour venger le meurtre de sa famille par l'empereur corrompu Commode. Les effets visuels révolutionnaires de l'époque ont permis de recréer virtuellement le Colisée de Rome dans toute sa démesure historique."
+    },
+    {
+      "id": "cinema_box_office_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel film de science-fiction de George Lucas, sorti en 1977, a donné naissance à la saga la plus rentable et la plus culte de l'histoire du cinéma ?",
+      "answer": "Star Wars : Un nouvel espoir",
+      "explanation": "Personne à Hollywood ne croyait vraiment au potentiel commercial de ce western spatial modeste, produit avec un budget limité par la 20th Century Fox. Le film a pourtant déclenché un phénomène culturel planétaire sans précédent, créant au passage tout un marché du merchandising cinématographique. George Lucas avait en réalité fondé dès 1975, deux ans avant la sortie du film, le studio d'effets spéciaux Industrial Light & Magic, spécialement créé pour réaliser les trucages visuels de ce premier 'Star Wars'.",
+      "options": [
+        "Star Wars : Un nouvel espoir",
+        "Rencontres du troisième type",
+        "2001, l'Odyssée de l'espace",
+        "Alien, le huitième passager"
+      ]
+    },
+    {
+      "id": "cinema_box_office_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel film d'aventure de Steven Spielberg sorti en 1993, mettant en scène des dinosaures ressuscités grâce à l'ADN, est devenu le plus grand succès mondial de son époque ?",
+      "answer": "Jurassic Park",
+      "explanation": "'Jurassic Park' a marqué un tournant technologique majeur en combinant pour la première fois des dinosaures en images de synthèse photoréalistes et des animatroniques grandeur nature. Le film a détrôné 'E.T.' pour devenir le plus grand succès mondial de l'histoire au moment de sa sortie. Son impact a durablement transformé les standards des effets spéciaux dans toute l'industrie hollywoodienne.",
+      "options": [
+        "Jurassic Park",
+        "Le Monde perdu : Jurassic Park",
+        "King Kong",
+        "Godzilla"
+      ]
+    },
+    {
+      "id": "cinema_box_office_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle suite d'action avec Tom Cruise, sortie en 2022 après plusieurs reports liés à la pandémie, a rapporté plus de 1,4 milliard de dollars et est devenue le plus grand succès de toute la carrière de l'acteur ?",
+      "answer": "Top Gun: Maverick",
+      "explanation": "Les acteurs ont suivi un entraînement intensif de plusieurs mois pour pouvoir tourner à bord de véritables avions de chasse F/A-18, pilotés par des aviateurs de la Marine américaine assis aux commandes, tout en encaissant les mêmes forces gravitationnelles à l'écran, sans recourir aux fonds verts. Ce souci d'authenticité a largement contribué au triomphe critique et public du film, trente-six ans après le premier volet. 'Top Gun: Maverick' est ainsi devenu le film le plus rentable de la carrière pourtant déjà exceptionnelle de la star.",
+      "options": [
+        "Top Gun: Maverick",
+        "Mission: Impossible - Fallout",
+        "Edge of Tomorrow",
+        "Jack Reacher"
+      ]
+    },
+    {
+      "id": "cinema_box_office_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle comédie fantastique de 2023, réalisée par Greta Gerwig avec Margot Robbie dans le rôle-titre, est devenue le film le plus rentable jamais réalisé par une femme cinéaste ?",
+      "answer": "Barbie",
+      "explanation": "Adapté de la célèbre poupée du fabricant de jouets Mattel, le film a surpris toute l'industrie hollywoodienne en abordant avec humour des questions de société sous une esthétique rose flamboyante assumée. Le tournage a nécessité la construction d'immenses décors artisanaux en carton et en plastique pour recréer l'univers de Barbieland. Son succès phénoménal a définitivement prouvé qu'un film porté par une réalisatrice pouvait dominer le box-office mondial.",
+      "options": [
+        "Barbie",
+        "Wonder Woman",
+        "Captain Marvel",
+        "Vice-Versa"
+      ]
+    },
+    {
+      "id": "cinema_box_office_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel film de super-héros de 2012, réalisé par Joss Whedon et réunissant pour la première fois à l'écran Iron Man, Captain America, Thor et Hulk, a franchi le cap du milliard de dollars de recettes en seulement dix-neuf jours ?",
+      "answer": "Avengers",
+      "explanation": "Ce film événementiel a concrétisé le pari ambitieux et risqué du studio Marvel de construire un univers cinématographique interconnecté sur plusieurs films distincts. Réunir à l'écran des super-héros jusque-là vedettes de leurs propres franchises solo était une première inédite dans l'histoire du cinéma de super-héros. Son succès phénoménal a validé cette stratégie et ouvert la voie à des dizaines de suites et de spin-offs.",
+      "options": [
+        "Avengers",
+        "Avengers: L'Ère d'Ultron",
+        "Avengers: Infinity War",
+        "Les Gardiens de la Galaxie"
+      ]
+    },
+    {
+      "id": "cinema_box_office_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel volet final de la trilogie du 'Seigneur des Anneaux', sorti en 2003, a remporté les onze Oscars auxquels il était nommé, rejoignant ainsi 'Titanic' et 'Ben-Hur' au rang des films les plus récompensés de l'histoire ?",
+      "answer": "Le Seigneur des Anneaux : Le Retour du Roi",
+      "explanation": "Ce triomphe historique aux Oscars a notamment récompensé le film du prix suprême du meilleur film, une reconnaissance rare pour un long-métrage de fantasy. Le succès cumulé de la trilogie entière a rapporté près de trois milliards de dollars au box-office mondial. Peter Jackson a ainsi prouvé qu'une saga de fantasy ambitieuse pouvait triompher aussi bien critiquement que commercialement.",
+      "options": [
+        "Le Seigneur des Anneaux : Le Retour du Roi",
+        "Le Seigneur des Anneaux : Les Deux Tours",
+        "Le Hobbit : Un voyage inattendu",
+        "Le Seigneur des Anneaux : La Communauté de l'anneau"
+      ]
+    },
+    {
+      "id": "cinema_box_office_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel film d'animation Pixar de 2010, centré sur le départ à la faculté de son propriétaire Andy, est devenu le tout premier long-métrage d'animation à dépasser le milliard de dollars de recettes mondiales ?",
+      "answer": "Toy Story 3",
+      "explanation": "Ce troisième volet de la saga culte de Pixar a ému un public de tous âges en abordant avec une grande sensibilité le thème du passage à l'âge adulte et de la séparation. Son scénario émouvant autour de l'abandon des jouets d'enfance a autant touché les adultes ayant grandi avec la franchise que les plus jeunes spectateurs. Le film a également remporté l'Oscar du meilleur film d'animation en 2011.",
+      "options": [
+        "Toy Story 3",
+        "Shrek 2",
+        "L'Âge de Glace 3",
+        "Les Indestructibles 2"
+      ]
+    },
+    {
+      "id": "cinema_box_office_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel premier film de la saga Harry Potter, sorti en 2001 avec le jeune Daniel Radcliffe dans le rôle-titre, a rapporté plus de 970 millions de dollars et lancé l'une des franchises les plus lucratives du cinéma mondial ?",
+      "answer": "Harry Potter à l'école des sorciers",
+      "explanation": "Adapté du premier roman à succès de l'autrice britannique J.K. Rowling, ce film a introduit au cinéma tout l'univers magique de l'école de sorcellerie de Poudlard. Le casting a mobilisé un véritable gratin d'acteurs britanniques prestigieux aux côtés des jeunes interprètes principaux. Son immense succès a lancé une saga de huit films qui a rapporté au total plus de sept milliards de dollars au box-office mondial.",
+      "options": [
+        "Harry Potter à l'école des sorciers",
+        "Harry Potter et la Chambre des secrets",
+        "Le Monde de Narnia : Le Lion, la Sorcière blanche et l'Armoire magique",
+        "Percy Jackson : Le Voleur de foudre"
+      ]
+    },
+    {
+      "id": "cinema_box_office_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel film de super-héros Marvel de 2018, porté par Chadwick Boseman dans le rôle-titre, est devenu le premier film du genre nommé à l'Oscar du meilleur film ?",
+      "answer": "Black Panther",
+      "explanation": "Ce film événementiel a marqué l'histoire d'Hollywood en proposant une distribution et une équipe créative majoritairement afro-américaines pour incarner le royaume fictif et technologiquement avancé du Wakanda. Son immense succès critique et commercial a démontré la puissance d'un cinéma de divertissement porté par la diversité. Il a été nommé dans sept catégories aux Oscars de 2019, dont celle du meilleur film, une première historique pour un film de super-héros.",
+      "options": [
+        "Black Panther",
+        "Wonder Woman",
+        "Black Panther: Wakanda Forever",
+        "Les Gardiens de la Galaxie"
+      ]
+    },
+    {
+      "id": "cinema_box_office_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle suite tardive, sortie treize ans après le film original en 2022, a rapporté plus de 2,3 milliards de dollars et s'est hissée parmi les trois plus gros succès de l'histoire du cinéma ?",
+      "answer": "Avatar : La Voie de l'eau",
+      "explanation": "James Cameron a dû attendre le développement de nouvelles technologies de capture de mouvement sous-marine pour pouvoir enfin réaliser cette suite ambitieuse de son premier 'Avatar'. Le tournage a nécessité que l'ensemble du casting s'entraîne intensivement à l'apnée pour filmer les scènes aquatiques directement sous l'eau plutôt qu'en studio sec. Ce pari technique et artistique risqué s'est révélé payant, hissant le film au troisième rang des plus gros succès de tous les temps.",
+      "options": [
+        "Avatar : La Voie de l'eau",
+        "Avatar : Le Sens du feu",
+        "Dune : Deuxième Partie",
+        "Aquaman"
+      ]
+    },
+    {
+      "id": "cinema_box_office_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel film dramatique de 2019 avec Joaquin Phoenix, centré sur les origines du célèbre ennemi de Batman, est devenu le premier film classé R (interdit aux moins de 17 ans non accompagnés) à dépasser le milliard de dollars au box-office mondial ?",
+      "answer": "Joker",
+      "explanation": "Ce drame psychologique sombre, éloigné des codes habituels du film de super-héros, retrace la lente descente aux enfers d'un homme solitaire et rejeté par la société new-yorkaise. La performance habitée et physiquement transformée de Joaquin Phoenix lui a valu l'Oscar du meilleur acteur en 2020. Le succès inattendu de ce film à petit budget, comparé aux superproductions habituelles du genre, a prouvé qu'un récit d'auteur exigeant pouvait aussi conquérir un immense public.",
+      "options": [
+        "Joker",
+        "Deadpool",
+        "The Dark Knight",
+        "Logan"
+      ]
+    },
+    {
+      "id": "cinema_box_office_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel James Bond de 2012, réalisé par Sam Mendes pour le cinquantième anniversaire de la franchise, est devenu le film le plus rentable de toute la saga avec plus d'un milliard de dollars de recettes ?",
+      "answer": "Skyfall",
+      "explanation": "Pour célébrer dignement les cinquante ans de la franchise, la production a fait appel au réalisateur oscarisé Sam Mendes et au directeur de la photographie Roger Deakins pour élever l'esthétique visuelle de la saga. Le film explore avec profondeur le passé et les failles psychologiques de l'agent secret le plus célèbre du cinéma. Son immense succès critique et commercial a durablement relancé la franchise auprès d'un public exigeant.",
+      "options": [
+        "Skyfall",
+        "Casino Royale",
+        "Spectre",
+        "Mourir peut attendre"
+      ]
+    },
+    {
+      "question": "Quel film de 2009 a été le plus rentable au box-office mondial pendant environ une décennie?",
+      "options": [
+        "Transformers",
+        "Avatar",
+        "Twilight: New Moon",
+        "Star Trek"
+      ],
+      "answer": "Avatar",
+      "explanation": "Avatar (2009) de James Cameron a été le film le plus rentable de tous les temps pendant environ 10 ans avant d'être dépassé par Avatar: The Way of Water en 2022.",
+      "difficulty": "Facile",
+      "id": "cinema_box_office_43"
+    },
+    {
+      "question": "Quel film de 1997 a dominé le box-office mondial pendant plus d'une décennie?",
+      "options": [
+        "La Cinquième Élément",
+        "Titanic",
+        "The Lost World",
+        "The Fifth Element"
+      ],
+      "answer": "Titanic",
+      "explanation": "Titanic (1997), réalisé par James Cameron, a été le film le plus rentable au box-office pendant environ 12 ans jusqu'à Avatar.",
+      "difficulty": "Moyen",
+      "id": "cinema_box_office_44"
+    },
+    {
+      "question": "Quel film de 2019 a temporairement battu le record du box-office établi par Avatar?",
+      "options": [
+        "Captain Marvel",
+        "Avengers: Endgame",
+        "Star Wars: The Rise of Skywalker",
+        "The Lion King (2019)"
+      ],
+      "answer": "Avengers: Endgame",
+      "explanation": "Avengers: Endgame (2019) a dépassé Avatar au box-office en juillet 2019, mais a été lui-même surpassé par Avatar: The Way of Water en 2022.",
+      "difficulty": "Moyen",
+      "id": "cinema_box_office_45"
+    },
+    {
+      "question": "Quel film d'animation est devenu le film d'animation le plus rentable de tous les temps en 2024?",
+      "options": [
+        "Le Roi Lion",
+        "Toy Story 3",
+        "Inside Out 2",
+        "Zootopie"
+      ],
+      "answer": "Inside Out 2",
+      "explanation": "Inside Out 2 (2024) est devenu le film d'animation le plus rentable de l'histoire du cinéma, dépassant 1,6 milliard de dollars au box-office.",
+      "difficulty": "Difficile",
+      "id": "cinema_box_office_46"
     }
   ],
   "Cinéma : Grands Thèmes & Splendeurs": [
@@ -2107,6 +2987,226 @@
       ],
       "answer": "Là-haut (Up)",
       "explanation": "Le film 'Là-haut' des studios Pixar a ému le public mondial grâce à sa célèbre séquence d'introduction muette de quatre minutes retraçant toute la vie amoureuse heureuse puis tragique du couple Carl et Ellie. Carl Fredricksen, devenu un vieillard solitaire et grognon, décide de réaliser son rêve d'enfant en s'envolant avec sa maison suspendue à des ballons multicolores vers les chutes du Paradis en Amérique du Sud. Le long-métrage a été le tout premier film d'animation à faire l'ouverture du Festival de Cannes en 2009, remportant par la suite deux Oscars."
+    },
+    {
+      "id": "cinema_splendeurs_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quels sont les deux frères français inventeurs du cinématographe, qui ont organisé la toute première projection publique payante de films en 1895 à Paris ?",
+      "answer": "Auguste et Louis Lumière",
+      "explanation": "Auguste et Louis Lumière ont mis au point un appareil révolutionnaire capable à la fois de filmer, de développer la pellicule et de projeter les images sur grand écran. Leur première séance publique payante, organisée au Grand Café de Paris le 28 décembre 1895, est considérée comme l'acte de naissance officiel du septième art. Leurs tout premiers films, comme 'La Sortie de l'usine Lumière à Lyon', duraient à peine quelques dizaines de secondes.",
+      "options": [
+        "Auguste et Louis Lumière",
+        "Charles et Émile Pathé",
+        "Léon et Albert Gaumont",
+        "Georges et Gaston Méliès"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cinéaste français pionnier, également magicien et illusionniste de profession, a réalisé en 1902 le film muet culte 'Le Voyage dans la Lune' ?",
+      "answer": "Georges Méliès",
+      "explanation": "Georges Méliès a détourné son savoir-faire d'illusionniste de scène pour inventer les tout premiers trucages et effets spéciaux du cinéma, comme les arrêts de caméra ou les surimpressions. Son image la plus célèbre, celle d'un obus planté dans l'œil de la Lune personnifiée, est devenue une icône universelle de l'histoire du cinéma. Il a réalisé plus de cinq cents films fantastiques dans son studio de Montreuil avant de sombrer dans un oubli relatif de son vivant.",
+      "options": [
+        "Georges Méliès",
+        "Louis Lumière",
+        "Émile Cohl",
+        "Ferdinand Zecca"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel compositeur américain a signé les chansons inoubliables des films d'animation Disney 'La Petite Sirène', 'Aladdin' et 'La Belle et la Bête' ?",
+      "answer": "Alan Menken",
+      "explanation": "Alan Menken a contribué à relancer l'âge d'or de l'animation musicale des studios Disney à la fin des années 1980 et au début des années 1990. Ses mélodies entraînantes, souvent écrites en collaboration avec des paroliers comme Howard Ashman ou Tim Rice, ont marqué durablement la culture populaire mondiale. Il fait partie des rares artistes à avoir remporté au moins huit Oscars au cours de sa carrière.",
+      "options": [
+        "Alan Menken",
+        "Randy Newman",
+        "Howard Shore",
+        "Michael Giacchino"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le nom de la récompense suprême décernée au meilleur film de la Mostra de Venise, le plus ancien festival de cinéma au monde ?",
+      "answer": "Le Lion d'or",
+      "explanation": "Créée en 1932, la Mostra de Venise est le doyen des festivals de cinéma internationaux, précédant de plusieurs années la naissance du Festival de Cannes. Le Lion d'or récompense chaque année en septembre le meilleur film de la compétition officielle, sous la forme d'une statuette représentant le lion ailé, symbole emblématique de la ville de Venise. Plusieurs cinéastes prestigieux comme Alfonso Cuarón ou Guillermo del Toro ont remporté cette distinction.",
+      "options": [
+        "Le Lion d'or",
+        "La Palme d'or",
+        "L'Ours d'or",
+        "Le Léopard d'or"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel mouvement cinématographique italien de l'après-guerre, illustré par le film 'Le Voleur de bicyclette' de Vittorio De Sica, privilégiait les tournages en décors réels avec des acteurs non professionnels ?",
+      "answer": "Le néoréalisme italien",
+      "explanation": "Né dans l'Italie exsangue et dévastée de l'immédiat après-guerre, le néoréalisme a choisi de filmer la misère sociale et le quotidien des classes populaires avec une sincérité et une sobriété inédites. Faute de moyens financiers, les cinéastes de ce mouvement tournaient dans les rues avec des habitants recrutés sur place plutôt qu'avec des comédiens professionnels. Ce courant a profondément influencé de nombreux mouvements cinématographiques ultérieurs à travers le monde, dont la Nouvelle Vague française.",
+      "options": [
+        "Le néoréalisme italien",
+        "Le cinéma vérité",
+        "La Nouvelle Vague",
+        "Le cinéma d'auteur"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle actrice américaine, star du film 'Fenêtre sur cour' d'Alfred Hitchcock, a mis fin à sa carrière hollywoodienne en épousant le prince Rainier III et en devenant princesse de Monaco ?",
+      "answer": "Grace Kelly",
+      "explanation": "Grace Kelly incarnait l'élégance glaciale et raffinée si chère au cinéaste Alfred Hitchcock, qui l'a dirigée dans trois de ses films entre 1954 et 1955. Son mariage princier en 1956 a marqué la fin abrupte et définitive de sa brillante carrière d'actrice, alors qu'elle venait tout juste de remporter l'Oscar de la meilleure actrice. Elle est restée princesse de Monaco jusqu'à sa mort tragique dans un accident de voiture en 1982.",
+      "options": [
+        "Grace Kelly",
+        "Ingrid Bergman",
+        "Audrey Hepburn",
+        "Kim Novak"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel compositeur italien a signé le thème musical mélancolique et intemporel de la trilogie 'Le Parrain' de Francis Ford Coppola ?",
+      "answer": "Nino Rota",
+      "explanation": "Nino Rota était également le compositeur fétiche du réalisateur Federico Fellini, avec qui il a collaboré sur des chefs-d'œuvre comme '8½' ou 'Amarcord'. Son thème principal pour 'Le Parrain', porté par une trompette solitaire et nostalgique, est devenu l'une des mélodies les plus reconnaissables de l'histoire du cinéma. Il a été récompensé par l'Oscar de la meilleure musique de film pour 'Le Parrain, 2ème partie' en 1975.",
+      "options": [
+        "Nino Rota",
+        "Ennio Morricone",
+        "Riz Ortolani",
+        "Piero Piccioni"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel film américain de 1927 est considéré comme le premier long-métrage parlant de l'histoire, marquant le début du déclin du cinéma muet ?",
+      "answer": "Le Chanteur de jazz",
+      "explanation": "'Le Chanteur de jazz' n'était pas entièrement parlant, mais il intégrait plusieurs séquences chantées et quelques dialogues synchronisés grâce au nouveau procédé sonore Vitaphone. Son succès commercial phénoménal a précipité la transition rapide et parfois brutale de toute l'industrie hollywoodienne vers le cinéma sonore. De nombreuses stars du muet, à l'accent ou à la voix jugés inadaptés, ont alors vu leur carrière brutalement s'arrêter.",
+      "options": [
+        "Le Chanteur de jazz",
+        "Les Lumières de la ville",
+        "Metropolis",
+        "L'Aurore"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel compositeur grec a créé la partition électronique planante du film 'Blade Runner' ainsi que le thème triomphal du film 'Les Chariots de feu' ?",
+      "answer": "Vangelis",
+      "explanation": "Vangelis a marqué l'histoire de la musique de film en composant intégralement ses partitions sur des synthétiseurs analogiques plutôt qu'avec un orchestre symphonique traditionnel. Son thème pour 'Les Chariots de feu', accompagnant au ralenti une célèbre course sur une plage, lui a valu l'Oscar de la meilleure musique de film en 1982. Sa bande originale hypnotique et mélancolique pour 'Blade Runner' reste indissociable de l'ambiance futuriste et pluvieuse du film.",
+      "options": [
+        "Vangelis",
+        "Jean-Michel Jarre",
+        "Giorgio Moroder",
+        "Tangerine Dream"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel compositeur américain a signé les stridences de violons devenues cultes de la scène de la douche de 'Psychose', ainsi que la musique envoûtante de 'Sueurs froides' ?",
+      "answer": "Bernard Herrmann",
+      "explanation": "Bernard Herrmann a collaboré à de nombreuses reprises avec Alfred Hitchcock, façonnant l'identité musicale angoissante de plusieurs de ses plus grands thrillers. Pour la scène culte du meurtre sous la douche dans 'Psychose', il a eu l'idée novatrice de n'utiliser que des cordes stridentes et dissonantes, sans percussion ni cuivre. Il a également composé les musiques de nombreux classiques du cinéma, dont 'Le Voyage fantastique' et 'Citizen Kane'.",
+      "options": [
+        "Bernard Herrmann",
+        "John Barry",
+        "Miklós Rózsa",
+        "Elmer Bernstein"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel acteur et réalisateur américain du cinéma muet, surnommé 'l'homme qui ne rit jamais', est célèbre pour ses cascades spectaculaires réalisées sans trucage dans des films comme 'Le Mécano de la General' ?",
+      "answer": "Buster Keaton",
+      "explanation": "Buster Keaton a bâti toute sa gloire sur un visage figé et impassible qui contrastait avec les acrobaties et les cascades les plus périlleuses, souvent réalisées lui-même sans doublure. Dans 'Le Mécano de la General', il a mis en scène le déraillement réel d'une locomotive à vapeur grandeur nature, l'une des scènes les plus coûteuses jamais tournées à l'époque du muet. Longtemps éclipsé par la popularité de Charlie Chaplin, son génie visuel et technique a été pleinement redécouvert par la critique dans les décennies suivantes.",
+      "options": [
+        "Buster Keaton",
+        "Charlie Chaplin",
+        "Harold Lloyd",
+        "Stan Laurel"
+      ]
+    },
+    {
+      "id": "cinema_splendeurs_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel critique et théoricien italo-français est à l'origine, au début du vingtième siècle, de l'expression 'Septième Art' pour désigner le cinéma ?",
+      "answer": "Ricciotto Canudo",
+      "explanation": "Dès 1911, dans son essai 'Naissance d'un sixième art', Ricciotto Canudo commence à théoriser le cinéma naissant comme un art total. C'est dans son 'Manifeste des sept arts', publié en 1923, qu'il y ajoute la danse et consacre définitivement le cinéma comme la synthèse des sept arts majeurs déjà reconnus que sont l'architecture, la musique, la peinture, la sculpture, la poésie et la danse. Cette expression du 'septième art', encore largement utilisée aujourd'hui en France pour désigner le cinéma, a contribué à faire reconnaître ce nouveau médium populaire comme une véritable forme artistique. Canudo a également fondé l'un des tout premiers ciné-clubs de l'histoire à Paris.",
+      "options": [
+        "Ricciotto Canudo",
+        "André Bazin",
+        "Georges Sadoul",
+        "Jean Epstein"
+      ]
+    },
+    {
+      "question": "Quel film musical de 1961 a remporté le record de 11 Oscars aux Academy Awards?",
+      "options": [
+        "La Mélodie du Bonheur",
+        "West Side Story",
+        "My Fair Lady",
+        "Singin' in the Rain"
+      ],
+      "answer": "West Side Story",
+      "explanation": "'West Side Story' (1961) a remporté 11 Oscars, établissant un record impressionnant pour l'époque dans la catégorie des films musicaux.",
+      "difficulty": "Difficile",
+      "id": "cinema_splendeurs_43"
+    },
+    {
+      "question": "Quel film de 1972 a révolutionné le cinéma criminel et établi les standards du genre de la mafia?",
+      "options": [
+        "Scarface",
+        "Le Parrain",
+        "Les Affranchis",
+        "Goodfellas"
+      ],
+      "answer": "Le Parrain",
+      "explanation": "'Le Parrain' (1972), réalisé par Francis Ford Coppola, a établi les standards du genre criminel et remporté l'Oscar du meilleur film.",
+      "difficulty": "Facile",
+      "id": "cinema_splendeurs_44"
+    },
+    {
+      "question": "Quel film de 2009 a révolutionné le cinéma avec sa technologie 3D révolutionnaire et ses paysages virtuels spectaculaires?",
+      "options": [
+        "Transformers 2",
+        "Avatar",
+        "Star Trek",
+        "Terminator Salvation"
+      ],
+      "answer": "Avatar",
+      "explanation": "Avatar (2009) a révolutionné le cinéma avec sa technologie de capture de mouvement révolutionnaire et ses paysages 3D spectaculaires du monde de Pandora.",
+      "difficulty": "Facile",
+      "id": "cinema_splendeurs_45"
+    },
+    {
+      "question": "Quel film d'aventure de 1994 explore les thèmes du destin, de l'amour et du succès inattendu à travers plusieurs décennies?",
+      "options": [
+        "Pulp Fiction",
+        "Forrest Gump",
+        "The Shawshank Redemption",
+        "Léon"
+      ],
+      "answer": "Forrest Gump",
+      "explanation": "'Forrest Gump' (1994) suit un homme de faible QI qui atteint un succès extraordinaire, devenant un classique sur le destin, l'amour et l'espoir.",
+      "difficulty": "Facile",
+      "id": "cinema_splendeurs_46"
     }
   ],
   "Cinéma : Secrets de Tournage": [
@@ -2529,6 +3629,212 @@
       ],
       "answer": "True Lies",
       "explanation": "Dans le film d'action 'True Lies' réalisé par James Cameron, l'actrice Jamie Lee Curtis a tenu à réaliser elle-même une cascade aérienne particulièrement périlleuse sans aucune doublure. Suspendue par un harnais de sécurité à la main du personnage incarné par Arnold Schwarzenegger depuis un hélicoptère volant au-dessus des Keys de Floride, elle a bravé sa peur du vide. Le réalisateur James Cameron a filmé la scène en personne depuis le patin de l'appareil volant, offrant un cadeau d'anniversaire mémorable à sa comédienne vedette."
+    },
+    {
+      "id": "cinema_secrets_31",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Sur le tournage périlleux de quel film catastrophe de 1997 une cinquantaine de membres de l'équipe et du casting ont-ils été intoxiqués après qu'une personne a discrètement ajouté de la drogue (PCP) dans la soupe de palourdes du plateau ?",
+      "answer": "Titanic",
+      "explanation": "Ce tournage déjà réputé pour sa démesure technique et son budget colossal a connu un incident aussi insolite qu'inquiétant, lorsque plusieurs dizaines de personnes présentes sur le plateau ont soudainement souffert d'hallucinations. Une enquête a rapidement révélé qu'une personne mécontente avait volontairement dissimulé de la phencyclidine, une drogue hallucinogène, dans le plat de soupe servi à l'équipe. James Cameron lui-même a évoqué à plusieurs reprises cet épisode surréaliste lors d'interviews ultérieures.",
+      "options": [
+        "Titanic",
+        "Apollo 13",
+        "L'Odyssée de Pi",
+        "Le Pic de Dante"
+      ]
+    },
+    {
+      "id": "cinema_secrets_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel acteur et scénariste américain a écrit le scénario original de 'Rocky' en seulement quelques jours, avant de refuser plusieurs offres de studios très lucratives afin d'imposer d'incarner lui-même le rôle-titre ?",
+      "answer": "Sylvester Stallone",
+      "explanation": "Alors acteur quasiment inconnu et fauché, Sylvester Stallone a rédigé le scénario de 'Rocky' en un temps record après avoir assisté à un combat de boxe qui l'a profondément inspiré. Les studios lui proposaient des sommes considérables pour racheter son script à condition de confier le rôle principal à une star déjà établie. Il a refusé catégoriquement cet argent facile pour défendre son propre rôle, un pari risqué qui a fait de lui une star internationale du jour au lendemain.",
+      "options": [
+        "Sylvester Stallone",
+        "Burt Reynolds",
+        "Robert De Niro",
+        "Al Pacino"
+      ]
+    },
+    {
+      "id": "cinema_secrets_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Pour obtenir des réactions d'émerveillement et de surprise les plus authentiques possible de la part des jeunes acteurs, Steven Spielberg a choisi de tourner quel film de 1982 presque entièrement dans l'ordre chronologique de l'histoire ?",
+      "answer": "E.T. l'extra-terrestre",
+      "explanation": "Cette méthode de tournage chronologique est extrêmement rare et coûteuse dans l'industrie du cinéma, où les scènes sont habituellement filmées dans le désordre selon les contraintes de décors et de planning. Steven Spielberg a néanmoins choisi cette approche pour permettre aux jeunes comédiens, dont Drew Barrymore âgée de seulement sept ans, de vivre progressivement l'évolution réelle de leur amitié avec la créature extraterrestre. Cette sincérité émotionnelle palpable à l'écran est considérée comme l'une des clés du succès intemporel du film.",
+      "options": [
+        "E.T. l'extra-terrestre",
+        "Hook ou la Revanche du Capitaine Crochet",
+        "Jurassic Park",
+        "Rencontres du troisième type"
+      ]
+    },
+    {
+      "id": "cinema_secrets_35",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Sur le tournage de quel film de guerre de 1987 de Stanley Kubrick l'ancien sergent-instructeur R. Lee Ermey a-t-il improvisé une grande partie de ses répliques les plus mémorables, en puisant directement dans son propre vécu de véritable instructeur des Marines ?",
+      "answer": "Full Metal Jacket",
+      "explanation": "R. Lee Ermey avait été engagé au départ comme simple conseiller technique pour authentifier les scènes d'entraînement militaire du film. Impressionné par son autorité naturelle et son incroyable répertoire d'insultes tirées de sa véritable carrière de sergent instructeur des Marines, Stanley Kubrick a finalement décidé de lui confier le rôle principal du sergent Hartman. Une grande partie des répliques les plus mordantes et les plus crues du personnage ont ainsi été directement improvisées par l'acteur sur le plateau.",
+      "options": [
+        "Full Metal Jacket",
+        "Platoon",
+        "Apocalypse Now",
+        "Voyage au bout de l'enfer"
+      ]
+    },
+    {
+      "id": "cinema_secrets_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Pour quel film de guerre de 1998 de Steven Spielberg les acteurs principaux ont-ils suivi un véritable entraînement militaire intensif avant le tournage, et ont-ils été formellement invités à ne visionner aucun autre film de guerre pour préserver la fraîcheur de leur jeu ?",
+      "answer": "Il faut sauver le soldat Ryan",
+      "explanation": "Steven Spielberg a fait appel à un ancien capitaine des Marines, Dale Dye, pour soumettre les acteurs à un véritable camp d'entraînement militaire éprouvant avant le début du tournage. Cette immersion physique intense visait à instaurer une réelle camaraderie et une fatigue authentique entre les comédiens, perceptibles à l'écran. Le réalisateur leur a également demandé d'éviter tout autre film de guerre au préalable, afin que leurs réactions face à la violence du combat restent les plus spontanées et sincères possible.",
+      "options": [
+        "Il faut sauver le soldat Ryan",
+        "La Ligne rouge",
+        "Pearl Harbor",
+        "Fury"
+      ]
+    },
+    {
+      "id": "cinema_secrets_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Pour animer avec le plus grand réalisme possible les mouvements et le comportement des grands fauves dans 'Le Roi Lion' (1994), les studios Disney ont envoyé leur équipe d'animateurs observer de vrais lions dans quel pays d'Afrique ?",
+      "answer": "Le Kenya",
+      "explanation": "Les animateurs des studios Disney se sont rendus directement en réserve naturelle au Kenya pour observer sur le terrain le comportement, les postures et la démarche des lions et autres animaux de la savane africaine. Des spécialistes ont également donné des conférences sur l'anatomie féline aux équipes créatives afin de garantir un mouvement le plus crédible possible à l'écran. Ce travail de recherche approfondi a grandement contribué au réalisme et à la puissance émotionnelle des scènes d'action du film.",
+      "options": [
+        "Le Kenya",
+        "L'Afrique du Sud",
+        "La Tanzanie",
+        "Le Botswana"
+      ]
+    },
+    {
+      "id": "cinema_secrets_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Pour incarner un plongeur en apnée dans 'Le Grand Bleu' (1988) de Luc Besson, quel acteur français principal s'est entraîné intensivement à l'apnée aux côtés du champion et conseiller technique Jacques Mayol ?",
+      "answer": "Jean-Marc Barr",
+      "explanation": "Le film s'inspire librement de la rivalité amicale entre les véritables champions de plongée en apnée Jacques Mayol et Enzo Maiorca. L'acteur Jean-Marc Barr, incarnant le personnage inspiré de Mayol, s'est soumis à un entraînement physique rigoureux pour pouvoir réaliser lui-même une grande partie de ses cascades sous-marines sans recourir à une doublure. Jacques Mayol a d'ailleurs directement conseillé la production tout au long du tournage pour garantir l'authenticité technique des scènes de plongée.",
+      "options": [
+        "Jean-Marc Barr",
+        "Jean Reno",
+        "Christophe Lambert",
+        "Vincent Perez"
+      ]
+    },
+    {
+      "id": "cinema_secrets_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Pour la cascade devenue culte du bus devant sauter au-dessus d'un vide sur une autoroute inachevée dans le thriller 'Speed' (1994), comment cette scène spectaculaire a-t-elle été réellement tournée ?",
+      "answer": "Un authentique autobus a sauté au-dessus d'un vrai tronçon d'autoroute inachevé de Los Angeles",
+      "explanation": "Pour cette cascade devenue culte, l'équipe technique a fait sauter un authentique autobus au-dessus d'un véritable tronçon d'autoroute encore en construction à Los Angeles, une prouesse mécanique impressionnante pour l'époque. Le tournage a nécessité l'utilisation de rampes dissimulées et de charges calculées avec une extrême précision pour garantir la sécurité de la cascadeuse doublant Sandra Bullock. Ce choix de tournage pratique plutôt que numérique a grandement renforcé le réalisme viscéral ressenti par les spectateurs.",
+      "options": [
+        "Un authentique autobus a sauté au-dessus d'un vrai tronçon d'autoroute inachevé de Los Angeles",
+        "La cascade a été entièrement recréée à l'aide d'une maquette miniature filmée en accéléré",
+        "Le saut du bus a été généré numériquement en images de synthèse",
+        "Une rampe dissimulée a permis de filmer un faux saut sans réel vide au sol"
+      ]
+    },
+    {
+      "id": "cinema_secrets_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Sur le tournage du péplum 'Gladiator' (2000) de Ridley Scott, quel acteur britannique interprétant le marchand d'esclaves Proximo est décédé avant la fin du tournage, contraignant l'équipe à terminer ses scènes grâce à une doublure et des retouches numériques du visage ?",
+      "answer": "Oliver Reed",
+      "explanation": "L'acteur britannique Oliver Reed, réputé pour son tempérament flamboyant, est décédé subitement d'une crise cardiaque à Malte durant une pause de tournage, avant d'avoir terminé l'intégralité de ses scènes. Pour permettre à son personnage de conclure son arc narratif comme prévu dans le scénario, la production a eu recours à une doublure filmée de dos ainsi qu'à des effets numériques novateurs pour recréer son visage sur certains plans manquants. Le film lui a été dédié en hommage posthume au générique final.",
+      "options": [
+        "Oliver Reed",
+        "Richard Harris",
+        "Peter O'Toole",
+        "Derek Jacobi"
+      ]
+    },
+    {
+      "id": "cinema_secrets_41",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel film de science-fiction culte de 1984, tourné avec un budget très modeste de seulement 6,4 millions de dollars, ne comptait que dix-sept lignes de dialogue pour son acteur principal, futur gouverneur de Californie ?",
+      "answer": "Terminator",
+      "explanation": "Réalisé par un jeune James Cameron alors encore peu connu, ce thriller de science-fiction à petit budget a été tourné en un temps record avec des moyens techniques très limités par rapport aux standards actuels. Arnold Schwarzenegger, engagé pour son physique impressionnant plutôt que pour son talent d'acteur à l'époque, ne prononce qu'un nombre très restreint de répliques tout au long du film, dont la célèbre phrase 'I'll be back'. Ce succès surprise au box-office a lancé la carrière de James Cameron ainsi que toute la franchise 'Terminator'.",
+      "options": [
+        "Terminator",
+        "RoboCop",
+        "Predator",
+        "Mad Max"
+      ]
+    },
+    {
+      "id": "cinema_secrets_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Pour quel classique romantique de 1942 le scénario final, y compris son dénouement, n'était-il toujours pas définitivement fixé alors que le tournage avait déjà commencé, obligeant les acteurs à jouer sans connaître le sort final de leurs personnages ?",
+      "answer": "Casablanca",
+      "explanation": "Adapté d'une pièce de théâtre alors inédite, le scénario de 'Casablanca' a été retravaillé au jour le jour par plusieurs scénaristes tout au long du tournage, sans qu'une conclusion définitive ne soit arrêtée à l'avance. L'actrice Ingrid Bergman a confié ne pas savoir, en jouant certaines scènes clés, lequel des deux prétendants de son personnage elle finirait par choisir. Cette incertitude permanente sur le plateau a paradoxalement renforcé l'authenticité et la tension émotionnelle de cette histoire d'amour devenue légendaire.",
+      "options": [
+        "Casablanca",
+        "Autant en emporte le vent",
+        "Brève Rencontre",
+        "Le Pont de la rivière Kwaï"
+      ]
+    },
+    {
+      "question": "Dans 'Les Dents de la Mer' (1975), quel problème technique majeur a forcé Spielberg à innover pour créer du suspense?",
+      "options": [
+        "Le son était trop fort",
+        "Le requin mécanique était constamment en panne",
+        "La caméra ne fonctionnait pas",
+        "Le décor s'est effondré"
+      ],
+      "answer": "Le requin mécanique était constamment en panne",
+      "explanation": "Le requin mécanique de 'Jaws' avait de graves problèmes de corrosion due à l'eau salée, forçant Spielberg à utiliser moins le requin à l'écran, renforçant paradoxalement l'effet de suspense du film.",
+      "difficulty": "Moyen",
+      "id": "cinema_secrets_43"
+    },
+    {
+      "question": "Lors du tournage de 'Titanic' (1997) dans le bassin géant, combien de gallons d'eau environ étaient utilisés par minute?",
+      "options": [
+        "500 gallons",
+        "1 000 gallons",
+        "2 000 gallons",
+        "5 000 gallons"
+      ],
+      "answer": "2 000 gallons",
+      "explanation": "Le plateau de 'Titanic' utilisait approximativement 2 000 gallons d'eau par minute pour maintenir le réservoir rempli lors du tournage des scènes.",
+      "difficulty": "Difficile",
+      "id": "cinema_secrets_44"
+    },
+    {
+      "question": "Quel acteur a joué le rôle du père de Marty McFly dans 'Retour vers le Futur' (1985)?",
+      "options": [
+        "Michael J. Fox",
+        "Crispin Glover",
+        "Christopher Lloyd",
+        "Lea Thompson"
+      ],
+      "answer": "Crispin Glover",
+      "explanation": "Crispin Glover a joué George McFly, le père de Marty, dans le premier film de la trilogie 'Retour vers le Futur'.",
+      "difficulty": "Facile",
+      "id": "cinema_secrets_45"
+    },
+    {
+      "question": "Dans 'Forrest Gump' (1994), la plume emblématique qui ouvre et ferme le film était-elle une vraie plume ou un effet spécial?",
+      "options": [
+        "C'était une vraie plume filmée",
+        "C'était un effet spécial numérique",
+        "C'était une plume peinte en bleu",
+        "C'était une maquette en tissu"
+      ],
+      "answer": "C'était un effet spécial numérique",
+      "explanation": "La plume emblématique de 'Forrest Gump' est un effet spécial créé numériquement par les studios ILM, ce qui était une prouesse technique novateur pour 1994.",
+      "difficulty": "Moyen",
+      "id": "cinema_secrets_46"
     }
   ]
 }

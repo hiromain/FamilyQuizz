@@ -419,6 +419,174 @@
       ],
       "answer": "Un malware",
       "explanation": "Le terme 'malware' englobe l'ensemble des logiciels malveillants, quelle que soit leur méthode de propagation ou leur objectif : vol de données, espionnage, sabotage ou extorsion financière."
+    },
+    {
+      "id": "informatique_culture_numerique_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle encyclopédie collaborative en ligne, lancée en janvier 2001, permet à n'importe quel internaute de modifier la plupart de ses articles ?",
+      "answer": "Wikipédia",
+      "explanation": "Fondée par Jimmy Wales et Larry Sanger, Wikipédia fonctionne sur un principe collaboratif ouvert reposant sur un logiciel wiki modifiable par tous. Elle compte aujourd'hui des millions d'articles rédigés bénévolement dans des centaines de langues différentes.",
+      "options": [
+        "Wikipédia",
+        "Encarta",
+        "Larousse.fr",
+        "Universalis"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel réseau social a popularisé, à partir de 2007, l'usage du symbole '#' (hashtag) pour regrouper les publications autour d'un même sujet ?",
+      "answer": "Twitter",
+      "explanation": "C'est le consultant Chris Messina qui a proposé le premier, en août 2007, d'utiliser le symbole '#' sur Twitter pour rassembler les discussions autour d'un thème commun. L'usage s'est ensuite généralisé à la quasi-totalité des réseaux sociaux.",
+      "options": [
+        "Twitter",
+        "Facebook",
+        "Instagram",
+        "MySpace"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle application de vidéos courtes, développée par l'entreprise chinoise ByteDance, connaît un succès mondial depuis son lancement international en 2017 ?",
+      "answer": "TikTok",
+      "explanation": "Lancée en Chine sous le nom de Douyin en 2016, l'application s'exporte à l'international dès 2017 sous le nom de TikTok. Elle fusionne en 2018 avec l'application musicale Musical.ly, ce qui accélère fortement sa croissance hors de Chine.",
+      "options": [
+        "TikTok",
+        "Vine",
+        "Triller",
+        "Likee"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on l'identifiant numérique unique attribué à chaque appareil connecté à un réseau internet ?",
+      "answer": "L'adresse IP",
+      "explanation": "L'adresse IP (Internet Protocol) permet aux appareils connectés de s'identifier et de communiquer entre eux sur un réseau. Elle peut être fixe ou attribuée dynamiquement par le fournisseur d'accès à chaque nouvelle connexion.",
+      "options": [
+        "L'adresse IP",
+        "Le nom de domaine",
+        "Le port",
+        "Le protocole"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans quel pays les emojis, ces petites images utilisées pour exprimer des émotions dans les messages, ont-ils été créés à la fin des années 1990 ?",
+      "answer": "Le Japon",
+      "explanation": "L'ingénieur japonais Shigetaka Kurita a conçu les premiers emojis en 1999 pour un service de téléphonie mobile. Le mot 'emoji' vient du japonais 'e' (image) et 'moji' (caractère), sans lien étymologique direct avec le mot anglais 'emotion'.",
+      "options": [
+        "Le Japon",
+        "Les États-Unis",
+        "La Corée du Sud",
+        "La Finlande"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Le QR code, ce carré de petits pixels que l'on scanne avec un smartphone, a été inventé en 1994 pour quel secteur d'activité à l'origine ?",
+      "answer": "L'industrie automobile",
+      "explanation": "L'entreprise japonaise Denso Wave, filiale du groupe Toyota, a créé le QR code ('Quick Response') pour suivre les pièces détachées sur ses chaînes de production. Sa capacité à stocker beaucoup plus d'informations qu'un code-barres classique lui a valu de nombreux usages ultérieurs.",
+      "options": [
+        "L'industrie automobile",
+        "La grande distribution",
+        "La santé",
+        "La banque"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Sous quel pseudonyme mystérieux se cache le créateur, ou le groupe de créateurs, de la première cryptomonnaie, le Bitcoin, apparue en 2009 ?",
+      "answer": "Satoshi Nakamoto",
+      "explanation": "L'identité réelle de Satoshi Nakamoto n'a jamais été confirmée avec certitude, malgré plusieurs hypothèses avancées au fil des années. Le Bitcoin repose sur une technologie de registre décentralisé appelée blockchain, décrite dans un document fondateur publié fin 2008.",
+      "options": [
+        "Satoshi Nakamoto",
+        "Craig Wright",
+        "Hal Finney",
+        "Nick Szabo"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Le mot 'podcast', qui désigne une émission audio diffusée sur internet, est la contraction de deux mots anglais. Lesquels ?",
+      "answer": "iPod et broadcast",
+      "explanation": "Le terme est apparu au milieu des années 2000, à l'époque où le baladeur iPod d'Apple dominait le marché de l'écoute audio nomade. Le mot anglais 'broadcast' signifie 'diffusion', par analogie avec la radio ou la télévision.",
+      "options": [
+        "iPod et broadcast",
+        "Portable et cast",
+        "Pod et forecast",
+        "Post et broadcast"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Que signifie l'acronyme CAPTCHA, ce test (comme choisir des images contenant des feux de circulation) permettant de vérifier qu'un utilisateur n'est pas un robot ?",
+      "answer": "Completely Automated Public Turing test to tell Computers and Humans Apart",
+      "explanation": "Inventé au début des années 2000 par des chercheurs de l'université Carnegie Mellon, le CAPTCHA rend hommage au test de Turing en proposant des tâches simples pour un humain mais complexes pour un programme automatisé. Il a beaucoup évolué avec les progrès de l'intelligence artificielle.",
+      "options": [
+        "Completely Automated Public Turing test to tell Computers and Humans Apart",
+        "Computer Access Protection Test for Confirming Human Access",
+        "Certified Automated Process to Control Hacking Attempts",
+        "Computerized Authentication Process To Check Human Activity"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "En quelle année l'ingénieur Steve Wilhite a-t-il créé, chez CompuServe, le format d'image animée GIF toujours utilisé aujourd'hui ?",
+      "answer": "1987",
+      "explanation": "Le format GIF ('Graphics Interchange Format') permet de compresser des images ou de courtes animations en préservant une palette de couleurs limitée. Son créateur avait déclenché une petite polémique en affirmant que le sigle se prononçait 'jif', comme la marque de beurre de cacahuète, et non 'guif'.",
+      "options": [
+        "1987",
+        "1995",
+        "1979",
+        "1991"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "D'où vient le terme 'spam', qui désigne aujourd'hui les messages publicitaires non sollicités envoyés en masse par e-mail ?",
+      "answer": "D'une marque de viande en conserve popularisée par un sketch des Monty Python",
+      "explanation": "Dans un sketch culte de 1970, des clients de restaurant se voient proposer un menu où presque tous les plats contiennent du Spam, une marque américaine de viande en conserve, répété inlassablement par les serveurs. Cette image de matraquage répétitif a ensuite été reprise pour désigner les messages indésirables envoyés en masse sur internet.",
+      "options": [
+        "D'une marque de viande en conserve popularisée par un sketch des Monty Python",
+        "D'un acronyme informatique signifiant 'Sending Massive Advertising Post'",
+        "Du nom d'un pirate informatique célèbre des années 1980",
+        "D'une abréviation du mot anglais 'span'"
+      ]
+    },
+    {
+      "id": "informatique_culture_numerique_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel informaticien de l'université Carnegie Mellon est crédité de l'invention du smiley textuel ':-)' en 1982, pour indiquer un message humoristique sur un forum en ligne ?",
+      "answer": "Scott Fahlman",
+      "explanation": "Face à des malentendus provoqués par des messages ironiques mal interprétés sur un forum universitaire, Scott Fahlman a proposé le 19 septembre 1982 d'utiliser ':-)' pour signaler l'humour, et ':-(' pour le sérieux ou le mécontentement. Ce message est aujourd'hui considéré comme l'acte de naissance de l'émoticône.",
+      "options": [
+        "Scott Fahlman",
+        "Ray Tomlinson",
+        "Kevin MacKenzie",
+        "Vint Cerf"
+      ]
     }
   ],
   "Informatique : Histoire & Pionniers": [
@@ -835,6 +1003,282 @@
       ],
       "answer": "Dennis Ritchie",
       "explanation": "Le langage C, conçu par Dennis Ritchie pour réécrire le système Unix, reste aujourd'hui l'un des langages de programmation les plus influents, à l'origine directe de langages comme C++, Java ou encore C#."
+    },
+    {
+      "id": "informatique_histoire_pionniers_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel logiciel d'appels vocaux et vidéo gratuits via internet, fondé en 2003 par un entrepreneur suédois et un entrepreneur danois, a été racheté par Microsoft en 2011 ?",
+      "answer": "Skype",
+      "explanation": "Skype a été fondé par Niklas Zennström (suédois) et Janus Friis (danois), avec un développement technique confié à des ingénieurs estoniens. Microsoft l'a racheté pour 8,5 milliards de dollars en 2011, l'une des plus grosses acquisitions de son histoire à cette époque.",
+      "options": [
+        "Skype",
+        "Viber",
+        "WhatsApp",
+        "Zoom"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel annuaire de sites web, fondé en 1994 par deux étudiants de Stanford, Jerry Yang et David Filo, a compté parmi les tout premiers grands portails d'internet ?",
+      "answer": "Yahoo!",
+      "explanation": "À l'origine baptisé 'Jerry and David's Guide to the World Wide Web', ce répertoire de liens classés par catégories deviendra Yahoo!. Longtemps portail incontournable d'internet, l'entreprise finira par décliner face à la concurrence de moteurs de recherche plus performants comme Google.",
+      "options": [
+        "Yahoo!",
+        "Google",
+        "AltaVista",
+        "Lycos"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel site de vente aux enchères en ligne entre particuliers a été fondé en 1995 par le programmeur Pierre Omidyar, né en France de parents iraniens ?",
+      "answer": "eBay",
+      "explanation": "Pierre Omidyar lance eBay depuis son appartement de Californie, sous le nom initial d'AuctionWeb. Le tout premier objet vendu sur la plateforme aurait été un pointeur laser cassé, acheté par un collectionneur assumant parfaitement en connaître l'état.",
+      "options": [
+        "eBay",
+        "Leboncoin",
+        "Amazon",
+        "Craigslist"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le nom du premier calculateur électronique généraliste de grande envergure, mis en service aux États-Unis en 1945 ?",
+      "answer": "ENIAC",
+      "explanation": "Pesant près de 30 tonnes et occupant toute une salle à l'université de Pennsylvanie, l'ENIAC ('Electronic Numerical Integrator and Computer') était initialement destiné à calculer des tables de tir pour l'armée américaine. Il a notamment été programmé par six mathématiciennes, longtemps restées dans l'ombre de cette prouesse technique.",
+      "options": [
+        "ENIAC",
+        "UNIVAC",
+        "Colossus",
+        "Z3"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ingénieur américain a mis au point, pour accélérer le recensement de la population des États-Unis en 1890, une machine électromécanique lisant des cartes perforées ?",
+      "answer": "Herman Hollerith",
+      "explanation": "Grâce à sa machine à cartes perforées, le recensement de 1890 a pu être dépouillé en un temps record, alors que celui de 1880, réalisé entièrement à la main, avait nécessité près de huit années de travail. Herman Hollerith est aujourd'hui considéré comme l'un des pionniers du traitement automatique des données.",
+      "options": [
+        "Herman Hollerith",
+        "Charles Babbage",
+        "Vannevar Bush",
+        "George Boole"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel service pionnier de partage de musique en pair-à-pair, fondé en 1999 par l'étudiant américain Shawn Fanning, a bouleversé l'industrie du disque avant d'être fermé pour violation des droits d'auteur ?",
+      "answer": "Napster",
+      "explanation": "Lancé alors que Shawn Fanning n'avait que 18 ans, Napster permettait d'échanger gratuitement des fichiers MP3 entre utilisateurs du monde entier. Poursuivi en justice par l'industrie musicale, le service original ferme dès 2001, mais il aura durablement changé les habitudes de consommation de la musique.",
+      "options": [
+        "Napster",
+        "LimeWire",
+        "Kazaa",
+        "BitTorrent"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel centre de recherche californien de l'entreprise Xerox a développé, dans les années 1970, les premiers concepts d'interface graphique (fenêtres, icônes, souris) qui inspireront directement Apple ?",
+      "answer": "Xerox PARC",
+      "explanation": "C'est en visitant le Xerox PARC (Palo Alto Research Center) en 1979 que Steve Jobs découvre l'ordinateur Xerox Alto et son interface graphique révolutionnaire. Cette visite influencera directement la conception du Macintosh, lancé par Apple en 1984.",
+      "options": [
+        "Xerox PARC",
+        "Bell Labs",
+        "MIT Media Lab",
+        "IBM Research"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel algorithme, conçu par Larry Page et Sergey Brin durant leurs études à Stanford, permet de classer les pages web selon la quantité et la qualité des liens qui pointent vers elles ?",
+      "answer": "PageRank",
+      "explanation": "Le principe du PageRank s'inspire du monde académique, où un article scientifique gagne en crédibilité s'il est cité par de nombreuses autres publications reconnues. Présenté dans un article universitaire en 1998, cet algorithme a constitué l'avantage technique décisif ayant permis à Google de s'imposer face à ses concurrents.",
+      "options": [
+        "PageRank",
+        "RankBrain",
+        "SEO Score",
+        "LinkRank"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur allemand a conçu en 1941 le Z3, considéré par de nombreux historiens comme le premier ordinateur programmable pleinement fonctionnel, utilisant déjà le système binaire ?",
+      "answer": "Konrad Zuse",
+      "explanation": "Construit dans le salon de l'appartement familial à Berlin, le Z3 utilisait des relais électromécaniques et un ruban perforé pour être programmé. Détruit lors d'un bombardement en 1943, il ne sera reconstitué qu'après-guerre, mais sa conception précurseure vaut à Zuse une place de choix parmi les pionniers de l'informatique.",
+      "options": [
+        "Konrad Zuse",
+        "Werner von Braun",
+        "Wilhelm Schickard",
+        "Max Newman"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel informaticien américain, employé du centre de recherche Xerox PARC, est crédité de l'invention des fonctions 'couper', 'copier' et 'coller' au début des années 1970 ?",
+      "answer": "Larry Tesler",
+      "explanation": "Larry Tesler défendait une philosophie d'interfaces informatiques sans mode complexe, plus intuitives pour l'utilisateur non spécialiste. Il rejoindra ensuite Apple, où il contribuera au développement du Macintosh puis du Newton, l'un des premiers assistants numériques personnels.",
+      "options": [
+        "Larry Tesler",
+        "Alan Kay",
+        "Butler Lampson",
+        "Charles Simonyi"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel micro-ordinateur en kit, commercialisé en 1975, a poussé les jeunes Bill Gates et Paul Allen à développer un interpréteur du langage BASIC, donnant naissance à leur société ?",
+      "answer": "L'Altair 8800",
+      "explanation": "Découvrant l'Altair 8800 en couverture d'un magazine, Bill Gates et Paul Allen développent en quelques semaines un interpréteur BASIC adapté à cette machine, sans même disposer de l'ordinateur pour le tester au préalable. Cette collaboration avec le fabricant MITS marque la véritable naissance commerciale de leur société, fondée cette même année.",
+      "options": [
+        "L'Altair 8800",
+        "Le Commodore PET",
+        "L'Apple I",
+        "Le TRS-80"
+      ]
+    },
+    {
+      "id": "informatique_histoire_pionniers_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel est le nom du tout premier programme auto-réplicatif expérimental, apparu en 1971 sur le réseau ARPANET et affichant le message 'I'm the creeper, catch me if you can' ?",
+      "answer": "Creeper",
+      "explanation": "Conçu par l'ingénieur Bob Thomas comme une simple expérience, Creeper se déplaçait d'ordinateur en ordinateur sur le réseau ARPANET sans intention malveillante. Un autre programme, baptisé Reaper, fut créé peu après spécifiquement pour le traquer et le supprimer, préfigurant les tout premiers antivirus.",
+      "options": [
+        "Creeper",
+        "Elk Cloner",
+        "Brain",
+        "Morris Worm"
+      ]
+    }
+  ],
+  "Culture Numérique & Web": [
+    {
+      "question": "Qui est considéré comme l'inventeur du World Wide Web?",
+      "options": [
+        "Vint Cerf",
+        "Tim Berners-Lee",
+        "Steve Jobs",
+        "Bill Gates"
+      ],
+      "answer": 1,
+      "explanation": "Tim Berners-Lee, scientifique britannique, a inventé le World Wide Web en 1989 au CERN. Il a créé le protocole HTTP, le langage HTML et conçu la première pageweb en 1991.",
+      "difficulty": "easy",
+      "id": "culture_numérique_et_web_1"
+    },
+    {
+      "question": "Quel était le nom du premier navigateur web public, utilisé pour accéder au World Wide Web en 1991?",
+      "options": [
+        "Internet Explorer",
+        "Mosaic",
+        "WorldWideWeb",
+        "Netscape"
+      ],
+      "answer": 2,
+      "explanation": "« WorldWideWeb » (alias NeXTSTEP) a été le premier navigateur web créé en 1990-1991 par Tim Berners-Lee lui-même. Le premier navigateur graphique populaire était Mosaic (1993).",
+      "difficulty": "hard",
+      "id": "culture_numérique_et_web_2"
+    },
+    {
+      "question": "En quelle année le premier email a-t-il été envoyé?",
+      "options": [
+        "1965",
+        "1971",
+        "1982",
+        "1991"
+      ],
+      "answer": 1,
+      "explanation": "Le premier email a été envoyé en 1971 par Ray Tomlinson, un programmeur informatique. Il a envoyé un message via la réseauARPANET à l'utilisateur de l'ordinateur d'à côté.",
+      "difficulty": "medium",
+      "id": "culture_numérique_et_web_3"
+    },
+    {
+      "question": "Quelle est la fonction principale du DNS (Domain Name System)?",
+      "options": [
+        "Chiffrer les données sur Internet",
+        "Traduire les adresses IP en noms de domaine lisibles",
+        "Créer des sauvegardes automatiques de sites web",
+        "Compresser les fichiers multimédias"
+      ],
+      "answer": 1,
+      "explanation": "Le DNS traduit les noms de domaine (comme google.com) en adresses IP numériques (comme 142.250.75.46) que les ordinateurs peuvent comprendre. C'est l'équivalent d'un annuaire téléphonique pour Internet.",
+      "difficulty": "medium",
+      "id": "culture_numérique_et_web_4"
+    }
+  ],
+  "Histoire & Pionniers": [
+    {
+      "question": "Grace Hopper, pionnière de l'informatique, a contribué à la création d'un langage de programmation révolutionnaire. Quel était son domaine principal?",
+      "options": [
+        "Systèmes d'exploitation",
+        "Compilateurs et COBOL",
+        "Intelligence artificielle",
+        "Réseaux informatiques"
+      ],
+      "answer": 1,
+      "explanation": "Grace Hopper (1906-1992), mathématicienne et informaticienne américaine, a été pionnière dans le développement des compilateurs et a joué un rôle majeur dans la création de COBOL, un langage de programmation fondamental pour les applications commerciales.",
+      "difficulty": "medium",
+      "id": "histoire_et_pionniers_1"
+    },
+    {
+      "question": "Alan Turing est célèbre pour avoir créé un concept de machine hypothétique. Comment s'appelle-t-elle?",
+      "options": [
+        "Machine de Babbage",
+        "Machine de Turing",
+        "Machine à différences",
+        "Eniac"
+      ],
+      "answer": 1,
+      "explanation": "Alan Turing a introduit le concept théorique de la « Machine de Turing » en 1936, un modèle abstrait de calcul. C'est un pilier de l'informatique théorique et de la théorie de la calculabilité.",
+      "difficulty": "medium",
+      "id": "histoire_et_pionniers_2"
+    },
+    {
+      "question": "En quelle année Steve Jobs et Steve Wozniak ont-ils co-fondé Apple Computer?",
+      "options": [
+        "1972",
+        "1976",
+        "1977",
+        "1980"
+      ],
+      "answer": 1,
+      "explanation": "Apple Computer a été fondée le 1er avril 1976 par Steve Jobs et Steve Wozniak. Leur premier produit, l'Apple I, était un ordinateur personnel révolutionnaire. L'Apple II (1977) a popularisé l'informatique personnelle.",
+      "difficulty": "easy",
+      "id": "histoire_et_pionniers_3"
+    },
+    {
+      "question": "Tim Berners-Lee a non seulement inventé le Web, mais a aussi fondé une organisation pour le préserver. Quel est son nom?",
+      "options": [
+        "Internet Society",
+        "World Wide Web Consortium (W3C)",
+        "Electronic Frontier Foundation",
+        "Internet Archive"
+      ],
+      "answer": 1,
+      "explanation": "Tim Berners-Lee a fondé le World Wide Web Consortium (W3C) en 1994 pour développer les standards et protocoles du Web. Le W3C continue de maintenir les spécifications du HTML, CSS, XML et autres technologies web.",
+      "difficulty": "hard",
+      "id": "histoire_et_pionniers_4"
     }
   ]
 }

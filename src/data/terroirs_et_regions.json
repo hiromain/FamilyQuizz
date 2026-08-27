@@ -419,6 +419,230 @@
       ],
       "answer": "Grand'Rivière",
       "explanation": "Niché au pied des falaises sauvages et exposé aux vagues puissantes du canal de la Dominique, Grand'Rivière est le village le plus septentrional et le plus enclavé de la Martinique. Les randonneurs apprécient particulièrement le tracé forestier mythique qui le relie au Prêcheur à travers une jungle tropicale préservée. Ce port de pêche coloré a conservé une authenticité et une tranquillité exceptionnelles."
+    },
+    {
+      "id": "martinique_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment se nomme le roi du carnaval, une effigie géante promenée dans les rues puis brûlée le mercredi des Cendres pour clore les festivités en Martinique ?",
+      "answer": "Vaval",
+      "explanation": "Vaval est l'effigie géante symbolisant le roi du carnaval martiniquais, promenée dans les rues pendant plusieurs jours de festivités colorées et musicales. Il est brûlé rituellement le mercredi des Cendres au bord de la mer, marquant la fin des réjouissances et le début du carême. Cette tradition festive rassemble chaque année des milliers de participants costumés dans les rues de Fort-de-France.",
+      "options": [
+        "Vaval",
+        "Roi Momo",
+        "Bwa Bwa",
+        "Nèg gwo siwo"
+      ]
+    },
+    {
+      "id": "martinique_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel beignet frit à base de morue émiettée et de pâte épicée est un incontournable de l'apéritif traditionnel martiniquais ?",
+      "answer": "L'accra de morue",
+      "explanation": "L'accra de morue est un beignet salé très populaire aux Antilles, préparé à partir de poisson émietté mélangé à une pâte relevée d'épices et d'herbes fraîches. Frit à l'huile chaude, il se déguste croustillant à l'extérieur et moelleux à l'intérieur, souvent accompagné d'un ti-punch. C'est l'un des mets les plus emblématiques servis lors des fêtes et rassemblements familiaux.",
+      "options": [
+        "L'accra de morue",
+        "Le bokit",
+        "Le pâté en pot",
+        "Le flan coco"
+      ]
+    },
+    {
+      "id": "martinique_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "En hommage à quelle grande figure martiniquaise l'aéroport international de l'île, situé au Lamentin, a-t-il été rebaptisé en 2007 ?",
+      "answer": "Aimé Césaire",
+      "explanation": "L'aéroport du Lamentin, principale porte d'entrée aérienne de la Martinique, a été renommé aéroport Martinique Aimé Césaire le 15 janvier 2007, par arrêté ministériel, en hommage au poète et homme politique martiniquais. Aimé Césaire est décédé l'année suivante, en avril 2008. Ce geste symbolique honore l'immense héritage littéraire et politique de celui qui fut maire de Fort-de-France pendant plus de cinquante ans. L'aéroport reste le principal point d'accès de l'île pour les voyageurs venus de métropole et d'ailleurs.",
+      "options": [
+        "Aimé Césaire",
+        "Frantz Fanon",
+        "Victor Schœlcher",
+        "Joséphine de Beauharnais"
+      ]
+    },
+    {
+      "id": "martinique_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "En quelle année Christophe Colomb aborde-t-il pour la première fois sur l'île de la Martinique, lors de son quatrième voyage vers le Nouveau Monde ?",
+      "answer": "1502",
+      "explanation": "Christophe Colomb accoste sur les côtes martiniquaises le 15 juin 1502, lors de son quatrième et dernier voyage transatlantique. L'île était alors peuplée par les Amérindiens Caraïbes, qui la nommaient Madinina. La colonisation française effective ne débutera véritablement qu'un siècle plus tard, en 1635, sous l'impulsion de Pierre Belain d'Esnambuc.",
+      "options": [
+        "1502",
+        "1493",
+        "1515",
+        "1635"
+      ]
+    },
+    {
+      "id": "martinique_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel psychiatre et essayiste martiniquais, né à Fort-de-France en 1925 et auteur de 'Peau noire, masques blancs', est devenu une figure majeure des luttes de décolonisation ?",
+      "answer": "Frantz Fanon",
+      "explanation": "Frantz Fanon a d'abord été élève d'Aimé Césaire avant de devenir médecin psychiatre, essayiste et théoricien engagé dans le combat contre le colonialisme. Son ouvrage 'Les Damnés de la Terre', préfacé par Jean-Paul Sartre, a profondément influencé les mouvements de libération à travers le monde. Il s'est particulièrement illustré aux côtés du Front de libération nationale lors de la guerre d'Algérie.",
+      "options": [
+        "Frantz Fanon",
+        "Aimé Césaire",
+        "Édouard Glissant",
+        "Patrick Chamoiseau"
+      ]
+    },
+    {
+      "id": "martinique_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle bibliothèque de Fort-de-France, à l'architecture colorée d'inspiration byzantine et mauresque, fut construite pour l'Exposition universelle de Paris de 1889 avant d'être démontée et expédiée en Martinique ?",
+      "answer": "La bibliothèque Schœlcher",
+      "explanation": "La bibliothèque Schœlcher doit son nom à Victor Schœlcher, qui fit don de sa vaste collection personnelle d'ouvrages à la Martinique. Le bâtiment, conçu par l'architecte Pierre-Henri Picq, fut d'abord présenté au public parisien avant d'être entièrement démonté puis remonté pièce par pièce à Fort-de-France. Inauguré en 1893, cet édifice singulier reste l'un des monuments les plus photographiés de la capitale martiniquaise.",
+      "options": [
+        "La bibliothèque Schœlcher",
+        "Le musée Gauguin",
+        "La médiathèque Frantz Fanon",
+        "L'hôtel de ville de Fort-de-France"
+      ]
+    },
+    {
+      "id": "martinique_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle ville martiniquaise, surnommée autrefois le 'Petit Paris des Antilles' pour son rayonnement culturel avant d'être détruite en 1902, a cédé son rôle de capitale à Fort-de-France ?",
+      "answer": "Saint-Pierre",
+      "explanation": "Avant l'éruption dévastatrice de la montagne Pelée, Saint-Pierre était la ville la plus peuplée et la plus prospère de l'île, dotée d'un théâtre, de riches négociants et d'une intense vie mondaine. Sa destruction quasi totale en quelques minutes a définitivement transféré le rôle de capitale économique et administrative à Fort-de-France. Ses ruines, aujourd'hui partiellement reconstruites, valent à la ville le surnom de 'Pompéi des Antilles'.",
+      "options": [
+        "Saint-Pierre",
+        "Le Marin",
+        "Rivière-Pilote",
+        "Case-Pilote"
+      ]
+    },
+    {
+      "id": "martinique_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Au large de quelle commune de la côte atlantique de la Martinique se trouvent les célèbres 'Fonds Blancs', des bancs de sable immergés où l'on peut se baigner debout en pleine mer ?",
+      "answer": "Le François",
+      "explanation": "Les Fonds Blancs du François sont de vastes étendues de sable clair recouvertes d'une eau turquoise peu profonde, protégées des vagues par une barrière de corail naturelle. Ce site unique, accessible uniquement en bateau, permet aux visiteurs de se tenir debout au beau milieu de la mer des Caraïbes. C'est devenu l'une des excursions nautiques les plus prisées de l'île.",
+      "options": [
+        "Le François",
+        "Le Diamant",
+        "Sainte-Luce",
+        "Case-Pilote"
+      ]
+    },
+    {
+      "id": "martinique_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Dans quelle célèbre habitation et distillerie du François le président François Mitterrand a-t-il reçu le président américain George Bush lors d'un sommet franco-américain informel en 1991 ?",
+      "answer": "L'Habitation Clément",
+      "explanation": "L'Habitation Clément, ancienne sucrerie du XVIIIe siècle reconvertie en distillerie de rhum réputée, est aujourd'hui aussi un domaine ouvert à la visite avec ses jardins et sa maison créole d'époque. En mars 1991, elle a accueilli une rencontre discrète entre François Mitterrand et George Bush, marquant durablement l'histoire diplomatique du lieu. Ce cadre prestigieux illustre le rayonnement patrimonial des grandes habitations martiniquaises.",
+      "options": [
+        "L'Habitation Clément",
+        "L'Habitation Depaz",
+        "La distillerie Neisson",
+        "L'Habitation La Favorite"
+      ]
+    },
+    {
+      "id": "martinique_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel rôle Aimé Césaire, alors député, a-t-il joué en 1946 dans le vote de la loi qui a transformé la Martinique en département français à part entière ?",
+      "answer": "Il fut le rapporteur de la loi de départementalisation",
+      "explanation": "La loi du 19 mars 1946 a transformé la Martinique, la Guadeloupe, la Réunion et la Guyane, jusque-là colonies, en départements français à part entière. Aimé Césaire, jeune député communiste tout juste élu, en fut le rapporteur devant l'Assemblée nationale, portant l'espoir d'une pleine égalité de droits avec la métropole. Cette réforme majeure a profondément transformé le statut politique et social de l'île.",
+      "options": [
+        "Il fut le rapporteur de la loi de départementalisation",
+        "Il s'opposa fermement à la départementalisation",
+        "Il fut nommé préfet de Martinique",
+        "Il proposa l'indépendance immédiate de l'île"
+      ]
+    },
+    {
+      "id": "martinique_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel serpent venimeux, aussi appelé trigonocéphale, est une espèce endémique redoutée des plantations et forêts de la Martinique ?",
+      "answer": "Le fer-de-lance",
+      "explanation": "Le fer-de-lance, ou trigonocéphale, est un serpent venimeux endémique de la Martinique, absent de la plupart des autres îles antillaises. Sa morsure, potentiellement dangereuse, en a fait un animal redouté des travailleurs des champs de canne à sucre depuis l'époque coloniale. Il vit principalement dans les zones boisées et humides du nord et du centre de l'île.",
+      "options": [
+        "Le fer-de-lance",
+        "Le boa constrictor",
+        "La couleuvre à collier",
+        "Le crotale des bois"
+      ]
+    },
+    {
+      "id": "martinique_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel cyclone d'une violence exceptionnelle, resté dans l'histoire comme le plus meurtrier jamais enregistré dans l'Atlantique, a ravagé la Martinique et les Petites Antilles en 1780 ?",
+      "answer": "Le Grand Ouragan de 1780",
+      "explanation": "Le Grand Ouragan de 1780 est considéré comme le cyclone le plus meurtrier jamais recensé dans l'histoire de l'Atlantique, avec plus de vingt mille victimes à travers les Petites Antilles. En Martinique, il détruisit une grande partie de la flotte française mouillée au large de Fort-Royal et provoqua des milliers de morts. Cette catastrophe naturelle a durablement marqué la mémoire collective des populations antillaises.",
+      "options": [
+        "Le Grand Ouragan de 1780",
+        "L'ouragan David de 1979",
+        "L'ouragan Dean de 2007",
+        "La tempête de la Toussaint de 1738"
+      ]
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel port naturel, anciennement appelé 'Fort-Royal', est considéré comme l'une des plus belles baies du monde ?",
+      "answer": "La baie de Fort-de-France",
+      "explanation": "La baie de Fort-de-France s'étend sur environ 10 kilomètres et offre un port naturel d'une profondeur exceptionnelle. Anciennement nommée Fort-Royal pendant la colonisation, elle a toujours été un atout stratégique majeur. La baie abrite aujourd'hui le cœur économique et maritime de la Martinique avec ses installations portuaires modernes.",
+      "options": [
+        "La baie de Fort-de-France",
+        "La baie du Lamentin",
+        "La baie de Sainte-Luce",
+        "La baie de Case-Pilote"
+      ],
+      "id": "martinique_43"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel écrivain et penseur martiniquais a créé le concept fondateur de 'négritude' aux côtés de Senghor dans les années 1930 ?",
+      "answer": "Aimé Césaire",
+      "explanation": "Aimé Césaire (1913-2008) a élaboré le concept de négritude dans la revue 'L'Étudiant noir' en 1935. Ce mouvement intellectuel valorisait l'identité, la culture et l'histoire nègres face à la domination coloniale. Césaire a aussi écrit le manifeste 'Discours sur le colonialisme' qui reste une référence majeure de la critique post-coloniale.",
+      "options": [
+        "Frantz Fanon",
+        "Aimé Césaire",
+        "Édouard Glissant",
+        "Patrick Chamoiseau"
+      ],
+      "id": "martinique_44"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "En quelle année la Martinique a-t-elle acquis le statut de région française suite à la loi de décentralisation ?",
+      "answer": "1983",
+      "explanation": "La loi de décentralisation du 2 mars 1982 a transformé la Martinique en collectivité territoriale de type région, créant un conseil régional avec des pouvoirs propres. Cette réforme majeure a marqué le passage de la Martinique à un statut administratif plus autonome. L'assemblée régionale a tenu sa première session en 1983.",
+      "options": [
+        "1975",
+        "1983",
+        "1990",
+        "1996"
+      ],
+      "id": "martinique_45"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel botaniste français a exploré et catalogué la flore unique de la Martinique au XVIIIe siècle, donnant son nom à la ville de Trois-Îlets ?",
+      "answer": "Michel Bégon",
+      "explanation": "Michel Bégon (1638-1710) était un administrateur et botaniste qui a gouverné les Antilles françaises. Ses recherches botaniques ont jeté les bases du savoir naturel local. Le genre de plantes 'Begonia' porte son nom en hommage. Trois-Îlets, commune importante, dérive partiellement de son influence administrative coloniale.",
+      "options": [
+        "Michel Bégon",
+        "Charles Plumier",
+        "Jean-Baptiste Labat",
+        "François Froger"
+      ],
+      "id": "martinique_46"
     }
   ],
   "lorraine": [
@@ -841,6 +1065,174 @@
       ],
       "answer": "Daum",
       "explanation": "La maison Daum a été fondée à Nancy à la fin du XIXe siècle et a activement participé à l'essor de l'Art nouveau puis de l'Art déco. Elle s'est distinguée par son utilisation pionnière et sa maîtrise inégalée de la technique de la pâte de verre (puis de cristal) qui permet d'obtenir des couleurs nuancées d'une grande douceur. La manufacture collabore régulièrement avec de grands artistes contemporains."
+    },
+    {
+      "id": "lorraine_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelles villes thermales des Vosges lorraines sont mondialement connues pour leurs eaux minérales embouteillées et vendues dans le commerce ?",
+      "answer": "Vittel et Contrexéville",
+      "explanation": "Vittel et Contrexéville sont deux stations thermales voisines des Vosges, réputées depuis le XIXe siècle pour leurs sources d'eau minérale naturellement riches en minéraux. Leurs eaux, embouteillées à grande échelle, sont commercialisées dans toute la France et à l'international. Ces deux villes ont développé autour de leurs thermes une architecture Belle Époque remarquable, avec parcs et galeries thermales.",
+      "options": [
+        "Vittel et Contrexéville",
+        "Évian et Volvic",
+        "Vichy et Royat",
+        "Perrier et Badoit"
+      ]
+    },
+    {
+      "id": "lorraine_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle confiserie à base d'amandes enrobées de sucre durci, traditionnellement offerte lors des baptêmes, fait la renommée de la ville de Verdun depuis le Moyen Âge ?",
+      "answer": "La dragée",
+      "explanation": "La dragée de Verdun est une confiserie ancienne composée d'une amande enrobée de plusieurs couches de sucre durci, offrant un fini lisse et brillant. Cette tradition artisanale, l'une des plus anciennes de France, remonte au Moyen Âge et perdure grâce à des maisons de confiserie centenaires. Elle reste indissociable des célébrations familiales comme les baptêmes ou les mariages, où elle est distribuée en petits sachets.",
+      "options": [
+        "La dragée",
+        "Le berlingot",
+        "Le nougat",
+        "La papillote"
+      ]
+    },
+    {
+      "id": "lorraine_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle basilique, construite à la fin du XIXe siècle sur une colline dominant Domrémy, est dédiée à Jeanne d'Arc et surplombe son village natal ?",
+      "answer": "La basilique du Bois-Chenu",
+      "explanation": "La basilique du Bois-Chenu a été édifiée entre 1881 et 1926 sur la colline où, selon la tradition, Jeanne d'Arc aurait entendu ses voix célestes alors qu'elle gardait les troupeaux. Ce sanctuaire de pèlerinage domine le village de Domrémy et sa maison natale, aujourd'hui transformée en musée. Sa construction a été financée par une vaste souscription populaire à travers toute la France.",
+      "options": [
+        "La basilique du Bois-Chenu",
+        "La basilique Saint-Nicolas-de-Port",
+        "La basilique Saint-Epvre",
+        "La cathédrale de Toul"
+      ]
+    },
+    {
+      "id": "lorraine_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel château lorrain du XVIIIe siècle, surnommé le 'Versailles lorrain', fut la résidence favorite du duc Léopold puis du duc Stanislas Leszczynski ?",
+      "answer": "Le château de Lunéville",
+      "explanation": "Le château de Lunéville a été construit au début du XVIIIe siècle pour le duc Léopold, séduit par le modèle de Versailles qu'il souhaitait imiter en Lorraine. Stanislas Leszczynski en fit ensuite sa résidence de prédilection, entourée de jardins à la française somptueux. Gravement endommagé par un incendie en 2003, le château a depuis été restauré et rouvert au public.",
+      "options": [
+        "Le château de Lunéville",
+        "Le château de Haroué",
+        "Le palais des Ducs de Lorraine",
+        "Le château de Fléville"
+      ]
+    },
+    {
+      "id": "lorraine_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Dans quelle ville des Vosges des géographes ont-ils publié en 1507 une carte du monde donnant pour la première fois le nom d''Amérique' au Nouveau Monde ?",
+      "answer": "Saint-Dié-des-Vosges",
+      "explanation": "C'est à Saint-Dié-des-Vosges que le géographe Martin Waldseemüller et l'humaniste Matthias Ringmann publient en 1507 la 'Cosmographiae Introductio', accompagnée d'une grande carte du monde. Ils y proposent de nommer le continent nouvellement découvert 'America', en hommage au navigateur Amerigo Vespucci. Ce document fondateur est considéré comme l'acte de baptême cartographique de l'Amérique.",
+      "options": [
+        "Saint-Dié-des-Vosges",
+        "Épinal",
+        "Remiremont",
+        "Gérardmer"
+      ]
+    },
+    {
+      "id": "lorraine_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle spécialité de Bar-le-Duc est une confiture de groseilles rouges dont chaque grain est épépiné à la main à l'aide d'une plume d'oie ?",
+      "answer": "La confiture de groseilles épépinées",
+      "explanation": "La confiture de groseilles épépinées de Bar-le-Duc est fabriquée selon un procédé artisanal minutieux, où chaque baie est vidée de ses pépins un par un à l'aide d'une plume d'oie taillée. Ce travail extrêmement long confère au fruit une texture parfaitement lisse une fois transformé en confiture. Cette spécialité rare et précieuse est considérée comme l'une des plus prestigieuses confitures françaises.",
+      "options": [
+        "La confiture de groseilles épépinées",
+        "La gelée de mirabelle",
+        "La confiture de quetsches",
+        "La marmelade de coings"
+      ]
+    },
+    {
+      "id": "lorraine_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ébéniste et décorateur nancéien, figure majeure de l'École de Nancy, a donné son nom à une célèbre villa Art nouveau aujourd'hui ouverte à la visite ?",
+      "answer": "Louis Majorelle",
+      "explanation": "Louis Majorelle est un ébéniste nancéien de renom, célèbre pour ses meubles Art nouveau aux formes végétales sculptées et ses ferronneries raffinées. Sa demeure personnelle, la villa Majorelle, a été conçue par l'architecte parisien Henri Sauvage en collaboration avec plusieurs artistes de l'École de Nancy. Elle constitue aujourd'hui l'un des exemples les plus aboutis de l'architecture Art nouveau en France.",
+      "options": [
+        "Louis Majorelle",
+        "Jacques Grüber",
+        "Victor Prouvé",
+        "Eugène Vallin"
+      ]
+    },
+    {
+      "id": "lorraine_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle ville du nord de la Meurthe-et-Moselle est réputée depuis le XIXe siècle pour sa faïencerie et ses émaux colorés à la technique de craquelé caractéristique ?",
+      "answer": "Longwy",
+      "explanation": "Les émaux de Longwy sont reconnaissables à leurs couleurs vives cloisonnées de noir et à leur émail craquelé obtenu par une cuisson spécifique mise au point au XIXe siècle. Cette faïencerie s'est développée grâce à la présence locale d'argile de qualité et à un savoir-faire transmis d'atelier en atelier. Elle reste aujourd'hui un artisanat d'art recherché, notamment pour la décoration de vases et de carreaux.",
+      "options": [
+        "Longwy",
+        "Sarreguemines",
+        "Lunéville",
+        "Niderviller"
+      ]
+    },
+    {
+      "id": "lorraine_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Dans quelle ville de Moselle Marc Chagall a-t-il réalisé, entre 1974 et 1976, un immense vitrail intitulé 'La Paix' pour la chapelle des Cordeliers ?",
+      "answer": "Sarrebourg",
+      "explanation": "Le vitrail de la chapelle des Cordeliers de Sarrebourg, achevé par Marc Chagall en 1976, compte parmi les plus grandes compositions verrières jamais réalisées par l'artiste. Haute de plusieurs mètres, cette œuvre aux couleurs éclatantes évoque la création du monde et la paix universelle à travers des figures bibliques. Elle attire chaque année de nombreux amateurs d'art venus admirer ce chef-d'œuvre du XXe siècle en pleine Lorraine.",
+      "options": [
+        "Sarrebourg",
+        "Sarreguemines",
+        "Boulay-Moselle",
+        "Château-Salins"
+      ]
+    },
+    {
+      "id": "lorraine_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel écrivain lorrain, académicien né à Charmes dans les Vosges, a immortalisé la colline de Sion-Vaudémont dans son roman 'La Colline inspirée' publié en 1913 ?",
+      "answer": "Maurice Barrès",
+      "explanation": "Maurice Barrès, écrivain et homme politique né à Charmes en 1862, a consacré son roman 'La Colline inspirée' à ce site sacré depuis l'Antiquité, situé entre Nancy et Vaucouleurs. La colline de Sion-Vaudémont est depuis considérée comme un haut lieu spirituel et identitaire de la Lorraine. Barrès y est d'ailleurs enterré, conformément à son souhait exprimé de son vivant.",
+      "options": [
+        "Maurice Barrès",
+        "Émile Erckmann",
+        "Alexandre Chatrian",
+        "Maurice Genevoix"
+      ]
+    },
+    {
+      "id": "lorraine_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle puissante famille d'industriels a bâti sa fortune dans la sidérurgie lorraine depuis le XVIIIe siècle, notamment autour des forges de Hayange en Moselle ?",
+      "answer": "La famille de Wendel",
+      "explanation": "La famille de Wendel s'est implantée à Hayange dès 1704 et a bâti au fil des générations un véritable empire industriel autour du fer et de l'acier lorrains. Elle a joué un rôle économique et social considérable dans le développement du bassin sidérurgique du Pays-Haut jusqu'au XXe siècle. Ce patrimoine industriel exceptionnel reste aujourd'hui visible à travers d'anciens sites reconvertis en musées, comme celui de Neufchef.",
+      "options": [
+        "La famille de Wendel",
+        "La famille Schneider",
+        "La famille Rothschild",
+        "La famille Say"
+      ]
+    },
+    {
+      "id": "lorraine_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle ville épiscopale de Meurthe-et-Moselle, dotée d'une cathédrale gothique Saint-Étienne, fut fortifiée par Vauban au XVIIe siècle pour protéger la frontière du royaume ?",
+      "answer": "Toul",
+      "explanation": "Toul, l'une des trois anciennes cités épiscopales lorraines avec Metz et Verdun, fut renforcée par Vauban à la fin du XVIIe siècle après son rattachement à la France. Ses remparts en étoile, encore largement conservés, encerclent la vieille ville et sa magnifique cathédrale gothique dotée d'un cloître remarquable. Cette place forte stratégique verrouillait autrefois l'accès à la vallée de la Moselle face au Saint-Empire.",
+      "options": [
+        "Toul",
+        "Verdun",
+        "Longwy",
+        "Bitche"
+      ]
     }
   ],
   "Ardeche": [
@@ -1263,6 +1655,230 @@
       ],
       "answer": "Le château de Crussol",
       "explanation": "Le château de Crussol s'élève au sommet d'une crête rocheuse calcaire remarquable, offrant un panorama exceptionnel sur la plaine de Valence et le fleuve Rhône. Ce monument historique médiéval protégeait autrefois une petite cité fortifiée établie au pied de ses remparts. Le site géologique accueille aujourd'hui de nombreux promeneurs et un festival de théâtre en été."
+    },
+    {
+      "id": "ardeche_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle sous-préfecture de l'Ardèche méridionale, dominée par un château à quatre tours d'époques différentes, est considérée comme la capitale du sud du département ?",
+      "answer": "Aubenas",
+      "explanation": "Aubenas est la sous-préfecture de l'Ardèche méridionale, bâtie autour d'un imposant château dont les quatre tours témoignent de différentes époques de construction. La ville domine la vallée de l'Ardèche et sert de carrefour commercial et administratif pour tout le sud du département. Son marché hebdomadaire animé attire encore aujourd'hui habitants et visiteurs de toute la région.",
+      "options": [
+        "Aubenas",
+        "Privas",
+        "Largentière",
+        "Vals-les-Bains"
+      ]
+    },
+    {
+      "id": "ardeche_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Qui a découvert la grotte Chauvet en décembre 1994, dans les gorges de l'Ardèche, donnant son nom à ce site orné de peintures rupestres exceptionnelles ?",
+      "answer": "Le spéléologue Jean-Marie Chauvet et ses deux compagnons",
+      "explanation": "La grotte fut découverte le 18 décembre 1994 par le spéléologue amateur Jean-Marie Chauvet, accompagné d'Éliette Brunel et de Christian Hillaire. Ils y trouvèrent des centaines de peintures et gravures datant de plus de 36 000 ans, parmi les plus anciennes connues au monde. Robert de Joly, cité comme distracteur, est quant à lui célèbre pour avoir découvert l'Aven d'Orgnac en 1935.",
+      "options": [
+        "Le spéléologue Jean-Marie Chauvet et ses deux compagnons",
+        "L'archéologue Henri Breuil",
+        "Le préhistorien Robert de Joly",
+        "L'explorateur Norbert Casteret"
+      ]
+    },
+    {
+      "id": "ardeche_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel fruit à noyau juteux, cultivé dans les vergers qui bordent la vallée du Rhône ardéchoise, constitue l'une des productions fruitières importantes du département ?",
+      "answer": "La pêche",
+      "explanation": "L'Ardèche, en particulier dans sa partie rhodanienne entre Cruas et Bourg-Saint-Andéol, cultive traditionnellement la pêche et l'abricot dans des vergers exposés plein sud. Ce climat méditerranéen doux, propice à la maturation des fruits d'été, complète l'économie agricole du département aux côtés de la châtaigneraie et de la viticulture. Ces productions fruitières sont vendues sur les marchés locaux et expédiées dans toute la France.",
+      "options": [
+        "La pêche",
+        "Le kiwi",
+        "La poire",
+        "La banane"
+      ]
+    },
+    {
+      "id": "ardeche_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel grand fleuve français délimite naturellement la frontière est du département de l'Ardèche, le séparant de la Drôme ?",
+      "answer": "Le Rhône",
+      "explanation": "Le Rhône coule le long de toute la façade orientale de l'Ardèche, servant de frontière naturelle avec le département voisin de la Drôme. De nombreuses villes ardéchoises comme Tournon-sur-Rhône, Le Teil ou Viviers se sont développées sur ses rives. Fait notable, l'Ardèche abrite aussi les sources de la Loire sur son territoire, à l'ouest, bien loin de son embouchure atlantique.",
+      "options": [
+        "Le Rhône",
+        "La Loire",
+        "La Saône",
+        "L'Isère"
+      ]
+    },
+    {
+      "id": "ardeche_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ingénieur né à Annonay a construit en 1825, sur le Rhône à Tournon-sur-Rhône, l'un des tout premiers ponts suspendus à câbles de fil de fer au monde ?",
+      "answer": "Marc Seguin",
+      "explanation": "Marc Seguin, ingénieur et industriel né à Annonay en 1786, est également l'inventeur de la chaudière tubulaire qui a considérablement amélioré le rendement des machines à vapeur. Son pont suspendu sur le Rhône, achevé en 1825, compte parmi les toutes premières réalisations de ce type en France. Il a par ailleurs contribué à la construction de l'une des premières lignes de chemin de fer françaises, entre Saint-Étienne et Lyon.",
+      "options": [
+        "Marc Seguin",
+        "Gustave Eiffel",
+        "Étienne de Montgolfier",
+        "Vicat"
+      ]
+    },
+    {
+      "id": "ardeche_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel village ardéchois, bâti en partie avec des pierres récupérées sur le site antique voisin d'Alba Helviorum, conserve les vestiges d'un théâtre et d'un forum gallo-romains ?",
+      "answer": "Alba-la-Romaine",
+      "explanation": "Alba-la-Romaine occupe le site de l'antique Alba Helviorum, capitale du peuple gaulois des Helviens devenue une cité gallo-romaine prospère. Les fouilles archéologiques y ont mis au jour un théâtre, un forum et des thermes témoignant de son importance passée. Le château médiéval du village a été construit en réemployant de nombreuses pierres et colonnes de l'ancienne cité antique.",
+      "options": [
+        "Alba-la-Romaine",
+        "Viviers",
+        "Saint-Montan",
+        "Rochemaure"
+      ]
+    },
+    {
+      "id": "ardeche_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle ville ardéchoise conserve, sculptée à même la falaise surplombant le Rhône, une rare représentation gallo-romaine du dieu Mithra sacrifiant un taureau ?",
+      "answer": "Bourg-Saint-Andéol",
+      "explanation": "Ce bas-relief rupestre, taillé directement dans la roche calcaire au bord du Rhône, représente le dieu Mithra en train d'immoler un taureau selon le rite de la tauroctonie. Il s'agit de l'une des rares sculptures mithriaques en plein air conservées en France, témoignant de la diffusion de ce culte oriental venu de Perse. Le site rappelle l'importance de Bourg-Saint-Andéol comme étape commerciale sur l'axe rhodanien à l'époque romaine.",
+      "options": [
+        "Bourg-Saint-Andéol",
+        "Cruas",
+        "Le Teil",
+        "Viviers"
+      ]
+    },
+    {
+      "id": "ardeche_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle grotte des gorges de l'Ardèche, ouverte au public et réputée pour ses concrétions calcaires et sa grande draperie, surplombe un méandre spectaculaire de la rivière ?",
+      "answer": "La grotte de la Madeleine",
+      "explanation": "La grotte de la Madeleine, aménagée pour la visite touristique, offre un parcours souterrain riche en stalactites, stalagmites et draperies calcaires finement sculptées par l'eau. Son entrée surplombe l'un des plus beaux méandres des gorges de l'Ardèche, offrant un point de vue exceptionnel. Elle constitue, avec la grotte de Saint-Marcel citée en distracteur, l'un des principaux sites spéléologiques ouverts au public de la région.",
+      "options": [
+        "La grotte de la Madeleine",
+        "L'Aven d'Orgnac",
+        "La grotte Chauvet",
+        "La grotte de Saint-Marcel"
+      ]
+    },
+    {
+      "id": "ardeche_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel piton rocheux calcaire dominant un méandre de la rivière Ardèche, près de Ruoms, offre un panorama à 360 degrés et abrite une petite chapelle à son sommet ?",
+      "answer": "Le rocher de Sampzon",
+      "explanation": "Le rocher de Sampzon s'élève abruptement au-dessus d'une boucle de la rivière Ardèche, offrant depuis son sommet une vue circulaire exceptionnelle sur les gorges et les Cévennes environnantes. Une petite chapelle romane y a été édifiée, accessible par un sentier de randonnée assez raide. Ses parois calcaires en font également l'un des sites d'escalade les plus fréquentés du département.",
+      "options": [
+        "Le rocher de Sampzon",
+        "Le rocher du Duc",
+        "La dent de Rez",
+        "Le serre de Tourre"
+      ]
+    },
+    {
+      "id": "ardeche_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel plateau volcanique du centre de l'Ardèche, formé par d'anciennes coulées de basalte, s'étend entre les villes de Privas et de Villeneuve-de-Berg ?",
+      "answer": "Le plateau du Coiron",
+      "explanation": "Le plateau du Coiron résulte d'un intense volcanisme datant de plusieurs millions d'années, dont témoignent aujourd'hui ses épaisses coulées de basalte sombre. Cette roche volcanique a longtemps été extraite pour construire les maisons et les toitures typiques de la région. Le plateau offre des paysages arides et venteux, très différents des gorges calcaires du sud du département.",
+      "options": [
+        "Le plateau du Coiron",
+        "Le plateau de Millevaches",
+        "Le plateau du Larzac",
+        "Le plateau d'Aubrac"
+      ]
+    },
+    {
+      "id": "ardeche_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle activité textile artisanale, consistant à tordre les fils de soie extraits des cocons de vers à soie, a fait vivre de nombreuses vallées ardéchoises comme celle de l'Eyrieux au XIXe siècle ?",
+      "answer": "Le moulinage de la soie",
+      "explanation": "Le moulinage consistait à tordre et assembler les fils issus des cocons de vers à soie pour obtenir un fil résistant destiné aux tisserands lyonnais. Cette industrie a prospéré au XIXe siècle dans de nombreuses vallées ardéchoises, où l'on comptait des centaines de petites usines appelées moulinages. Le déclin de la sériciculture au XXe siècle a laissé derrière lui de nombreux bâtiments industriels aujourd'hui reconvertis ou à l'abandon.",
+      "options": [
+        "Le moulinage de la soie",
+        "Le tissage du chanvre",
+        "Le cardage de la laine",
+        "Le tannage du cuir"
+      ]
+    },
+    {
+      "id": "ardeche_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel parc naturel régional, créé en 2001, couvre une grande partie du sud et de l'ouest du département de l'Ardèche, des Cévennes ardéchoises aux Monts du Vivarais ?",
+      "answer": "Le Parc naturel régional des Monts d'Ardèche",
+      "explanation": "Le Parc naturel régional des Monts d'Ardèche a été créé en 2001 pour préserver et valoriser les paysages variés du département, des châtaigneraies aux volcans en passant par les hauts plateaux. Il couvre une large partie du territoire ardéchois, englobant notamment les Cévennes ardéchoises et les Monts du Vivarais. Le Parc naturel régional du Pilat, cité en distracteur, se situe plus au nord, à cheval sur la Loire et le Rhône.",
+      "options": [
+        "Le Parc naturel régional des Monts d'Ardèche",
+        "Le Parc national des Cévennes",
+        "Le Parc naturel régional du Vercors",
+        "Le Parc naturel régional du Pilat"
+      ]
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel fleuve, tributaire majeur du Rhône, traverse l'Ardèche du nord au sud ?",
+      "answer": "L'Ardèche",
+      "explanation": "L'Ardèche est un fleuve karstique spectaculaire traversant le département homonyme. Ses gorges spectaculaires, les Gorges de l'Ardèche, forment l'une des plus belles formations géologiques de France. Le fleuve, long de 120 km, a façonné des paysages extraordinaires et constitue une destination touristique majeure.",
+      "options": [
+        "La Drôme",
+        "L'Isère",
+        "L'Ardèche",
+        "La Loire"
+      ],
+      "id": "ardeche_43"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel pont suspendu, inauguré en 1821, relie les deux rives du fleuve Ardèche et est resté longtemps le plus haut pont suspendu d'Europe ?",
+      "answer": "Le pont de la Caille",
+      "explanation": "Le pont de la Caille, qui enjambe les gorges de l'Ardèche, a été construit par le célèbre ingénieur Marc Séguin en 1821. Avec ses 79 mètres au-dessus de l'eau, il représentait une prouesse technologique majeure pour l'époque. Ce pont demeure un symbole de l'ingénierie française et une attraction touristique remarquable.",
+      "options": [
+        "Le pont de Valence",
+        "Le pont de la Caille",
+        "Le pont du Gard",
+        "Le pont de Montelimar"
+      ],
+      "id": "ardeche_44"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel village médiéval perché, situé en Ardèche, est célèbre pour ses maisons de pierre blanches et ses ruelles sinueuses typiquement provençales ?",
+      "answer": "Balazuc",
+      "explanation": "Balazuc est un village historique magnifique dominant l'Ardèche depuis un éperon rocheux. Ses maisons anciennes, construites en pierre blanche locale, descendent en cascade jusqu'au fleuve. Le village, classé parmi les plus beaux de France, conserve ses fortifications médiévales et offre une vue spectaculaire sur les gorges.",
+      "options": [
+        "Balazuc",
+        "Antraigues-sur-Volane",
+        "Joyeuse",
+        "Labeaume"
+      ],
+      "id": "ardeche_45"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel archéologue français a découvert la grotte Chauvet en Ardèche en 1994, révélant les œuvres d'art pariétal les plus anciennes du monde ?",
+      "answer": "Jean-Marie Chauvet",
+      "explanation": "Jean-Marie Chauvet, un spéléologue français, a découvert la grotte de Chauvet le 18 décembre 1994. Cette caverne contient des peintures rupestres datant d'environ 32 000 ans, les plus anciennes jamais découvertes. Les œuvres de la grotte Chauvet ont révolutionné les connaissances sur l'art préhistorique et le développement cognitif humain.",
+      "options": [
+        "Jean-Marie Chauvet",
+        "Norbert Casteret",
+        "Marcel Ravidat",
+        "Henri Breuil"
+      ],
+      "id": "ardeche_46"
     }
   ],
   "Saint Etienne": [
@@ -1853,6 +2469,62 @@
         "Musée de la Houille et des Traditions Minières d'Andrézieux",
         "Galeries Souterraines de la Compagnie des Mines de Firminy"
       ]
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel fleuve traverse Saint-Étienne et a longtemps alimenté l'industrie textile et métallurgique de la ville ?",
+      "answer": "La Furan",
+      "explanation": "La Furan est le principal cours d'eau traversant Saint-Étienne. Ses eaux ont alimenté pendant des siècles les nombreuses manufactures textiles et usines sidérurgiques qui ont fait la fortune de la ville. Le fleuve a joué un rôle fondamental dans le développement économique et industriel de Saint-Étienne du Moyen-Âge à nos jours.",
+      "options": [
+        "La Loire",
+        "La Furan",
+        "L'Ondaine",
+        "Le Gier"
+      ],
+      "id": "saint_etienne_43"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel célèbre inventeur français, pionnier de la locomotion, a fondé ses manufactures à Saint-Étienne au XIXe siècle ?",
+      "answer": "François Beaulieu et Claude Anthelme Thimonnier",
+      "explanation": "Saint-Étienne accueillait plusieurs industriels innovants dont les manufactures de chaînes, bicyclettes et armes. L'industrie textile et l'armement dominaient depuis le XVIIe siècle. Au XIXe siècle, Saint-Étienne s'affirma comme capitale française de l'industrie mécanique et du chemin de fer, attirant entrepreneurs et inventeurs visionnaires.",
+      "options": [
+        "Joseph-Marie Jacquard",
+        "François Beaulieu et Claude Anthelme Thimonnier",
+        "Nicolas-Joseph Cugnot",
+        "Jean-Emmanuel Guenyveau"
+      ],
+      "id": "saint_etienne_44"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "En quelle année la ligne de chemin de fer de Saint-Étienne à Andrézieux, précurseur des chemins de fer français, a-t-elle été mise en service ?",
+      "answer": "1828",
+      "explanation": "La ligne Saint-Étienne-Andrézieux, inaugurée le 1er juin 1828, est l'une des plus anciennes lignes de chemin de fer françaises. Cette ligne de transport de charbon et minerai symbolisa l'essor industriel du pays. Elle reste un jalon majeur de l'histoire ferroviaire française, ancrant définitivement Saint-Étienne dans l'histoire de la modernité industrielle.",
+      "options": [
+        "1815",
+        "1828",
+        "1842",
+        "1855"
+      ],
+      "id": "saint_etienne_45"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel peintre de la Renaissance italienne a réalisé les vitraux de la cathédrale Saint-Étienne dans la ville, marquant l'influence artistique de la Renaissance du XVIe siècle ?",
+      "answer": "Un vitrail d'époque Renaissance",
+      "explanation": "Saint-Étienne possède des vitraux exceptionnels issus de la Renaissance. Ces œuvres reflètent l'importance économique et culturelle de la ville, qui attira maîtres verriers et artisans réputés. La cathédrale Saint-Étienne conserve un patrimoine vitraux d'une richesse remarquable témoignant du rayonnement artistique de la période.",
+      "options": [
+        "Benvenuto Cellini",
+        "Giorgio Vasari",
+        "Un maître verrier de la Renaissance",
+        "Léonard de Vinci"
+      ],
+      "id": "saint_etienne_46"
     }
   ],
   "Metz": [
@@ -2275,6 +2947,288 @@
       ],
       "answer": "La porte Serpenoise",
       "explanation": "La porte Serpenoise est un arc de triomphe en pierre de Jaumont érigé en 1852 sur les plans de l'architecte de la ville pour remplacer d'anciennes portes fortifiées médiévales. Située à l'extrémité de la rue des Allemands, elle marque historiquement le point d'entrée sud des voyageurs venant de Nancy. C'est aujourd'hui un repère urbain préservé majeur du centre-ville messin."
+    },
+    {
+      "id": "metz_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel grand marché de Noël, l'un des plus anciens et des plus visités de France, anime chaque année les places du centre-ville de Metz en fin d'année ?",
+      "answer": "Le marché de Noël de Metz",
+      "explanation": "Le marché de Noël de Metz s'installe traditionnellement sur plusieurs places du centre historique, dont la place Saint-Louis et la place d'Armes, au pied de la cathédrale. Ses origines remontent à une ancienne foire de la Saint-Nicolas mentionnée dès le XVIe siècle. Il attire aujourd'hui plusieurs centaines de milliers de visiteurs chaque année, aux côtés des grands marchés alsaciens voisins.",
+      "options": [
+        "Le marché de Noël de Metz",
+        "Le marché de Noël de Strasbourg",
+        "Le marché de Noël de Colmar",
+        "Le marché de Noël de Reims"
+      ]
+    },
+    {
+      "id": "metz_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel est le surnom du club de football historique de la ville de Metz, évoluant au stade Saint-Symphorien et porté par la couleur de son maillot ?",
+      "answer": "Les Grenats",
+      "explanation": "Le Football Club de Metz, fondé en 1932, doit son surnom des 'Grenats' à la couleur rouge foncé caractéristique de son maillot. Le club a longtemps évolué au plus haut niveau du football français et a formé de nombreux joueurs devenus internationaux. Son stade, Saint-Symphorien, est situé dans le quartier de Longeville-lès-Metz, en bordure de la Moselle.",
+      "options": [
+        "Les Grenats",
+        "Les Verts",
+        "Les Lorrains",
+        "Les Dogues"
+      ]
+    },
+    {
+      "id": "metz_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment s'appelle le grand jardin à la française aménagé au XVIIIe siècle sur d'anciennes fortifications, offrant une belle vue sur la vallée de la Moselle à Metz ?",
+      "answer": "L'Esplanade",
+      "explanation": "L'Esplanade de Metz a été aménagée à la fin du XVIIIe siècle sur l'emplacement d'anciens remparts militaires devenus obsolètes. Ce vaste jardin public offre une perspective dégagée sur la vallée de la Moselle et les coteaux environnants. Il accueille aujourd'hui statues, kiosques et un jardin de rocaille très appréciés des promeneurs messins.",
+      "options": [
+        "L'Esplanade",
+        "Le jardin des Tanneurs",
+        "Le parc de la Seille",
+        "Le jardin botanique"
+      ]
+    },
+    {
+      "id": "metz_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "De quelle année à quelle année la ville de Metz a-t-elle été annexée à l'Empire allemand, à la suite du traité de Francfort signé après la défaite française de 1870 ?",
+      "answer": "De 1871 à 1918",
+      "explanation": "Le traité de Francfort, signé en mai 1871 après la défaite française face à la Prusse, a cédé l'Alsace et une grande partie de la Moselle, dont Metz, au nouvel Empire allemand. La ville n'est redevenue française qu'à l'issue de la Première Guerre mondiale, en novembre 1918. Cette période d'annexion a profondément marqué l'urbanisme et l'architecture de la ville, notamment à travers le quartier Impérial.",
+      "options": [
+        "De 1871 à 1918",
+        "De 1815 à 1870",
+        "De 1900 à 1945",
+        "De 1940 à 1944"
+      ]
+    },
+    {
+      "id": "metz_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel nom portait la ville de Metz à l'époque gallo-romaine, lorsqu'elle était la capitale du peuple gaulois des Médiomatriques ?",
+      "answer": "Divodurum",
+      "explanation": "Sous le nom de Divodurum Mediomatricorum, Metz était une cité gallo-romaine prospère, capitale du peuple des Médiomatriques dont elle a gardé le souvenir dans son nom moderne. La ville comptait alors un amphithéâtre parmi les plus vastes de Gaule ainsi que d'importants axes de circulation. Durocortorum, Augustodunum et Lutetia désignent respectivement les cités antiques de Reims, Autun et Paris.",
+      "options": [
+        "Divodurum",
+        "Durocortorum",
+        "Augustodunum",
+        "Lutetia"
+      ]
+    },
+    {
+      "id": "metz_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "En 1552, quel duc français a défendu avec succès la ville de Metz face au long siège mené par l'empereur Charles Quint ?",
+      "answer": "Le duc François de Guise",
+      "explanation": "Après le rattachement de Metz à la France par le traité de Chambord, l'empereur Charles Quint tente de reprendre la ville par un siège mené à l'automne 1552. Le duc François de Guise, chargé de la défense, résiste victorieusement pendant plusieurs mois grâce à des fortifications renforcées et à l'épuisement des troupes impériales. Cette victoire consolide durablement la présence française à Metz.",
+      "options": [
+        "Le duc François de Guise",
+        "Le duc de Nemours",
+        "Le maréchal de Turenne",
+        "Le connétable de Montmorency"
+      ]
+    },
+    {
+      "id": "metz_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle ancienne église abbatiale de Metz, fondée au haut Moyen Âge et dotée d'une façade néoclassique du XVIIIe siècle inspirée de l'église Saint-Gervais à Paris, porte le nom d'un saint diacre ?",
+      "answer": "La basilique Saint-Vincent",
+      "explanation": "La basilique Saint-Vincent, fondée à l'origine comme abbaye au haut Moyen Âge, a connu plusieurs campagnes de reconstruction au fil des siècles. Sa façade gothique d'origine, endommagée par l'effondrement du clocher central en 1752, a été remplacée entre 1768 et 1786 par une façade néoclassique inspirée de l'église Saint-Gervais à Paris. Son intérieur mêle des éléments romans, gothiques et classiques témoignant de cette longue histoire architecturale. Elle demeure l'un des grands édifices religieux du centre historique de Metz, aux côtés de la cathédrale.",
+      "options": [
+        "La basilique Saint-Vincent",
+        "L'église Sainte-Ségolène",
+        "L'église Saint-Martin",
+        "La basilique Saint-Maximin"
+      ]
+    },
+    {
+      "id": "metz_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Sur quelle île formée par les bras de la Moselle, au cœur de Metz, se trouve le principal campus historique de l'université, distinct de l'île du Petit-Saulcy voisine ?",
+      "answer": "L'île du Saulcy",
+      "explanation": "L'île du Saulcy, la plus grande des îles messines formées par les bras de la Moselle, accueille depuis les années 1960 le principal campus universitaire de la ville. Elle se distingue de sa voisine, la petite île du Petit-Saulcy, qui abrite plutôt l'Opéra-Théâtre et le Temple Neuf. Ces îles verdoyantes, reliées par de nombreux ponts, participent grandement au charme paysager de Metz.",
+      "options": [
+        "L'île du Saulcy",
+        "L'île du Petit-Saulcy",
+        "Le quartier de Bellecroix",
+        "Le quartier du Sablon"
+      ]
+    },
+    {
+      "id": "metz_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ancien faubourg viticole de Metz, situé au sud de la ville le long de la Moselle, a conservé un nom évoquant la nature sablonneuse de son sol ?",
+      "answer": "Le Sablon",
+      "explanation": "Le Sablon était autrefois un village de vignerons situé hors des remparts de Metz, dont les coteaux ont porté des vignes jusqu'à la crise du phylloxéra à la fin du XIXe siècle. Son nom rappelle la nature sablonneuse des terrains bordant la Moselle à cet endroit. Progressivement absorbé par l'expansion urbaine, c'est aujourd'hui un quartier résidentiel dynamique de la ville.",
+      "options": [
+        "Le Sablon",
+        "Devant-les-Ponts",
+        "Bellecroix",
+        "Magny"
+      ]
+    },
+    {
+      "id": "metz_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ancien fort militaire des faubourgs de Metz, construit sous l'annexion allemande, fut transformé en lieu d'internement et de torture par la Gestapo entre 1943 et 1944 ?",
+      "answer": "Le fort de Queuleu",
+      "explanation": "Le fort de Queuleu, construit à la fin du XIXe siècle dans le système défensif allemand de Metz, fut réquisitionné par la Gestapo durant la Seconde Guerre mondiale pour interner et interroger des résistants avant leur déportation. Plusieurs centaines de prisonniers y ont été détenus dans des conditions extrêmement dures. Le site est aujourd'hui un lieu de mémoire ouvert à la visite, dédié à l'histoire de la Résistance en Moselle.",
+      "options": [
+        "Le fort de Queuleu",
+        "Le fort Moselle",
+        "La citadelle de Metz",
+        "Le fort Saint-Privat"
+      ]
+    },
+    {
+      "id": "metz_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel maréchal français a capitulé à Metz en octobre 1870 avec son armée assiégée, lors d'un épisode majeur de la guerre franco-prussienne ?",
+      "answer": "Le maréchal Bazaine",
+      "explanation": "Assiégée par les troupes prussiennes durant plusieurs semaines à l'été et à l'automne 1870, l'armée du maréchal Bazaine capitule finalement à Metz le 27 octobre 1870. Cette reddition, l'une des plus importantes de l'histoire militaire française avec plus de cent cinquante mille hommes rendus, précipite la défaite française face à la Prusse. Elle ouvre la voie à l'annexion de la ville par le nouvel Empire allemand l'année suivante.",
+      "options": [
+        "Le maréchal Bazaine",
+        "Le maréchal Mac Mahon",
+        "Le général Trochu",
+        "Le maréchal Canrobert"
+      ]
+    },
+    {
+      "id": "metz_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur militaire du XVIIIe siècle a considérablement remodelé et modernisé les fortifications de Metz sous le règne de Louis XV, laissant son nom à un boulevard de la ville ?",
+      "answer": "Cormontaigne",
+      "explanation": "Louis de Cormontaigne, ingénieur militaire formé dans la tradition de Vauban, a profondément remanié le système défensif de Metz au XVIIIe siècle en modernisant bastions et portes fortifiées. Son travail a durablement marqué l'urbanisme militaire de la ville et son nom demeure aujourd'hui associé à un boulevard messin. Il est considéré comme l'un des plus brillants continuateurs de l'école française de fortification.",
+      "options": [
+        "Cormontaigne",
+        "Vauban",
+        "Séré de Rivières",
+        "Todt"
+      ]
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel fleuve majeur traverse Metz et a longtemps défini l'importance stratégique de la ville ?",
+      "answer": "La Moselle",
+      "explanation": "La Moselle traverse Metz en formant des boucles spectaculaires autour de la ville. Le fleuve a longtemps constitué une protection naturelle et un axe commercial majeur. Metz s'est développée comme place-forte fluviale de premier ordre contrôlant le commerce entre le Rhin et la Meuse.",
+      "options": [
+        "La Meuse",
+        "La Moselle",
+        "La Seille",
+        "La Rhine"
+      ],
+      "id": "metz_43"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle monumentale basilique messine, au style néoclassique caractérisé par sa façade majestueu (construite 1768-1786), domine la ville depuis une hauteur ?",
+      "answer": "La basilique Saint-Vincent",
+      "explanation": "La basilique Saint-Vincent est le monument religieux majeur de Metz, reconnaissable à son architecture néoclassique du XVIIIe siècle. Édifiée entre 1768 et 1786, elle présente une façade grandiose avec un portique à colonnes doriques. Ce bâtiment domine magistralement le centre-ville et constitue l'une des plus belles basiliques de France.",
+      "options": [
+        "La cathédrale de Metz",
+        "La basilique Saint-Vincent",
+        "L'église Saint-Croix",
+        "La chapelle du Mausolée"
+      ],
+      "id": "metz_44"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel maréchal de France, né à Metz en 1725, a brillamment commandé les armées françaises pendant la Révolution et l'Empire ?",
+      "answer": "Maréchal Ney",
+      "explanation": "Michel Ney (1769-1815), le 'Brave des Braves', est né à Saarlouis mais a grandi à Metz. Maréchal de France, il s'est distingué lors des campagnes napoléoniennes en Égypte, en Russie et dans les guerres de péninsule ibérique. Ney est demeuré une figure légendaire du courage militaire français et de la Restauration.",
+      "options": [
+        "Maréchal Bernadotte",
+        "Maréchal Ney",
+        "Maréchal Soult",
+        "Maréchal Masséna"
+      ],
+      "id": "metz_45"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "En quelle année Metz, après plus de trois siècles d'indépendance, a-t-elle formellement intégré le territoire français par l'annexion définitive de la Lorraine ?",
+      "answer": "1552",
+      "explanation": "La ville de Metz a accueilli les troupes du roi Henri II en 1552 après un siège. Cette année marque l'incorporation formelle de Metz au domaine royal français, bien que la ville maintienne des statuts particuliers jusqu'à la Révolution. L'intégration politique de Metz achève la consolidation du pouvoir royal en Lorraine.",
+      "options": [
+        "1475",
+        "1510",
+        "1552",
+        "1648"
+      ],
+      "id": "metz_46"
+    }
+  ],
+  "Lorraine": [
+    {
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel fleuve majeur, qui donne son nom à l'ancienne région historique, traverse la Lorraine du sud au nord ?",
+      "answer": "La Meuse",
+      "explanation": "La Meuse est le principal fleuve de Lorraine, prenant sa source en Champagne et traversant l'ensemble de la région. Elle a joué un rôle historique décisif dans le développement économique et militaire de la Lorraine. Le fleuve a aussi marqué les frontières régionales et nationales à plusieurs périodes de l'histoire.",
+      "options": [
+        "La Loire",
+        "La Meuse",
+        "La Moselle",
+        "Le Doubs"
+      ],
+      "id": "lorraine_1"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle est la capitale historique de la Lorraine, anciennement siège du Duché indépendant ?",
+      "answer": "Nancy",
+      "explanation": "Nancy a été le cœur politique et culturel du Duché de Lorraine, notamment sous la Renaissance avec le rayonnement artistique du duc Léopold Ier. La ville conserve l'exceptionnelle place Stanislas (XVIIIe siècle), considérée comme l'un des plus beaux ensembles urbains européens. Nancy reste le principal centre économique et culturel de la Lorraine actuelle.",
+      "options": [
+        "Metz",
+        "Strasbourg",
+        "Nancy",
+        "Verdun"
+      ],
+      "id": "lorraine_2"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel duc de Lorraine, allié de la France, a commandé les armées du Roi Soleil et a donné son nom à un type de stratégie militaire classique ?",
+      "answer": "Charles de Lorraine (Duc de Guise)",
+      "explanation": "La maison de Lorraine-Guise a fourni des généraux prestigieux à la France, notamment le Duc de Guise (1519-1588) qui a joué un rôle majeur aux guerres de religion. Ces princes guerriers lorrains ont marqué l'histoire militaire française. Leur prestige et leurs tactiques restent des références de l'art de la guerre au XVIe et XVIIe siècles.",
+      "options": [
+        "Henri Ier de Lorraine",
+        "Charles de Lorraine (Duc de Guise)",
+        "Stanislas Leszczynski",
+        "François Ier de Lorraine"
+      ],
+      "id": "lorraine_3"
+    },
+    {
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "En quelle année la Lorraine a-t-elle perdu la Moselle au profit du Saint-Empire Romain Germanique suite aux traités de Westphalie ?",
+      "answer": "1648",
+      "explanation": "Le traité de Westphalie de 1648 a marqué la fin de la Guerre de Trente Ans. La Lorraine a conservé son indépendance formelle, mais a perdu le contrôle de territoires importants. Ce traité symbolise les frontières fluctuantes et les réalignements géopolitiques de cette région historiquement disputée entre puissances européennes.",
+      "options": [
+        "1618",
+        "1648",
+        "1678",
+        "1714"
+      ],
+      "id": "lorraine_4"
     }
   ]
 }

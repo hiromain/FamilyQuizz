@@ -413,6 +413,174 @@
       ],
       "answer": "Charles Goodyear",
       "explanation": "Charles Goodyear découvre accidentellement le procédé de vulcanisation en laissant tomber un mélange de caoutchouc et de soufre sur un poêle brûlant. Ruiné par ses recherches, il meurt endetté, bien que son nom soit resté attaché à l'une des plus grandes marques de pneumatiques."
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel médecin français a inventé le stéthoscope en 1816, permettant d'ausculter le cœur et les poumons sans contact direct ?",
+      "answer": "René Laennec",
+      "explanation": "René Laennec aurait eu l'idée de rouler une feuille de papier en cylindre pour ausculter une patiente de façon plus décente et plus efficace qu'en collant l'oreille contre sa poitrine. Cet instrument rudimentaire en bois a donné naissance à l'auscultation médicale moderne.",
+      "options": [
+        "René Laennec",
+        "Louis Pasteur",
+        "Ambroise Paré",
+        "Claude Bernard"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel homme d'État et scientifique américain a mis au point le paratonnerre en 1752, après sa célèbre expérience du cerf-volant pendant un orage ?",
+      "answer": "Benjamin Franklin",
+      "explanation": "En envoyant un cerf-volant dans un ciel orageux, Benjamin Franklin a démontré la nature électrique de la foudre. Il en a déduit le principe du paratonnerre, une tige métallique reliée au sol qui protège encore aujourd'hui bâtiments et monuments.",
+      "options": [
+        "Benjamin Franklin",
+        "Thomas Jefferson",
+        "Samuel Morse",
+        "Robert Fulton"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel informaticien britannique a inventé le World Wide Web en 1989 alors qu'il travaillait au CERN, en Suisse ?",
+      "answer": "Tim Berners-Lee",
+      "explanation": "Tim Berners-Lee a conçu le Web pour faciliter le partage de documents entre chercheurs du CERN, inventant au passage les adresses URL, le langage HTML et le protocole HTTP. Il a volontairement renoncé à breveter son invention pour la rendre libre et gratuite.",
+      "options": [
+        "Tim Berners-Lee",
+        "Bill Gates",
+        "Steve Jobs",
+        "Vint Cerf"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel ingénieur suisse a eu l'idée du velcro en 1941, en observant au microscope les fruits de bardane accrochés au pelage de son chien ?",
+      "answer": "George de Mestral",
+      "explanation": "En examinant les minuscules crochets des fruits de bardane restés collés à sa veste et au poil de son chien lors d'une promenade, George de Mestral a imaginé une fermeture textile à crochets et à boucles, brevetée en 1955 sous le nom de velcro.",
+      "options": [
+        "George de Mestral",
+        "Jacques Piccard",
+        "Auguste Piccard",
+        "Henri Nestlé"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel journaliste hongrois a mis au point en 1938 le premier stylo à bille pratique, dont le nom reste utilisé sous une forme dérivée de son patronyme dans plusieurs pays d'Amérique du Sud ?",
+      "answer": "László Bíró",
+      "explanation": "Agacé par les taches et les pannes fréquentes de son stylo-plume, László Bíró a mis au point avec son frère chimiste une encre visqueuse à séchage rapide associée à une bille rotative. Réfugié en Argentine, il a donné son nom au stylo 'birome', toujours utilisé aujourd'hui dans plusieurs pays sud-américains.",
+      "options": [
+        "László Bíró",
+        "George de Mestral",
+        "Marcel Bich",
+        "Lewis Waterman"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel inventeur allemand a présenté en 1817 la draisienne, un véhicule à deux roues sans pédales considéré comme l'ancêtre direct du vélo moderne ?",
+      "answer": "Karl Drais",
+      "explanation": "Le baron Karl Drais se déplaçait sur son invention en poussant alternativement sur le sol avec ses pieds, sans système de pédalage. Il faudra attendre plusieurs décennies et l'apport de la famille Michaux pour que des pédales soient ajoutées, donnant naissance au vélocipède.",
+      "options": [
+        "Karl Drais",
+        "Pierre Michaux",
+        "Karl Benz",
+        "Werner von Siemens"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien italien, élève de Galilée, a inventé le baromètre à mercure en 1643, démontrant l'existence de la pression atmosphérique ?",
+      "answer": "Evangelista Torricelli",
+      "explanation": "En remplissant de mercure un tube retourné dans une cuve, Evangelista Torricelli a observé qu'une colonne de mercure restait suspendue à une hauteur constante, prouvant que l'air exerce une pression mesurable. L'unité de pression 'torr' lui rend hommage.",
+      "options": [
+        "Evangelista Torricelli",
+        "Blaise Pascal",
+        "Galilée",
+        "Otto von Guericke"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ingénieur britannique a fait circuler en 1804 la première locomotive à vapeur sur rails de l'histoire, transportant du minerai de fer et des passagers au pays de Galles ?",
+      "answer": "Richard Trevithick",
+      "explanation": "La locomotive de Richard Trevithick a parcouru une quinzaine de kilomètres en tractant plusieurs wagons, prouvant la viabilité du transport ferroviaire à vapeur. Quelques décennies plus tard, George Stephenson perfectionnera le concept avec sa célèbre locomotive 'Rocket'.",
+      "options": [
+        "Richard Trevithick",
+        "George Stephenson",
+        "James Watt",
+        "Robert Stephenson"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien américain, fondateur de la marque Polaroid, a inventé en 1948 le premier appareil photo à développement instantané ?",
+      "answer": "Edwin Land",
+      "explanation": "Edwin Land aurait eu l'idée de la photo instantanée en réponse à sa fille qui lui demandait pourquoi elle ne pouvait pas voir immédiatement une photo tout juste prise. Son appareil développait le cliché en une minute, sans passer par un laboratoire.",
+      "options": [
+        "Edwin Land",
+        "George Eastman",
+        "Steve Sasson",
+        "Chester Carlson"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel haut fonctionnaire chinois est traditionnellement crédité, vers l'an 105, d'avoir perfectionné un procédé de fabrication du papier à partir de fibres végétales ?",
+      "answer": "Cai Lun",
+      "explanation": "Bien que des formes rudimentaires de papier existaient déjà en Chine avant lui, Cai Lun est traditionnellement reconnu pour avoir mis au point un procédé fiable utilisant écorce, chanvre et chiffons, rendant sa fabrication accessible à grande échelle.",
+      "options": [
+        "Cai Lun",
+        "Confucius",
+        "Sun Tzu",
+        "Zhang Heng"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur américain a conçu en 1775 le 'Turtle', considéré comme le premier sous-marin conçu pour une opération militaire ?",
+      "answer": "David Bushnell",
+      "explanation": "Ce petit engin en forme d'œuf, actionné manuellement, tenta sans succès de fixer une charge explosive sous la coque d'un navire britannique pendant la guerre d'indépendance américaine. Robert Fulton perfectionnera le concept quelques décennies plus tard avec le Nautilus.",
+      "options": [
+        "David Bushnell",
+        "Robert Fulton",
+        "John Philip Holland",
+        "Simon Lake"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_grandes_inventions_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel ingénieur américain s'est vu accorder en 1952 le brevet du code-barres, un système de lignes lisibles par une machine popularisé dans les supermarchés à partir des années 1970 ?",
+      "answer": "Norman Joseph Woodland",
+      "explanation": "Inspiré, selon la légende, par le code Morse tracé du bout des doigts dans le sable, Norman Joseph Woodland a imaginé un motif de lignes concentriques permettant d'identifier automatiquement un produit. Le premier article scanné en caisse fut un paquet de chewing-gums en 1974.",
+      "options": [
+        "Norman Joseph Woodland",
+        "Douglas Engelbart",
+        "Jack Kilby",
+        "Robert Noyce"
+      ]
     }
   ],
   "Inventions & Découvertes : Pionniers & Savants": [
@@ -829,6 +997,282 @@
       ],
       "answer": "James Prescott Joule",
       "explanation": "En mesurant avec une précision remarquable l'échauffement de l'eau provoqué par un poids en chute entraînant une roue à palettes, James Prescott Joule a établi expérimentalement l'équivalence entre énergie mécanique et chaleur, principe fondateur de la thermodynamique moderne."
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle mathématicienne britannique, fille du poète Lord Byron, est considérée comme la première programmeuse informatique de l'histoire pour ses travaux sur la machine analytique de Charles Babbage ?",
+      "answer": "Ada Lovelace",
+      "explanation": "Dans les années 1840, Ada Lovelace a rédigé pour la machine analytique imaginée par Charles Babbage un algorithme destiné à calculer une suite de nombres, considéré comme le tout premier programme informatique, bien avant l'apparition des ordinateurs électroniques.",
+      "options": [
+        "Ada Lovelace",
+        "Grace Hopper",
+        "Hedy Lamarr",
+        "Rosalind Franklin"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel mathématicien britannique a joué un rôle déterminant dans le décryptage des codes secrets allemands Enigma pendant la Seconde Guerre mondiale, et est aujourd'hui considéré comme un pionnier de l'informatique ?",
+      "answer": "Alan Turing",
+      "explanation": "En concevant à Bletchley Park des machines électromécaniques capables d'accélérer considérablement le décryptage des messages nazis, Alan Turing a contribué à raccourcir la guerre. Il est aussi l'auteur du concept théorique de la 'machine de Turing', fondateur de l'informatique moderne.",
+      "options": [
+        "Alan Turing",
+        "John von Neumann",
+        "Claude Shannon",
+        "Alonzo Church"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel naturaliste suédois du XVIIIe siècle a établi le système de classification des espèces vivantes par nomenclature binomiale, encore utilisé aujourd'hui en biologie ?",
+      "answer": "Carl von Linné",
+      "explanation": "Carl von Linné a proposé de désigner chaque espèce par deux mots latins, le genre puis l'espèce, comme 'Homo sapiens'. Ce système, présenté dans son ouvrage 'Systema Naturae', a apporté un ordre universel là où régnait auparavant une grande confusion de noms locaux.",
+      "options": [
+        "Carl von Linné",
+        "Georges Cuvier",
+        "Alexander von Humboldt",
+        "Ernst Haeckel"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel artiste et savant italien de la Renaissance a rempli des milliers de pages de carnets de croquis visionnaires, imaginant notamment des machines volantes bien avant l'invention de l'aviation ?",
+      "answer": "Léonard de Vinci",
+      "explanation": "Léonard de Vinci a consigné dans ses carnets, souvent rédigés en écriture inversée, des études d'anatomie, de mécanique et des esquisses d'engins comme un prototype de parachute ou une machine volante à ailes battantes, jamais construits de son vivant.",
+      "options": [
+        "Léonard de Vinci",
+        "Michel-Ange",
+        "Galilée",
+        "Filippo Brunelleschi"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel commerçant et savant néerlandais du XVIIe siècle est considéré comme le père de la microbiologie pour avoir été le premier à observer des micro-organismes grâce à des microscopes qu'il fabriquait lui-même ?",
+      "answer": "Antonie van Leeuwenhoek",
+      "explanation": "En polissant lui-même de minuscules lentilles capables de grossir plusieurs centaines de fois, Antonie van Leeuwenhoek a été le premier être humain à observer des bactéries et d'autres micro-organismes qu'il appelait des 'animalcules', ouvrant un monde totalement invisible jusque-là.",
+      "options": [
+        "Antonie van Leeuwenhoek",
+        "Robert Hooke",
+        "Christiaan Huygens",
+        "Jan Swammerdam"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel savant anglais du XVIIe siècle a observé le premier, en examinant un morceau de liège au microscope, de petites cavités qu'il a nommées 'cellules', donnant naissance à ce terme en biologie ?",
+      "answer": "Robert Hooke",
+      "explanation": "Publié en 1665, l'ouvrage de Robert Hooke intitulé 'Micrographia' contient des illustrations détaillées de ses observations microscopiques. Les alvéoles du liège lui rappelaient les petites cellules des monastères, d'où le nom qu'il leur a donné.",
+      "options": [
+        "Robert Hooke",
+        "Antonie van Leeuwenhoek",
+        "Isaac Newton",
+        "Marcello Malpighi"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel physicien et chimiste britannique du XIXe siècle a découvert le principe de l'induction électromagnétique, posant les bases théoriques du moteur électrique et de la dynamo ?",
+      "answer": "Michael Faraday",
+      "explanation": "Issu d'un milieu modeste et largement autodidacte, Michael Faraday a démontré en 1831 qu'un champ magnétique variable pouvait générer un courant électrique. L'unité de capacité électrique, le farad, a été nommée en son honneur.",
+      "options": [
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "André-Marie Ampère",
+        "Georg Ohm"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel naturaliste et explorateur prussien a parcouru l'Amérique latine au début du XIXe siècle, posant les bases de la géographie et de l'écologie modernes par ses observations sur les liens entre climat, végétation et altitude ?",
+      "answer": "Alexander von Humboldt",
+      "explanation": "Pendant cinq années d'expédition en Amérique du Sud, Alexander von Humboldt a mesuré, cartographié et comparé une quantité inédite de données naturelles, inspirant directement les travaux ultérieurs de Charles Darwin, qui le considérait comme un modèle.",
+      "options": [
+        "Alexander von Humboldt",
+        "Charles Darwin",
+        "Alfred Russel Wallace",
+        "Georges Cuvier"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel savant persan du IXe siècle, dont le nom latinisé a donné le mot 'algorithme', est considéré comme le père de l'algèbre grâce à son traité de résolution d'équations ?",
+      "answer": "Al-Khwarizmi",
+      "explanation": "Travaillant à la Maison de la Sagesse de Bagdad, Al-Khwarizmi a rédigé un traité systématisant la résolution des équations, dont le titre arabe 'al-jabr' a directement donné naissance au mot 'algèbre' dans de nombreuses langues.",
+      "options": [
+        "Al-Khwarizmi",
+        "Avicenne",
+        "Averroès",
+        "Omar Khayyam"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle mathématicienne, astronome et philosophe de l'Antiquité tardive, enseignant à Alexandrie, est considérée comme l'une des premières femmes scientifiques connues de l'histoire ?",
+      "answer": "Hypatie d'Alexandrie",
+      "explanation": "Réputée pour ses enseignements en mathématiques et en astronomie, Hypatie dirigeait une école de philosophie très respectée à Alexandrie. Elle fut tuée en 415 lors de troubles politiques et religieux, devenant un symbole tragique du savoir antique.",
+      "options": [
+        "Hypatie d'Alexandrie",
+        "Cléopâtre",
+        "Agnodice",
+        "Aspasie de Milet"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle mathématicienne allemande du XXe siècle a démontré un théorème fondamental reliant les symétries d'un système physique à ses lois de conservation, saluée par Einstein comme un génie créatif ?",
+      "answer": "Emmy Noether",
+      "explanation": "Longtemps privée d'un poste académique rémunéré en raison de son genre, Emmy Noether a formulé en 1918 un théorème essentiel qui relie chaque symétrie continue de la nature à une grandeur physique conservée, comme l'énergie ou la quantité de mouvement.",
+      "options": [
+        "Emmy Noether",
+        "Marie Curie",
+        "Lise Meitner",
+        "Sofia Kovalevskaïa"
+      ]
+    },
+    {
+      "id": "inventions_decouvertes_pionniers_savants_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel physicien français a proposé en 1924 la théorie selon laquelle toute particule de matière, comme l'électron, possède également des propriétés ondulatoires, lui valant le prix Nobel de physique en 1929 ?",
+      "answer": "Louis de Broglie",
+      "explanation": "L'hypothèse de la dualité onde-particule formulée par Louis de Broglie dans sa thèse de doctorat a été confirmée expérimentalement quelques années plus tard, devenant un pilier fondamental de la mécanique quantique moderne.",
+      "options": [
+        "Louis de Broglie",
+        "Paul Dirac",
+        "Wolfgang Pauli",
+        "Jean Perrin"
+      ]
+    }
+  ],
+  "Grandes Inventions": [
+    {
+      "question": "Qui a inventé l'ampoule électrique incandescente pratique?",
+      "options": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Joseph Swan",
+        "Humphry Davy"
+      ],
+      "answer": 1,
+      "explanation": "Thomas Edison a amélioré et breveté une ampoule électrique incandescente pratique et durable en 1879, bien que d'autres (Davy, Swan, Lodyguine) aient travaillé sur des concepts similaires. Edison est crédité pour avoir créé la première ampoule commercialement viable.",
+      "difficulty": "easy",
+      "id": "grandes_inventions_1"
+    },
+    {
+      "question": "En quelle année Edward Jenner a-t-il créé le premier vaccin contre la variole?",
+      "options": [
+        "1776",
+        "1796",
+        "1806",
+        "1816"
+      ],
+      "answer": 1,
+      "explanation": "Edward Jenner a développé le premier vaccin en 1796. En utilisant le cowpox (un virus apparenté), il a démontré l'immunisation contre la variole. Ce succès a fondé le domaine de la vaccinologie moderne.",
+      "difficulty": "medium",
+      "id": "grandes_inventions_2"
+    },
+    {
+      "question": "Qui a inventé le télescope optique réfracteur au début du XVIIe siècle?",
+      "options": [
+        "Tycho Brahe",
+        "Hans Lippershey",
+        "Galileo Galilei",
+        "Isaac Newton"
+      ],
+      "answer": 1,
+      "explanation": "Hans Lippershey, un opticien néerlandais, a reçu un brevet pour le télescope réfracteur en 1608. Bien que Galilée n'ait pas inventé le télescope, il l'a perfectionnéet l'a utilisé pour des observations astronomiques révolutionnaires.",
+      "difficulty": "hard",
+      "id": "grandes_inventions_3"
+    },
+    {
+      "question": "Le transistor a révolutionné l'électronique. En quelle année les Bell Labs ont-ils mis au point le premier transistor?",
+      "options": [
+        "1945",
+        "1947",
+        "1950",
+        "1953"
+      ],
+      "answer": 1,
+      "explanation": "Le premier transistor fonctionnel a été développé en décembre 1947 par William Shockley, John Bardeen et Leon Cooper aux Bell Laboratories. Cette invention a remplacé les tubes à vide et a permis la miniaturisation de l'électronique moderne.",
+      "difficulty": "hard",
+      "id": "grandes_inventions_4"
+    }
+  ],
+  "Pionniers & Savants": [
+    {
+      "question": "Marie Curie a remporté deux prix Nobel. Dans quels domaines scientifiques?",
+      "options": [
+        "Chimie et Physique",
+        "Physique et Médecine",
+        "Chimie et Médecine",
+        "Chimie et Économie"
+      ],
+      "answer": 0,
+      "explanation": "Marie Curie a reçu le Prix Nobel de Physique en 1903 (partagé avec Pierre Curie et Henri Becquerel) et le Prix Nobel de Chimie en 1911 pour la découverte du radium et du polonium. C'est la seule femme à avoir remporté deux Prix Nobel.",
+      "difficulty": "easy",
+      "id": "pionniers_et_savants_1"
+    },
+    {
+      "question": "Louis Pasteur a révolutionné la médecine et la microbiologie. Quel est le processus qu'il a développé pour préserver les aliments?",
+      "options": [
+        "Réfrigération",
+        "Pasteurisation",
+        "Congélation",
+        "Lyophilisation"
+      ],
+      "answer": 1,
+      "explanation": "Louis Pasteur a développé la pasteurisation, un processus de chauffage utilisé pour tuer les micro-organismes nocifs dans les aliments et les liquides. Cette méthode a considérablement amélioré la durée de conservation et la sécurité des aliments et des boissons.",
+      "difficulty": "easy",
+      "id": "pionniers_et_savants_2"
+    },
+    {
+      "question": "Nikola Tesla, inventeur serbe, est connu pour ses contributions à l'électricité. Quelle unité de mesure porte son nom?",
+      "options": [
+        "L'Ampère",
+        "Le Tesla (magnétisme)",
+        "Le Watt",
+        "L'Ohm"
+      ],
+      "answer": 1,
+      "explanation": "L'unité de densité de flux magnétique s'appelle le Tesla (T), en hommage à Nikola Tesla. Tesla a contribué de manière majeure au développement de la transmission d'électricité en courant alternatif (CA).",
+      "difficulty": "medium",
+      "id": "pionniers_et_savants_3"
+    },
+    {
+      "question": "Albert Einstein a développé la théorie de la relativité. En quelle année a-t-il publié sa théorie de la relativité restreinte?",
+      "options": [
+        "1900",
+        "1905",
+        "1915",
+        "1921"
+      ],
+      "answer": 1,
+      "explanation": "Albert Einstein a publié sa théorie de la relativité restreinte en 1905, année reconnue comme son « annus mirabilis » (année miraculeuse). Il a suivi cela avec la théorie de la relativité générale en 1915.",
+      "difficulty": "medium",
+      "id": "pionniers_et_savants_4"
     }
   ]
 }

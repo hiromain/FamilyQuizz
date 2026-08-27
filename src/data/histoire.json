@@ -329,6 +329,174 @@
       "question": "Quel grand géographe et historien grec du Ier siècle av. J.-C. est l'auteur d'une monumentale 'Géographie' en 17 livres contenant de précieuses descriptions de la Gaule antique ?",
       "answer": "Strabon",
       "explanation": "Le savant grec Strabon a rédigé au début du Ier siècle de notre ère une monumentale 'Géographie' divisée en 17 volumes. Cette œuvre encyclopédique exceptionnelle dresse un portrait détaillé du monde connu des Grecs et des Romains à l'époque d'Auguste, consacrant tout un livre à la Gaule. Ses observations géographiques et ethnographiques restent indispensables pour comprendre la société gallo-romaine naissante."
+    },
+    {
+      "id": "gaule_antiquite_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel homme d'État athénien a donné son nom au 'siècle de Périclès', âge d'or de la démocratie et des arts à Athènes au Ve siècle av. J.-C. ?",
+      "answer": "Périclès",
+      "explanation": "Périclès dirige Athènes pendant près de trente ans en étant réélu stratège presque chaque année par ses concitoyens. Sous son influence, la démocratie athénienne se renforce et la cité rayonne sur toute la Méditerranée par sa puissance navale et son prestige culturel. Son discours funèbre en l'honneur des premiers morts de la guerre du Péloponnèse, rapporté par l'historien Thucydide, reste un texte fondateur de l'idéal démocratique.",
+      "options": [
+        "Périclès",
+        "Thémistocle",
+        "Solon",
+        "Cléisthène"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle victoire navale grecque de 480 av. J.-C., remportée grâce à la stratégie du stratège athénien Thémistocle, a brisé la flotte perse de Xerxès Ier ?",
+      "answer": "La bataille de Salamine",
+      "explanation": "Thémistocle parvient à convaincre les Grecs d'attirer l'immense flotte perse dans le détroit étroit de Salamine, où sa taille devient un handicap face aux navires grecs plus maniables. Cette victoire décisive brise la suprématie navale perse et contraint Xerxès à rentrer en Asie avec une grande partie de son armée. La guerre s'achèvera l'année suivante par la victoire terrestre grecque de Platées.",
+      "options": [
+        "La bataille de Salamine",
+        "La bataille de Marathon",
+        "La bataille des Thermopyles",
+        "La bataille de Platées"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel général romain a vaincu définitivement Hannibal Barca à la bataille de Zama en 202 av. J.-C., mettant fin à la deuxième guerre punique ?",
+      "answer": "Scipion l'Africain",
+      "explanation": "Plutôt que d'affronter Hannibal en Italie, le général romain Scipion choisit de porter la guerre directement en Afrique pour contraindre Carthage à rappeler son meilleur général. Face à lui à Zama, Hannibal subit sa première et unique grande défaite, scellant le sort de la deuxième guerre punique. Ce triomphe vaut à Scipion le surnom glorieux de 'l'Africain'.",
+      "options": [
+        "Scipion l'Africain",
+        "Fabius Maximus",
+        "Marcus Claudius Marcellus",
+        "Paul Émile"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle grande ville portuaire du sud de la France a été fondée vers 600 av. J.-C. par des colons grecs venus de Phocée, sous le nom de Massalia ?",
+      "answer": "Marseille",
+      "explanation": "Selon la légende, des marins phocéens auraient fondé ce comptoir après le mariage de leur chef Protis avec la princesse locale Gyptis. Massalia devient rapidement un carrefour commercial prospère, important le vin et l'huile grecs en échange de métaux et de céréales gauloises. Cette cité antique est aujourd'hui considérée comme la plus ancienne ville de France.",
+      "options": [
+        "Marseille",
+        "Nice",
+        "Narbonne",
+        "Béziers"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelait-on les prêtres et savants gaulois, chargés du culte, de la justice et de l'enseignement au sein de la société celtique ?",
+      "answer": "Les druides",
+      "explanation": "Les druides forment une classe sacerdotale influente qui transmet oralement un savoir considérable en astronomie, en droit et en médecine, refusant de le confier à l'écriture. Ils rendent la justice, célèbrent les rites religieux dans des forêts sacrées et cueillent le gui de chêne lors de cérémonies rituelles. Jules César décrit longuement leur rôle central dans ses 'Commentaires sur la guerre des Gaules'.",
+      "options": [
+        "Les druides",
+        "Les évergètes",
+        "Les augures",
+        "Les flamines"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel savant grec de Syracuse, auteur du cri légendaire 'Eurêka', fut tué par un soldat romain lors de la prise de sa ville en 212 av. J.-C. ?",
+      "answer": "Archimède",
+      "explanation": "Physicien et mathématicien de génie, Archimède aurait découvert le principe de la poussée hydrostatique en observant l'eau déborder de sa baignoire, d'où son célèbre cri de joie. Il conçoit également des machines de guerre redoutables pour défendre sa ville natale contre le siège romain. Malgré l'ordre du général Marcellus de l'épargner, il est tué par un soldat alors qu'il étudiait une figure géométrique tracée dans le sable.",
+      "options": [
+        "Archimède",
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel neveu et fils adoptif de Jules César est devenu le tout premier empereur romain en 27 av. J.-C. sous le nom d'Auguste ?",
+      "answer": "Octave (Auguste)",
+      "explanation": "Après avoir hérité du nom et de la fortune de Jules César, le jeune Octave élimine progressivement ses rivaux du second triumvirat, dont Marc Antoine à la bataille d'Actium. En 27 av. J.-C., le Sénat romain lui décerne le titre honorifique d''Auguste', consacrant la naissance du régime impérial. Il règnera plus de quarante ans, instaurant une paix durable connue sous le nom de Pax Romana.",
+      "options": [
+        "Octave (Auguste)",
+        "Marc Antoine",
+        "Lépide",
+        "Agrippa"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel empereur chinois, unificateur du pays au IIIe siècle av. J.-C., a fait édifier une armée de milliers de soldats en terre cuite pour garder son tombeau ?",
+      "answer": "Qin Shi Huang",
+      "explanation": "Qin Shi Huang met fin à des siècles de royaumes rivaux en unifiant la Chine en 221 av. J.-C. et en standardisant l'écriture, la monnaie et les poids et mesures dans tout son empire. Il ordonne également le début des travaux de la Grande Muraille pour se protéger des invasions du nord. Son gigantesque mausolée, découvert en 1974 près de Xi'an, abrite une armée de plusieurs milliers de soldats en terre cuite grandeur nature.",
+      "options": [
+        "Qin Shi Huang",
+        "Han Wudi",
+        "Kubilaï Khan",
+        "Confucius"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel homme d'État et orateur romain, consul en 63 av. J.-C., est célèbre pour avoir déjoué la conjuration de Catilina grâce à ses discours, les Catilinaires ?",
+      "answer": "Cicéron",
+      "explanation": "Considéré comme le plus grand orateur de la langue latine, Cicéron dénonce publiquement devant le Sénat le complot du patricien Catilina qui projetait de renverser la République. Son fameux discours débutant par 'Quousque tandem' ('Jusqu'à quand donc') reste un modèle d'éloquence politique. Adversaire déclaré de Marc Antoine, il sera finalement exécuté lors des proscriptions du second triumvirat en 43 av. J.-C.",
+      "options": [
+        "Cicéron",
+        "Caton l'Ancien",
+        "Pompée",
+        "Crassus"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel historien et voyageur grec du Ve siècle av. J.-C., auteur d'Histoires relatant les guerres médiques, est surnommé le 'père de l'Histoire' ?",
+      "answer": "Hérodote",
+      "explanation": "Né à Halicarnasse en Asie Mineure, Hérodote parcourt le bassin méditerranéen en collectant récits et témoignages pour composer son grand ouvrage sur les guerres entre Grecs et Perses. Sa méthode, mêlant enquête rigoureuse et récits parfois légendaires, ouvre la voie à l'écriture historique occidentale. C'est l'orateur romain Cicéron qui, quelques siècles plus tard, lui attribue le titre de 'père de l'Histoire'.",
+      "options": [
+        "Hérodote",
+        "Thucydide",
+        "Polybe",
+        "Plutarque"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_41",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel objet du quotidien, utilisé pour le transport et la conservation du vin ou de la bière, est une invention attribuée aux Gaulois, qui l'ont préféré aux amphores romaines ?",
+      "answer": "Le tonneau",
+      "explanation": "Les Gaulois maîtrisent l'art de la tonnellerie en assemblant des douves de bois cerclées de fer, créant un contenant bien plus solide et léger à transporter que les fragiles amphores de terre cuite romaines. Cette technique ingénieuse est rapidement adoptée par les Romains eux-mêmes après la conquête de la Gaule. Le tonneau reste aujourd'hui encore un contenant essentiel pour l'élevage du vin et de la bière.",
+      "options": [
+        "Le tonneau",
+        "L'amphore",
+        "La jarre",
+        "Le sac de cuir"
+      ]
+    },
+    {
+      "id": "gaule_antiquite_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel empereur romain régnait à Rome lors du gigantesque incendie qui ravagea la ville en 64 apr. J.-C., détruisant une grande partie de la cité ?",
+      "answer": "Néron",
+      "explanation": "L'incendie ravage Rome pendant six jours et détruit une grande partie de la cité, laissant des milliers d'habitants sans abri. Accusé par la rumeur populaire d'avoir provoqué le sinistre pour dégager l'espace nécessaire à son somptueux palais, la Domus Aurea, Néron reporte la faute sur la petite communauté chrétienne de Rome. Cette accusation entraîne l'une des premières grandes persécutions des chrétiens de l'histoire romaine.",
+      "options": [
+        "Néron",
+        "Caligula",
+        "Claude",
+        "Domitien"
+      ]
     }
   ],
   "Histoire : Moyen Âge": [
@@ -661,6 +829,174 @@
       ],
       "answer": "La bataille d'Azincourt",
       "explanation": "La bataille d'Azincourt se déroule en octobre 1415 dans le Pas-de-Calais, opposant l'armée du roi d'Angleterre Henri V aux troupes royales françaises. Malgré leur supériorité numérique écrasante, les chevaliers français, embourbés dans un terrain détrempé, sont décimés par les tirs précis des archers gallois équipés de grands arcs (longbows). Cette défaite tragique laisse la France affaiblie et divisée en pleine guerre civile."
+    },
+    {
+      "id": "moyen_age_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel comte de Paris a été élu roi de France en 987, mettant fin à la dynastie carolingienne et fondant la dynastie des Capétiens ?",
+      "answer": "Hugues Capet",
+      "explanation": "À la mort du dernier roi carolingien Louis V sans héritier direct, les grands seigneurs du royaume élisent Hugues Capet, un puissant duc des Francs, pour lui succéder. Son surnom viendrait de la chape qu'il portait comme abbé laïc de Saint-Martin de Tours. Cette élection fonde la dynastie capétienne, dont les différentes branches régneront sur la France, avec quelques interruptions, jusqu'en 1848.",
+      "options": [
+        "Hugues Capet",
+        "Eudes de Paris",
+        "Robert le Fort",
+        "Louis V"
+      ]
+    },
+    {
+      "id": "moyen_age_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Lors de la bataille de Poitiers de 1356, en pleine guerre de Cent Ans, quel roi de France a été capturé par le Prince Noir et emmené prisonnier en Angleterre ?",
+      "answer": "Jean II le Bon",
+      "explanation": "Face aux archers anglais du prince Édouard de Woodstock, surnommé le Prince Noir, la chevalerie française subit une nouvelle défaite désastreuse malgré sa supériorité numérique. Le roi Jean II le Bon combat courageusement avant d'être capturé et conduit prisonnier à Londres. Sa rançon colossale et son absence plongent le royaume dans une grave crise politique, marquée par la révolte parisienne et la Jacquerie paysanne.",
+      "options": [
+        "Jean II le Bon",
+        "Charles V",
+        "Philippe VI",
+        "Charles VI"
+      ]
+    },
+    {
+      "id": "moyen_age_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel connétable de France, surnommé 'l'Aigle de Bretagne', a mené une habile guerre d'usure pour reconquérir les territoires perdus face aux Anglais sous le règne de Charles V ?",
+      "answer": "Bertrand du Guesclin",
+      "explanation": "Ce chevalier breton robuste et rusé évite systématiquement les grandes batailles rangées, préférant les sièges et les chevauchées rapides pour harceler les positions anglaises. Nommé connétable de France en 1370 par Charles V, il reconquiert progressivement la majeure partie des territoires cédés par le traité de Brétigny. Il meurt en 1380 lors du siège du château de Châteauneuf-de-Randon en Lozère.",
+      "options": [
+        "Bertrand du Guesclin",
+        "Gaston Phébus",
+        "Olivier de Clisson",
+        "Jean de Vienne"
+      ]
+    },
+    {
+      "id": "moyen_age_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel roi de Germanie a été couronné empereur à Rome en 962, fondant ce qui deviendra le Saint-Empire romain germanique ?",
+      "answer": "Otton Ier",
+      "explanation": "Après avoir remporté une victoire décisive sur les envahisseurs hongrois à la bataille du Lechfeld en 955, Otton Ier consolide son autorité sur la Germanie. Le pape Jean XII le couronne empereur à Rome en 962, restaurant ainsi le titre impérial en Occident depuis Charlemagne. Cette dynastie ottonienne fondera une lignée impériale qui dominera l'Europe centrale pendant des siècles.",
+      "options": [
+        "Otton Ier",
+        "Otton III",
+        "Henri l'Oiseleur",
+        "Frédéric Barberousse"
+      ]
+    },
+    {
+      "id": "moyen_age_35",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel moine franciscain et philosophe scolastique anglais du XIVe siècle a formulé le principe de simplicité connu sous le nom de 'rasoir d'Ockham' ?",
+      "answer": "Guillaume d'Ockham",
+      "explanation": "Ce principe philosophique affirme qu'il ne faut pas multiplier les explications sans nécessité et qu'il convient de privilégier l'hypothèse la plus simple parmi celles qui expliquent un phénomène. Théologien influent dans les débats scolastiques, il entre en conflit avec la papauté avignonnaise au sujet de la pauvreté franciscaine. Il finit son existence en exil à la cour de l'empereur Louis IV de Bavière.",
+      "options": [
+        "Guillaume d'Ockham",
+        "Roger Bacon",
+        "Duns Scot",
+        "Albert le Grand"
+      ]
+    },
+    {
+      "id": "moyen_age_36",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel chevalier castillan légendaire du XIe siècle, dont le nom signifie 'seigneur' en arabe, s'est illustré dans la Reconquista en combattant tour à tour pour des souverains chrétiens et musulmans ?",
+      "answer": "Le Cid Campeador",
+      "explanation": "Rodrigue Díaz de Vivar, dit le Cid, est un guerrier castillan qui met son épée au service alterné de rois chrétiens et de l'émir maure de Saragosse selon les circonstances politiques. Son fait d'armes le plus célèbre reste la conquête de la riche cité de Valence en 1094. Ses exploits, largement magnifiés, en ont fait le héros national de l'Espagne médiévale, immortalisé dans le 'Cantar de Mio Cid'.",
+      "options": [
+        "Le Cid Campeador",
+        "Alphonse VI",
+        "Ferdinand III",
+        "Rodrigue le Wisigoth"
+      ]
+    },
+    {
+      "id": "moyen_age_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle cathédrale emblématique de Paris, dont la construction a débuté en 1163 sur l'île de la Cité, est un chef-d'œuvre de l'art gothique dédié à la Vierge Marie ?",
+      "answer": "Notre-Dame de Paris",
+      "explanation": "Le chantier de cet édifice majestueux est lancé sous l'impulsion de l'évêque Maurice de Sully et s'étale sur près de deux siècles de travaux successifs. Ses tours jumelles, sa rosace éclatante et ses arcs-boutants novateurs en font l'un des sommets de l'architecture gothique française. Ravagée par un grave incendie en avril 2019, la cathédrale a depuis été restaurée et rouverte au public.",
+      "options": [
+        "Notre-Dame de Paris",
+        "La basilique de Saint-Denis",
+        "La Sainte-Chapelle",
+        "La cathédrale de Reims"
+      ]
+    },
+    {
+      "id": "moyen_age_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel sultan kurde, fondateur de la dynastie ayyoubide, a repris Jérusalem aux croisés en 1187 après sa victoire à la bataille de Hattin ?",
+      "answer": "Saladin",
+      "explanation": "Saladin unifie sous son autorité l'Égypte et une grande partie de la Syrie, formant un puissant contrepoids aux États latins d'Orient. Sa victoire écrasante à la bataille de Hattin en juillet 1187 anéantit l'essentiel des forces croisées de Terre sainte. Il reprend Jérusalem quelques mois plus tard en épargnant sa population chrétienne, un geste qui provoquera le déclenchement de la troisième croisade menée notamment par Richard Cœur de Lion.",
+      "options": [
+        "Saladin",
+        "Nur ad-Din",
+        "Baïbars",
+        "Saïf ad-Din"
+      ]
+    },
+    {
+      "id": "moyen_age_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle révolte paysanne brutale et éphémère a éclaté dans le nord de la France en mai 1358, en pleine guerre de Cent Ans, prenant pour cible les châteaux de la noblesse ?",
+      "answer": "La Jacquerie",
+      "explanation": "Les paysans révoltés, surnommés avec mépris 'Jacques Bonhomme' par les nobles, se soulèvent contre les exactions seigneuriales et le poids des impôts de guerre au lendemain du désastre de Poitiers. Cette insurrection violente vise en priorité les châteaux et les symboles du pouvoir féodal dans la région parisienne. Elle est écrasée dans un bain de sang en quelques semaines par Charles le Mauvais et la noblesse coalisée.",
+      "options": [
+        "La Jacquerie",
+        "La Chouannerie",
+        "La Fronde",
+        "La révolte des Maillotins"
+      ]
+    },
+    {
+      "id": "moyen_age_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle abbesse bénédictine allemande du XIIe siècle, autrice d'œuvres de théologie, de musique et de sciences naturelles, est également connue pour ses visions mystiques ?",
+      "answer": "Hildegarde de Bingen",
+      "explanation": "Abbesse du couvent de Rupertsberg, Hildegarde compose des chants liturgiques d'une grande originalité, encore interprétés de nos jours, et rédige des traités de médecine et de botanique. Elle entretient une correspondance suivie avec des papes, des empereurs et des rois pour leur transmettre ses visions et ses conseils spirituels. Elle a été canonisée et proclamée docteure de l'Église par le pape Benoît XVI en 2012.",
+      "options": [
+        "Hildegarde de Bingen",
+        "Claire d'Assise",
+        "Brigitte de Suède",
+        "Julienne de Norwich"
+      ]
+    },
+    {
+      "id": "moyen_age_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel chef de la première croisade, duc de Basse-Lotharingie, est devenu le premier souverain chrétien de Jérusalem après sa prise en 1099, sous le titre modeste d''avoué du Saint-Sépulcre' ?",
+      "answer": "Godefroy de Bouillon",
+      "explanation": "Ce noble originaire des Ardennes s'impose comme l'un des principaux chefs de la première croisade lancée par le pape Urbain II en 1095. Après la prise sanglante de Jérusalem, il refuse par humilité chrétienne de porter une couronne royale dans la ville où le Christ a porté une couronne d'épines. Il meurt un an plus tard, et son frère Baudouin lui succède en prenant, lui, le titre de roi de Jérusalem.",
+      "options": [
+        "Godefroy de Bouillon",
+        "Raymond de Toulouse",
+        "Bohémond de Tarente",
+        "Baudouin de Boulogne"
+      ]
+    },
+    {
+      "id": "moyen_age_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle puissante association de villes marchandes d'Europe du Nord, dominée par Lübeck, a contrôlé le commerce de la Baltique et de la mer du Nord du XIIIe au XVe siècle ?",
+      "answer": "La Hanse (Ligue hanséatique)",
+      "explanation": "Ce réseau de cités marchandes allemandes et scandinaves se fédère pour protéger ses routes commerciales et défendre ses intérêts économiques communs, de Bruges à Novgorod. Sa flotte de solides navires marchands, appelés kogges, transporte du blé, du bois, du poisson séché et des fourrures à travers toute l'Europe du Nord. Son influence décline progressivement avec l'essor des monarchies centralisées et l'ouverture des grandes routes maritimes atlantiques.",
+      "options": [
+        "La Hanse (Ligue hanséatique)",
+        "La Ligue lombarde",
+        "La Ligue du Rhin",
+        "La Confédération helvétique"
+      ]
     }
   ],
   "Histoire : Renaissance": [
@@ -993,6 +1329,174 @@
       ],
       "answer": "Louise Labé",
       "explanation": "Louise Labé est une femme de lettres lyonnaise de premier plan au XVIe siècle, s'illustrant par ses sonnets amoureux d'une grande intensité passionnée. Surnommée 'la Belle Cordière' en raison du métier de son époux fabricant de cordes, elle anime un salon littéraire très fréquenté par les érudits. Son œuvre poétique préfigure la sensibilité moderne en revendiquant la liberté d'expression amoureuse et intellectuelle des femmes."
+    },
+    {
+      "id": "renaissance_31",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel roi de France, grand mécène de la Renaissance, a fondé en 1530 le Collège des lecteurs royaux, ancêtre de l'actuel Collège de France ?",
+      "answer": "François Ier",
+      "explanation": "Cette institution est créée pour enseigner des disciplines délaissées par la Sorbonne, comme les langues anciennes, l'hébreu ou les mathématiques. Fait remarquable pour l'époque, son enseignement est gratuit et ouvert à tous, sans examen ni diplôme requis à l'entrée. Ce principe d'ouverture au savoir, cher au roi humaniste, reste toujours en vigueur au Collège de France aujourd'hui.",
+      "options": [
+        "François Ier",
+        "Henri II",
+        "Charles Quint",
+        "Henri IV"
+      ]
+    },
+    {
+      "id": "renaissance_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ancien soldat espagnol, converti après une blessure de guerre, a fondé en 1540 la Compagnie de Jésus (les Jésuites) pour défendre le catholicisme face à la Réforme ?",
+      "answer": "Ignace de Loyola",
+      "explanation": "Ce noble basque, gravement blessé lors du siège de Pampelune, se consacre après sa convalescence à une intense vie spirituelle et rédige les célèbres 'Exercices spirituels'. Il fonde avec quelques compagnons un ordre religieux discipliné, voué à l'enseignement, aux missions lointaines et à la défense du catholicisme. Le pape Paul III approuve officiellement la Compagnie de Jésus en 1540.",
+      "options": [
+        "Ignace de Loyola",
+        "François Xavier",
+        "Thomas More",
+        "Philippe Néri"
+      ]
+    },
+    {
+      "id": "renaissance_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel théologien français, réfugié à Genève, a fondé un courant majeur de la Réforme protestante caractérisé par la doctrine de la prédestination ?",
+      "answer": "Jean Calvin",
+      "explanation": "Contraint à l'exil en raison de ses idées réformées, Calvin s'installe à Genève où il organise une Église rigoureuse fondée sur la lecture directe des Écritures. Son ouvrage majeur, 'L'Institution de la religion chrétienne', systématise sa doctrine théologique influente. Son enseignement se répand largement en France chez les huguenots et dans toute l'Europe du Nord.",
+      "options": [
+        "Jean Calvin",
+        "Martin Luther",
+        "Ulrich Zwingli",
+        "Théodore de Bèze"
+      ]
+    },
+    {
+      "id": "renaissance_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Lors de quelle assemblée impériale de 1521, Martin Luther, sommé de se rétracter devant Charles Quint, a été mis au ban de l'Empire après avoir refusé de renier ses écrits ?",
+      "answer": "La diète de Worms",
+      "explanation": "Convoqué devant les princes réunis du Saint-Empire, Luther refuse catégoriquement de rétracter ses thèses sans qu'on lui prouve son erreur par les Écritures. L'édit de Worms qui s'ensuit le déclare hors-la-loi dans tout l'Empire. Il trouve alors refuge sous la protection de l'électeur de Saxe au château de la Wartbourg, où il traduit le Nouveau Testament en allemand.",
+      "options": [
+        "La diète de Worms",
+        "Le concile de Trente",
+        "La diète d'Augsbourg",
+        "Le concile de Constance"
+      ]
+    },
+    {
+      "id": "renaissance_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel sultan ottoman, contemporain et parfois allié de François Ier contre Charles Quint, a mené l'Empire ottoman à son apogée territoriale et culturelle au XVIe siècle ?",
+      "answer": "Soliman le Magnifique",
+      "explanation": "Son règne, l'un des plus longs de l'histoire ottomane, voit l'empire s'étendre jusqu'aux portes de Vienne, assiégée en vain en 1529. Grand réformateur du droit, il est également surnommé 'le Législateur' par ses propres sujets. Sa diplomatie inédite avec la France catholique de François Ier vise à contenir la puissance rivale des Habsbourg.",
+      "options": [
+        "Soliman le Magnifique",
+        "Sélim Ier",
+        "Mehmed II",
+        "Bayezid II"
+      ]
+    },
+    {
+      "id": "renaissance_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Lors de quelle bataille de 1525 en Italie, le roi François Ier a-t-il été fait prisonnier par les troupes de Charles Quint, épisode auquel est associée la célèbre formule 'Tout est perdu, fors l'honneur' ?",
+      "answer": "La bataille de Pavie",
+      "explanation": "L'armée française subit une défaite écrasante face aux troupes impériales espagnoles en Lombardie, et le roi lui-même est capturé sur le champ de bataille. Le soir même, il écrit à sa mère Louise de Savoie : 'de toutes choses ne m'est demeuré que l'honneur et la vie qui est sauve.' La formule popularisée 'Tout est perdu, fors l'honneur' est en réalité une reformulation postérieure, forgée au XVIIIe siècle par le père Gabriel Daniel dans son Histoire de France, et non les mots exacts du roi. Emmené prisonnier jusqu'à Madrid, François Ier doit signer un traité humiliant cédant la Bourgogne pour recouvrer sa liberté, accord qu'il reniera aussitôt libéré.",
+      "options": [
+        "La bataille de Pavie",
+        "La bataille de Marignan",
+        "La bataille de Cérisoles",
+        "La bataille de Ravenne"
+      ]
+    },
+    {
+      "id": "renaissance_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel moine et médecin français, auteur truculent de 'Gargantua' et 'Pantagruel', est l'une des grandes figures de l'humanisme littéraire de la Renaissance ?",
+      "answer": "François Rabelais",
+      "explanation": "Ancien moine formé à la médecine, Rabelais publie sous pseudonyme les aventures satiriques de géants gourmands au langage inventif et savoureux. Son œuvre mêle érudition humaniste, farce populaire et critique subtile des institutions de son temps. Sa formule restée célèbre, 'Science sans conscience n'est que ruine de l'âme', résume son idéal d'un savoir mis au service de la sagesse.",
+      "options": [
+        "François Rabelais",
+        "Michel de Montaigne",
+        "Clément Marot",
+        "Guillaume Budé"
+      ]
+    },
+    {
+      "id": "renaissance_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel groupe de sept poètes français du XVIe siècle, mené par Ronsard et Du Bellay, souhaitait enrichir et illustrer la langue française à l'imitation des auteurs antiques ?",
+      "answer": "La Pléiade",
+      "explanation": "Ce nom fait référence à un groupe de sept poètes grecs alexandrins de l'Antiquité, dont s'inspirent Ronsard, Du Bellay et leurs amis lettrés. Leur manifeste, 'Défense et illustration de la langue française' publié en 1549, affirme avec ambition que le français peut rivaliser avec le latin et le grec comme langue littéraire noble. Ce mouvement contribue durablement à l'enrichissement du vocabulaire et de la poésie française.",
+      "options": [
+        "La Pléiade",
+        "Les Précieux",
+        "Le Parnasse",
+        "Les Rhétoriqueurs"
+      ]
+    },
+    {
+      "id": "renaissance_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel peintre florentin de la Renaissance a réalisé le célèbre tableau 'La Naissance de Vénus', représentant la déesse émergeant d'un coquillage ?",
+      "answer": "Sandro Botticelli",
+      "explanation": "Protégé par la puissante famille des Médicis à Florence, Botticelli peint cette œuvre mythologique empreinte de grâce linéaire et de références à la philosophie néoplatonicienne alors en vogue à leur cour. Le tableau, aujourd'hui conservé à la galerie des Offices de Florence, est devenu l'une des images les plus reproduites de tout l'art occidental. Botticelli abandonnera plus tard ce style profane sous l'influence du prédicateur radical Savonarole.",
+      "options": [
+        "Sandro Botticelli",
+        "Le Titien",
+        "Raphaël",
+        "Le Pérugin"
+      ]
+    },
+    {
+      "id": "renaissance_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel navigateur et cartographe florentin, ayant exploré les côtes du Nouveau Monde après Christophe Colomb, a donné son prénom au continent américain ?",
+      "answer": "Amerigo Vespucci",
+      "explanation": "Au service successif du Portugal puis de l'Espagne, il explore les côtes d'Amérique du Sud et comprend, contrairement à Colomb, qu'il s'agit bien d'un continent inconnu distinct de l'Asie. Un cartographe allemand, Martin Waldseemüller, baptise ces terres 'America' en son honneur sur une carte publiée en 1507. Ce nom, d'abord donné au continent sud-américain, s'étendra ensuite à l'ensemble du Nouveau Monde.",
+      "options": [
+        "Amerigo Vespucci",
+        "Fernand de Magellan",
+        "Jean Cabot",
+        "Vasco de Gama"
+      ]
+    },
+    {
+      "id": "renaissance_41",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel conquistador espagnol a renversé l'empire aztèque et son souverain Moctezuma II en s'emparant de Tenochtitlan en 1521 ?",
+      "answer": "Hernán Cortés",
+      "explanation": "Débarqué au Mexique avec seulement quelques centaines de soldats, Cortés s'allie habilement à des peuples ennemis des Aztèques, excédés par leur domination. Les épidémies apportées involontairement par les Européens affaiblissent considérablement la résistance de la capitale aztèque. Sa victoire met fin à un empire plusieurs fois millénaire et ouvre la voie à la colonisation espagnole de la Nouvelle-Espagne.",
+      "options": [
+        "Hernán Cortés",
+        "Francisco Pizarro",
+        "Vasco Núñez de Balboa",
+        "Juan Ponce de León"
+      ]
+    },
+    {
+      "id": "renaissance_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel grand concile catholique, réuni par intermittence de 1545 à 1563, a réformé l'Église et structuré la Contre-Réforme face à l'essor du protestantisme ?",
+      "answer": "Le concile de Trente",
+      "explanation": "Convoqué par le pape Paul III face à la progression rapide de la Réforme protestante en Europe, ce concile réaffirme solennellement les dogmes catholiques contestés par les réformateurs. Il réforme également la discipline du clergé et impose la création de séminaires pour mieux former les prêtres. Ses décisions structureront durablement le catholicisme jusqu'au concile Vatican II au XXe siècle.",
+      "options": [
+        "Le concile de Trente",
+        "Le concile de Latran",
+        "Le concile de Constance",
+        "Le concile de Bâle"
+      ]
     }
   ],
   "Histoire : Grand Siècle (Louis XIV)": [
@@ -1325,6 +1829,174 @@
       ],
       "answer": "Jean-Baptiste Lully",
       "explanation": "Jean-Baptiste Lully, né à Florence mais naturalisé français, s'impose comme le maître absolu de la vie musicale du Grand Siècle en obtenant le monopole des représentations lyriques. En étroite collaboration avec Molière, il invente la comédie-ballet puis fonde la tragédie en musique caractéristique de l'opéra national français. En 1687, il se blesse accidentellement le pied avec sa lourde canne de direction en dirigeant un Te Deum, contractant une gangrène mortelle."
+    },
+    {
+      "id": "grand_siecle_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel dramaturge classique français, protégé de Louis XIV, est l'auteur de tragédies célèbres telles que 'Phèdre', 'Andromaque' et 'Britannicus' ?",
+      "answer": "Jean Racine",
+      "explanation": "Formé chez les jansénistes de Port-Royal, Racine impose un style tragique épuré fondé sur la passion et la fatalité, en respectant scrupuleusement la règle classique des trois unités. Nommé historiographe officiel du roi aux côtés de Boileau, il délaisse un temps le théâtre profane avant de composer ses dernières pièces religieuses pour les jeunes filles de Saint-Cyr, à la demande de Madame de Maintenon.",
+      "options": [
+        "Jean Racine",
+        "Pierre Corneille",
+        "Molière",
+        "Voltaire"
+      ]
+    },
+    {
+      "id": "grand_siecle_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel fabuliste français du Grand Siècle, protégé par Fouquet puis par la duchesse d'Orléans, est l'auteur des célèbres 'Fables' mettant en scène des animaux ?",
+      "answer": "Jean de La Fontaine",
+      "explanation": "S'inspirant des fables d'Ésope et de traditions orientales, La Fontaine publie douze livres de récits versifiés qui allient la légèreté du conte animalier à une critique subtile des mœurs et de la cour. Longtemps fidèle à son protecteur Fouquet malgré la disgrâce de ce dernier, il fut plus tardivement accueilli à l'Académie française. Ses fables, comme 'Le Corbeau et le Renard', restent apprises par cœur par les écoliers français.",
+      "options": [
+        "Jean de La Fontaine",
+        "Charles Perrault",
+        "Nicolas Boileau",
+        "Paul Scarron"
+      ]
+    },
+    {
+      "id": "grand_siecle_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle noble dame française du XVIIe siècle est célèbre pour sa correspondance abondante et spirituelle, notamment les lettres adressées à sa fille, publiées après sa mort ?",
+      "answer": "Madame de Sévigné",
+      "explanation": "Marquise cultivée et proche des cercles de la cour, elle entretient pendant près de vingt-cinq ans une correspondance quasi quotidienne avec sa fille éloignée en Provence. Ses lettres, rédigées sans intention de publication, offrent un témoignage vivant et savoureux sur la société et les grands événements du règne de Louis XIV. Leur style naturel et alerte en fait aujourd'hui un modèle du genre épistolaire classique.",
+      "options": [
+        "Madame de Sévigné",
+        "Madame de La Fayette",
+        "Madame de Maintenon",
+        "Ninon de Lenclos"
+      ]
+    },
+    {
+      "id": "grand_siecle_34",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel poète et critique français, auteur de 'L'Art poétique' en 1674, a codifié les règles du classicisme littéraire et fut surnommé le 'législateur du Parnasse' ?",
+      "answer": "Nicolas Boileau",
+      "explanation": "Ami fidèle de Racine et de Molière, Boileau théorise dans son poème didactique les principes de raison, de clarté et de vraisemblance qui doivent gouverner toute création littéraire classique. Nommé historiographe du roi aux côtés de Racine, il exerce une influence considérable sur le goût littéraire de son époque. Sa plume acérée dans ses 'Satires' n'épargne guère les auteurs médiocres qu'il juge indignes du Parnasse.",
+      "options": [
+        "Nicolas Boileau",
+        "Jean Chapelain",
+        "Jean de La Bruyère",
+        "Charles Perrault"
+      ]
+    },
+    {
+      "id": "grand_siecle_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quels traités de paix, signés en 1648 sous la médiation du cardinal Mazarin, ont mis fin à la terrible guerre de Trente Ans en Europe ?",
+      "answer": "Les traités de Westphalie",
+      "explanation": "Signés simultanément à Münster et à Osnabrück, ces traités mettent fin à un conflit européen dévastateur né de rivalités religieuses et politiques au sein du Saint-Empire. Ils reconnaissent la souveraineté quasi complète des différents États de l'Empire germanique, l'affaiblissant durablement. Ils consacrent également la puissance diplomatique montante de la France, sortie victorieuse de ce long conflit sous la régence d'Anne d'Autriche.",
+      "options": [
+        "Les traités de Westphalie",
+        "Le traité des Pyrénées",
+        "La paix de Nimègue",
+        "Le traité de Ryswick"
+      ]
+    },
+    {
+      "id": "grand_siecle_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel jeune prince du sang, futur chef de la Fronde des princes, a remporté à seulement 21 ans une victoire éclatante contre les Espagnols à la bataille de Rocroi en 1643 ?",
+      "answer": "Le Grand Condé",
+      "explanation": "Louis II de Bourbon, alors duc d'Enghien, brise à Rocroi la légendaire infanterie espagnole, jusque-là réputée invincible sur les champs de bataille européens, quelques jours seulement après la mort de Louis XIII. Ce triomphe précoce lui vaut une gloire immense et le surnom de 'Grand Condé'. Devenu plus tard un chef rebelle de la Fronde des princes, il finira par se réconcilier avec Louis XIV et reprendra du service pour la France.",
+      "options": [
+        "Le Grand Condé",
+        "Turenne",
+        "Le duc de Villars",
+        "Le duc de Vendôme"
+      ]
+    },
+    {
+      "id": "grand_siecle_37",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quels traités, signés en 1678 et 1679 après la victorieuse guerre de Hollande menée par Louis XIV, ont permis à la France d'annexer la Franche-Comté ?",
+      "answer": "Les traités de Nimègue",
+      "explanation": "La guerre de Hollande, déclenchée en 1672 par Louis XIV contre les Provinces-Unies de Guillaume d'Orange, s'achève par une paix particulièrement avantageuse pour la France. Le royaume obtient définitivement la Franche-Comté ainsi que plusieurs places fortes du Nord face à l'Espagne. Cette période marque l'apogée territoriale et militaire du règne du Roi-Soleil.",
+      "options": [
+        "Les traités de Nimègue",
+        "Les traités de Westphalie",
+        "Le traité de Ryswick",
+        "Le traité d'Utrecht"
+      ]
+    },
+    {
+      "id": "grand_siecle_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel traité de paix, signé en 1713, a mis fin à la longue guerre de Succession d'Espagne en confirmant Philippe V sur le trône d'Espagne à condition de renoncer à la couronne de France ?",
+      "answer": "Le traité d'Utrecht",
+      "explanation": "Après treize années d'une guerre épuisante impliquant la plupart des grandes puissances européennes, ce traité reconnaît Philippe V comme roi légitime d'Espagne tout en séparant définitivement les couronnes française et espagnole. La France doit néanmoins céder plusieurs territoires nord-américains stratégiques à l'Angleterre, dont Terre-Neuve et l'Acadie. Cette paix marque le début du déclin relatif de la puissance française en Europe.",
+      "options": [
+        "Le traité d'Utrecht",
+        "Le traité de Rastatt",
+        "Le traité des Pyrénées",
+        "Le traité de Ryswick"
+      ]
+    },
+    {
+      "id": "grand_siecle_39",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel écrivain et académicien français, contrôleur des Bâtiments du roi, est l'auteur de contes merveilleux comme 'Cendrillon', 'Le Petit Chaperon rouge' et 'La Belle au bois dormant' ?",
+      "answer": "Charles Perrault",
+      "explanation": "Haut fonctionnaire proche de Colbert, Perrault publie en 1697 ses 'Contes de ma mère l'Oye', qui transposent en littérature savante des récits populaires jusque-là transmis uniquement par tradition orale. Défenseur passionné des Modernes face aux Anciens lors de la célèbre querelle littéraire de son temps, il a durablement marqué l'imaginaire enfantin occidental. Ses contes seront repris des siècles plus tard par de nombreux dessins animés dans le monde entier.",
+      "options": [
+        "Charles Perrault",
+        "Jean de La Fontaine",
+        "Madame d'Aulnoy",
+        "Fénelon"
+      ]
+    },
+    {
+      "id": "grand_siecle_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle institution théâtrale prestigieuse, encore active aujourd'hui, a été fondée par décret de Louis XIV en 1680 en fusionnant la troupe de Molière avec d'autres comédiens parisiens ?",
+      "answer": "La Comédie-Française",
+      "explanation": "Créée pour unifier et contrôler l'art dramatique parisien, cette institution réunit les comédiens de l'ancienne troupe de Molière, décédé sept ans plus tôt, à ceux de l'Hôtel de Bourgogne. Surnommée affectueusement 'la Maison de Molière', elle demeure aujourd'hui la plus ancienne troupe de théâtre toujours en activité au monde. Ses comédiens, appelés sociétaires, y sont admis selon des règles de fonctionnement héritées de sa création.",
+      "options": [
+        "La Comédie-Française",
+        "L'Opéra de Paris",
+        "Le Théâtre du Marais",
+        "L'Académie royale de musique"
+      ]
+    },
+    {
+      "id": "grand_siecle_41",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment surnomme-t-on le mystérieux prisonnier d'État, détenu sous Louis XIV dans plusieurs forteresses puis à la Bastille jusqu'à sa mort en 1703, dont le visage était dissimulé et l'identité jamais révélée ?",
+      "answer": "L'Homme au masque de fer",
+      "explanation": "Détenu pendant plusieurs décennies sous une identité tenue secrète par ses geôliers successifs, ce prisonnier énigmatique portait, selon les registres de la prison, un masque en réalité fait de velours noir et non de fer. Son identité réelle demeure débattue par les historiens jusqu'à aujourd'hui, plusieurs hypothèses ayant été avancées sans certitude définitive. Le philosophe Voltaire contribua largement, au XVIIIe siècle, à populariser la légende du masque de fer.",
+      "options": [
+        "L'Homme au masque de fer",
+        "Le Masque noir",
+        "Le Prisonnier inconnu",
+        "Le Voile de fer"
+      ]
+    },
+    {
+      "id": "grand_siecle_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment était surnommé Philippe d'Orléans, frère cadet de Louis XIV, selon l'usage réservé au frère du roi à la cour de France ?",
+      "answer": "Monsieur",
+      "explanation": "Selon l'étiquette rigoureuse de l'Ancien Régime, le frère puîné du roi de France portait traditionnellement le simple titre de courtoisie 'Monsieur', sans autre précision. Philippe d'Orléans, connu pour son courage militaire remarqué à la bataille de Cassel en 1677 malgré son goût affiché pour les fastes et l'élégance, est l'ancêtre de la branche des Orléans qui régnera plus tard sur la France avec Louis-Philippe Ier.",
+      "options": [
+        "Monsieur",
+        "Le Dauphin",
+        "Le Régent",
+        "Le Grand Dauphin"
+      ]
     }
   ],
   "Histoire : Révolution française": [
@@ -1657,6 +2329,174 @@
       ],
       "answer": "La Chouannerie",
       "explanation": "La Chouannerie est une guerre de guérilla contre-révolutionnaire qui oppose les paysans insurgés de Bretagne, du Maine et de Normandie aux troupes de la République française à partir de 1792. Menés par des chefs charismatiques comme Jean Chouan ou Georges Cadoudal, les révoltés harcèlent les convois militaires en utilisant des techniques de combat nocturne. Le cri de la chouette hululante servait de signal de ralliement secret entre les combattants royalistes."
+    },
+    {
+      "id": "revolution_francaise_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle nuit historique de 1789 a vu l'Assemblée constituante voter dans l'enthousiasme l'abolition des droits féodaux et des privilèges de la noblesse et du clergé ?",
+      "answer": "La nuit du 4 août",
+      "explanation": "Sous l'effet de la Grande Peur qui embrase alors les campagnes françaises, plusieurs députés nobles et ecclésiastiques renoncent spontanément à leurs droits seigneuriaux et privilèges fiscaux lors d'une séance nocturne particulièrement électrique. Cette abolition symbolique du système féodal met fin à des siècles d'inégalités entre les ordres de la société. Elle prépare directement la Déclaration des droits de l'homme et du citoyen, votée quelques semaines plus tard.",
+      "options": [
+        "La nuit du 4 août",
+        "La nuit du 14 juillet",
+        "La nuit du 20 juin",
+        "La nuit du 5 octobre"
+      ]
+    },
+    {
+      "id": "revolution_francaise_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ministre des Finances suisse et populaire, dont le renvoi brutal par Louis XVI le 11 juillet 1789 a provoqué l'agitation parisienne menant à la prise de la Bastille trois jours plus tard, fut aussitôt rappelé au pouvoir ?",
+      "answer": "Jacques Necker",
+      "explanation": "Ce banquier genevois est très populaire auprès de l'opinion publique pour ses tentatives, bien qu'inabouties, de réformer les finances exsangues du royaume. Son renvoi soudain, décidé par le roi sous la pression de la cour, est aussitôt perçu comme le signe d'un coup de force réactionnaire contre les réformateurs. La nouvelle de son limogeage embrase Paris et pousse la foule à chercher des armes, culminant avec la prise de la Bastille.",
+      "options": [
+        "Jacques Necker",
+        "Turgot",
+        "Calonne",
+        "Loménie de Brienne"
+      ]
+    },
+    {
+      "id": "revolution_francaise_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel jeune journaliste et avocat, grimpé sur une table du Palais-Royal le 12 juillet 1789, a appelé le peuple parisien à prendre les armes en brandissant une cocarde verte, deux jours avant la prise de la Bastille ?",
+      "answer": "Camille Desmoulins",
+      "explanation": "Ami d'enfance de Robespierre et proche de Danton, ce jeune avocat bègue devient un orateur improvisé après l'annonce du renvoi de Necker, haranguant la foule rassemblée dans les jardins du Palais-Royal. Son appel enflammé contribue directement à déclencher l'insurrection populaire qui aboutit à la prise de la Bastille deux jours plus tard. Il deviendra ensuite journaliste et député avant d'être guillotiné en même temps que Danton en avril 1794.",
+      "options": [
+        "Camille Desmoulins",
+        "Jean-Paul Marat",
+        "Georges Danton",
+        "Louis-Sébastien Mercier"
+      ]
+    },
+    {
+      "id": "revolution_francaise_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle journée insurrectionnelle du 10 août 1792 a vu le peuple parisien prendre d'assaut le palais des Tuileries, provoquant la chute définitive de la monarchie française ?",
+      "answer": "La journée du 10 août 1792",
+      "explanation": "Exaspérée par le manifeste de Brunswick qui menace Paris de représailles en cas d'atteinte à la famille royale, la foule parisienne rejointe par des fédérés marseillais prend d'assaut le palais des Tuileries après un combat acharné contre les gardes suisses. Louis XVI est suspendu de ses fonctions et emprisonné avec sa famille au Temple. Cette journée ouvre la voie à la proclamation de la Première République quelques semaines plus tard.",
+      "options": [
+        "La journée du 10 août 1792",
+        "La journée du 20 juin 1792",
+        "La journée du 31 mai 1793",
+        "La journée du 9 thermidor"
+      ]
+    },
+    {
+      "id": "revolution_francaise_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quels massacres tragiques ont vu, début septembre 1792, des foules parisiennes surexcitées exécuter sommairement plusieurs milliers de prisonniers dans les geôles de la capitale ?",
+      "answer": "Les massacres de septembre",
+      "explanation": "Dans un climat de panique alimenté par l'avancée des troupes prussiennes et la crainte d'un complot des prisonniers royalistes restés dans Paris, des groupes de sans-culottes envahissent les prisons de la capitale. Religieux réfractaires, aristocrates et détenus de droit commun sont exécutés sommairement en quelques jours, sans procès régulier. Cet épisode sanglant, resté largement impuni, préfigure la violence politique institutionnalisée de la Terreur l'année suivante.",
+      "options": [
+        "Les massacres de septembre",
+        "Les massacres de la Terreur blanche",
+        "Les massacres du Champ-de-Mars",
+        "Les massacres de la Vendée"
+      ]
+    },
+    {
+      "id": "revolution_francaise_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle loi votée en juillet 1790, imposant aux prêtres un serment de fidélité à la nation et transformant le clergé en fonctionnaires salariés de l'État, a profondément divisé les Français ?",
+      "answer": "La Constitution civile du clergé",
+      "explanation": "Cette loi réorganise entièrement l'Église de France en alignant ses diocèses sur les nouveaux départements et en soumettant l'élection des évêques au suffrage populaire, sans l'accord préalable du pape. Le refus d'une partie importante du clergé de prêter le serment exigé crée une fracture religieuse durable entre prêtres jureurs et prêtres réfractaires. Cette division alimentera notamment l'insurrection vendéenne quelques années plus tard.",
+      "options": [
+        "La Constitution civile du clergé",
+        "L'Édit de tolérance",
+        "La loi des suspects",
+        "Le Concordat"
+      ]
+    },
+    {
+      "id": "revolution_francaise_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle mesure exceptionnelle, décrétée par la Convention en août 1793 pour faire face à l'invasion étrangère, a mobilisé l'ensemble de la population française à l'effort de guerre ?",
+      "answer": "La levée en masse",
+      "explanation": "Face à la coalition des puissances européennes et aux révoltes intérieures qui menacent la jeune République, la Convention proclame que tous les Français sont désormais réquisitionnés en permanence pour le service des armées. Cette mobilisation sans précédent transforme la guerre en un effort de la nation tout entière, hommes, femmes et enfants confondus. Elle permet de lever des centaines de milliers de soldats et de renverser durablement le rapport de force militaire.",
+      "options": [
+        "La levée en masse",
+        "Le service militaire obligatoire",
+        "La conscription universelle",
+        "Le tirage au sort"
+      ]
+    },
+    {
+      "id": "revolution_francaise_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel ingénieur militaire et homme politique, membre du Comité de salut public, fut surnommé 'l'Organisateur de la victoire' pour avoir réorganisé les armées républicaines face à la première coalition ?",
+      "answer": "Lazare Carnot",
+      "explanation": "Ancien officier du génie devenu député, Carnot conçoit une stratégie militaire moderne fondée sur la levée en masse et de nouvelles tactiques d'infanterie légère et rapide. Son action déterminante permet à la jeune République de repousser les armées coalisées sur plusieurs fronts à la fois. Grâce à sa réputation de technicien compétent plutôt que de tribun politique, il survit à la chute de Robespierre en 1794.",
+      "options": [
+        "Lazare Carnot",
+        "Jean-Baptiste Kléber",
+        "Lazare Hoche",
+        "Jourdan"
+      ]
+    },
+    {
+      "id": "revolution_francaise_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Lors de la victorieuse bataille de Fleurus en juin 1794, l'armée française a utilisé pour la première fois de son histoire militaire quel engin pour observer les mouvements ennemis depuis les airs ?",
+      "answer": "Un ballon captif",
+      "explanation": "Le ballon nommé 'l'Entreprenant', gonflé à l'hydrogène et retenu au sol par des câbles, permet à des observateurs français de surveiller les positions autrichiennes depuis les airs et de transmettre des informations par signaux. Cette innovation militaire précoce, née des recherches sur les débuts de l'aérostation, contribue à la victoire décisive de Fleurus. Cette bataille permet à la France de reconquérir durablement la Belgique.",
+      "options": [
+        "Un ballon captif",
+        "Un cerf-volant",
+        "Un pigeon voyageur",
+        "Une tour d'observation mobile"
+      ]
+    },
+    {
+      "id": "revolution_francaise_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle cérémonie religieuse civique, organisée en grande pompe par Robespierre le 8 juin 1794, visait à instaurer un nouveau culte déiste destiné à remplacer le catholicisme ?",
+      "answer": "La fête de l'Être suprême",
+      "explanation": "Convaincu que l'athéisme militant de certains révolutionnaires radicaux menace la morale publique, Robespierre fait décréter par la Convention un culte de l'Être suprême, garant de la vertu civique et de l'immortalité de l'âme. Il préside lui-même la cérémonie fastueuse vêtu d'un habit bleu ciel, ce qui alimente aussitôt les accusations de mégalomanie portées contre lui. Ce faste contesté contribue à précipiter sa chute deux mois plus tard, lors du 9 Thermidor.",
+      "options": [
+        "La fête de l'Être suprême",
+        "La fête de la Raison",
+        "La fête de la Fédération",
+        "La fête de la Liberté"
+      ]
+    },
+    {
+      "id": "revolution_francaise_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel cousin du roi Louis XVI, prince du sang et duc, a pourtant voté la mort de son parent lors du procès de la Convention en janvier 1793, avant d'être lui-même guillotiné quelques mois plus tard ?",
+      "answer": "Philippe d'Orléans (dit Philippe Égalité)",
+      "explanation": "Cousin du roi et l'un des princes les plus fortunés du royaume, il se rallie précocement aux idées révolutionnaires et adopte le nom symbolique de 'Philippe Égalité'. Élu député à la Convention, il vote contre toute attente en faveur de la mort du roi, provoquant un scandale jusque dans sa propre famille. Cette conversion ne le sauve pourtant pas : soupçonné en raison de la trahison de son fils passé à l'ennemi, il est à son tour guillotiné en novembre 1793.",
+      "options": [
+        "Philippe d'Orléans (dit Philippe Égalité)",
+        "Le prince de Condé",
+        "Le duc de Chartres",
+        "Le comte de Provence"
+      ]
+    },
+    {
+      "id": "revolution_francaise_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel régime politique, dirigé par un collège de cinq membres appelés directeurs, a gouverné la France de 1795 jusqu'au coup d'État de Bonaparte en 1799 ?",
+      "answer": "Le Directoire",
+      "explanation": "Institué par la Constitution de l'an III après la chute de Robespierre, ce régime confie le pouvoir exécutif à cinq directeurs se renouvelant partiellement chaque année, tandis que le pouvoir législatif est réparti entre deux assemblées distinctes. Marqué par une grande instabilité politique, des difficultés économiques et de nombreux coups de force, il peine à s'imposer durablement. Il s'effondre finalement lors du coup d'État du 18 Brumaire orchestré par Napoléon Bonaparte.",
+      "options": [
+        "Le Directoire",
+        "Le Consulat",
+        "La Convention thermidorienne",
+        "Le Triumvirat"
+      ]
     }
   ],
   "Histoire : Premier Empire (Napoléon)": [
@@ -1989,6 +2829,174 @@
       ],
       "answer": "La double bataille d'Iéna et d'Auerstedt",
       "explanation": "La double bataille d'Iéna et d'Auerstedt se déroule en octobre 1806, marquant l'effondrement foudroyant de la puissance militaire du royaume de Prusse face à la Grande Armée. Tandis que Napoléon écrase le gros des troupes ennemies à Iéna, le maréchal Davout réalise l'exploit tactique exceptionnel de vaincre une force ennemie deux fois supérieure à Auerstedt. Cette campagne éclair permet aux Français d'entrer triomphalement dans Berlin en quelques jours."
+    },
+    {
+      "id": "premier_empire_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "En quelle année Napoléon Bonaparte, alors Premier Consul, a-t-il remporté la bataille de Marengo contre les Autrichiens en Italie ?",
+      "answer": "1800",
+      "explanation": "La bataille de Marengo se déroule en juin 1800 dans le Piémont italien, où l'armée du Premier Consul Napoléon Bonaparte affronte les troupes autrichiennes. Après un début de journée difficile, le retournement tactique du général Desaix, mort au combat, permet une victoire décisive. Ce succès militaire consolide considérablement le pouvoir de Bonaparte à la tête du Consulat.",
+      "options": [
+        "1800",
+        "1798",
+        "1802",
+        "1805"
+      ]
+    },
+    {
+      "id": "premier_empire_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "En 1803, Napoléon a cédé un immense territoire nord-américain aux États-Unis pour financer ses guerres en Europe. Comment appelle-t-on cette cession territoriale ?",
+      "answer": "La vente de la Louisiane",
+      "explanation": "Faute de pouvoir défendre ce vaste territoire face à la marine britannique, Napoléon vend la Louisiane française aux États-Unis en 1803 pour environ 15 millions de dollars. Cette transaction historique double instantanément la superficie du jeune pays américain. Les fonds récoltés permettent surtout à Napoléon de financer la reprise des hostilités contre le Royaume-Uni.",
+      "options": [
+        "La vente de la Louisiane",
+        "La cession du Québec",
+        "L'achat de la Floride",
+        "La cession de la Nouvelle-Orléans"
+      ]
+    },
+    {
+      "id": "premier_empire_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Lors de la campagne d'Égypte en 1798-1799, quelle célèbre découverte archéologique faite par des soldats français a permis plus tard de déchiffrer les hiéroglyphes ?",
+      "answer": "La pierre de Rosette",
+      "explanation": "Découverte en 1799 par des soldats français près de la ville de Rosette, cette stèle porte un même texte gravé en hiéroglyphes, en démotique et en grec ancien. Cette triple inscription offre la clé indispensable qui permettra au savant Jean-François Champollion de déchiffrer l'écriture égyptienne antique en 1822. La campagne d'Égypte de Bonaparte, bien que militairement décevante, a ainsi fondé l'égyptologie moderne.",
+      "options": [
+        "La pierre de Rosette",
+        "Le buste de Néfertiti",
+        "Le masque de Toutânkhamon",
+        "L'obélisque de Louxor"
+      ]
+    },
+    {
+      "id": "premier_empire_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel monument parisien, érigé en 1810 sur la place Vendôme et recouvert de bronze provenant des canons pris à l'ennemi, célèbre les victoires de la Grande Armée ?",
+      "answer": "La colonne Vendôme",
+      "explanation": "Inspirée de la colonne Trajane de Rome, la colonne Vendôme est érigée sur ordre de Napoléon en 1810 pour commémorer la victoire d'Austerlitz. Son revêtement de bronze est fondu à partir de plus de mille deux cents canons pris aux armées austro-russes vaincues. Une statue de l'empereur en costume romain trônait à son sommet, régulièrement déboulonnée puis rétablie au gré des régimes politiques suivants.",
+      "options": [
+        "La colonne Vendôme",
+        "L'Arc de Triomphe du Carrousel",
+        "La colonne de Juillet",
+        "L'obélisque de la Concorde"
+      ]
+    },
+    {
+      "id": "premier_empire_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "En juin 1807, sur quel type de plateforme insolite installée au milieu du fleuve Niémen Napoléon a-t-il rencontré le tsar Alexandre Ier pour négocier le traité de Tilsit ?",
+      "answer": "Un radeau",
+      "explanation": "Pour marquer symboliquement l'égalité de leur rencontre sur un territoire neutre, un radeau richement décoré est amarré au milieu du fleuve Niémen en juin 1807. Napoléon et le tsar Alexandre Ier s'y retrouvent en tête-à-tête pour négocier une alliance surprenante entre les deux empires rivaux. Le traité de Tilsit qui en résulte contraint la Prusse, grande absente des discussions, à céder d'immenses territoires.",
+      "options": [
+        "Un radeau",
+        "Une barge dorée",
+        "Un ponton militaire",
+        "Une péniche impériale"
+      ]
+    },
+    {
+      "id": "premier_empire_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle réforme monétaire de 1803, instaurant le franc germinal, a stabilisé durablement la monnaie française après les turbulences révolutionnaires ?",
+      "answer": "Le franc germinal",
+      "explanation": "Promulguée sous le Consulat en germinal an XI (mars 1803), cette loi fixe un système monétaire bimétallique fondé sur l'or et l'argent aux dosages précisément définis. Elle met fin à l'instabilité chronique de la monnaie révolutionnaire et à l'inflation catastrophique des assignats. Ce franc solide restera la référence monétaire française pendant plus d'un siècle, jusqu'en 1914.",
+      "options": [
+        "Le franc germinal",
+        "L'écu d'or",
+        "Le denier tournois",
+        "Le louis d'or"
+      ]
+    },
+    {
+      "id": "premier_empire_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle institution centralisée, créée par Napoléon en 1808, a organisé et supervisé l'ensemble du système éducatif français, des lycées jusqu'à l'université ?",
+      "answer": "L'Université impériale",
+      "explanation": "Créée par décret en 1808, l'Université impériale place l'ensemble de l'enseignement français, du primaire au supérieur, sous l'autorité unique de l'État. Cette organisation centralisée et hiérarchisée vise à former des fonctionnaires loyaux et compétents au service de l'Empire. Ce modèle éducatif étatique et uniforme a profondément marqué durablement le système scolaire français.",
+      "options": [
+        "L'Université impériale",
+        "Le Grand Orient de France",
+        "Le Conseil supérieur de l'Instruction publique",
+        "L'Académie impériale des sciences"
+      ]
+    },
+    {
+      "id": "premier_empire_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel traité de paix, signé en décembre 1805 au lendemain de la victoire d'Austerlitz, a contraint l'Autriche à céder la Vénétie au royaume d'Italie napoléonien ?",
+      "answer": "Le traité de Presbourg",
+      "explanation": "Signé fin décembre 1805 quelques semaines après le triomphe d'Austerlitz, le traité de Presbourg impose des conditions extrêmement dures à l'Autriche vaincue. Elle doit céder la Vénétie et l'Istrie au royaume d'Italie dirigé par Napoléon, ainsi que le Tyrol à la Bavière, alliée de la France. Ce traité renforce durablement la domination française sur l'Europe centrale et méridionale.",
+      "options": [
+        "Le traité de Presbourg",
+        "Le traité de Schönbrunn",
+        "Le traité de Lunéville",
+        "Le traité de Campo-Formio"
+      ]
+    },
+    {
+      "id": "premier_empire_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "En 1802, Napoléon Bonaparte a pris une décision très controversée concernant l'esclavage dans les colonies françaises. Laquelle ?",
+      "answer": "Il l'a rétabli après son abolition par la Convention en 1794",
+      "explanation": "Alors que la Convention avait aboli l'esclavage dans les colonies françaises en 1794, le Premier Consul Napoléon Bonaparte le rétablit par la loi du 20 mai 1802, sous la pression des milieux coloniaux et de son épouse Joséphine, elle-même issue d'une famille de planteurs martiniquais. Cette décision provoque notamment un soulèvement armé à Saint-Domingue mené par les anciens esclaves. L'esclavage ne sera aboli de nouveau et définitivement en France qu'en 1848.",
+      "options": [
+        "Il l'a rétabli après son abolition par la Convention en 1794",
+        "Il l'a définitivement aboli dans toutes les colonies",
+        "Il l'a limité aux seules colonies d'Asie",
+        "Il a instauré son abolition progressive sur dix ans"
+      ]
+    },
+    {
+      "id": "premier_empire_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Fin 1806, par décret impérial, Napoléon a convoqué une assemblée solennelle de représentants juifs, qui se réunit à Paris au début de l'année suivante pour définir leur statut civil et religieux dans l'Empire. Comment appelait-on cette assemblée, du nom d'une ancienne institution juive antique ?",
+      "answer": "Le Grand Sanhédrin",
+      "explanation": "Réuni à Paris en février 1807 à la demande de Napoléon, le Grand Sanhédrin rassemble des rabbins et des notables juifs venus de tout l'Empire et au-delà. Cette assemblée solennelle, nommée en référence à l'ancien tribunal suprême juif de l'Antiquité, doit se prononcer sur la compatibilité des lois religieuses juives avec le droit civil français. Ses conclusions débouchent sur la création des consistoires israélites, organisant durablement le culte juif en France.",
+      "options": [
+        "Le Grand Sanhédrin",
+        "Le Consistoire central",
+        "Le Conseil des Anciens",
+        "Le Sanhédrin de Jérusalem"
+      ]
+    },
+    {
+      "id": "premier_empire_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel maréchal d'Empire, chef d'état-major de la Grande Armée surnommé 'l'âme de l'état-major' pour son indispensable organisation logistique, accompagna l'empereur dans presque toutes ses campagnes ?",
+      "answer": "Louis-Alexandre Berthier",
+      "explanation": "Louis-Alexandre Berthier occupe la fonction essentielle de major général de la Grande Armée, traduisant avec une précision remarquable les idées stratégiques de Napoléon en ordres de mouvement précis pour les troupes. Sa maîtrise exceptionnelle de la logistique et de la cartographie militaire en fait un rouage indispensable de l'appareil de guerre impérial. Son absence lors de la campagne de Waterloo en 1815, après sa mort accidentelle, a souvent été citée parmi les causes de la désorganisation française.",
+      "options": [
+        "Louis-Alexandre Berthier",
+        "Jean-Baptiste Bessières",
+        "Nicolas Oudinot",
+        "Auguste de Marmont"
+      ]
+    },
+    {
+      "id": "premier_empire_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel soulèvement populaire, survenu à Madrid le 2 mai 1808 contre l'occupation française et immortalisé par les tableaux du peintre Goya, a marqué le début de la sanglante guerre d'indépendance espagnole ?",
+      "answer": "Le Dos de Mayo",
+      "explanation": "Le 2 mai 1808 ('Dos de Mayo'), la population de Madrid se soulève spontanément contre les troupes françaises stationnées dans la ville, en réaction à l'occupation et à l'imposition prochaine de Joseph Bonaparte sur le trône. La répression menée par le maréchal Murat le lendemain est d'une grande sévérité. Le peintre espagnol Francisco de Goya immortalisera cet épisode tragique dans ses toiles célèbres 'Le Deux mai 1808' et 'Le Trois mai 1808'.",
+      "options": [
+        "Le Dos de Mayo",
+        "La Semaine tragique",
+        "Le soulèvement de Saragosse",
+        "La révolte de Cadix"
+      ]
     }
   ],
   "Histoire : Belle Époque & 19e": [
@@ -2321,6 +3329,174 @@
       ],
       "answer": "L'Art nouveau",
       "explanation": "L'Art nouveau est un mouvement artistique décoratif international qui connaît un succès retentissant entre 1890 et 1910. Réagissant contre l'académisme industriel, il prône une esthétique moderne caractérisée par des lignes fluides, des arabesques élégantes et des motifs directement inspirés de la faune et de la flore. Des créateurs comme Hector Guimard avec ses célèbres entrées de métro parisien en ont fait le style emblématique de la Belle Époque."
+    },
+    {
+      "id": "belle_epoque_19e_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel baron français, passionné de sport, a fondé les Jeux olympiques modernes, dont la première édition s'est tenue à Athènes en 1896 ?",
+      "answer": "Pierre de Coubertin",
+      "explanation": "Le pédagogue et historien français Pierre de Coubertin s'inspire des Jeux antiques grecs pour relancer une compétition sportive internationale moderne au XIXe siècle. Grâce à sa ténacité, il fonde le Comité international olympique en 1894, organisant la première édition des Jeux à Athènes deux ans plus tard. Sa devise 'Citius, Altius, Fortius' demeure aujourd'hui encore le symbole universel de l'esprit olympique.",
+      "options": [
+        "Pierre de Coubertin",
+        "Jules Rimet",
+        "Philippe Berthelot",
+        "Henri Desgrange"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "En quelle année a été inaugurée la première grande ligne de chemin de fer française destinée aux voyageurs, reliant Paris à Saint-Germain-en-Laye ?",
+      "answer": "1837",
+      "explanation": "La ligne reliant Paris à Saint-Germain-en-Laye (via Le Pecq) est inaugurée en août 1837, marquant les débuts du chemin de fer voyageur en France. Cette innovation technologique majeure suscite d'abord la méfiance du public avant de révolutionner durablement les déplacements et l'économie du pays. Le réseau ferroviaire français connaîtra ensuite une expansion fulgurante tout au long du XIXe siècle.",
+      "options": [
+        "1837",
+        "1830",
+        "1848",
+        "1852"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel droit politique fondamental a été instauré durablement en France par la révolution de février 1848, permettant à tous les hommes de voter sans condition de fortune ?",
+      "answer": "Le suffrage universel masculin",
+      "explanation": "Au lendemain de la révolution de février 1848 qui renverse le roi Louis-Philippe, le gouvernement provisoire de la Deuxième République instaure le suffrage universel masculin en avril de la même année. Près de neuf millions d'électeurs, sans plus aucune condition de fortune, sont ainsi appelés à voter pour la première fois de l'histoire du pays. Ce droit fondamental, jamais remis en cause par la suite, constitue une avancée démocratique majeure du XIXe siècle.",
+      "options": [
+        "Le suffrage universel masculin",
+        "Le droit de vote des femmes",
+        "L'élection des préfets",
+        "Le vote obligatoire"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "En quelle année le métropolitain de Paris a-t-il été inauguré, à l'occasion de l'Exposition universelle ?",
+      "answer": "1900",
+      "explanation": "Le métropolitain parisien ouvre sa première ligne au public en juillet 1900, à temps pour accueillir les millions de visiteurs de la grande Exposition universelle. Conçu par l'ingénieur Fulgence Bienvenüe, ce nouveau réseau souterrain révolutionne les déplacements dans la capitale. Les célèbres entrées de style Art nouveau dessinées par l'architecte Hector Guimard deviendront rapidement emblématiques de Paris.",
+      "options": [
+        "1900",
+        "1889",
+        "1910",
+        "1895"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel tableau de Claude Monet, exposé en 1874, a donné son nom par dérision au mouvement artistique de l'impressionnisme ?",
+      "answer": "Impression, soleil levant",
+      "explanation": "Peinte en 1872 au port du Havre, cette toile de Claude Monet représentant un lever de soleil brumeux est exposée en 1874 lors d'une exposition indépendante organisée par un groupe de jeunes peintres. Un critique moqueur, s'appuyant sur son titre, qualifie ironiquement ces artistes d''impressionnistes'. Ce sobriquet railleur sera finalement adopté avec fierté par le mouvement, qui bouleversera durablement l'histoire de la peinture.",
+      "options": [
+        "Impression, soleil levant",
+        "Le Déjeuner sur l'herbe",
+        "Les Nymphéas",
+        "Bal du moulin de la Galette"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Outre la célèbre tour qui porte son nom, à quel monument new-yorkais offert par la France aux États-Unis en 1886 l'ingénieur Gustave Eiffel a-t-il conçu la structure métallique interne ?",
+      "answer": "La Statue de la Liberté",
+      "explanation": "Sculptée par Frédéric Auguste Bartholdi, la Statue de la Liberté est offerte par la France aux États-Unis pour célébrer le centenaire de leur indépendance et leur amitié durable. Gustave Eiffel conçoit l'ossature métallique interne du colosse de cuivre, capable de résister aux vents violents de la baie de New York. Inaugurée en 1886, elle devient rapidement le symbole universel de la liberté et de l'accueil des immigrants.",
+      "options": [
+        "La Statue de la Liberté",
+        "Le pont de Brooklyn",
+        "Le Capitole de Washington",
+        "L'Empire State Building"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel homme d'État, ancien historien et négociateur de la paix avec la Prusse en 1871, est devenu le tout premier président de la Troisième République ?",
+      "answer": "Adolphe Thiers",
+      "explanation": "Adolphe Thiers, historien réputé et homme politique expérimenté, est élu chef du pouvoir exécutif puis président de la République en 1871 au lendemain de la défaite face à la Prusse. Il négocie les conditions difficiles de la paix et organise la répression de l'insurrection de la Commune de Paris. Sa politique jugée trop conservatrice par les royalistes provoque sa démission dès 1873, remplacé par le maréchal Mac-Mahon.",
+      "options": [
+        "Adolphe Thiers",
+        "Jules Grévy",
+        "Patrice de Mac-Mahon",
+        "Sadi Carnot"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel président de la République française a été assassiné à Lyon en 1894 par un anarchiste italien ?",
+      "answer": "Sadi Carnot",
+      "explanation": "Le président Sadi Carnot, petit-fils d'un ancien conventionnel et ingénieur de formation, effectue une visite officielle à Lyon en juin 1894 lorsqu'il est mortellement poignardé par l'anarchiste italien Sante Caserio. Cet attentat politique s'inscrit dans une vague de violences anarchistes qui frappe plusieurs pays européens à la fin du siècle. Ses obsèques nationales grandioses témoignent de l'émotion suscitée par ce meurtre d'un chef d'État en exercice.",
+      "options": [
+        "Sadi Carnot",
+        "Félix Faure",
+        "Émile Loubet",
+        "Armand Fallières"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel grand congrès diplomatique européen, réuni de 1814 à 1815 sous l'impulsion du chancelier autrichien Metternich, a redessiné les frontières du continent après la chute de Napoléon ?",
+      "answer": "Le congrès de Vienne",
+      "explanation": "Réunissant les principales puissances victorieuses de Napoléon, le congrès de Vienne s'ouvre en septembre 1814 sous la présidence habile du chancelier autrichien Metternich. Les délégués redessinent la carte politique de l'Europe selon le principe de l'équilibre des puissances, tout en restaurant les monarchies traditionnelles déchues. La France y est habilement représentée par le diplomate Talleyrand, qui parvient à limiter les pertes territoriales du royaume.",
+      "options": [
+        "Le congrès de Vienne",
+        "Le congrès de Berlin",
+        "Le congrès d'Aix-la-Chapelle",
+        "Le congrès de Paris"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel général français populaire, ministre de la Guerre puis chef d'un mouvement politique nationaliste et revanchiste, a suscité une grave crise politique à la fin des années 1880 avant de fuir le pays ?",
+      "answer": "Le général Boulanger",
+      "explanation": "Le général Georges Boulanger acquiert une immense popularité populaire en incarnant le désir de revanche contre l'Allemagne et le rejet du régime parlementaire jugé corrompu. Son mouvement politique, le boulangisme, menace un temps sérieusement la stabilité de la Troisième République à la fin des années 1880. Menacé de poursuites judiciaires pour complot contre l'État, il s'enfuit finalement en Belgique où sa carrière politique s'achève dans l'oubli.",
+      "options": [
+        "Le général Boulanger",
+        "Le général Gallifet",
+        "Le général Mac-Mahon",
+        "Le général Chanzy"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle pièce de théâtre de Victor Hugo, dont la première représentation en 1830 provoqua de violents affrontements entre classiques et romantiques, a donné son nom à la 'bataille' qui marqua le triomphe du romantisme ?",
+      "answer": "Hernani",
+      "explanation": "La première représentation d'Hernani à la Comédie-Française en février 1830 dégénère en affrontement bruyant entre partisans du théâtre classique traditionnel et jeunes admirateurs romantiques de Victor Hugo. Cette 'bataille d'Hernani', marquée par les audaces de langage et de forme de la pièce, consacre le triomphe définitif du mouvement romantique sur la scène française. Cet épisode culturel retentissant reste un symbole des grandes querelles artistiques du XIXe siècle.",
+      "options": [
+        "Hernani",
+        "Ruy Blas",
+        "Cromwell",
+        "Lucrèce Borgia"
+      ]
+    },
+    {
+      "id": "belle_epoque_19e_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel roman de Gustave Flaubert, publié en 1857, a valu à son auteur un procès retentissant pour 'outrage à la morale publique et religieuse', avant son acquittement ?",
+      "answer": "Madame Bovary",
+      "explanation": "La publication en feuilleton de 'Madame Bovary' en 1856 provoque un scandale en raison de sa peinture crue de l'adultère et de l'insatisfaction d'une femme de province. Gustave Flaubert est traduit en justice en janvier 1857 pour outrage à la morale publique, mais son avocat obtient son acquittement. Ce procès retentissant offre paradoxalement une publicité inespérée au roman, qui devient un immense succès de librairie.",
+      "options": [
+        "Madame Bovary",
+        "Le Rouge et le Noir",
+        "Les Fleurs du Mal",
+        "Germinal"
+      ]
     }
   ],
   "Histoire : Première Guerre Mondiale": [
@@ -2653,6 +3829,174 @@
       ],
       "answer": "Le tank (char d'assaut)",
       "explanation": "Le développement des premiers blindés chenillés de combat est mené en grand secret par la marine britannique pour franchir les réseaux de tranchées et de barbelés sous le feu des mitrailleuses. Pour masquer la nature militaire du projet à l'espionnage ennemi, les ouvriers décrivent ces machines comme des réservoirs d'eau mobiles (des 'tanks' en anglais). Le terme est resté dans la langue anglaise et française pour désigner ces nouveaux véhicules d'assaut."
+    },
+    {
+      "id": "premiere_guerre_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle danseuse néerlandaise, accusée d'espionnage au profit de l'Allemagne, a été fusillée par la France en 1917 ?",
+      "answer": "Mata Hari",
+      "explanation": "Margaretha Zelle, connue sous son nom de scène Mata Hari, mène une carrière de danseuse exotique célèbre dans le Paris de la Belle Époque. Accusée par les services de renseignement français d'avoir livré des informations militaires à l'Allemagne, elle est arrêtée, jugée puis exécutée en octobre 1917. Son procès controversé et son personnage romanesque en ont fait l'une des figures d'espionne les plus célèbres de l'histoire.",
+      "options": [
+        "Mata Hari",
+        "Louise Michel",
+        "Édith Piaf",
+        "Marthe Richard"
+      ]
+    },
+    {
+      "id": "premiere_guerre_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle grave pandémie mondiale, apparue en 1918 alors que la guerre s'achevait, a causé davantage de morts que le conflit lui-même ?",
+      "answer": "La grippe espagnole",
+      "explanation": "La grippe espagnole se propage à partir du printemps 1918 dans le contexte de fin de guerre, favorisée par la promiscuité des tranchées et les mouvements massifs de troupes. Cette pandémie foudroyante touche des dizaines de millions de personnes à travers le monde entier en plusieurs vagues successives. Son bilan humain, estimé entre 20 et 50 millions de morts, dépasse largement celui des combats militaires du conflit mondial.",
+      "options": [
+        "La grippe espagnole",
+        "Le choléra",
+        "La variole",
+        "La fièvre typhoïde"
+      ]
+    },
+    {
+      "id": "premiere_guerre_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on la trêve spontanée et informelle qui a vu des soldats allemands et britanniques fraterniser, échanger des cadeaux et jouer au football dans le no man's land en décembre 1914 ?",
+      "answer": "La trêve de Noël",
+      "explanation": "En décembre 1914, le long de plusieurs secteurs du front occidental, des soldats allemands, britanniques et parfois français sortent spontanément de leurs tranchées pour célébrer ensemble la fête de Noël. Ils échangent des chants, des cigarettes et des souvenirs, et certains témoignages rapportent même des parties de football improvisées dans le no man's land. Cet épisode humain inattendu, sans jamais se reproduire à cette échelle par la suite, reste un symbole émouvant au cœur de la guerre.",
+      "options": [
+        "La trêve de Noël",
+        "L'armistice de la Marne",
+        "La trêve des tranchées",
+        "La paix des Flandres"
+      ]
+    },
+    {
+      "id": "premiere_guerre_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel surnom populaire portait le célèbre canon de campagne français modèle 1897, réputé pour sa cadence de tir exceptionnelle durant la Grande Guerre ?",
+      "answer": "Le 75 (canon de 75)",
+      "explanation": "Le canon de 75 millimètres, mis au point en 1897, se distingue par son système révolutionnaire de frein de recul permettant une cadence de tir bien supérieure à celle des canons rivaux. Surnommé affectueusement 'la 75' par les soldats, il devient le symbole de la puissance de l'artillerie française pendant tout le conflit. Sa fiabilité et sa précision en ont fait l'une des armes les plus redoutées et les plus produites de la guerre.",
+      "options": [
+        "Le 75 (canon de 75)",
+        "La Grosse Bertha",
+        "Le Long Max",
+        "La Marie-Louise"
+      ]
+    },
+    {
+      "id": "premiere_guerre_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel programme de paix en quatorze points, présenté en janvier 1918 par le président américain Woodrow Wilson, a servi de base aux négociations de l'armistice et à la création de la future SDN ?",
+      "answer": "Les quatorze points de Wilson",
+      "explanation": "En janvier 1918, le président américain Woodrow Wilson présente devant le Congrès un programme ambitieux de quatorze principes destinés à établir une paix juste et durable. Il y prône notamment le droit des peuples à disposer d'eux-mêmes, la liberté des mers et la création d'une organisation internationale de sécurité collective. Ce texte fondateur influence directement les négociations de l'armistice et inspire la création de la Société des Nations.",
+      "options": [
+        "Les quatorze points de Wilson",
+        "La charte de l'Atlantique",
+        "Le pacte Briand-Kellogg",
+        "La déclaration de Londres"
+      ]
+    },
+    {
+      "id": "premiere_guerre_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelait-on les régiments d'infanterie coloniale recrutés en Afrique de l'Ouest française, qui combattirent aux côtés des troupes métropolitaines durant la Grande Guerre ?",
+      "answer": "Les tirailleurs sénégalais",
+      "explanation": "Les tirailleurs sénégalais désignent l'ensemble des soldats d'infanterie recrutés dans les colonies françaises d'Afrique subsaharienne, et pas seulement au Sénégal malgré leur nom. Près de 200 000 d'entre eux combattent sur le front occidental, subissant de très lourdes pertes lors d'offensives particulièrement meurtrières. Leur engagement et leurs sacrifices restent aujourd'hui commémorés comme une contribution essentielle et longtemps sous-reconnue à la victoire alliée.",
+      "options": [
+        "Les tirailleurs sénégalais",
+        "Les zouaves",
+        "Les chasseurs alpins",
+        "Les spahis"
+      ]
+    },
+    {
+      "id": "premiere_guerre_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Lors de quelle bataille d'avril 1915 en Belgique l'armée allemande a-t-elle utilisé pour la première fois à grande échelle des gaz de combat au chlore ?",
+      "answer": "La deuxième bataille d'Ypres",
+      "explanation": "En avril 1915, lors de la deuxième bataille d'Ypres en Belgique, l'armée allemande libère un nuage de gaz de chlore le long des lignes françaises et canadiennes, provoquant une panique immédiate. Cette première utilisation massive d'une arme chimique moderne marque un tournant terrifiant dans l'histoire militaire. Les belligérants développeront rapidement des masques à gaz protecteurs ainsi que leurs propres armes chimiques offensives.",
+      "options": [
+        "La deuxième bataille d'Ypres",
+        "La bataille de la Marne",
+        "La bataille de Verdun",
+        "La bataille de la Somme"
+      ]
+    },
+    {
+      "id": "premiere_guerre_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelait-on le canon allemand à très longue portée qui a bombardé Paris à distance depuis le front, entre mars et août 1918 ?",
+      "answer": "Le canon de Paris",
+      "explanation": "Développé secrètement par les ingénieurs allemands, le canon de Paris tire depuis la forêt de Coucy, à plus de cent kilomètres de la capitale, un exploit technique inédit pour l'époque. Ses obus retombent sur Paris entre mars et août 1918, semant la peur au sein de la population civile malgré des dégâts militaires limités. Cette arme d'un genre nouveau illustre l'escalade technologique et psychologique atteinte à la toute fin du conflit.",
+      "options": [
+        "Le canon de Paris",
+        "La Grosse Bertha",
+        "Le canon Krupp",
+        "L'Empereur Guillaume"
+      ]
+    },
+    {
+      "id": "premiere_guerre_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle infirmière britannique, ayant aidé des centaines de soldats alliés à s'échapper de la Belgique occupée, a été arrêtée et exécutée par les Allemands en 1915 ?",
+      "answer": "Edith Cavell",
+      "explanation": "Directrice d'une école d'infirmières à Bruxelles, Edith Cavell organise clandestinement un réseau d'évasion permettant à des centaines de soldats alliés blessés de rejoindre les Pays-Bas neutres. Dénoncée aux autorités allemandes d'occupation, elle est arrêtée, jugée sommairement puis exécutée en octobre 1915 malgré les protestations diplomatiques internationales. Son exécution suscite une immense indignation dans l'opinion publique alliée et fait d'elle une figure héroïque du courage civil.",
+      "options": [
+        "Edith Cavell",
+        "Florence Nightingale",
+        "Louise de Bettignies",
+        "Marie Curie"
+      ]
+    },
+    {
+      "id": "premiere_guerre_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel télégramme diplomatique allemand intercepté en 1917, proposant une alliance militaire au Mexique contre les États-Unis, a fortement contribué à précipiter l'entrée en guerre américaine ?",
+      "answer": "Le télégramme Zimmermann",
+      "explanation": "En janvier 1917, le secrétaire d'État allemand aux Affaires étrangères Arthur Zimmermann envoie un télégramme secret proposant au Mexique une alliance militaire contre les États-Unis en cas d'entrée en guerre américaine. Intercepté et déchiffré par les services de renseignement britanniques, ce document est communiqué au gouvernement américain puis rendu public. Sa révélation scandalise l'opinion publique des États-Unis et accélère leur décision de rejoindre le camp allié.",
+      "options": [
+        "Le télégramme Zimmermann",
+        "La note Balfour",
+        "Le mémorandum Sykes-Picot",
+        "La dépêche d'Ems"
+      ]
+    },
+    {
+      "id": "premiere_guerre_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel aviateur français, pionnier de la première traversée aérienne de la Méditerranée en 1913 et inventeur d'un dispositif de tir à travers l'hélice, a donné son nom à un célèbre stade parisien ?",
+      "answer": "Roland Garros",
+      "explanation": "Avant la guerre, l'aviateur Roland Garros réalise l'exploit de traverser la Méditerranée en avion en 1913, une prouesse technique inédite pour l'époque. Devenu pilote de chasse, il perfectionne un dispositif permettant de tirer à la mitrailleuse à travers l'hélice sans l'endommager, avant d'être capturé par les Allemands en 1915. Évadé en 1918, il est tué au combat quelques jours seulement avant l'armistice, et le stade de tennis parisien porte aujourd'hui son nom en hommage.",
+      "options": [
+        "Roland Garros",
+        "Louis Blériot",
+        "Georges Guynemer",
+        "René Fonck"
+      ]
+    },
+    {
+      "id": "premiere_guerre_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelait-on, sur le front intérieur français, les jours de la semaine où la vente et la consommation de viande étaient restreintes par les cartes de rationnement pendant la guerre ?",
+      "answer": "Les jours sans viande",
+      "explanation": "Face aux difficultés croissantes d'approvisionnement provoquées par la mobilisation de la population masculine et des moyens de transport, les autorités françaises instaurent progressivement des restrictions alimentaires. Des cartes de rationnement encadrent l'achat du pain, du sucre et de la viande, avec des 'jours sans viande' fixés chaque semaine dans les boucheries. Ces privations quotidiennes pèsent lourdement sur le moral de la population civile de l'arrière, notamment les femmes qui gèrent seules le foyer.",
+      "options": [
+        "Les jours sans viande",
+        "Les jours maigres",
+        "Les jours de pénurie",
+        "Les jours de restriction"
+      ]
     }
   ],
   "Histoire : Seconde Guerre Mondiale": [
@@ -2985,6 +4329,174 @@
       ],
       "answer": "La conférence de Wannsee",
       "explanation": "La conférence de Wannsee se tient en janvier 1942 dans une villa bourgeoise au bord du lac de Wannsee dans la banlieue berlinoise, réunissant de hauts fonctionnaires civils et militaires du Troisième Reich. Présidée par Reinhard Heydrich sous les ordres directs d'Himmler, elle vise à coordonner administrativement et logistiquement la déportation et l'extermination industrielle des Juifs d'Europe. Cette réunion historique officialise la mise en œuvre bureaucratique de la Shoah."
+    },
+    {
+      "id": "seconde_guerre_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelait-on, en référence à la végétation broussailleuse où ils se cachaient, les groupes de résistants armés français vivant clandestinement dans les campagnes ?",
+      "answer": "Les maquis",
+      "explanation": "Le terme de 'maquis' tire son origine du nom donné en Corse à la végétation broussailleuse dense où se cachaient traditionnellement les hors-la-loi. Il désigne pendant la guerre les groupes de résistants réfugiés dans les zones rurales et montagneuses pour échapper à l'occupant et au Service du travail obligatoire. Ces combattants clandestins, appelés maquisards, mènent des actions de sabotage et de harcèlement contre les forces allemandes.",
+      "options": [
+        "Les maquis",
+        "Les partisans",
+        "Les francs-tireurs",
+        "Les corps francs"
+      ]
+    },
+    {
+      "id": "seconde_guerre_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel dispositif mis en place par le régime de Vichy en 1943 a contraint de nombreux jeunes Français à partir travailler en Allemagne, poussant beaucoup d'entre eux à rejoindre la Résistance ?",
+      "answer": "Le Service du travail obligatoire (STO)",
+      "explanation": "Instauré en février 1943 par le régime de Vichy sous la pression de l'Allemagne nazie, le Service du travail obligatoire impose à des centaines de milliers de jeunes hommes français de partir travailler dans les usines allemandes. Pour échapper à cette réquisition forcée, un grand nombre de réfractaires choisissent de se cacher dans les campagnes et de rejoindre les rangs de la Résistance. Le STO a ainsi considérablement renforcé les effectifs des maquis à partir de 1943.",
+      "options": [
+        "Le Service du travail obligatoire (STO)",
+        "La Légion des volontaires français",
+        "Le Service civique national",
+        "La Relève"
+      ]
+    },
+    {
+      "id": "seconde_guerre_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle bataille aérienne de l'été et de l'automne 1940 a vu la Royal Air Force britannique repousser les assauts de la Luftwaffe allemande, empêchant tout projet d'invasion du Royaume-Uni ?",
+      "answer": "La bataille d'Angleterre",
+      "explanation": "À l'été 1940, l'aviation allemande lance une campagne de bombardements intensifs contre le Royaume-Uni afin d'obtenir la maîtrise du ciel avant un débarquement prévu sur les côtes anglaises. Les pilotes de chasse de la Royal Air Force, en infériorité numérique, résistent héroïquement grâce notamment au soutien du nouveau système radar britannique. Cette victoire défensive contraint Hitler à ajourner indéfiniment son projet d'invasion, baptisé opération Lion de mer.",
+      "options": [
+        "La bataille d'Angleterre",
+        "La bataille de la Manche",
+        "L'opération Lion de mer",
+        "La bataille de Douvres"
+      ]
+    },
+    {
+      "id": "seconde_guerre_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelait-on les bombes volantes puis les fusées, surnommées 'armes de représailles', que l'Allemagne nazie a lancées sur Londres à partir de 1944 ?",
+      "answer": "Les V1 et V2",
+      "explanation": "À partir de juin 1944, l'Allemagne nazie lance sur Londres et le sud de l'Angleterre les V1, des bombes volantes sans pilote, suivies quelques mois plus tard par les V2, les premières fusées balistiques de l'histoire. Ces armes nouvelles, baptisées 'armes de représailles' (Vergeltungswaffen) par la propagande nazie, visent à terroriser la population civile britannique. Développées notamment par l'ingénieur Wernher von Braun, elles annoncent les futures technologies spatiales de l'après-guerre.",
+      "options": [
+        "Les V1 et V2",
+        "Les Doodlebugs uniquement",
+        "Les Panzerfaust",
+        "Les Stukas"
+      ]
+    },
+    {
+      "id": "seconde_guerre_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel nom de code désigne le débarquement des forces alliées américaines et britanniques en Afrique du Nord française, en novembre 1942 ?",
+      "answer": "L'opération Torch",
+      "explanation": "L'opération Torch désigne le débarquement massif des troupes anglo-américaines sur les côtes du Maroc et de l'Algérie, alors territoires français, en novembre 1942. Cette offensive marque la première grande opération militaire commune entre Américains et Britanniques sur le théâtre européen et africain. Elle ouvre la voie à la reconquête progressive de l'Afrique du Nord face aux forces germano-italiennes de Rommel.",
+      "options": [
+        "L'opération Torch",
+        "L'opération Overlord",
+        "L'opération Dynamo",
+        "L'opération Dragoon"
+      ]
+    },
+    {
+      "id": "seconde_guerre_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel accord surprise, signé en août 1939 entre l'Allemagne nazie et l'Union soviétique, comportait un protocole secret prévoyant le partage de la Pologne et de l'Europe de l'Est ?",
+      "answer": "Le pacte germano-soviétique (Molotov-Ribbentrop)",
+      "explanation": "Signé en août 1939 par les ministres des Affaires étrangères Molotov et Ribbentrop, ce pacte de non-agression stupéfie l'opinion internationale en rapprochant deux régimes idéologiquement opposés. Un protocole secret annexé au traité prévoit le partage de la Pologne et la répartition des zones d'influence en Europe de l'Est entre les deux puissances. Cet accord laisse à Hitler les mains libres pour envahir la Pologne dès le mois suivant, déclenchant le conflit mondial.",
+      "options": [
+        "Le pacte germano-soviétique (Molotov-Ribbentrop)",
+        "Le pacte d'acier",
+        "Le pacte anti-Komintern",
+        "Les accords de Munich"
+      ]
+    },
+    {
+      "id": "seconde_guerre_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel événement tragique de juillet 1942, orchestré par la police française sur ordre des autorités d'occupation, a vu l'arrestation à Paris de plusieurs milliers de Juifs, rassemblés au Vélodrome d'Hiver avant leur déportation ?",
+      "answer": "La rafle du Vél d'Hiv",
+      "explanation": "Les 16 et 17 juillet 1942, la police française procède à l'arrestation de plus de treize mille personnes juives, dont de nombreux enfants, sur ordre des autorités allemandes d'occupation. Une grande partie des personnes arrêtées est entassée pendant plusieurs jours dans des conditions très éprouvantes au Vélodrome d'Hiver avant d'être déportée vers les camps. Cet épisode douloureux de l'histoire française a été officiellement reconnu par l'État en 1995.",
+      "options": [
+        "La rafle du Vél d'Hiv",
+        "La rafle de la rue Sainte-Catherine",
+        "L'affaire du réseau du Musée de l'Homme",
+        "La rafle du Marais"
+      ]
+    },
+    {
+      "id": "seconde_guerre_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle bataille meurtrière de février-mars 1945 dans le Pacifique, marquée par la célèbre photographie de soldats américains hissant leur drapeau au sommet du mont Suribachi, a précédé celle d'Okinawa ?",
+      "answer": "La bataille d'Iwo Jima",
+      "explanation": "La bataille d'Iwo Jima oppose en février et mars 1945 les Marines américains à une garnison japonaise retranchée dans un vaste réseau de bunkers et de tunnels souterrains. Cet affrontement acharné, l'un des plus meurtriers de la guerre du Pacifique, immortalise la photographie de soldats hissant le drapeau américain au sommet du mont Suribachi. Cette conquête stratégique permet aux bombardiers américains de disposer d'une base aérienne avancée pour leurs raids sur le Japon.",
+      "options": [
+        "La bataille d'Iwo Jima",
+        "La bataille de Guadalcanal",
+        "La bataille de Tarawa",
+        "La bataille de Saipan"
+      ]
+    },
+    {
+      "id": "seconde_guerre_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle conférence, réunissant en juillet-août 1945 Truman, Attlee (remplaçant Churchill) et Staline près de Berlin, a organisé l'occupation de l'Allemagne vaincue et lancé un ultimatum au Japon ?",
+      "answer": "La conférence de Potsdam",
+      "explanation": "La conférence de Potsdam réunit en juillet et août 1945, dans un palais des environs de Berlin, les dirigeants des trois grandes puissances victorieuses pour organiser le sort de l'Allemagne vaincue. Les Alliés y décident du démantèlement du potentiel militaire allemand, du tracé de nouvelles frontières et de l'occupation du pays en zones distinctes. C'est également lors de cette conférence qu'un ultimatum de capitulation sans conditions est adressé au Japon, encore en guerre.",
+      "options": [
+        "La conférence de Potsdam",
+        "La conférence de Yalta",
+        "La conférence de Téhéran",
+        "La conférence de San Francisco"
+      ]
+    },
+    {
+      "id": "seconde_guerre_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel second débarquement allié, mené en août 1944 sur les côtes méditerranéennes françaises, a permis de libérer rapidement le sud de la France en remontant la vallée du Rhône ?",
+      "answer": "Le débarquement de Provence (opération Dragoon)",
+      "explanation": "Lancé le 15 août 1944, deux mois seulement après celui de Normandie, le débarquement de Provence mobilise d'importantes forces américaines et françaises libres sur les côtes du Var. Cette offensive complémentaire permet une progression rapide vers le nord en remontant la vallée du Rhône, contraignant les troupes allemandes à une retraite précipitée. La 1re armée française, commandée par le général de Lattre de Tassigny, y joue un rôle de premier plan.",
+      "options": [
+        "Le débarquement de Provence (opération Dragoon)",
+        "Le débarquement de Sicile",
+        "Le débarquement d'Anzio",
+        "Le débarquement de Salerne"
+      ]
+    },
+    {
+      "id": "seconde_guerre_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel général français, commandant de la Première armée française, a signé au nom de la France l'acte de capitulation allemande à Berlin le 8 mai 1945 ?",
+      "answer": "Jean de Lattre de Tassigny",
+      "explanation": "Le général Jean de Lattre de Tassigny commande la Première armée française qui participe au débarquement de Provence puis à la libération de l'Alsace et à l'invasion de l'Allemagne du Sud. Le 8 mai 1945, il représente officiellement la France en signant l'acte de capitulation allemande aux côtés des représentants soviétique, britannique et américain à Berlin. Sa participation à cette cérémonie symbolise la reconnaissance de la contribution française à la victoire finale.",
+      "options": [
+        "Jean de Lattre de Tassigny",
+        "Alphonse Juin",
+        "Philippe Leclerc de Hauteclocque",
+        "Marie-Pierre Kœnig"
+      ]
+    },
+    {
+      "id": "seconde_guerre_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel général américain, commandant la IIIe armée réputée pour ses percées blindées fulgurantes après le débarquement de Normandie, était surnommé 'Old Blood and Guts' ?",
+      "answer": "George Patton",
+      "explanation": "Le général George Patton dirige la IIIe armée américaine qui réalise, après le débarquement de Normandie, des percées blindées spectaculaires à travers la France en direction de l'Allemagne. Sa personnalité flamboyante, son caractère bouillonnant et son goût pour l'offensive rapide lui valent le surnom de 'Old Blood and Guts' parmi ses hommes. Sa contribution décisive lors de la contre-offensive alliée pendant la bataille des Ardennes renforce durablement sa réputation de chef de guerre audacieux.",
+      "options": [
+        "George Patton",
+        "Omar Bradley",
+        "Mark Clark",
+        "George Marshall"
+      ]
     }
   ],
   "Histoire : Cinquième République": [
@@ -3317,6 +4829,714 @@
       ],
       "answer": "François Hollande",
       "explanation": "François Hollande est élu septième président de la Cinquième République en mai 2012 face au président sortant Nicolas Sarkozy. Lors de son célèbre meeting électoral du Bourget en janvier 2012, il prononce un discours retentissant en affirmant : 'Mon véritable adversaire, il n'a pas de nom, pas de visage, pas de parti [...] c'est le monde de la finance'. Son unique mandat élyséen est notamment marqué par l'accord international de Paris sur le climat en 2015."
+    },
+    {
+      "id": "cinquieme_republique_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel événement politique majeur d'avril 1969 a provoqué la démission immédiate du général de Gaulle de la présidence de la République ?",
+      "answer": "L'échec du référendum sur la réforme du Sénat et la régionalisation",
+      "explanation": "En avril 1969, le général de Gaulle soumet aux Français un référendum portant sur la réforme du Sénat et la création de régions administratives. Considérant ce vote comme un plébiscite personnel, il avait annoncé à l'avance qu'il démissionnerait en cas de rejet du texte. Le 'non' l'emportant de justesse, il quitte immédiatement ses fonctions présidentielles dès le lendemain matin, mettant fin à onze années de pouvoir.",
+      "options": [
+        "L'échec du référendum sur la réforme du Sénat et la régionalisation",
+        "Sa défaite à l'élection présidentielle",
+        "Une motion de censure de l'Assemblée nationale",
+        "Son échec au référendum sur l'indépendance de l'Algérie"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel musée d'art moderne parisien à l'architecture avant-gardiste, inauguré en 1977 et portant le nom d'un ancien président, expose ses tuyaux et structures métalliques à l'extérieur du bâtiment ?",
+      "answer": "Le Centre Pompidou",
+      "explanation": "Voulu par le président Georges Pompidou dès le début des années 1970, ce centre culturel révolutionnaire est conçu par les architectes Renzo Piano et Richard Rogers selon un principe architectural inédit. Toutes les circulations techniques (tuyaux, escalators, gaines) sont installées à l'extérieur du bâtiment, libérant ainsi un espace intérieur entièrement modulable pour les expositions. Inauguré en 1977, ce musée abrite aujourd'hui l'une des plus riches collections d'art moderne et contemporain au monde.",
+      "options": [
+        "Le Centre Pompidou",
+        "Le musée d'Orsay",
+        "Le Grand Palais",
+        "La Fondation Louis Vuitton"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "En quelle année le TGV (train à grande vitesse) a-t-il été mis en service commercial pour la première fois, sur la ligne Paris-Lyon ?",
+      "answer": "1981",
+      "explanation": "Le TGV entre en service commercial en septembre 1981 sur la nouvelle ligne à grande vitesse reliant Paris à Lyon, révolutionnant les déplacements ferroviaires en France. Ce train à la technologie avant-gardiste, capable de rouler à plus de 260 km/h à l'époque, réduit considérablement les temps de trajet entre les grandes villes françaises. Son succès populaire immédiat en fait la vitrine technologique du savoir-faire industriel français à l'étranger.",
+      "options": [
+        "1981",
+        "1975",
+        "1990",
+        "1998"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "En 1998, la France, alors présidée par Jacques Chirac, a remporté pour la première fois une compétition sportive majeure qu'elle organisait. Laquelle ?",
+      "answer": "La Coupe du monde de football",
+      "explanation": "Organisée en France durant l'été 1998, la Coupe du monde de football s'achève par une victoire éclatante de l'équipe nationale française, menée par Zinédine Zidane, face au Brésil en finale au Stade de France. Cette victoire historique déclenche une immense liesse populaire à travers tout le pays, symbolisée par les Champs-Élysées noirs de monde. Cet événement sportif majeur reste associé à l'image d'une 'France black-blanc-beur' unie autour de son équipe.",
+      "options": [
+        "La Coupe du monde de football",
+        "Les Jeux olympiques d'été",
+        "Le Championnat d'Europe de football",
+        "La Coupe Davis"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle loi de 1967, portée par le député Lucien Neuwirth sous la présidence du général de Gaulle, a légalisé la contraception en France ?",
+      "answer": "La loi Neuwirth",
+      "explanation": "Malgré une forte opposition conservatrice, le député gaulliste Lucien Neuwirth fait voter en décembre 1967 une loi autorisant enfin la fabrication, la vente et l'utilisation de moyens contraceptifs, dont la pilule. Cette réforme sociale majeure met fin à l'interdiction héritée d'une loi de 1920 et marque une étape essentielle vers l'émancipation des femmes. Ses décrets d'application tarderont cependant plusieurs années avant d'être pleinement effectifs.",
+      "options": [
+        "La loi Neuwirth",
+        "La loi Veil",
+        "La loi Roudy",
+        "La loi Aubry"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelles lois de 1982, portées par le ministre de l'Intérieur Gaston Defferre sous la présidence de François Mitterrand, ont transféré d'importants pouvoirs de l'État vers les régions et les collectivités locales ?",
+      "answer": "Les lois de décentralisation",
+      "explanation": "Portées par le ministre de l'Intérieur Gaston Defferre dès 1982, les lois de décentralisation transfèrent d'importantes compétences administratives, financières et décisionnelles de l'État vers les régions, les départements et les communes. Cette réforme institutionnelle majeure met fin à la tutelle traditionnelle exercée par les préfets sur les collectivités locales. Elle constitue l'une des transformations les plus profondes de l'organisation territoriale française depuis la Révolution.",
+      "options": [
+        "Les lois de décentralisation",
+        "Les lois de régionalisation gaulliennes",
+        "Les lois Chevènement",
+        "Les lois NOTRe"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel monument monumental en forme de cube ouvert, situé dans le quartier d'affaires de la Défense, fait partie des 'grands travaux' voulus par François Mitterrand et fut inauguré en 1989 ?",
+      "answer": "La Grande Arche de la Défense",
+      "explanation": "Conçue par l'architecte danois Johan Otto von Spreckelsen, la Grande Arche de la Défense est inaugurée en juillet 1989 à l'occasion du bicentenaire de la Révolution française. Sa forme cubique évidée, assez vaste pour abriter la cathédrale Notre-Dame, prolonge symboliquement l'axe historique parisien reliant le Louvre à l'Arc de Triomphe. Ce monument futuriste illustre la volonté du président Mitterrand de marquer son mandat par de grands projets architecturaux.",
+      "options": [
+        "La Grande Arche de la Défense",
+        "La Pyramide du Louvre",
+        "L'Opéra Bastille",
+        "La Cité des sciences de la Villette"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel avion de ligne supersonique franco-britannique a effectué son premier vol commercial en janvier 1976, reliant notamment Paris à Rio de Janeiro en un temps record ?",
+      "answer": "Le Concorde",
+      "explanation": "Fruit d'une coopération technologique inédite entre la France et le Royaume-Uni, le Concorde effectue son tout premier vol commercial en janvier 1976, reliant simultanément Paris à Rio de Janeiro et Londres à Bahreïn. Capable de voler à plus de deux fois la vitesse du son, cet avion emblématique traverse l'Atlantique en un peu plus de trois heures seulement. Son exploitation commerciale s'achèvera en 2003, freinée par son coût d'exploitation très élevé et sa forte consommation de carburant.",
+      "options": [
+        "Le Concorde",
+        "L'Airbus A300",
+        "La Caravelle",
+        "Le Mirage IV"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle loi de 1999, votée sous le gouvernement de cohabitation de Lionel Jospin, a créé un nouveau statut d'union civile ouvert à tous les couples, qu'ils soient de même sexe ou non ?",
+      "answer": "Le PACS (Pacte civil de solidarité)",
+      "explanation": "Adopté en octobre 1999 après un débat parlementaire particulièrement vif, le Pacte civil de solidarité crée un nouveau cadre juridique d'union civile ouvert indifféremment aux couples homosexuels et hétérosexuels. Ce contrat offre certains droits sociaux et fiscaux jusque-là réservés au mariage, sans pour autant y être totalement assimilé. Ce dispositif précurseur ouvrira la voie, une décennie plus tard, au débat sur le mariage pour tous adopté en 2013.",
+      "options": [
+        "Le PACS (Pacte civil de solidarité)",
+        "Le mariage pour tous",
+        "Le concubinage légal",
+        "L'union libre"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel traité européen, signé en 2007 sous la présidence de Nicolas Sarkozy et ratifié par le Parlement plutôt que par référendum, a remplacé le projet avorté de Constitution européenne rejeté en 2005 ?",
+      "answer": "Le traité de Lisbonne",
+      "explanation": "Après le rejet par référendum du projet de Constitution européenne en 2005, le président Nicolas Sarkozy négocie un traité simplifié reprenant l'essentiel des réformes institutionnelles envisagées. Signé à Lisbonne en décembre 2007, ce texte est ratifié en France par un vote du Congrès du Parlement plutôt que par un nouveau référendum populaire, suscitant une controverse politique durable. Entré en vigueur en 2009, il renforce notamment les pouvoirs du Parlement européen et crée un président stable du Conseil européen.",
+      "options": [
+        "Le traité de Lisbonne",
+        "Le traité de Maastricht",
+        "Le traité de Nice",
+        "Le traité d'Amsterdam"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle grande réforme militaire, annoncée par Jacques Chirac en 1996 et achevée au début des années 2000, a mis fin à la conscription en professionnalisant intégralement l'armée française ?",
+      "answer": "La suspension du service militaire obligatoire",
+      "explanation": "En février 1996, le président Jacques Chirac annonce la suspension progressive du service militaire obligatoire, en place depuis la Révolution française, au profit d'une armée entièrement professionnelle. Cette réforme majeure, achevée au tout début des années 2000, transforme profondément le lien historique entre l'armée et la nation. Une Journée défense et citoyenneté est instaurée pour maintenir un contact minimal entre les jeunes Français et les questions de défense nationale.",
+      "options": [
+        "La suspension du service militaire obligatoire",
+        "La création de la Légion étrangère",
+        "La réforme de la Garde nationale",
+        "La dissolution de la Coloniale"
+      ]
+    },
+    {
+      "id": "cinquieme_republique_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quels accords de paix, signés en juin 1988 sous l'égide du Premier ministre Michel Rocard, ont mis fin à un grave conflit politique et ouvert une décennie de transition en Nouvelle-Calédonie ?",
+      "answer": "Les accords de Matignon",
+      "explanation": "Signés en juin 1988 à Matignon entre le leader indépendantiste kanak Jean-Marie Tjibaou et le loyaliste Jacques Lafleur, ces accords mettent fin à une grave crise politique et aux violences meurtrières qui secouaient la Nouvelle-Calédonie. Négociés sous l'autorité du Premier ministre Michel Rocard, ils instaurent une période de transition de dix ans avant l'organisation d'un référendum d'autodétermination. Ce compromis historique ouvre la voie à un dialogue durable, prolongé ensuite par les accords de Nouméa en 1998.",
+      "options": [
+        "Les accords de Matignon",
+        "Les accords de Nouméa",
+        "Les accords d'Évian",
+        "Les accords de Grenelle"
+      ]
+    }
+  ],
+  "Gaule & Antiquité": [
+    {
+      "question": "En quelle année Jules César a-t-il lancé sa campagne de conquête de la Gaule?",
+      "options": [
+        "52 avant J.-C.",
+        "58 avant J.-C.",
+        "48 avant J.-C.",
+        "65 avant J.-C."
+      ],
+      "answer": "58 avant J.-C.",
+      "explanation": "Jules César a commencé sa conquête de la Gaule en 58 avant J.-C., une campagne qui a duré 8 ans jusqu'en 50 avant J.-C. et s'est conclue avec la bataille d'Alésia.",
+      "difficulty": "moyen",
+      "id": "gaule_et_antiquité_1"
+    },
+    {
+      "question": "Quel chef arverne a dirigé la révolte contre Rome en 52 avant J.-C.?",
+      "options": [
+        "Vercingétorix",
+        "Brennus",
+        "Cassivellaunos",
+        "Arioviste"
+      ],
+      "answer": "Vercingétorix",
+      "explanation": "Vercingétorix, chef arverne de la tribu des Arvernes, a uni les peuples gaulois contre Rome en 52 avant J.-C. Il a été vaincu à Alésia par Jules César et exécuté à Rome en 46 avant J.-C.",
+      "difficulty": "facile",
+      "id": "gaule_et_antiquité_2"
+    },
+    {
+      "question": "Quel fleuve marquait la frontière occidentale de la Gaule romaine?",
+      "options": [
+        "La Loire",
+        "La Seine",
+        "La Garonne",
+        "Le Rhône"
+      ],
+      "answer": "La Loire",
+      "explanation": "Le fleuve Loire marquait approximativement la frontière occidentale entre la Gaule romaine et les peuples gaulois indépendants. Cette limite était l'une des frontières clés de la domination romaine.",
+      "difficulty": "difficile",
+      "id": "gaule_et_antiquité_3"
+    },
+    {
+      "question": "En quelle année la Gaule est-elle devenue une province romaine organisée en quatre régions?",
+      "options": [
+        "27 avant J.-C.",
+        "15 avant J.-C.",
+        "12 avant J.-C.",
+        "8 avant J.-C."
+      ],
+      "answer": "27 avant J.-C.",
+      "explanation": "En 27 avant J.-C., Auguste a réorganisé la Gaule en quatre provinces principales : la Gaule Aquitaine, la Gaule Lyonnaise, la Gaule Belgique et la Gaule Narbonnaise, établissant ainsi l'administration romaine stable.",
+      "difficulty": "difficile",
+      "id": "gaule_et_antiquité_4"
+    }
+  ],
+  "Moyen Âge": [
+    {
+      "question": "En quelle année Clovis a-t-il remporté la bataille de Tolbiac contre les Alamans?",
+      "options": [
+        "486",
+        "496",
+        "506",
+        "516"
+      ],
+      "answer": "496",
+      "explanation": "La bataille de Tolbiac, remportée par Clovis en 496, marque un tournant majeur. Selon la tradition, la victoire aurait incité Clovis à se convertir au christianisme catholique, facilitant son union avec la population gallo-romaine.",
+      "difficulty": "difficile",
+      "id": "moyen_âge_1"
+    },
+    {
+      "question": "Quel événement marque le début du règne de Charlemagne comme roi des Francs?",
+      "options": [
+        "Sa victoire contre les Lombards en 773",
+        "La mort de son père Pépin le Bref en 768",
+        "Son couronnement comme empereur en 800",
+        "La bataille de Tours en 732"
+      ],
+      "answer": "La mort de son père Pépin le Bref en 768",
+      "explanation": "Charlemagne est devenu roi des Francs à la mort de son père Pépin le Bref en 768. Il partageait d'abord le royaume avec son frère Carloman avant de devenir seul roi en 771.",
+      "difficulty": "moyen",
+      "id": "moyen_âge_2"
+    },
+    {
+      "question": "En quelle année Charlemagne a-t-il été couronné empereur des Romains?",
+      "options": [
+        "795",
+        "800",
+        "805",
+        "810"
+      ],
+      "answer": "800",
+      "explanation": "Charlemagne a été couronné empereur des Romains le 25 décembre 800 par le pape Léon III à Rome. Cette coronation restaurait l'idée d'un empire occidental après la chute de Rome en 476.",
+      "difficulty": "facile",
+      "id": "moyen_âge_3"
+    },
+    {
+      "question": "Quel traité a divisé l'Empire carolingien en 843?",
+      "options": [
+        "Traité de Verdun",
+        "Traité de Mersen",
+        "Traité de Compiègne",
+        "Traité de Rouen"
+      ],
+      "answer": "Traité de Verdun",
+      "explanation": "Le traité de Verdun en 843 a divisé l'Empire carolingien entre les trois fils de Louis le Pieux. Charles le Chauve reçut la Francie occidentale (future France), Louis le Germanique la Francie orientale, et Lothaire Ier la Francie médiane.",
+      "difficulty": "moyen",
+      "id": "moyen_âge_4"
+    }
+  ],
+  "Renaissance": [
+    {
+      "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique pour le compte de l'Espagne?",
+      "options": [
+        "1490",
+        "1492",
+        "1495",
+        "1498"
+      ],
+      "answer": "1492",
+      "explanation": "Christophe Colomb a atteint les Amériques en 1492, financé par les Rois Catholiques d'Espagne. Bien que d'autres Européens (Vikings) aient atteint le continent auparavant, ce voyage marqua le début de l'exploration systématique européenne.",
+      "difficulty": "facile",
+      "id": "renaissance_1"
+    },
+    {
+      "question": "Quel mouvement culturel a commencé en Italie au 14e siècle et caractérise la Renaissance?",
+      "options": [
+        "L'Humanisme",
+        "Le Scholasticisme",
+        "L'Absolutisme",
+        "Le Monasticisme"
+      ],
+      "answer": "L'Humanisme",
+      "explanation": "L'Humanisme, mouvement intellectuel qui valorisait la raison, les classiques gréco-romains et l'étude des textes anciens, est né en Italie au 14e siècle et a caractérisé la Renaissance européenne.",
+      "difficulty": "moyen",
+      "id": "renaissance_2"
+    },
+    {
+      "question": "En quelle année Léon X, le pape renaissance, a-t-il accédé au pontificat?",
+      "options": [
+        "1503",
+        "1509",
+        "1513",
+        "1519"
+      ],
+      "answer": "1513",
+      "explanation": "Léon X, pape de 1513 à 1521, était un membre de la famille Médicis connu pour son mécénat des arts. Son pontificat coïncide avec les débuts de la Réforme protestante déclenchée par Martin Luther en 1517.",
+      "difficulty": "difficile",
+      "id": "renaissance_3"
+    },
+    {
+      "question": "Qui a peint la Sixtine entre 1508 et 1512?",
+      "options": [
+        "Léonard de Vinci",
+        "Michelange",
+        "Raphaël",
+        "Botticelli"
+      ],
+      "answer": "Michelange",
+      "explanation": "Michelange a peint la voûte de la chapelle Sixtine entre 1508 et 1512, créant l'une des plus grandes œuvres d'art de la Renaissance. Ce travail était financé par le pape Jules II.",
+      "difficulty": "facile",
+      "id": "renaissance_4"
+    }
+  ],
+  "Grand Siècle (Louis XIV)": [
+    {
+      "question": "En quelle année Louis XIV est-il devenu roi de France?",
+      "options": [
+        "1638",
+        "1643",
+        "1648",
+        "1653"
+      ],
+      "answer": "1643",
+      "explanation": "Louis XIV est devenu roi en 1643 à l'âge de 4 ans après la mort de son père Louis XIII. Pendant la minorité royale, sa mère Anne d'Autriche et le cardinal Mazarin gouvernaient au nom du jeune roi.",
+      "difficulty": "facile",
+      "id": "grand_siècle_(louis_xiv)_1"
+    },
+    {
+      "question": "En quelle année Louis XIV a-t-il établi sa cour à Versailles?",
+      "options": [
+        "1661",
+        "1665",
+        "1670",
+        "1682"
+      ],
+      "answer": "1682",
+      "explanation": "Louis XIV a établi sa cour permanente à Versailles en 1682. Le château, construit et agrandi depuis 1661, devint le siège officiel du gouvernement, symbolisant le pouvoir absolu du Roi Soleil.",
+      "difficulty": "facile",
+      "id": "grand_siècle_(louis_xiv)_2"
+    },
+    {
+      "question": "Quel traité a marqué la fin de la Guerre de succession d'Espagne et du règne expansionniste de Louis XIV?",
+      "options": [
+        "Traité de Westphalie",
+        "Traité de Pyrénées",
+        "Traité d'Utrecht",
+        "Traité de Ryswick"
+      ],
+      "answer": "Traité d'Utrecht",
+      "explanation": "Le traité d'Utrecht en 1713 a conclu la Guerre de succession d'Espagne. Bien que la France conserva territoire et influence, ce traité marqua la fin de l'expansionnisme français et l'ascension de la Grande-Bretagne comme puissance majeure.",
+      "difficulty": "difficile",
+      "id": "grand_siècle_(louis_xiv)_3"
+    },
+    {
+      "question": "En quelle année le Roi Soleil a-t-il signé la révocation de l'Édit de Nantes?",
+      "options": [
+        "1679",
+        "1685",
+        "1689",
+        "1692"
+      ],
+      "answer": "1685",
+      "explanation": "Louis XIV a révoqué l'Édit de Nantes en 1685, supprimant les droits religieux des protestants français. Cet édit de tolérance, signé par Henri IV en 1598, avait garanti la liberté de culte aux huguenots.",
+      "difficulty": "moyen",
+      "id": "grand_siècle_(louis_xiv)_4"
+    }
+  ],
+  "Révolution française": [
+    {
+      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française?",
+      "options": [
+        "1787",
+        "1788",
+        "1789",
+        "1790"
+      ],
+      "answer": "1789",
+      "explanation": "La Bastille a été prise le 14 juillet 1789, marquant le début de la Révolution française. Cet événement est devenu la fête nationale de la France, symbole de la lutte contre l'absolutisme monarchique.",
+      "difficulty": "facile",
+      "id": "révolution_française_1"
+    },
+    {
+      "question": "Quel document a été adopté par l'Assemblée constituante le 4 août 1789?",
+      "options": [
+        "La Déclaration des droits de l'homme et du citoyen",
+        "L'Édit d'égalité civile",
+        "Le décret d'abolition des privilèges féodaux",
+        "La Charte constitutionnelle"
+      ],
+      "answer": "Le décret d'abolition des privilèges féodaux",
+      "explanation": "Dans la nuit du 4 août 1789, l'Assemblée constituante a voté l'abolition des privilèges féodaux, supprimant les corvées, droits seigneuriaux et exemptions fiscales. Cet acte marquait la fin du système féodal en France.",
+      "difficulty": "moyen",
+      "id": "révolution_française_2"
+    },
+    {
+      "question": "En quelle année la France s'est-elle engagée dans la Première Coalition contre les armées révolutionnaires?",
+      "options": [
+        "1792",
+        "1793",
+        "1795",
+        "1797"
+      ],
+      "answer": "1793",
+      "explanation": "La Première Coalition contre la France révolutionnaire s'est formée en 1793, regroupant l'Autriche, la Prusse, la Grande-Bretagne, l'Espagne et d'autres puissances. La Coalition visait à restaurer la monarchie française et à arrêter la propagation des idées révolutionnaires.",
+      "difficulty": "difficile",
+      "id": "révolution_française_3"
+    },
+    {
+      "question": "Quel événement a marqué l'apogée de la Terreur en France?",
+      "options": [
+        "L'exécution du roi Louis XVI le 21 janvier 1793",
+        "La prise de la Bastille en juillet 1789",
+        "La fête de la Fédération en juillet 1790",
+        "L'abolition de la royauté en septembre 1792"
+      ],
+      "answer": "L'exécution du roi Louis XVI le 21 janvier 1793",
+      "explanation": "L'exécution du roi Louis XVI le 21 janvier 1793 marqua un tournant radical et intensifia la Terreur (1793-1794). Cet acte symbolisait la rupture complète avec l'Ancien Régime et provoqua l'outrage des puissances monarchiques européennes.",
+      "difficulty": "moyen",
+      "id": "révolution_française_4"
+    }
+  ],
+  "Premier Empire (Napoléon)": [
+    {
+      "question": "En quelle année Napoléon Bonaparte a-t-il pris le pouvoir en France?",
+      "options": [
+        "1796",
+        "1798",
+        "1799",
+        "1801"
+      ],
+      "answer": "1799",
+      "explanation": "Napoléon a pris le pouvoir le 18 brumaire an VIII (9 novembre 1799) lors du Coup d'État du 18 brumaire, renversant le Directoire. Il s'est d'abord établi comme consul provisoire, puis comme consul à vie en 1802.",
+      "difficulty": "facile",
+      "id": "premier_empire_(napoléon)_1"
+    },
+    {
+      "question": "En quelle année Napoléon s'est-il proclamé empereur des Français?",
+      "options": [
+        "1801",
+        "1803",
+        "1804",
+        "1806"
+      ],
+      "answer": "1804",
+      "explanation": "Napoléon s'est proclamé empereur des Français en 1804 (18 mai), marquant la transformation de la France républicaine en Empire. Il s'est couronné lui-même en décembre 1804 à Notre-Dame de Reims.",
+      "difficulty": "facile",
+      "id": "premier_empire_(napoléon)_2"
+    },
+    {
+      "question": "En quelle année la Grande Armée de Napoléon a-t-elle envahi la Russie?",
+      "options": [
+        "1810",
+        "1811",
+        "1812",
+        "1813"
+      ],
+      "answer": "1812",
+      "explanation": "Napoléon a lancé l'invasion de la Russie en 1812 avec la Grande Armée composée d'environ 600 000 hommes. Cette campagne désastreuse, marquée par la retraite de Moscou, a affaibli considérablement Napoléon et contribué à sa chute.",
+      "difficulty": "facile",
+      "id": "premier_empire_(napoléon)_3"
+    },
+    {
+      "question": "Quel traité a restauré les Bourbons au trône de France après la défaite de Napoléon?",
+      "options": [
+        "Traité de Tiltis",
+        "Traité de Tilsit",
+        "Traité de Paris (1814)",
+        "Traité de Fontainebleau"
+      ],
+      "answer": "Traité de Paris (1814)",
+      "explanation": "Le traité de Paris signé en mai 1814 a redéfini les frontières françaises après la défaite de Napoléon. Il a restauré les Bourbons avec Louis XVIII et marqué la fin du Premier Empire français après 15 ans.",
+      "difficulty": "difficile",
+      "id": "premier_empire_(napoléon)_4"
+    }
+  ],
+  "Belle Époque & 19e": [
+    {
+      "question": "En quelle année la Belle Époque a-t-elle commencé, généralement datée après la Guerre franco-prussienne?",
+      "options": [
+        "1870",
+        "1871",
+        "1875",
+        "1880"
+      ],
+      "answer": "1871",
+      "explanation": "La Belle Époque est généralement datée de 1871 à 1914. Cette période commença après la Guerre franco-prussienne (1870-1871) et marqua une ère de prospérité, d'optimisme technologique et d'innovations culturelles en France.",
+      "difficulty": "moyen",
+      "id": "belle_époque_et_19e_1"
+    },
+    {
+      "question": "Quel événement a marqué le début de la Guerre franco-prussienne?",
+      "options": [
+        "L'invasion de l'Alsace-Lorraine en 1868",
+        "La bataille de Sedan en 1870",
+        "L'offensive prussienne du 4 septembre 1870",
+        "L'incident d'Ems en juillet 1870"
+      ],
+      "answer": "L'incident d'Ems en juillet 1870",
+      "explanation": "L'incident d'Ems en juillet 1870 a déclenché la Guerre franco-prussienne. Cet incident diplomatique impliquant le roi de Prusse a été exploité par Bismarck pour provoquer la France à déclarer la guerre.",
+      "difficulty": "difficile",
+      "id": "belle_époque_et_19e_2"
+    },
+    {
+      "question": "En quelle année la Commune de Paris a-t-elle été établie?",
+      "options": [
+        "1869",
+        "1870",
+        "1871",
+        "1872"
+      ],
+      "answer": "1871",
+      "explanation": "La Commune de Paris s'est établie en mars 1871 après la défaite française dans la Guerre franco-prussienne. Ce gouvernement révolutionnaire et social a duré deux mois avant d'être écrasé par les troupes du gouvernement en mai 1871.",
+      "difficulty": "facile",
+      "id": "belle_époque_et_19e_3"
+    },
+    {
+      "question": "Quel mouvement artistique a dominé la fin du 19e siècle en France?",
+      "options": [
+        "Le Romantisme",
+        "Le Réalisme",
+        "L'Impressionnisme",
+        "L'Art Déco"
+      ],
+      "answer": "L'Impressionnisme",
+      "explanation": "L'Impressionnisme, initié par des peintres comme Monet et Renoir dans les années 1870-1880, a dominé la fin du 19e siècle français. Ce mouvement révolutionnait la peinture en mettant l'accent sur la lumière, la couleur et l'impression momentanée.",
+      "difficulty": "moyen",
+      "id": "belle_époque_et_19e_4"
+    }
+  ],
+  "Première Guerre Mondiale": [
+    {
+      "question": "En quelle année l'assassinat de l'archiduc François-Ferdinand de Sarajevo a-t-il déclenché les événements menant à la Première Guerre mondiale?",
+      "options": [
+        "1912",
+        "1913",
+        "1914",
+        "1915"
+      ],
+      "answer": "1914",
+      "explanation": "L'archiduc François-Ferdinand d'Autriche a été assassiné à Sarajevo le 28 juin 1914 par Gavrilo Princip. Cet événement a déclenché une série de crises diplomatiques qui ont conduit à la Première Guerre mondiale en août 1914.",
+      "difficulty": "facile",
+      "id": "première_guerre_mondiale_1"
+    },
+    {
+      "question": "En quelle année la France a-t-elle remporté la bataille de la Marne, arrêtant l'avancée allemande?",
+      "options": [
+        "1914",
+        "1915",
+        "1916",
+        "1917"
+      ],
+      "answer": "1914",
+      "explanation": "La première bataille de la Marne s'est déroulée en septembre 1914, arrêtant l'avancée allemande vers Paris. La victoire française a stabilisé le front occidental et marqué la fin du plan de Schlieffen allemand.",
+      "difficulty": "moyen",
+      "id": "première_guerre_mondiale_2"
+    },
+    {
+      "question": "Quel général français a commandé l'armée française lors de la bataille de Verdun en 1916?",
+      "options": [
+        "Ferdinand Foch",
+        "Philippe Pétain",
+        "Joseph Joffre",
+        "Edmond Allenby"
+      ],
+      "answer": "Philippe Pétain",
+      "explanation": "Le général Philippe Pétain a commandé l'armée française lors de la longue et sanglante bataille de Verdun (février-décembre 1916). Sa devise 'Ils ne passeront pas' est devenue emblématique de la résistance française.",
+      "difficulty": "moyen",
+      "id": "première_guerre_mondiale_3"
+    },
+    {
+      "question": "En quelle année les États-Unis ont-ils déclaré la guerre aux Puissances centrales, entrant dans la Première Guerre mondiale?",
+      "options": [
+        "1915",
+        "1916",
+        "1917",
+        "1918"
+      ],
+      "answer": "1917",
+      "explanation": "Les États-Unis ont déclaré la guerre aux Puissances centrales le 6 avril 1917, suite au torpillage du Lusitania et à la reprise de la guerre sous-marine allemande. L'entrée américaine a transformé l'équilibre du conflit.",
+      "difficulty": "facile",
+      "id": "première_guerre_mondiale_4"
+    }
+  ],
+  "Seconde Guerre Mondiale": [
+    {
+      "question": "En quelle année l'Allemagne nazie a-t-elle envahi la Pologne, déclenchant la Seconde Guerre mondiale?",
+      "options": [
+        "1937",
+        "1938",
+        "1939",
+        "1940"
+      ],
+      "answer": "1939",
+      "explanation": "L'Allemagne a envahi la Pologne le 1er septembre 1939, marquant le début de la Seconde Guerre mondiale. Deux jours plus tard, la France et la Grande-Bretagne ont déclaré la guerre à l'Allemagne.",
+      "difficulty": "facile",
+      "id": "seconde_guerre_mondiale_1"
+    },
+    {
+      "question": "En quelle année la France a-t-elle signé l'armistice avec l'Allemagne nazie?",
+      "options": [
+        "1940",
+        "1941",
+        "1942",
+        "1943"
+      ],
+      "answer": "1940",
+      "explanation": "La France a signé l'armistice avec l'Allemagne le 22 juin 1940, après seulement 6 semaines de combat intensif. Cet événement marqua la fin de la Troisième République et l'établissement du régime de Vichy sous le maréchal Pétain.",
+      "difficulty": "facile",
+      "id": "seconde_guerre_mondiale_2"
+    },
+    {
+      "question": "Quel événement a marqué le tournant de la Seconde Guerre mondiale en faveur des Alliés en Europe?",
+      "options": [
+        "La bataille de Normandie en 1944",
+        "La bataille de Stalingrad (1942-1943)",
+        "La bataille d'Angleterre en 1940",
+        "L'opération Barbarossa en 1941"
+      ],
+      "answer": "La bataille de Stalingrad (1942-1943)",
+      "explanation": "La bataille de Stalingrad (août 1942 - février 1943) marqua le premier arrêt majeur de l'avancée allemande en Europe. Cette victoire soviétique dévastatrice a été le tournant de la guerre sur le front est et démoralisé les Puissances de l'Axe.",
+      "difficulty": "moyen",
+      "id": "seconde_guerre_mondiale_3"
+    },
+    {
+      "question": "En quelle année le Débarquement de Normandie (Jour J) a-t-il eu lieu, marquant l'invasion de la France par les Alliés?",
+      "options": [
+        "1943",
+        "1944",
+        "1945",
+        "1946"
+      ],
+      "answer": "1944",
+      "explanation": "Le Débarquement de Normandie a eu lieu le 6 juin 1944, marquant le début de l'invasion alliée de la France occupée. Cette opération massive, commandée par Eisenhower, a ouvert le front occidental et accéléré la défaite allemande.",
+      "difficulty": "facile",
+      "id": "seconde_guerre_mondiale_4"
+    }
+  ],
+  "Cinquième République": [
+    {
+      "question": "En quelle année la Cinquième République a-t-elle été établie en France?",
+      "options": [
+        "1956",
+        "1958",
+        "1960",
+        "1962"
+      ],
+      "answer": "1958",
+      "explanation": "La Cinquième République a été établie en 1958, remplaçant la Quatrième République instable. Sa fondation a été marquée par la crise algérienne et la prise de pouvoir de Charles de Gaulle, qui a présidé à son élaboration.",
+      "difficulty": "moyen",
+      "id": "cinquième_république_1"
+    },
+    {
+      "question": "Quel fut le premier président de la Cinquième République?",
+      "options": [
+        "Alain Poher",
+        "Georges Pompidou",
+        "Charles de Gaulle",
+        "Valéry Giscard d'Estaing"
+      ],
+      "answer": "Charles de Gaulle",
+      "explanation": "Charles de Gaulle a été le premier président de la Cinquième République, servi de 1959 à 1969. Il a transformé la France en tant que puissance nucléaire et gaulliste, promouvant l'indépendance française et une diplomatie 'de grandeur'.",
+      "difficulty": "facile",
+      "id": "cinquième_république_2"
+    },
+    {
+      "question": "En quelle année les accords d'Évian ont-ils accordé l'indépendance à l'Algérie?",
+      "options": [
+        "1960",
+        "1961",
+        "1962",
+        "1963"
+      ],
+      "answer": "1962",
+      "explanation": "Les accords d'Évian ont été signés en mars 1962, mettant fin à la Guerre d'Algérie et accordant l'indépendance à l'Algérie. Ces accords ont marqué la fin de la présence coloniale française en Afrique du Nord.",
+      "difficulty": "moyen",
+      "id": "cinquième_république_3"
+    },
+    {
+      "question": "En quelle année la France a-t-elle reconnu la Chine populaire, rompant avec la politique sino-américaine?",
+      "options": [
+        "1960",
+        "1963",
+        "1964",
+        "1968"
+      ],
+      "answer": "1964",
+      "explanation": "La France a établi des relations diplomatiques avec la Chine populaire en 1964 sous Charles de Gaulle, contre la politique américaine de l'époque. Cet acte affirmait l'indépendance française dans la politique étrangère pendant la Guerre froide.",
+      "difficulty": "difficile",
+      "id": "cinquième_république_4"
     }
   ]
 }

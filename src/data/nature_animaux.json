@@ -413,6 +413,174 @@
       ],
       "answer": "La salamandre géante de Chine",
       "explanation": "Vestige vivant datant de plus de 170 millions d'années, la salamandre géante de Chine est aujourd'hui classée en danger critique d'extinction, menacée notamment par la pollution des rivières et une forte demande culinaire locale."
+    },
+    {
+      "id": "nature_animaux_regne_animal_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel imposant mammifère africain, pourtant herbivore, est souvent considéré comme l'un des animaux les plus dangereux du continent pour l'être humain, en raison de son agressivité et de sa force ?",
+      "answer": "L'hippopotame",
+      "explanation": "Bien qu'il se nourrisse presque exclusivement de végétaux, l'hippopotame est extrêmement territorial et peut charger à pleine vitesse pour défendre son territoire aquatique. Ses mâchoires puissantes et son caractère imprévisible en font un animal redouté par les populations vivant près des fleuves africains.",
+      "options": [
+        "L'hippopotame",
+        "Le rhinocéros noir",
+        "Le buffle d'Afrique",
+        "L'éléphant d'Afrique"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel animal africain au pelage rayé de noir et blanc possède un motif unique à chaque individu, un peu comme une empreinte digitale humaine ?",
+      "answer": "Le zèbre",
+      "explanation": "Aucun zèbre ne porte exactement le même motif de rayures qu'un autre, ce qui aiderait les petits à reconnaître leur mère au sein d'un troupeau. Les scientifiques débattent encore du rôle précis de ces rayures, qui pourraient aussi perturber la vision de certains insectes piqueurs.",
+      "options": [
+        "Le zèbre",
+        "Le tigre",
+        "L'okapi",
+        "Le lémurien"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel reptile est capable de faire pivoter ses deux yeux indépendamment l'un de l'autre, lui permettant de surveiller deux directions différentes en même temps ?",
+      "answer": "Le caméléon",
+      "explanation": "Cette vision quasi panoramique permet au caméléon de repérer ses proies et ses prédateurs sans bouger la tête. Une fois qu'il a repéré un insecte, ses deux yeux se fixent alors ensemble sur la cible avant qu'il ne projette sa langue collante en une fraction de seconde.",
+      "options": [
+        "Le caméléon",
+        "L'iguane",
+        "Le gecko",
+        "Le varan"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel mammifère marin a pour habitude de se tenir par la patte avec ses congénères pendant son sommeil, afin de ne pas dériver loin du groupe au large ?",
+      "answer": "La loutre de mer",
+      "explanation": "Les loutres de mer s'enroulent aussi parfois dans des algues pour ne pas flotter à la dérive pendant leur sommeil. Ce sont également l'une des rares espèces animales à utiliser des outils, comme une pierre posée sur leur ventre pour briser la coquille de leurs proies.",
+      "options": [
+        "La loutre de mer",
+        "Le phoque",
+        "Le lamantin",
+        "Le morse"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel animal australien est physiquement incapable de marcher à reculons, en raison de la forme particulière de ses pattes arrière et de sa lourde queue ?",
+      "answer": "Le kangourou",
+      "explanation": "Cette incapacité à reculer s'explique par la structure de ses pattes arrière, optimisées pour le bond vers l'avant, et par sa queue épaisse et peu flexible qui lui sert de véritable troisième appui pendant les sauts. Le kangourou figure sur les armoiries de l'Australie aux côtés de l'émeu, tous deux perçus comme des symboles d'un pays tourné vers l'avenir - même si, contrairement à une légende très répandue, l'émeu est en réalité capable de reculer à l'occasion, contrairement au kangourou.",
+      "options": [
+        "Le kangourou",
+        "L'émeu",
+        "Le wombat",
+        "Le diable de Tasmanie"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel requin doit sa silhouette si particulière à des yeux situés à chaque extrémité de sa tête en forme de marteau, lui offrant un champ de vision quasi panoramique ?",
+      "answer": "Le requin-marteau",
+      "explanation": "Sa tête aplatie et élargie, appelée céphalofoil, ne sert pas seulement à sa vision : elle abrite aussi de nombreux capteurs électrosensibles qui l'aident à détecter les proies cachées sous le sable, comme les raies.",
+      "options": [
+        "Le requin-marteau",
+        "Le requin-taureau",
+        "Le requin-tigre",
+        "Le requin-nourrice"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "De quelle couleur est réellement la peau de l'ours polaire, cachée sous son épaisse fourrure qui paraît blanche ?",
+      "answer": "Noire",
+      "explanation": "La peau noire de l'ours polaire absorbe mieux la chaleur du soleil, un atout précieux dans son environnement glacé. Ses poils, quant à eux, sont en réalité translucides et creux, et c'est la diffusion de la lumière à travers eux qui leur donne cette apparence blanche.",
+      "options": [
+        "Noire",
+        "Rose",
+        "Grise",
+        "Blanche"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel poisson d'Amérique du Sud est capable de générer une décharge électrique pouvant dépasser 600 volts pour étourdir ses proies ou se défendre ?",
+      "answer": "L'anguille électrique",
+      "explanation": "Malgré son nom, l'anguille électrique n'est pas une véritable anguille mais un poisson apparenté aux carpes. Ses organes électriques occupent la majeure partie de son corps et lui permettent aussi bien de chasser que de se repérer dans les eaux troubles d'Amazonie.",
+      "options": [
+        "L'anguille électrique",
+        "Le poisson-chat",
+        "Le piranha",
+        "La raie électrique"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel mollusque terrestre possède, au fond de sa bouche, une langue râpeuse appelée radula, garnie de plusieurs milliers de minuscules dents ?",
+      "answer": "L'escargot",
+      "explanation": "La radula permet à l'escargot de râper les feuilles et les végétaux dont il se nourrit, un peu comme une râpe à fromage miniature. Le nombre de dents varie beaucoup selon les espèces : un escargot de jardin commun en possède déjà environ 14 000, et certaines espèces marines apparentées détiennent des records avec plusieurs dizaines de milliers de dents disposées en rangées sur leur radula.",
+      "options": [
+        "L'escargot",
+        "La limace",
+        "La moule",
+        "L'huître"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel insecte social, vivant en colonie très organisée, est réputé capable de porter une charge pouvant atteindre plusieurs dizaines de fois son propre poids ?",
+      "answer": "La fourmi",
+      "explanation": "Cette force exceptionnelle s'explique en grande partie par sa petite taille : plus un être vivant est petit, plus le rapport entre la puissance de ses muscles et son poids corporel est favorable. Les fourmis coupeuses de feuilles peuvent ainsi transporter des morceaux de végétaux bien plus lourds qu'elles sur de longues distances.",
+      "options": [
+        "La fourmi",
+        "Le criquet",
+        "La sauterelle",
+        "La libellule"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Chez le poisson-clown, quel phénomène biologique permet au mâle dominant d'un groupe de devenir femelle si celle-ci vient à disparaître ?",
+      "answer": "L'hermaphrodisme séquentiel",
+      "explanation": "Tous les poissons-clowns naissent mâles, et c'est le plus dominant du groupe, généralement le plus grand, qui se transforme en femelle. À la disparition de celle-ci, le mâle le plus dominant restant prend alors sa place en changeant de sexe à son tour.",
+      "options": [
+        "L'hermaphrodisme séquentiel",
+        "La métamorphose",
+        "La mue",
+        "La régénération"
+      ]
+    },
+    {
+      "id": "nature_animaux_regne_animal_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on le vol collectif et spectaculaire de milliers d'étourneaux, qui forment ensemble des nuages mouvants et changeants dans le ciel ?",
+      "answer": "Une murmuration",
+      "explanation": "Ces ballets aériens impressionnants, observables notamment au crépuscule en hiver, résultent de chaque oiseau réagissant en temps réel aux mouvements de ses plus proches voisins, sans chef d'orchestre ni coordination centralisée. Ce comportement offrirait une protection collective contre les rapaces.",
+      "options": [
+        "Une murmuration",
+        "Une nuée",
+        "Une parade",
+        "Une transhumance"
+      ]
     }
   ],
   "Nature & Animaux : Plantes & Écosystèmes": [
@@ -829,6 +997,174 @@
       ],
       "answer": "La Welwitschia",
       "explanation": "Unique représentante de sa famille botanique, la Welwitschia mirabilis ne développe jamais que deux feuilles, qui continuent de croître tout au long de sa très longue vie tout en se déchirant progressivement sous l'effet du vent du désert."
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle plante du désert stocke l'eau dans sa tige charnue et voit ses feuilles transformées en épines pour limiter les pertes d'eau ?",
+      "answer": "Le cactus",
+      "explanation": "Grâce à ses épines, le cactus limite l'évaporation et se protège des herbivores, tandis que sa tige gonflée agit comme une réserve d'eau pour traverser de longues périodes de sécheresse. C'est d'ailleurs sa tige verte, et non ses feuilles disparues, qui assure la photosynthèse.",
+      "options": [
+        "Le cactus",
+        "L'aloès",
+        "L'agave",
+        "Le yucca"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel arbre européen à feuilles lobées produit des fruits appelés glands et est traditionnellement associé à la force et à la longévité ?",
+      "answer": "Le chêne",
+      "explanation": "Certains chênes peuvent vivre plusieurs siècles, voire dépasser les mille ans pour les spécimens les plus remarquables. Ses glands constituent une ressource alimentaire précieuse pour de nombreux animaux forestiers, notamment les sangliers et les écureuils.",
+      "options": [
+        "Le chêne",
+        "Le hêtre",
+        "Le châtaignier",
+        "Le frêne"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel arbre méditerranéen, pouvant vivre plus de mille ans, produit les fruits dont on extrait l'huile d'olive ?",
+      "answer": "L'olivier",
+      "explanation": "Certains oliviers du bassin méditerranéen, notamment en Grèce ou en Corse, seraient âgés de plusieurs siècles à plus d'un millénaire. Son bois noueux et son feuillage argenté en ont fait un symbole de paix et de longévité dans de nombreuses cultures.",
+      "options": [
+        "L'olivier",
+        "Le figuier",
+        "L'amandier",
+        "Le cyprès"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle fleur est célèbre pour orienter sa corolle vers le soleil durant sa croissance, un phénomène appelé héliotropisme ?",
+      "answer": "Le tournesol",
+      "explanation": "Ce mouvement de rotation, qui suit la course du soleil d'est en ouest durant la journée, ne concerne que les jeunes tournesols en pleine croissance. Une fois arrivée à maturité, la fleur se fixe définitivement orientée vers l'est.",
+      "options": [
+        "Le tournesol",
+        "Le pavot",
+        "La marguerite",
+        "Le coquelicot"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel organisme, résultant d'une symbiose entre un champignon et une algue ou une cyanobactérie, est utilisé comme indicateur de la qualité de l'air ?",
+      "answer": "Le lichen",
+      "explanation": "Dans cette association, le champignon fournit un support et une protection tandis que l'algue ou la cyanobactérie assure la photosynthèse. Très sensible à la pollution atmosphérique, le lichen disparaît rapidement des zones où l'air est fortement pollué, ce qui en fait un précieux bio-indicateur.",
+      "options": [
+        "Le lichen",
+        "La mousse",
+        "La fougère",
+        "L'algue"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel écosystème sous-marin, formé de grandes algues brunes pouvant pousser de plusieurs dizaines de centimètres par jour, abrite une riche biodiversité le long de côtes tempérées comme en Californie ?",
+      "answer": "La forêt de kelp",
+      "explanation": "Le kelp géant, aussi appelé laminaire, compte parmi les organismes à la croissance la plus rapide du règne végétal. Ces véritables forêts sous-marines abritent loutres de mer, poissons et invertébrés, et jouent un rôle important dans l'absorption du carbone.",
+      "options": [
+        "La forêt de kelp",
+        "Le récif corallien",
+        "La mangrove",
+        "L'herbier de posidonie"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel biome, caractérisé par une vaste étendue herbeuse parsemée d'arbres épars comme les acacias, abrite les grandes migrations de gnous et de zèbres en Afrique de l'Est ?",
+      "answer": "La savane",
+      "explanation": "La savane africaine connaît une alternance marquée entre saison sèche et saison des pluies, qui rythme les déplacements de millions d'herbivores à la recherche de pâturages frais, notamment lors de la grande migration entre le Serengeti et le Masai Mara.",
+      "options": [
+        "La savane",
+        "La steppe",
+        "La prairie",
+        "La jungle"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on les plantes, comme de nombreuses orchidées tropicales, qui poussent perchées sur d'autres plantes sans les parasiter, profitant simplement de la lumière en hauteur ?",
+      "answer": "Une épiphyte",
+      "explanation": "Contrairement aux lianes qui s'enracinent dans le sol tout en grimpant le long des troncs, les épiphytes vivent entièrement perchées sur leur support et puisent l'eau et les nutriments directement dans l'air, la pluie et les débris organiques accumulés autour de leurs racines.",
+      "options": [
+        "Une épiphyte",
+        "Une liane",
+        "Un parasite",
+        "Un saprophyte"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle famille de plantes, comme le trèfle, les pois ou les haricots, vit en symbiose avec des bactéries capables de fixer l'azote de l'air directement dans le sol grâce à des nodosités sur leurs racines ?",
+      "answer": "Les légumineuses",
+      "explanation": "Cette capacité à enrichir naturellement le sol en azote explique pourquoi les légumineuses sont souvent cultivées en rotation avec d'autres cultures, une pratique agricole ancienne qui limite le recours aux engrais azotés de synthèse.",
+      "options": [
+        "Les légumineuses",
+        "Les graminées",
+        "Les crucifères",
+        "Les solanacées"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel désert d'Amérique du Sud, considéré comme l'un des lieux les plus arides de la planète, connaît des zones où aucune pluie n'a été enregistrée depuis des décennies ?",
+      "answer": "Le désert d'Atacama",
+      "explanation": "Situé entre la cordillère des Andes et l'océan Pacifique au Chili, l'Atacama doit son extrême sécheresse à sa position géographique qui le prive à la fois des pluies andines et de l'humidité océanique. Certaines stations météorologiques y ont enregistré des décennies sans la moindre précipitation mesurable.",
+      "options": [
+        "Le désert d'Atacama",
+        "Le désert du Kalahari",
+        "Le désert de Gobi",
+        "Le désert du Namib"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel nom désigne la propriété d'auto-nettoyage des feuilles du lotus sacré, dont la surface superhydrophobe fait perler l'eau et emporte les impuretés au passage ?",
+      "answer": "L'effet lotus",
+      "explanation": "Ce phénomène s'explique par une microstructure rugueuse à la surface des feuilles, qui empêche l'eau de s'étaler et la force à former des gouttes emportant poussières et impuretés en roulant. Cette propriété a depuis inspiré la création de peintures et de textiles autonettoyants.",
+      "options": [
+        "L'effet lotus",
+        "L'effet de serre",
+        "La transpiration",
+        "La guttation"
+      ]
+    },
+    {
+      "id": "nature_animaux_plantes_ecosystemes_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on la capacité de certaines plantes, comme le chrysanthème, à ajuster leur floraison en fonction de la durée du jour et de la nuit ?",
+      "answer": "Le photopériodisme",
+      "explanation": "Le chrysanthème est une plante dite de jours courts, qui ne fleurit que lorsque les nuits deviennent suffisamment longues, généralement à l'automne. Les horticulteurs exploitent ce mécanisme en contrôlant artificiellement la lumière pour forcer sa floraison à d'autres moments de l'année.",
+      "options": [
+        "Le photopériodisme",
+        "L'héliotropisme",
+        "La dormance",
+        "La photosynthèse"
+      ]
     }
   ]
 }

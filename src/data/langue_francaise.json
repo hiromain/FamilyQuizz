@@ -413,6 +413,174 @@
       ],
       "answer": "De la boxe anglaise, où l'entraîneur jetait une éponge dans le ring pour arrêter le combat",
       "explanation": "Utilisée entre les rounds pour rafraîchir et éponger le visage du boxeur, l'éponge devenait le signal d'abandon lorsque l'entraîneur la jetait sur le ring pour signifier à l'arbitre qu'il fallait stopper immédiatement le combat."
+    },
+    {
+      "id": "langue_francaise_origine_expressions_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Que signifie l'expression 'Prendre ses jambes à son cou' ?",
+      "answer": "S'enfuir en courant très vite",
+      "explanation": "Attestée dès 1618 sous la forme 'prendre ses jambes sur son col', l'expression désignait à l'origine le fait de se mettre en route, bagage au cou, souvent à la hâte. Son sens actuel de fuite précipitée s'est fixé au XVIIIe siècle et reste très employé aujourd'hui.",
+      "options": [
+        "S'enfuir en courant très vite",
+        "Être très fatigué après un effort",
+        "Se blesser en tombant",
+        "Avoir des courbatures"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Que signifie l'expression 'Avoir un coup de foudre' ?",
+      "answer": "Tomber immédiatement amoureux de quelqu'un",
+      "explanation": "L'expression compare la soudaineté et la puissance d'un sentiment amoureux naissant à celles d'un éclair frappant sans prévenir. Elle est utilisée dans ce sens figuré depuis le XVIIIe siècle.",
+      "options": [
+        "Tomber immédiatement amoureux de quelqu'un",
+        "Avoir une idée de génie soudaine",
+        "Se faire surprendre par un orage",
+        "Ressentir une peur soudaine"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Que signifie l'expression 'Rester bouche bée' ?",
+      "answer": "Être stupéfait au point d'en rester sans voix",
+      "explanation": "Le mot 'bée' vient du verbe ancien 'béer', qui signifiait rester la bouche grande ouverte. L'expression décrit un étonnement si intense qu'il empêche momentanément de parler.",
+      "options": [
+        "Être stupéfait au point d'en rester sans voix",
+        "Avoir extrêmement faim",
+        "Bâiller de fatigue",
+        "Être incapable de parler une langue étrangère"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Que signifie l'expression 'Faire la sourde oreille' ?",
+      "answer": "Faire semblant de ne pas entendre une demande",
+      "explanation": "L'expression désigne le fait d'ignorer volontairement ce que l'on entend pourtant très bien, en feignant la surdité pour éviter de répondre à une requête gênante.",
+      "options": [
+        "Faire semblant de ne pas entendre une demande",
+        "Écouter très attentivement",
+        "Parler trop fort sans s'en rendre compte",
+        "Chuchoter pour ne pas être entendu"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Mettre son grain de sel' ?",
+      "answer": "Donner son avis sans qu'on le lui ait demandé",
+      "explanation": "Le sens est bien établi : intervenir dans une conversation ou une affaire sans y avoir été convié. L'origine précise de l'image reste en revanche débattue par les étymologistes : certains y voient un grain de sel qui vient relever, sans y être invité, un plat déjà préparé, d'autres un lointain écho de la formule latine 'cum grano salis'.",
+      "options": [
+        "Donner son avis sans qu'on le lui ait demandé",
+        "Ajouter une touche d'humour à une histoire",
+        "Se mêler d'une dispute pour l'apaiser",
+        "Corriger une erreur discrètement"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Avoir la puce à l'oreille' ?",
+      "answer": "Être éveillé par un doute ou un soupçon",
+      "explanation": "Apparue au XIIIe siècle sous la forme 'mettre la puce en l'oreille', l'expression signifiait alors éveiller un désir amoureux, sens qu'on retrouve encore chez La Fontaine. Ce n'est qu'au XVIIe siècle qu'elle a pris son sens actuel d'inquiétude ou de soupçon, sans doute par association avec la croyance que les oreilles démangent lorsque l'on parle de vous.",
+      "options": [
+        "Être éveillé par un doute ou un soupçon",
+        "Avoir une bonne intuition financière",
+        "Être facilement distrait",
+        "Adorer colporter des rumeurs"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Faire d'une pierre deux coups' ?",
+      "answer": "Atteindre deux objectifs grâce à une seule action",
+      "explanation": "L'image renvoie à un lanceur de pierre suffisamment adroit pour toucher deux cibles avec un seul projectile, symbolisant l'efficacité de qui parvient à régler deux affaires en une seule fois.",
+      "options": [
+        "Atteindre deux objectifs grâce à une seule action",
+        "Se disputer avec deux personnes en même temps",
+        "Échouer deux fois de suite",
+        "Lancer un défi à deux adversaires"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Couper la poire en deux' ?",
+      "answer": "Trouver un compromis entre deux positions",
+      "explanation": "L'expression illustre l'idée d'un partage équitable entre deux parties qui ne s'accordent pas totalement, chacune renonçant à une part de ses exigences pour parvenir à un accord satisfaisant les deux camps.",
+      "options": [
+        "Trouver un compromis entre deux positions",
+        "Partager équitablement un héritage",
+        "Refuser catégoriquement de négocier",
+        "Prendre une décision à la place de quelqu'un d'autre"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Que signifie l'expression 'Prendre le taureau par les cornes' ?",
+      "answer": "Affronter une difficulté avec détermination",
+      "explanation": "L'origine précise de l'expression reste incertaine : les lexicographes n'en attestent la forme figée qu'au XVIIIe siècle (une occurrence proche est relevée dès 1727), et certains y voient un écho du mythe d'Hercule capturant le taureau de Crète en le saisissant par les cornes. Dans tous les cas, l'image symbolise le fait d'affronter directement une difficulté plutôt que de l'éviter.",
+      "options": [
+        "Affronter une difficulté avec détermination",
+        "Éviter soigneusement un problème",
+        "Provoquer une dispute sans raison",
+        "Agir sans réfléchir aux conséquences"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "D'où vient l'expression 'Tirer à boulets rouges sur quelqu'un', qui signifie critiquer violemment ?",
+      "answer": "De l'artillerie ancienne, où les boulets de canon chauffés au rouge causaient des dégâts redoublés",
+      "explanation": "Portés au rouge dans un four avant d'être tirés, ces boulets incendiaires provoquaient bien plus de destruction que des boulets ordinaires, notamment en mettant le feu aux navires ou aux fortifications visés. L'expression a conservé cette idée d'attaque redoublée et impitoyable.",
+      "options": [
+        "De l'artillerie ancienne, où les boulets de canon chauffés au rouge causaient des dégâts redoublés",
+        "D'un jeu de fléchettes populaire au XIXe siècle",
+        "D'une technique de forge utilisée pour punir les voleurs",
+        "D'un rite de chasse consistant à traquer le gibier au flambeau"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "D'où vient l'expression 'Avoir voix au chapitre', qui signifie avoir le droit de donner son avis sur une décision ?",
+      "answer": "Des assemblées de chanoines, où seuls certains membres avaient le droit de voter",
+      "explanation": "Dans les communautés religieuses, le 'chapitre' désignait l'assemblée des chanoines ou des moines réunis pour délibérer. Seuls certains membres disposaient du droit de s'y exprimer et d'y voter, d'où l'idée d'avoir légitimement son mot à dire dans une décision.",
+      "options": [
+        "Des assemblées de chanoines, où seuls certains membres avaient le droit de voter",
+        "Des tribunaux médiévaux, où seuls les nobles pouvaient témoigner",
+        "Des premières éditions imprimées, organisées en chapitres numérotés",
+        "Des assemblées de marchands qui votaient chapitre par chapitre les règlements"
+      ]
+    },
+    {
+      "id": "langue_francaise_origine_expressions_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "D'où vient l'expression 'Battre son plein', qui signifie être à son apogée, en pleine effervescence ?",
+      "answer": "Du vocabulaire maritime désignant la marée haute à son maximum",
+      "explanation": "À l'origine, l'expression décrivait la marée qui 'bat son plein', c'est-à-dire qui atteint son niveau le plus haut avant de redescendre. Elle s'emploie aujourd'hui pour toute activité, fête ou événement en plein essor.",
+      "options": [
+        "Du vocabulaire maritime désignant la marée haute à son maximum",
+        "D'un jeu de cartes où l'on annonce un plein de points",
+        "D'une technique de boulangerie où la pâte atteint son volume maximal",
+        "D'une expression militaire désignant une armée au complet de ses effectifs"
+      ]
     }
   ],
   "Langue Française : Curiosités & Mots Rares": [
@@ -829,6 +997,282 @@
       ],
       "answer": "La lexicologie",
       "explanation": "La lexicologie s'intéresse notamment aux mécanismes de création lexicale, comme la dérivation, la composition ou l'emprunt à d'autres langues, qui permettent à une langue vivante d'enrichir continuellement son vocabulaire."
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on deux mots de sens identique ou très proche, comme 'joyeux' et 'content' ?",
+      "answer": "Des synonymes",
+      "explanation": "Le français est réputé pour sa richesse en synonymes, ce qui permet de nuancer subtilement une même idée selon le registre de langue, le contexte ou l'effet stylistique recherché.",
+      "options": [
+        "Des synonymes",
+        "Des antonymes",
+        "Des homonymes",
+        "Des paronymes"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on une expression qui répète inutilement une idée déjà exprimée, comme 'monter en haut' ou 'descendre en bas' ?",
+      "answer": "Un pléonasme",
+      "explanation": "Le pléonasme est souvent considéré comme une faute de style car il alourdit la phrase sans rien ajouter au sens. Certains pléonasmes, comme 'sortir dehors', sont pourtant passés dans l'usage courant.",
+      "options": [
+        "Un pléonasme",
+        "Un oxymore",
+        "Un euphémisme",
+        "Un anglicisme"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel mot désignant aujourd'hui un récipient à ordures vient du nom d'Eugène Poubelle, le préfet qui en imposa l'usage à Paris en 1884 ?",
+      "answer": "Poubelle",
+      "explanation": "En tant que préfet de la Seine, Eugène Poubelle imposa par arrêté aux Parisiens d'utiliser des récipients couverts pour leurs ordures ménagères. Son nom est resté associé à cet objet devenu banal du quotidien.",
+      "options": [
+        "Poubelle",
+        "Bidon",
+        "Container",
+        "Bac"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Comment appelle-t-on le fait de dire le contraire de ce que l'on pense, souvent par ironie, comme dire 'quel beau temps !' sous une pluie battante ?",
+      "answer": "Une antiphrase",
+      "explanation": "L'antiphrase repose entièrement sur le ton employé et le contexte pour être comprise : sans eux, l'auditeur pourrait prendre au premier degré une phrase qui exprime en réalité l'exact contraire.",
+      "options": [
+        "Une antiphrase",
+        "Une litote",
+        "Un euphémisme",
+        "Une hyperbole"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel mot désignant un contour ou une forme sombre se détachant sur un fond clair vient du nom d'Étienne de Silhouette, ministre des Finances réputé pour son austérité ?",
+      "answer": "Silhouette",
+      "explanation": "Contrôleur général des finances de Louis XV en 1759, Étienne de Silhouette imposa des mesures d'austérité si sévères que son nom fut associé par moquerie à tout ce qui était fait au rabais, dont les portraits simplifiés tracés d'un simple contour noir.",
+      "options": [
+        "Silhouette",
+        "Ombre",
+        "Profil",
+        "Contour"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on un jeu de mots consistant à permuter des sons entre deux mots d'une phrase pour en faire apparaître un autre sens, souvent grivois ?",
+      "answer": "Une contrepèterie",
+      "explanation": "Pratiquée depuis la Renaissance et popularisée par des auteurs comme Rabelais, la contrepèterie s'est particulièrement développée au XXe siècle grâce à la chronique du Canard enchaîné, qui en a fait un art à part entière.",
+      "options": [
+        "Une contrepèterie",
+        "Une paronomase",
+        "Une antanaclase",
+        "Un calembour"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel mot scientifique désignant l'alcaloïde du tabac vient du nom de Jean Nicot, ambassadeur qui introduisit la plante à la cour de France ?",
+      "answer": "La nicotine",
+      "explanation": "Ambassadeur de France au Portugal au XVIe siècle, Jean Nicot envoya des plants de tabac à la reine Catherine de Médicis en vantant ses vertus médicinales. Son nom fut ensuite donné à la molécule responsable de la dépendance au tabac.",
+      "options": [
+        "La nicotine",
+        "La caféine",
+        "La morphine",
+        "La quinine"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_38",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on un poème dont la disposition des mots sur la page dessine la forme de son propre sujet, un procédé popularisé par le poète Guillaume Apollinaire ?",
+      "answer": "Un calligramme",
+      "explanation": "Publié en 1918, le recueil 'Calligrammes' d'Apollinaire contient des poèmes dont les vers sont disposés pour former des images, comme une pluie, une cravate ou une tour Eiffel, unissant ainsi texte et dessin.",
+      "options": [
+        "Un calligramme",
+        "Un acrostiche",
+        "Un pangramme",
+        "Un idéogramme"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Comment appelle-t-on un sigle qui, contrairement à un sigle classique, se prononce comme un mot ordinaire, comme 'radar' ou 'ovni' ?",
+      "answer": "Un acronyme",
+      "explanation": "Contrairement à un sigle comme 'SNCF', qui s'épelle lettre par lettre, un acronyme se prononce globalement comme un mot : 'radar' (RAdio Detection And Ranging) ou 'ovni' (objet volant non identifié) en sont des exemples si bien passés dans le langage courant qu'on en oublie l'origine.",
+      "options": [
+        "Un acronyme",
+        "Un sigle",
+        "Un acrostiche",
+        "Un anagramme"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on la figure de style qui transforme un nom propre en nom commun, comme dire 'un harpagon' pour désigner un avare ?",
+      "answer": "Une antonomase",
+      "explanation": "L'antonomase s'appuie sur un personnage si emblématique d'un trait de caractère que son nom seul suffit à le désigner, comme Harpagon, l'avare créé par Molière, devenu presque synonyme de l'avarice elle-même.",
+      "options": [
+        "Une antonomase",
+        "Une métonymie",
+        "Une synecdoque",
+        "Une catachrèse"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle confiserie à base d'amande caramélisée tire son nom du maréchal du Plessis-Praslin, dont le cuisinier en aurait eu l'idée au XVIIe siècle ?",
+      "answer": "La praline",
+      "explanation": "Selon la tradition, c'est le cuisinier du maréchal César de Choiseul, comte du Plessis-Praslin, qui aurait inventé cette confiserie en faisant caraméliser des amandes, donnant ainsi son nom déformé à cette douceur restée célèbre.",
+      "options": [
+        "La praline",
+        "Le nougat",
+        "Le caramel",
+        "Le berlingot"
+      ]
+    },
+    {
+      "id": "langue_francaise_curiosites_mots_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Comment appelle-t-on, en linguistique, un mot qui n'apparaît qu'une seule fois dans un texte, une œuvre ou l'ensemble des documents connus d'une langue ?",
+      "answer": "Un hapax",
+      "explanation": "Le terme vient du grec 'hapax legomenon', signifiant 'dit une seule fois'. Ces mots posent souvent un défi aux linguistes et aux traducteurs, qui doivent déduire leur sens du seul contexte disponible.",
+      "options": [
+        "Un hapax",
+        "Un néologisme",
+        "Un archaïsme",
+        "Un barbarisme"
+      ]
+    }
+  ],
+  "Origine des Expressions": [
+    {
+      "question": "L'expression « c'est du potable » ou « poubelle » vient du nom d'une personne historique. Laquelle?",
+      "options": [
+        "Monsieur Poubel",
+        "Eugène Poubelle",
+        "Jean Potelle",
+        "Alphonse Pubin"
+      ],
+      "answer": 1,
+      "explanation": "Le mot « poubelle » vient d'Eugène Poubelle (1831-1907), un préfet de police de Paris qui en 1884 a imposé l'usage de récipients fermés pour les ordures ménagères. Le mot s'est popularisé pour désigner les récipients à ordures.",
+      "difficulty": "medium",
+      "id": "origine_des_expressions_1"
+    },
+    {
+      "question": "Le mot « silhouette » (ombre noire d'un profil) provient du nom d'une personnalité politique française. Qui était-ce?",
+      "options": [
+        "Étienne de Silhouette",
+        "Louis de Silhouette",
+        "Pierre de Silhouette",
+        "Jean de Silhouette"
+      ],
+      "answer": 0,
+      "explanation": "Étienne de Silhouette (1709-1764), contrôleur des finances français, a donné son nom au mot « silhouette ». On pense que le terme aurait été utilisé ironiquement pour désigner les portraits en noir et blanc qu'on considérait comme trop minimalistes et bon marché.",
+      "difficulty": "hard",
+      "id": "origine_des_expressions_2"
+    },
+    {
+      "question": "Le mot « nicotine » vient du nom d'une plante ou d'une personne historique. Laquelle?",
+      "options": [
+        "Nicolas de Nicot",
+        "Jean Nicot",
+        "Le botaniste Nicotius",
+        "La région de Nicotia"
+      ],
+      "answer": 1,
+      "explanation": "Le mot « nicotine » vient de Jean Nicot (1530-1604), un ambassadeur français au Portugal qui a popularisé l'usage du tabac en France. L'alcaloïde toxique de la nicotine a reçu ce nom en son honneur.",
+      "difficulty": "hard",
+      "id": "origine_des_expressions_3"
+    },
+    {
+      "question": "Le verbe « boycotter » provient du nom de famille d'une personne qui a subi un embargo en Irlande. Quel était ce nom?",
+      "options": [
+        "Charles Boycott",
+        "William Boycott",
+        "Henry Boycott",
+        "Samuel Boycott"
+      ],
+      "answer": 0,
+      "explanation": "Charles Boycott (1832-1897) était un agent foncier irlandais qui a subi un boycott organisé en 1880 par les fermiers locaux durant la Ligue Agraire Irlandaise. Cette action a popularisé le terme pour désigner l'acte de refuser de commercer avec quelqu'un.",
+      "difficulty": "hard",
+      "id": "origine_des_expressions_4"
+    }
+  ],
+  "Curiosités & Mots Rares": [
+    {
+      "question": "Un « pangrame » est un texte littéraire ayant une propriété particulière. Laquelle?",
+      "options": [
+        "Il raconte l'histoire d'un pangrammatiste antique",
+        "Il contient toutes les lettres de l'alphabet au moins une fois",
+        "Il utilise le même son à chaque début de mot",
+        "Il refuse volontairement d'utiliser la lettre 'e'"
+      ],
+      "answer": 1,
+      "explanation": "Un pangrame est une phrase ou un texte qui contient toutes les lettres de l'alphabet au moins une fois. L'exemple le plus célèbre en anglais est « The quick brown fox jumps over the lazy dog ». En français : « Portez ce vieux whisky au juge blond qui fume ».",
+      "difficulty": "medium",
+      "id": "curiosités_et_mots_rares_1"
+    },
+    {
+      "question": "Une « onomatopée » est un mot qui représente un son. Laquelle de ces options en est UNE?",
+      "options": [
+        "Silence",
+        "Zzzzz (le bruit du sommeil)",
+        "Mouche",
+        "Écho"
+      ],
+      "answer": 1,
+      "explanation": "Une onomatopée est un mot qui imite le bruit qu'il représente, comme « zzzzz » (sommeil), « boom » (explosion), « tic-tac » (pendule), « meuh » (vache). Le mot lui-même imite le son réel.",
+      "difficulty": "easy",
+      "id": "curiosités_et_mots_rares_2"
+    },
+    {
+      "question": "Un « oxymore » ou « oxymoron » est une figure de style qui combine deux éléments contradictoires. Lequel de ces exemples en est UN?",
+      "options": [
+        "« Jumeau unique »",
+        "« Trois frères »",
+        "« Soleil brillant »",
+        "« Silence musical »"
+      ],
+      "answer": 0,
+      "explanation": "Un oxymore (ou oxymoron) combine deux termes de sens contradictoire pour créer un effet de sens. « Jumeau unique » est un parfait exemple car un jumeau, par définition, n'est pas unique. Autres exemples : « mensonge sincère », « bruit silencieux ».",
+      "difficulty": "medium",
+      "id": "curiosités_et_mots_rares_3"
+    },
+    {
+      "question": "Un « tautogramme » est un texte littéraire avec une caractéristique rare. Laquelle?",
+      "options": [
+        "Tous les mots commencent par la même lettre",
+        "Tous les mots rimant entre eux",
+        "Tous les mots contiennent le même nombre de syllabes",
+        "Tous les mots décrivant le même sujet"
+      ],
+      "answer": 0,
+      "explanation": "Un tautogramme est un texte dont tous les mots commencent par la même lettre. Par exemple, en français : « Brigitte boit bien de bon bordeaux » commence tous les mots par « B ». C'est un jeu littéraire linguistique qui teste la créativité de l'auteur.",
+      "difficulty": "hard",
+      "id": "curiosités_et_mots_rares_4"
     }
   ]
 }

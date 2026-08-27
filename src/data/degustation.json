@@ -419,6 +419,218 @@
       ],
       "answer": "Fumé (ou tourbé)",
       "explanation": "Les notes fumées et tourbées qui caractérisent certains Scotch whiskies proviennent du séchage traditionnel des grains d'orge germés au-dessus d'un feu de tourbe. Lors de cette étape du maltage, la fumée dense pénètre l'écorce des grains et y dépose des molécules aromatiques appelées phénols. L'intensité de cette signature fumée est mesurée en parties par million (PPM) de phénols, allant de distillats très légers à des profils extrêmement puissants et médicinaux typiques de l'île d'Islay."
+    },
+    {
+      "id": "whisky_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel pays revendique la plus ancienne licence de distillation de whiskey connue au monde, accordée en 1608 dans la région de Bushmills ?",
+      "answer": "L'Irlande",
+      "explanation": "C'est dans le comté d'Antrim, en Irlande du Nord, qu'une licence royale accordée par Jacques Ier en 1608 autorisa la distillation dans la région de Bushmills, un document que la distillerie du même nom met aujourd'hui en avant comme la plus ancienne licence de whiskey attestée. L'Irlande revendique ainsi une tradition de distillation particulièrement ancienne, parallèle à celle de l'Écosse voisine.",
+      "options": [
+        "L'Irlande",
+        "L'Écosse",
+        "Les États-Unis",
+        "Le Canada"
+      ]
+    },
+    {
+      "id": "whisky_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quelle est la plus vaste des cinq régions historiques de production de Scotch whisky, englobant une grande diversité de styles du nord au centre de l'Écosse ?",
+      "answer": "Les Highlands",
+      "explanation": "Les Highlands forment de loin la plus grande région de production écossaise en superficie, s'étendant du nord montagneux jusqu'aux abords du Speyside. Cette immensité géographique explique une très grande diversité de profils, allant de whiskies légers et floraux à des styles plus corsés et parfois légèrement tourbés selon la proximité de la côte.",
+      "options": [
+        "Les Highlands",
+        "Les Lowlands",
+        "Le Speyside",
+        "Campbeltown"
+      ]
+    },
+    {
+      "id": "whisky_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel inventeur irlandais a breveté en 1830 la colonne de distillation continue qui porte aujourd'hui son nom et qui a permis l'essor du whisky de grain ?",
+      "answer": "Aeneas Coffey",
+      "explanation": "Ancien inspecteur des douanes irlandaises, Aeneas Coffey perfectionna et breveta en 1830 un alambic à colonne permettant une distillation continue, beaucoup plus rapide et économique que la distillation en alambic traditionnel. Cette invention a rendu possible la production industrielle de whisky de grain, ingrédient indispensable à l'essor ultérieur des blended whiskies.",
+      "options": [
+        "Aeneas Coffey",
+        "John Dewar",
+        "Andrew Usher",
+        "Robert Burns"
+      ]
+    },
+    {
+      "id": "whisky_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle particularité obligatoire concerne les fûts utilisés pour l'élevage du Bourbon américain, à la différence de la majorité des Scotch whiskies qui réutilisent des fûts déjà usagés ?",
+      "answer": "Ce sont des fûts neufs de chêne américain brûlés à l'intérieur",
+      "explanation": "La réglementation américaine impose que le Bourbon vieillisse exclusivement dans des fûts de chêne neufs dont l'intérieur a été carbonisé (\"charred\"). Cette carbonisation caramélise les sucres du bois et crée une fine couche de charbon qui filtre le distillat, apportant au Bourbon ses arômes typiques de vanille et de caramel. Ces fûts, utilisés une seule fois, sont ensuite très recherchés par les distilleries de whisky écossais ou de rhum pour un second usage.",
+      "options": [
+        "Ce sont des fûts neufs de chêne américain brûlés à l'intérieur",
+        "Ce sont des fûts ayant déjà contenu du vin de Xérès",
+        "Ce sont des fûts en châtaignier jamais brûlés",
+        "Ce sont des fûts recyclés sans limite de nombre d'utilisations"
+      ]
+    },
+    {
+      "id": "whisky_35",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel verre tulipe, conçu en Écosse en 2001, est aujourd'hui reconnu comme la référence pour la dégustation professionnelle de whisky ?",
+      "answer": "Le verre Glencairn",
+      "explanation": "Créé en 2001 par la société écossaise Glencairn Crystal, ce verre au corps large et à l'ouverture resserrée a été spécialement dessiné pour concentrer les arômes du whisky vers le nez du dégustateur. Adopté par la quasi-totalité des distilleries écossaises pour leurs dégustations officielles, il a largement supplanté le simple verre tumbler autrefois utilisé pour servir le whisky avec des glaçons.",
+      "options": [
+        "Le verre Glencairn",
+        "La flûte à Champagne",
+        "Le verre ballon à Cognac",
+        "Le tumbler Old Fashioned"
+      ]
+    },
+    {
+      "id": "whisky_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle expression gaélique écossaise, signifiant littéralement \"eau de vie\", est à l'origine étymologique directe du mot whisky ?",
+      "answer": "Uisge beatha",
+      "explanation": "L'expression gaélique écossaise \"uisge beatha\" désigne littéralement l'eau de vie et fut progressivement anglicisée en \"usquebaugh\" puis simplifiée en \"whisky\". Elle traduit elle-même le latin médiéval \"aqua vitae\", une expression employée dans toute l'Europe pour désigner les premiers alcools distillés à visée médicinale.",
+      "options": [
+        "Uisge beatha",
+        "Aqua vitae",
+        "Wasser des Lebens",
+        "Aigua de vida"
+      ]
+    },
+    {
+      "id": "whisky_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle catégorie légale de whiskey américain doit contenir au moins 80% de maïs et n'est soumise à aucune obligation de vieillissement en fût ?",
+      "answer": "Le Corn Whiskey",
+      "explanation": "Contrairement au Bourbon qui exige un vieillissement en fûts neufs de chêne brûlé, le Corn Whiskey peut légalement être vendu non vieilli, tout juste sorti de l'alambic, ou élevé dans des fûts usagés ou non carbonisés. Il doit néanmoins respecter une proportion minimale de 80% de maïs dans sa recette, ce qui lui donne un profil plus doux et moins boisé que ses cousins vieillis.",
+      "options": [
+        "Le Corn Whiskey",
+        "Le Bourbon",
+        "Le Rye Whiskey",
+        "Le Tennessee Whiskey"
+      ]
+    },
+    {
+      "id": "whisky_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Lors de la seconde distillation du whisky écossais, comment appelle-t-on la portion centrale et pure du distillat, isolée entre les \"têtes\" et les \"queues\" grâce au coffre à essais ?",
+      "answer": "Le cœur de chauffe",
+      "explanation": "À l'aide du \"spirit safe\", un coffre en cuivre et en verre scellé, le distillateur observe et mesure en continu le distillat pour ne conserver que le cœur de chauffe, la portion la plus pure et équilibrée de la distillation. Les têtes, riches en composés volatils indésirables, et les queues, plus lourdes et huileuses, sont écartées ou repassées dans une distillation ultérieure.",
+      "options": [
+        "Le cœur de chauffe",
+        "Les basses vins",
+        "Le vin de goutte",
+        "Le petit lait"
+      ]
+    },
+    {
+      "id": "whisky_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel Japonais, ayant étudié la chimie et les techniques de distillation en Écosse au début du XXe siècle avant de fonder la distillerie Nikka, est surnommé le \"père du whisky japonais\" ?",
+      "answer": "Masataka Taketsuru",
+      "explanation": "Parti étudier la chimie organique à l'université de Glasgow puis se former dans plusieurs distilleries écossaises, Masataka Taketsuru rapporta au Japon un savoir-faire précieux et contribua d'abord à la création de la distillerie Yamazaki avec Shinjiro Torii. Il fonda ensuite sa propre maison, Nikka, à Yoichi sur l'île d'Hokkaido en 1934, dont le climat frais et maritime lui rappelait l'Écosse.",
+      "options": [
+        "Masataka Taketsuru",
+        "Shinjiro Torii",
+        "Keizo Saji",
+        "Ichiro Akuto"
+      ]
+    },
+    {
+      "id": "whisky_40",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cocktail classique et intemporel, l'un des plus anciens répertoriés, associe simplement du whisky, un sucre, quelques traits d'Angostura bitters et un zeste d'agrume ?",
+      "answer": "Le Old Fashioned",
+      "explanation": "Le Old Fashioned est considéré comme l'un des plus anciens cocktails documentés, sa recette remontant au XIXe siècle. Sa simplicité revendiquée, un whisky de qualité sublimé par juste ce qu'il faut de sucre, d'amertume et d'agrume, en fait un classique intemporel encore très prisé des amateurs de spiritueux du monde entier.",
+      "options": [
+        "Le Old Fashioned",
+        "Le Whisky Sour",
+        "Le Manhattan",
+        "Le Mint Julep"
+      ]
+    },
+    {
+      "id": "whisky_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle petite région côtière écossaise, autrefois surnommée \"la capitale mondiale du whisky\" au XIXe siècle avec plus de trente distilleries, n'en compte plus que trois aujourd'hui ?",
+      "answer": "Campbeltown",
+      "explanation": "Située sur la péninsule de Kintyre, Campbeltown comptait au XIXe siècle plus d'une trentaine de distilleries actives grâce à sa position portuaire stratégique. La crise économique du début du XXe siècle et la Prohibition américaine ont provoqué son déclin brutal, et la région, la plus petite des appellations officielles écossaises, ne conserve plus aujourd'hui que trois distilleries en activité.",
+      "options": [
+        "Campbeltown",
+        "L'île d'Islay",
+        "Le Speyside",
+        "Les Lowlands"
+      ]
+    },
+    {
+      "id": "whisky_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle distillerie indienne de Bangalore, fondée en 1948, a marqué l'histoire en 2010 en devenant l'un des premiers whiskies indiens à recevoir une distinction critique internationale majeure ?",
+      "answer": "Amrut",
+      "explanation": "En 2010, le critique britannique Jim Murray a classé l'Amrut Fusion parmi les meilleurs whiskies du monde dans son ouvrage de référence \"Whisky Bible\", un événement retentissant qui a fait connaître le single malt indien à l'échelle internationale. Le climat tropical de Bangalore accélère fortement la maturation du whisky, un peu à la manière de ce que l'on observe à Taïwan.",
+      "options": [
+        "Amrut",
+        "Paul John",
+        "Rampur",
+        "Indri"
+      ]
+    },
+    {
+      "question": "Quel est l'âge minimal de vieillissement requis pour qu'un alcool produit en Écosse soit légalement appelé 'Scotch Whisky' ?",
+      "options": [
+        "2 ans",
+        "3 ans",
+        "5 ans",
+        "7 ans"
+      ],
+      "correct": 2,
+      "id": "whisky_43"
+    },
+    {
+      "question": "Le whisky doit titrer au minimum quel pourcentage d'alcool en volume selon la réglementation internationale ?",
+      "options": [
+        "35%",
+        "37.5%",
+        "40%",
+        "43%"
+      ],
+      "correct": 2,
+      "id": "whisky_44"
+    },
+    {
+      "question": "Laquelle de ces régions écossaises est célèbre pour ses whiskies aux notes tourbées et fumées ?",
+      "options": [
+        "Speyside",
+        "Highlands",
+        "Islay",
+        "Lowlands"
+      ],
+      "correct": 2,
+      "id": "whisky_45"
+    },
+    {
+      "question": "Quel grain constitue la base traditionnelle du Scotch Whisky ?",
+      "options": [
+        "Seigle",
+        "Maïs",
+        "Orge maltée",
+        "Riz"
+      ],
+      "correct": 2,
+      "id": "whisky_46"
     }
   ],
   "rhum": [
@@ -841,6 +1053,218 @@
       ],
       "answer": "Blanc",
       "explanation": "Tous les rhums du monde, quelle que soit leur matière première (mélasse ou jus de canne) ou leur style de distillation, sortent de l'alambic sous la forme d'un liquide parfaitement limpide, transparent et incolore. C'est le séjour prolongé dans des fûts de bois de chêne qui va progressivement lui conférer sa belle couleur ambrée ou brune au fil des ans par extraction des tannins du bois. Certains rhums blancs de dégustation subissent néanmoins un court passage sous bois de quelques mois avant d'être filtrés au charbon actif pour retrouver leur blancheur d'origine tout en conservant une texture plus grasse en bouche."
+    },
+    {
+      "id": "rhum_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel territoire des Caraïbes, où la marque Bacardí a délocalisé une grande partie de sa production après la révolution cubaine, est surnommé \"la capitale mondiale du rhum\" ?",
+      "answer": "Porto Rico",
+      "explanation": "Fondée à Cuba en 1862, la maison Bacardí avait déjà implanté une usine à Porto Rico dès 1936. Après la nationalisation de ses actifs cubains au début des années 1960, l'île de Porto Rico est devenue le cœur de sa production mondiale. Le territoire produit aujourd'hui une part considérable du rhum consommé aux États-Unis, ce qui lui vaut ce surnom flatteur.",
+      "options": [
+        "Porto Rico",
+        "La Jamaïque",
+        "La République Dominicaine",
+        "Trinité-et-Tobago"
+      ]
+    },
+    {
+      "id": "rhum_32",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle mention historique sur une étiquette de rhum indique un titrage alcoolique élevé, proche de 57%, seuil auquel la poudre à canon imbibée de rhum pouvait encore s'enflammer, une méthode jadis utilisée par la Royal Navy pour vérifier l'absence de dilution ?",
+      "answer": "Navy Strength",
+      "explanation": "Avant l'invention de l'alcoomètre moderne, les marins britanniques testaient la teneur en alcool de leur ration de rhum en imbibant de la poudre à canon et en tentant de l'enflammer : si elle brûlait encore, le rhum était jugé suffisamment fort, soit environ 57% d'alcool. Cette valeur historique, appelée \"Navy Strength\", est aujourd'hui reprise par certaines marques pour leurs rhums les plus corsés.",
+      "options": [
+        "Navy Strength",
+        "Cask Strength",
+        "Full Proof",
+        "Reserva Especial"
+      ]
+    },
+    {
+      "id": "rhum_33",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quelle eau-de-vie de canne à sucre artisanale haïtienne, distillée en petits alambics traditionnels à partir de canne fraîche sans levures commerciales, connaît un fort regain d'intérêt parmi les amateurs de spiritueux naturels ?",
+      "answer": "Le Clairin",
+      "explanation": "Le Clairin est produit en Haïti par de très petits producteurs indépendants qui distillent le vesou frais dans des alambics artisanaux, souvent avec des levures sauvages spontanées et sans normalisation industrielle. Des maisons de négoce comme Velier ont largement contribué à faire connaître ce spiritueux brut de caractère auprès des amateurs de rhums authentiques du monde entier.",
+      "options": [
+        "Le Clairin",
+        "L'Aguardiente",
+        "La Grappa",
+        "Le Tafia"
+      ]
+    },
+    {
+      "id": "rhum_34",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Depuis 2015, quel signe européen de qualité protège le rhum agricole produit en Guadeloupe, distinct de l'Appellation d'Origine Contrôlée réservée à la Martinique ?",
+      "answer": "L'IGP (Indication Géographique Protégée)",
+      "explanation": "Alors que la Martinique bénéficie d'une AOC depuis 1996, la Guadeloupe a obtenu en 2015 la reconnaissance d'une Indication Géographique Protégée pour son rhum. Ce cahier des charges européen encadre notamment l'origine de la canne et les méthodes de distillation, offrant une garantie de qualité et de traçabilité tout en laissant davantage de souplesse que l'AOC martiniquaise.",
+      "options": [
+        "L'IGP (Indication Géographique Protégée)",
+        "L'AOC (Appellation d'Origine Contrôlée)",
+        "Le Label Rouge",
+        "L'AOP (Appellation d'Origine Protégée)"
+      ]
+    },
+    {
+      "id": "rhum_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cocktail crémeux emblématique, mêlant rhum blanc, jus d'ananas et lait de coco, a été proclamé boisson officielle de Porto Rico en 1978 ?",
+      "answer": "La Piña Colada",
+      "explanation": "Née à San Juan, la Piña Colada aurait été inventée dans les années 1950 par un barman de l'hôtel Caribe Hilton. Sa popularité fut telle que le gouvernement portoricain en fit officiellement, en 1978, la boisson représentative de l'île, symbole festif et sucré de la culture caribéenne exportée dans le monde entier.",
+      "options": [
+        "La Piña Colada",
+        "Le Hurricane",
+        "Le Dark 'n' Stormy",
+        "Le Zombie"
+      ]
+    },
+    {
+      "id": "rhum_36",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel nom, aujourd'hui associé à un sucre roux mais aussi historiquement à des rhums puissants et caramélisés, provient d'une région et d'un fleuve du Guyana ?",
+      "answer": "Demerara",
+      "explanation": "Le fleuve et la région du Demerara, au Guyana, furent au XIXe siècle un immense bassin de plantations sucrières coloniales britanniques. Le nom a fini par désigner un sucre roux brut à gros cristaux, mais il reste également associé dans l'imaginaire des amateurs aux rhums lourds et intensément caramélisés produits historiquement dans cette région, notamment via des alambics en bois uniques au monde.",
+      "options": [
+        "Demerara",
+        "Muscovado",
+        "Barbadine",
+        "Cassonade"
+      ]
+    },
+    {
+      "id": "rhum_37",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle marque de rhum trinidadienne, également célèbre dans le monde entier pour ses bitters aromatiques utilisés en cocktail, produit l'un des rhums les plus vendus des Caraïbes anglophones ?",
+      "answer": "Angostura",
+      "explanation": "La recette des bitters Angostura fut mise au point en 1824 par le docteur Johann Siegert, alors installé dans la ville d'Angostura au Venezuela, avant que l'entreprise ne déménage définitivement à Trinité en 1875. Au-delà de ses célèbres bitters indispensables au monde du cocktail, la maison produit également, avec son rhum White Oak, l'un des rhums les plus vendus de Trinité-et-Tobago et des Caraïbes anglophones.",
+      "options": [
+        "Angostura",
+        "Mount Gay",
+        "Appleton Estate",
+        "Foursquare"
+      ]
+    },
+    {
+      "id": "rhum_38",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cocktail, associant du rhum ambré ou noir à de la bière de gingembre (ginger beer), est la boisson nationale des Bermudes et une marque déposée de la maison Gosling's ?",
+      "answer": "Le Dark 'n' Stormy",
+      "explanation": "Créé aux Bermudes autour du rhum noir Gosling's Black Seal, le Dark 'n' Stormy associe la puissance épicée du rhum à la vivacité piquante de la bière de gingembre. Fait rare dans le monde des cocktails, son nom et sa recette précise sont une marque déposée appartenant à la maison Gosling's, qui en défend jalousement l'authenticité.",
+      "options": [
+        "Le Dark 'n' Stormy",
+        "Le Mai Tai",
+        "Le Planter's Punch",
+        "Le Hurricane"
+      ]
+    },
+    {
+      "id": "rhum_39",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quelle distillerie jamaïcaine historique, implantée depuis le XVIIIe siècle le long de la rivière Black River, est notamment connue pour avoir nommé en 1997 la première femme maître assembleur de toute l'industrie mondiale des spiritueux ?",
+      "answer": "Appleton Estate",
+      "explanation": "Nichée dans la vallée fertile de la Nassau Valley, sur les rives de la Black River en Jamaïque, la distillerie Appleton Estate cultive une tradition de production remontant au XVIIIe siècle. En 1997, Joy Spence y est devenue la première femme au monde nommée maître assembleur dans l'industrie des spiritueux, un jalon marquant pour la profession.",
+      "options": [
+        "Appleton Estate",
+        "Hampden Estate",
+        "Worthy Park",
+        "Long Pond"
+      ]
+    },
+    {
+      "id": "rhum_40",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel terme désigne, dans les Antilles françaises, le rhum élaboré à partir de mélasse et distillé en colonne continue, par opposition au rhum agricole issu directement du pur jus de canne ?",
+      "answer": "Le rhum traditionnel (ou rhum de sucrerie)",
+      "explanation": "En Martinique et en Guadeloupe, la réglementation distingue clairement le rhum agricole, élaboré à partir du vesou frais, et le rhum traditionnel ou rhum de sucrerie, produit à partir de mélasse issue des sucreries locales. Ce dernier représente d'ailleurs la grande majorité de la production mondiale de rhum, bien que le rhum agricole antillais jouisse d'une réputation qualitative supérieure.",
+      "options": [
+        "Le rhum traditionnel (ou rhum de sucrerie)",
+        "Le rhum agricole",
+        "Le rhum arrangé",
+        "Le rhum paille"
+      ]
+    },
+    {
+      "id": "rhum_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Selon la réglementation européenne encadrant les spiritueux, quel est le degré d'alcool minimum légal requis pour qu'un produit puisse être commercialisé sous l'appellation \"rhum\" ?",
+      "answer": "37,5% vol.",
+      "explanation": "Le règlement européen sur les boissons spiritueuses fixe à 37,5% le titre alcoométrique volumique minimal en dessous duquel un produit ne peut légalement porter l'appellation \"rhum\". Ce seuil, commun à plusieurs catégories de spiritueux comme le whisky ou le gin, n'empêche évidemment pas de nombreuses cuvées de rhum d'être commercialisées à des degrés bien supérieurs.",
+      "options": [
+        "37,5% vol.",
+        "40% vol.",
+        "30% vol.",
+        "45% vol."
+      ]
+    },
+    {
+      "id": "rhum_42",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "D'où proviendrait, selon l'hypothèse étymologique la plus répandue, le nom anglais \"rum\" donné à l'eau-de-vie de canne à sucre ?",
+      "answer": "Du mot \"rumbullion\", signifiant tumulte ou grande agitation",
+      "explanation": "Un document anglais de 1651 décrivant les Antilles britanniques évoque déjà \"the chief fuddling they make in the island is Rumbullion\", un terme d'argot signifiant tumulte ou grand vacarme, probablement en référence aux effets de cette boisson forte sur ceux qui en abusaient. Cette hypothèse reste la plus largement citée pour expliquer l'origine du mot \"rum\", bien que son étymologie exacte demeure débattue par les historiens.",
+      "options": [
+        "Du mot \"rumbullion\", signifiant tumulte ou grande agitation",
+        "Du mot latin \"rubus\", désignant la ronce sauvage",
+        "Du nom d'un port négrier anglais nommé Rumney",
+        "Du mot arawak \"rumu\", désignant la canne sucrée"
+      ]
+    },
+    {
+      "question": "Selon la réglementation de l'Union Européenne, le rhum doit titrer au minimum quel degré d'alcool ?",
+      "options": [
+        "35%",
+        "37.5%",
+        "40%",
+        "43%"
+      ],
+      "correct": 1,
+      "id": "rhum_43"
+    },
+    {
+      "question": "Le rhum agricole, typique de la Guadeloupe et de la Martinique, est produit à partir de quel élément ?",
+      "options": [
+        "Mélasse de canne à sucre",
+        "Jus frais de canne à sucre",
+        "Sirop de canne concentré",
+        "Canne à sucre déshydratée"
+      ],
+      "correct": 1,
+      "id": "rhum_44"
+    },
+    {
+      "question": "Quel rhum originaire de Barbade, réputé pour sa qualité et son vieillissement, est produit dans cette île caribéenne depuis le 17e siècle ?",
+      "options": [
+        "Diplomatico",
+        "Mount Gay",
+        "Bacardi",
+        "Sailor Jerry"
+      ],
+      "correct": 1,
+      "id": "rhum_45"
+    },
+    {
+      "question": "Le rhum blanc ou 'rhum agricole jeune' de la Guadeloupe titre typiquement entre quel pourcentage d'alcool ?",
+      "options": [
+        "40-45%",
+        "45-50%",
+        "50-55%",
+        "55-60%"
+      ],
+      "correct": 2,
+      "id": "rhum_46"
     }
   ],
   "Cépages": [
@@ -1263,6 +1687,174 @@
       ],
       "answer": "Le Furmint",
       "explanation": "Grâce à sa peau fine et sa forte acidité naturelle, le Furmint se prête admirablement au développement du botrytis, ce champignon responsable de la pourriture noble qui concentre les sucres et donne naissance au prestigieux Tokaji Aszú hongrois."
+    },
+    {
+      "id": "cepages_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cépage rouge de la vallée de la Loire, l'un des deux parents génétiques du Cabernet Sauvignon, est le cépage roi des appellations de Chinon et de Bourgueil ?",
+      "answer": "Le Cabernet Franc",
+      "explanation": "Des analyses ADN ont confirmé que le Cabernet Franc est l'un des deux parents naturels du Cabernet Sauvignon, avec le Sauvignon Blanc. Plus précoce et moins tannique que son descendant, il s'épanouit particulièrement bien dans le climat plus frais de la Touraine, où il donne à Chinon et Bourgueil des vins souples aux notes de fruits rouges, de violette et de poivron.",
+      "options": [
+        "Le Cabernet Franc",
+        "Le Cabernet Sauvignon",
+        "Le Merlot",
+        "Le Grolleau"
+      ]
+    },
+    {
+      "id": "cepages_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cépage blanc, principal partenaire du Sauvignon Blanc dans l'assemblage des grands vins liquoreux de Sauternes, possède une peau fine particulièrement sensible à la pourriture noble ?",
+      "answer": "Le Sémillon",
+      "explanation": "Le Sémillon domine généralement les assemblages de Sauternes aux côtés du Sauvignon Blanc et d'une touche de Muscadelle. Sa peau fine le rend extrêmement réceptif au développement du botrytis, ce champignon responsable de la pourriture noble qui concentre les sucres du raisin. Le Sémillon produit également d'excellents vins blancs secs, notamment à Pessac-Léognan et dans la Hunter Valley australienne.",
+      "options": [
+        "Le Sémillon",
+        "Le Muscadelle",
+        "Le Chenin",
+        "Le Chardonnay"
+      ]
+    },
+    {
+      "id": "cepages_33",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cépage blanc espagnol, cultivé sur d'immenses surfaces dans la région aride de La Mancha, a longtemps été considéré comme le cépage le plus planté au monde en superficie ?",
+      "answer": "L'Airén",
+      "explanation": "Parfaitement adapté au climat chaud et sec du centre de l'Espagne, l'Airén a longtemps couvert d'immenses surfaces dans la région de La Mancha, ce qui lui valut le titre de cépage le plus planté au monde en superficie. Il sert aussi bien à produire des vins blancs neutres qu'à alimenter la distillation du Brandy de Jerez.",
+      "options": [
+        "L'Airén",
+        "Le Verdejo",
+        "Le Palomino",
+        "L'Albariño"
+      ]
+    },
+    {
+      "id": "cepages_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cépage blanc très acide et neutre, connu sous le nom de Trebbiano Toscano en Italie, sert de base quasi exclusive à la distillation du Cognac ?",
+      "answer": "L'Ugni Blanc",
+      "explanation": "L'Ugni Blanc est le cépage blanc le plus planté en France, principalement en Charente où il constitue la base quasi exclusive du Cognac. Sa vendange peu sucrée, sa forte acidité et sa faible teneur en alcool en font un vin de base idéal pour la distillation, capable de révéler toute sa finesse aromatique une fois transformé en eau-de-vie.",
+      "options": [
+        "L'Ugni Blanc",
+        "Le Colombard",
+        "La Folle Blanche",
+        "Le Baco Blanc"
+      ]
+    },
+    {
+      "id": "cepages_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cépage blanc méditerranéen, appelé Rolle en Provence et également cultivé en Corse, en Sardaigne et en Ligurie, produit des vins secs marqués par des notes d'agrumes et une pointe d'amertume en finale ?",
+      "answer": "Le Vermentino (ou Rolle)",
+      "explanation": "Le Vermentino s'épanouit sur les terroirs ensoleillés et venteux du littoral méditerranéen, de la Corse à la Ligurie en passant par la Sardaigne. En Provence, où il est appelé Rolle, il entre dans l'assemblage des Côtes de Provence pour apporter fraîcheur, notes d'agrumes et une caractéristique pointe d'amertume qui rappelle l'amande.",
+      "options": [
+        "Le Vermentino (ou Rolle)",
+        "La Clairette",
+        "La Marsanne",
+        "Le Bourboulenc"
+      ]
+    },
+    {
+      "id": "cepages_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cépage rouge portugais, considéré comme la variété noble par excellence du Douro, constitue l'un des piliers de l'assemblage du Porto ?",
+      "answer": "Le Touriga Nacional",
+      "explanation": "Malgré des grappes peu généreuses en volume, le Touriga Nacional est unanimement considéré comme le cépage rouge portugais de plus grande qualité. Il donne des vins à la couleur très profonde, très tanniques et intensément aromatiques (violette, mûre), un pilier essentiel des grands assemblages de Porto ainsi que des vins secs de plus en plus réputés du Douro.",
+      "options": [
+        "Le Touriga Nacional",
+        "Le Tinta Roriz",
+        "Le Baga",
+        "Le Trincadeira"
+      ]
+    },
+    {
+      "id": "cepages_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cépage rouge italien du Piémont, réputé pour sa faible teneur en tanins et sa très haute acidité naturelle, est l'un des vins rouges les plus consommés au quotidien en Italie ?",
+      "answer": "Le Barbera",
+      "explanation": "Le Barbera est le cépage rouge le plus cultivé du Piémont, loin devant le prestigieux Nebbiolo. Sa robe profonde, ses tanins souples et surtout sa vivacité acide en font un vin de tous les jours particulièrement apprécié à table en Italie, même si certaines cuvées ambitieuses comme le Barbera d'Asti gagnent aujourd'hui en complexité et en potentiel de garde.",
+      "options": [
+        "Le Barbera",
+        "Le Nebbiolo",
+        "Le Dolcetto",
+        "Le Sangiovese"
+      ]
+    },
+    {
+      "id": "cepages_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel cépage rouge tannique du sud de l'Italie, dont le nom évoquerait une origine grecque antique, produit à Taurasi en Campanie un vin de garde parfois surnommé le \"Barolo du Sud\" ?",
+      "answer": "L'Aglianico",
+      "explanation": "Cultivé sur les sols volcaniques de Campanie et de Basilicate, l'Aglianico donne des vins à la couleur très soutenue, riches en tanins et en acidité, capables d'un vieillissement remarquable. L'appellation Taurasi, en Campanie, est ainsi souvent surnommée le \"Barolo du Sud\" en raison de la puissance et du potentiel de garde comparables de ses vins.",
+      "options": [
+        "L'Aglianico",
+        "Le Nero d'Avola",
+        "Le Primitivo",
+        "Le Negroamaro"
+      ]
+    },
+    {
+      "id": "cepages_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel cépage blanc aromatique, cultivé sur la côte atlantique de Galice en Espagne autour de l'appellation Rías Baixas, est appelé Alvarinho lorsqu'il est cultivé de l'autre côté de la frontière portugaise ?",
+      "answer": "L'Albariño",
+      "explanation": "Conduit en hauteur sur des pergolas pour lutter contre l'humidité du climat atlantique galicien, l'Albariño produit des vins secs et tendus aux notes de pêche et d'agrumes, souvent marqués par une pointe de salinité. Il porte le nom d'Alvarinho au Portugal, où il entre notamment dans l'assemblage du Vinho Verde produit dans la région du Minho.",
+      "options": [
+        "L'Albariño",
+        "Le Verdejo",
+        "Le Godello",
+        "Le Loureiro"
+      ]
+    },
+    {
+      "id": "cepages_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel cépage rouge rare et rustique du Jura, cousin du Poulsard, est également cultivé au Portugal sous le nom de Bastardo ?",
+      "answer": "Le Trousseau",
+      "explanation": "Le Trousseau fait partie, avec le Poulsard et le Pinot Noir, des trois cépages rouges autochtones du Jura. Plus corsé et davantage coloré que le pâle Poulsard, il donne des vins épicés et structurés. Des études génétiques ont établi qu'il est identique au cépage Bastardo, cultivé notamment dans le Douro et le Dão au Portugal.",
+      "options": [
+        "Le Trousseau",
+        "Le Poulsard",
+        "La Mondeuse",
+        "Le Persan"
+      ]
+    },
+    {
+      "id": "cepages_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel cépage blanc espagnol, cultivé sur les hauts plateaux de la région de Rueda, ne doit pas être confondu avec le Verdicchio italien malgré la ressemblance de leurs noms ?",
+      "answer": "Le Verdejo",
+      "explanation": "Cultivé sur les plateaux d'altitude de la région de Rueda en Castille-et-León, le Verdejo produit des vins blancs frais et aromatiques, aux notes de fenouil et d'agrumes. Malgré la proximité phonétique de son nom, il n'a génétiquement aucun lien de parenté avec le Verdicchio, cépage blanc italien cultivé dans la région des Marches.",
+      "options": [
+        "Le Verdejo",
+        "Le Verdicchio",
+        "Le Godello",
+        "Le Palomino"
+      ]
+    },
+    {
+      "id": "cepages_42",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel cépage blanc gascon, très cultivé dans le Gers, entre dans l'assemblage de l'Armagnac et donne également des vins de pays blancs légers et acidulés ?",
+      "answer": "Le Colombard",
+      "explanation": "Historiquement important en Gascogne et en Charente, le Colombard apporte aux côtés de l'Ugni Blanc une base fraîche et acide propice à la distillation de l'Armagnac. Vinifié seul, il donne aujourd'hui des vins blancs vifs et fruités, notamment sous l'appellation Côtes de Gascogne, très appréciés pour leur légèreté désaltérante.",
+      "options": [
+        "Le Colombard",
+        "L'Ugni Blanc",
+        "Le Baco Blanc",
+        "Le Gros Manseng"
+      ]
     }
   ],
   "Accords mets et vins": [
@@ -1685,6 +2277,266 @@
       ],
       "answer": "L'Asti Spumante",
       "explanation": "Contrairement au Prosecco généralement sec ou demi-sec, l'Asti Spumante conserve un sucre résiduel élevé et des arômes intensément fruités et floraux de raisin muscat, ce qui en fait un accord naturel avec les desserts sans jamais paraître écrasant."
+    },
+    {
+      "id": "accords_mets_vins_31",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel vin muté portugais accompagne traditionnellement, lors des fêtes de fin d'année britanniques, un fromage bleu anglais comme le Stilton ?",
+      "answer": "Le Porto (Vintage ou LBV)",
+      "explanation": "L'accord entre le Stilton et le Porto est un incontournable des tables britanniques à Noël. Le contraste entre le piquant salin du fromage persillé et la douceur fruitée et généreuse d'un Porto Vintage ou Late Bottled Vintage crée un équilibre gourmand très apprécié. La tradition veut même que la carafe de Porto circule toujours dans le même sens autour de la table.",
+      "options": [
+        "Le Porto (Vintage ou LBV)",
+        "Le Xérès Fino",
+        "Le Madère sec",
+        "Le Vin Jaune"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_32",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel vin blanc sec et minéral de Bourgogne, riche en acidité, est l'accord régional traditionnel pour des escargots persillés au beurre à l'ail ?",
+      "answer": "Un Chablis (ou un Bourgogne Aligoté)",
+      "explanation": "Les escargots à la bourguignonne, généreusement nappés de beurre persillé à l'ail, appellent un vin blanc sec et vif capable de traverser cette richesse sans en être écrasé. Le Chablis, avec sa tension minérale caractéristique, ou un Bourgogne Aligoté plus modeste, remplissent parfaitement ce rôle en rafraîchissant le palais entre chaque bouchée.",
+      "options": [
+        "Un Chablis (ou un Bourgogne Aligoté)",
+        "Un Sauternes",
+        "Un Gewurztraminer",
+        "Un Banyuls"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_33",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel style de vin blanc espagnol vif et légèrement salin, produit en Galice, est un accord régional souvent recommandé pour une paella de fruits de mer au safran ?",
+      "answer": "Un Albariño de Rías Baixas",
+      "explanation": "Le riz safrané et les fruits de mer de la paella réclament un vin blanc sec, aromatique et suffisamment vif pour accompagner cette richesse. L'Albariño de Galice, avec ses notes d'agrumes et sa légère salinité, s'accorde très bien avec ce plat, même si la paella elle-même est traditionnellement originaire de la région de Valence.",
+      "options": [
+        "Un Albariño de Rías Baixas",
+        "Un Xérès Oloroso",
+        "Un Rioja Gran Reserva rouge",
+        "Un Cava doux"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_34",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel vin blanc moelleux de la vallée de la Loire, issu du cépage Chenin, est un accord classique avec une tarte Tatin aux pommes caramélisées ?",
+      "answer": "Un Coteaux du Layon",
+      "explanation": "Élaboré à partir de Chenin en Anjou, le Coteaux du Layon développe des notes de coing, d'abricot confit et de fruits caramélisés qui font écho aux pommes dorées de la tarte Tatin. Sa fraîcheur naturelle, malgré le sucre résiduel, empêche l'accord de devenir écœurant en bouche.",
+      "options": [
+        "Un Coteaux du Layon",
+        "Un Muscadet sec",
+        "Un Sancerre blanc",
+        "Un Chinon rouge"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_35",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel vin rouge du Sud-Ouest, issu majoritairement du cépage Malbec (localement appelé Côt) et surnommé historiquement \"vin noir\" pour sa couleur très sombre, est l'accord régional classique pour un magret de canard rôti ?",
+      "answer": "Un Cahors",
+      "explanation": "Le Cahors, bâti sur le cépage Malbec localement appelé Côt, doit son surnom historique de \"vin noir\" à sa robe particulièrement sombre. Ses tanins fermes et ses arômes de fruits noirs soutiennent parfaitement la chair savoureuse et légèrement grasse du magret de canard rôti, un accord ancré dans la tradition gastronomique du Sud-Ouest.",
+      "options": [
+        "Un Cahors",
+        "Un Muscadet",
+        "Un Sauternes",
+        "Un Beaujolais nouveau"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_36",
+      "type": "qcm",
+      "difficulty": "Moyen",
+      "question": "Quel style de vin est traditionnellement associé à une ratatouille provençale de légumes d'été mijotés à l'huile d'olive ?",
+      "answer": "Un rosé sec de Provence",
+      "explanation": "Né du même terroir méditerranéen ensoleillé que les tomates, courgettes, poivrons et aubergines de la ratatouille, un rosé sec de Provence offre juste assez de fraîcheur et de fruit pour accompagner ce plat végétal sans jamais l'écraser. C'est un accord de terroir tout en légèreté et en harmonie.",
+      "options": [
+        "Un rosé sec de Provence",
+        "Un vin rouge tannique de Bordeaux",
+        "Un vin liquoreux",
+        "Un Champagne demi-sec"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_37",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel cépage alsacien puissant et aromatique est l'accord régional incontournable pour déguster un fromage à pâte molle et croûte lavée comme le Munster ?",
+      "answer": "Le Gewurztraminer",
+      "explanation": "Le Munster est un fromage à la croûte lavée particulièrement odorant, dont le caractère affirmé exige un vin à sa mesure. La puissance aromatique et la légère douceur du Gewurztraminer tiennent tête à ce fromage sans être dominées, formant l'un des accords régionaux les plus emblématiques d'Alsace.",
+      "options": [
+        "Le Gewurztraminer",
+        "Le Sylvaner",
+        "Le Pinot Blanc",
+        "Le Riesling sec"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_38",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel type de vin rouge léger, peu tannique et volontiers servi frais, est généralement recommandé pour accompagner un steak tartare relevé de câpres, d'oignon et de moutarde ?",
+      "answer": "Un vin rouge léger et fruité (type Beaujolais)",
+      "explanation": "La viande crue du tartare, malgré son assaisonnement relevé, reste délicate en texture. Un vin rouge lourd et très tannique aurait tendance à réagir avec les protéines crues et à créer une sensation métallique désagréable. Un vin léger et fruité, comme un Beaujolais servi légèrement frais, préserve la fraîcheur du plat tout en l'accompagnant avec gourmandise.",
+      "options": [
+        "Un vin rouge léger et fruité (type Beaujolais)",
+        "Un vin rouge très tannique et boisé",
+        "Un vin blanc liquoreux",
+        "Un vin doux naturel"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_39",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel vin blanc sec, vif et minéral de Bourgogne est traditionnellement recommandé pour dompter le caractère très prononcé d'une andouillette grillée à la moutarde ?",
+      "answer": "Un Chablis (ou un Bourgogne Aligoté)",
+      "explanation": "L'andouillette, charcuterie tripière au goût rustique et affirmé, trouve dans un blanc vif et minéral comme le Chablis ou le Bourgogne Aligoté un contrepoint idéal. L'acidité tranchante du vin nettoie le palais et équilibre la puissance du plat, un classique des bistrots français souvent servi avec une sauce à la moutarde.",
+      "options": [
+        "Un Chablis (ou un Bourgogne Aligoté)",
+        "Un Gewurztraminer moelleux",
+        "Un Cahors",
+        "Un Porto Ruby"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_40",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel vin espagnol sec et vif, élevé sous voile de levures (\"flor\") dans la région de Jerez, est l'accord traditionnel andalou pour une planche de jambon ibérique affiné ?",
+      "answer": "Le Xérès Fino (ou Manzanilla)",
+      "explanation": "Élevés biologiquement sous un voile protecteur de levures appelé \"flor\", les Xérès Fino et Manzanilla développent un profil extrêmement sec, salin et légèrement amandé, servi bien frais. Cet accord andalou traditionnel tranche avec le gras du jambon ibérique tout en faisant écho à sa salinité, sans jamais alourdir la dégustation.",
+      "options": [
+        "Le Xérès Fino (ou Manzanilla)",
+        "Le Xérès Pedro Ximénez",
+        "Le Porto Tawny",
+        "Le Rioja Gran Reserva"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_41",
+      "type": "qcm",
+      "difficulty": "Difficile",
+      "question": "Quel vin rouge puissant et épicé de la vallée du Rhône septentrionale, élaboré à 100% à partir du cépage Syrah sur des coteaux granitiques escarpés, est un accord de choix pour un steak au poivre flambé au cognac ?",
+      "answer": "Un Cornas",
+      "explanation": "Le Cornas, minuscule appellation du nord de la vallée du Rhône plantée exclusivement en Syrah sur des pentes de granit très abruptes, produit des vins sombres, puissants et naturellement épicés. Ses propres notes de poivre noir font écho à la croûte poivrée du steak au poivre, créant un accord de caractère entre deux univers également corsés.",
+      "options": [
+        "Un Cornas",
+        "Un Beaujolais-Villages",
+        "Un Muscadet",
+        "Un Sauternes"
+      ]
+    },
+    {
+      "id": "accords_mets_vins_42",
+      "type": "qcm",
+      "difficulty": "Facile",
+      "question": "Quel type de vin rouge léger et fruité est le compagnon polyvalent classique d'un simple poulet rôti du dimanche en famille ?",
+      "answer": "Un vin rouge léger et fruité (type Beaujolais ou Bourgogne)",
+      "explanation": "Le poulet rôti est un plat doux et polyvalent qui se marie très bien avec des vins rouges légers, peu tanniques et gourmands, comme un Beaujolais ou un Bourgogne rouge d'entrée de gamme. Leur fruit croquant et leur souplesse accompagnent la volaille sans jamais dominer sa saveur délicate, un accord simple et familial parfait pour un repas du dimanche.",
+      "options": [
+        "Un vin rouge léger et fruité (type Beaujolais ou Bourgogne)",
+        "Un vin liquoreux très sucré",
+        "Un vin rouge très tannique et puissant",
+        "Un vin doux naturel"
+      ]
+    }
+  ],
+  "cepages": [
+    {
+      "question": "Le Cabernet Sauvignon est originaire de quelle région française ?",
+      "options": [
+        "Bourgogne",
+        "Vallée du Loire",
+        "Bordeaux",
+        "Alsace"
+      ],
+      "correct": 2,
+      "id": "cepages_1"
+    },
+    {
+      "question": "Le Riesling, cépage blanc prestigieux, est particulièrement associé à quel région allemande et alsacienne ?",
+      "options": [
+        "Mosel et Alsace",
+        "Rheingau et Bavière",
+        "Franken et Pfälz",
+        "Ahr et Mittelrhein"
+      ],
+      "correct": 0,
+      "id": "cepages_2"
+    },
+    {
+      "question": "Le Pinot Noir, cépage noir produisant des vins fins et délicats, trouve son terroir d'excellence en Bourgogne. Quel est son profil aromatique typique ?",
+      "options": [
+        "Fruits noirs intenses et tanins puissants",
+        "Fruits rouges, épices et tanins souples",
+        "Fruits exotiques et notes florales",
+        "Baies blanches et acidité vive"
+      ],
+      "correct": 1,
+      "id": "cepages_3"
+    },
+    {
+      "question": "Le Chardonnay blanc, cultivé notamment en Bourgogne et Champagne, développe quelles caractéristiques en fût de chêne ?",
+      "options": [
+        "Saveurs herbacées et minérales",
+        "Notes d'agrumes et fleurs blanches",
+        "Notes beurrées, de noisette et caramel",
+        "Arômes tropicaux intenses"
+      ],
+      "correct": 2,
+      "id": "cepages_4"
+    }
+  ],
+  "accords_mets_et_vins": [
+    {
+      "question": "Quel type de vin rouge se marie traditionnellement avec le fromage bleu (Roquefort, Gorgonzola) ?",
+      "options": [
+        "Bordeaux tannique",
+        "Sauternes ou Vin Doux Naturel",
+        "Beaujolais léger",
+        "Côtes du Rhône jeune"
+      ],
+      "correct": 1,
+      "id": "accords_mets_et_vins_1"
+    },
+    {
+      "question": "Un Muscadet, vin blanc sec de la Vallée de la Loire, s'accorde particulièrement bien avec quel plat ?",
+      "options": [
+        "Canard rôti",
+        "Fruits de mer et huîtres",
+        "Viande rouge grillée",
+        "Dessert au chocolat"
+      ],
+      "correct": 1,
+      "id": "accords_mets_et_vins_2"
+    },
+    {
+      "question": "Le principe d'accord 'région avec région' suggère qu'un Bourguignon devrait s'accompagner de quel plat ?",
+      "options": [
+        "Crevettes à l'ail",
+        "Coq au Vin",
+        "Ceviche de poisson",
+        "Agneau rôti mijoté"
+      ],
+      "correct": 1,
+      "id": "accords_mets_et_vins_3"
+    },
+    {
+      "question": "Un Gewürztraminer d'Alsace, blanc aromatique et légèrement sucré, se marie bien avec quel type de cuisine ?",
+      "options": [
+        "Sushi et nigiri",
+        "Foie gras et viande blanche",
+        "Cuisine asiatique épicée et nems",
+        "Poisson fumé léger"
+      ],
+      "correct": 2,
+      "id": "accords_mets_et_vins_4"
     }
   ]
 }

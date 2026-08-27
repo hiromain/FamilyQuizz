@@ -44,6 +44,10 @@ export function parseYearQuery(query) {
 }
 
 
+// Recherche insensible aux accents ("epoques" doit trouver "Époques").
+const ACCENT_MAP = { à: 'a', â: 'a', ä: 'a', é: 'e', è: 'e', ê: 'e', ë: 'e', î: 'i', ï: 'i', ô: 'o', ö: 'o', ù: 'u', û: 'u', ü: 'u', ç: 'c', œ: 'oe' };
+const normalize = (s) => s.toLowerCase().replace(/[àâäéèêëîïôöùûüçœ]/g, (c) => ACCENT_MAP[c] || c);
+
 export default function FilterPanel({
   connected,
   activeQuestionPool,
@@ -63,6 +67,12 @@ export default function FilterPanel({
   onEnterQuizMode,
 }) {
   const poolCount = activeQuestionPool.length;
+  const [categorySearch, setCategorySearch] = React.useState('');
+  const searchTerm = normalize(categorySearch.trim());
+  const visibleCategories = !searchTerm ? Object.keys(CATEGORY_TREE) : Object.keys(CATEGORY_TREE).filter(cat => {
+    if (normalize(cat).includes(searchTerm)) return true;
+    return Object.keys(CATEGORY_TREE[cat]).some(sub => normalize(sub).includes(searchTerm));
+  });
   return (
     <aside style={{
       width: '100%',
@@ -169,10 +179,39 @@ export default function FilterPanel({
         ))}
       </div>
 
+      {/* ─ Category search ─ */}
+      <div style={{ padding: '10px 16px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
+        <div style={{ position: 'relative' }}>
+          <span style={{
+            position: 'absolute', left: 12, top: '50%', transform: 'translateY(-50%)',
+            fontSize: 13, opacity: 0.4, pointerEvents: 'none',
+          }}>🔎</span>
+          <input
+            type="text"
+            value={categorySearch}
+            onChange={(e) => setCategorySearch(e.target.value)}
+            placeholder="Chercher une catégorie ou un thème…"
+            style={{
+              width: '100%', padding: '9px 12px 9px 32px', borderRadius: 10,
+              background: 'rgba(255,255,255,0.04)', border: '1.5px solid rgba(255,255,255,0.08)',
+              color: C.ink, fontSize: 12, fontWeight: 500, outline: 'none',
+              fontFamily: "'Space Grotesk', sans-serif", boxSizing: 'border-box',
+            }}
+            onFocus={e => { e.target.style.borderColor = C.sky; }}
+            onBlur={e => { e.target.style.borderColor = 'rgba(255,255,255,0.08)'; }}
+          />
+        </div>
+        {searchTerm && (
+          <div style={{ marginTop: 6, fontSize: 10, fontFamily: "'JetBrains Mono', monospace", color: 'rgba(251,243,238,0.35)' }}>
+            {visibleCategories.length} catégorie{visibleCategories.length > 1 ? 's' : ''} trouvée{visibleCategories.length > 1 ? 's' : ''}
+          </div>
+        )}
+      </div>
+
       {/* ─ Category cards grid ─ */}
       <div style={{ flex: 1, overflowY: 'auto', padding: '14px 12px' }}>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
-          {Object.keys(CATEGORY_TREE).map((cat) => {
+          {visibleCategories.map((cat) => {
             const subs = CATEGORY_TREE[cat];
             const subKeys = Object.keys(subs);
             const checkedCount = subKeys.filter(s => activeSubcategories[s]).length;
@@ -180,7 +219,7 @@ export default function FilterPanel({
             const partialChecked = checkedCount > 0 && checkedCount < subKeys.length;
             const noneChecked = checkedCount === 0;
             const isEpoques = cat === 'Époques (1939-2026)';
-            const isSubcatOpen = expandedSubcatPanel === cat;
+            const isSubcatOpen = expandedSubcatPanel.has(cat);
 
             // Active question count for this category
             const catQCount = subKeys.reduce((acc, sub) => {
@@ -189,7 +228,7 @@ export default function FilterPanel({
               const filtered = list.filter(q => activeDifficulties[q.difficulty?.toLowerCase() || 'facile']);
               if (sub === 'annees') {
                 const targetYears = parseYearQuery(selectedYear);
-                return acc + filtered.filter(q => targetYears.includes(q.year)).length;
+                return acc + (targetYears.length > 0 ? filtered.filter(q => targetYears.includes(q.year)).length : filtered.length);
               }
               return acc + filtered.length;
             }, 0);
@@ -215,15 +254,19 @@ export default function FilterPanel({
                   }}
                     onClick={() => toggleSubcatPanel(cat)}
                   >
-                    {/* Emoji icon */}
-                    <div style={{
-                      width: 40, height: 40, borderRadius: 10, flexShrink: 0,
-                      background: allChecked ? `${C.mint}22` : noneChecked ? 'rgba(255,255,255,0.04)' : `${C.amber}18`,
-                      border: `1px solid ${allChecked ? C.mint + '44' : noneChecked ? 'rgba(255,255,255,0.08)' : C.amber + '44'}`,
-                      display: 'flex', alignItems: 'center', justifyContent: 'center',
-                      fontSize: 20, transition: 'all .2s',
-                      filter: noneChecked ? 'grayscale(0.7) opacity(0.5)' : 'none',
-                    }}>
+                    {/* Emoji icon — doubles as a quick "toute la catégorie on/off" toggle, sans avoir à déplier */}
+                    <div
+                      onClick={(e) => { e.stopPropagation(); toggleBulkCategory(cat, noneChecked || partialChecked); }}
+                      title={allChecked ? 'Désactiver toute la catégorie' : 'Activer toute la catégorie'}
+                      style={{
+                        width: 40, height: 40, borderRadius: 10, flexShrink: 0, cursor: 'pointer',
+                        background: allChecked ? `${C.mint}22` : noneChecked ? 'rgba(255,255,255,0.04)' : `${C.amber}18`,
+                        border: `1px solid ${allChecked ? C.mint + '44' : noneChecked ? 'rgba(255,255,255,0.08)' : C.amber + '44'}`,
+                        display: 'flex', alignItems: 'center', justifyContent: 'center',
+                        fontSize: 20, transition: 'all .2s',
+                        filter: noneChecked ? 'grayscale(0.7) opacity(0.5)' : 'none',
+                      }}
+                    >
                       {CAT_EMOJI[cat] || '📁'}
                     </div>
 
@@ -328,21 +371,28 @@ export default function FilterPanel({
                               Années cibles
                             </span>
                             {(() => {
+                              const isEmptyQuery = !selectedYear || !selectedYear.trim();
                               const parsed = parseYearQuery(selectedYear);
+                              // Champ vide = pas de restriction (toutes les années passent) : ce n'est pas
+                              // une absence de sélection, donc pas de couleur "alerte" comme un vrai 0 résultat.
+                              const label = isEmptyQuery
+                                ? 'Toutes les années'
+                                : parsed.length > 0
+                                  ? `${parsed.length} an${parsed.length > 1 ? 's' : ''} sélectionné${parsed.length > 1 ? 's' : ''}`
+                                  : 'Aucune correspondance';
+                              const tone = isEmptyQuery ? C.mint : parsed.length > 0 ? C.sky : C.coral;
                               return (
                                 <span style={{
                                   fontFamily: "'JetBrains Mono', monospace",
                                   fontSize: 11,
                                   fontWeight: 700,
-                                  color: parsed.length > 0 ? C.sky : C.coral,
-                                  background: parsed.length > 0 ? `${C.sky}18` : `${C.coral}18`,
+                                  color: tone,
+                                  background: `${tone}18`,
                                   padding: '2px 8px',
                                   borderRadius: 6,
-                                  border: `1px solid ${parsed.length > 0 ? C.sky + '33' : C.coral + '33'}`
+                                  border: `1px solid ${tone}33`
                                 }}>
-                                  {parsed.length > 0 
-                                    ? `${parsed.length} an${parsed.length > 1 ? 's' : ''} sélectionné${parsed.length > 1 ? 's' : ''}` 
-                                    : 'Aucun an'}
+                                  {label}
                                 </span>
                               );
                             })()}
@@ -352,7 +402,7 @@ export default function FilterPanel({
                             type="text"
                             value={selectedYear}
                             onChange={(e) => setSelectedYear(e.target.value)}
-                            placeholder="Ex: 1998, 2000-2005, 2012"
+                            placeholder="Laisser vide = toutes les années. Ex: 1998, 2000-2005"
                             style={{
                               width: '100%',
                               padding: '10px 12px',
@@ -389,6 +439,7 @@ export default function FilterPanel({
                           {/* Quick Year suggestions/presets tags */}
                           {(() => {
                             const presets = [
+                              { label: 'Toutes', query: '' },
                               { label: 'Années 80', query: '1980-1989' },
                               { label: 'Années 90', query: '1990-1999' },
                               { label: 'Années 2000', query: '2000-2009' },
@@ -431,6 +482,64 @@ export default function FilterPanel({
                               </div>
                             );
                           })()}
+
+                          {/* Une année précise : grille de pills cliquables (un clic = une seule année sélectionnée) */}
+                          {(() => {
+                            const epoquesYears = [...new Set(subs['annees'].map(q => q.year))].sort((a, b) => a - b);
+                            const activeYears = parseYearQuery(selectedYear);
+                            return (
+                              <div style={{ marginTop: 8 }}>
+                                <div style={{
+                                  fontFamily: "'JetBrains Mono', monospace",
+                                  fontSize: 9,
+                                  color: 'rgba(251,243,238,0.35)',
+                                  textTransform: 'uppercase',
+                                  letterSpacing: '0.1em',
+                                  marginBottom: 5,
+                                }}>
+                                  Ou une année précise
+                                </div>
+                                <div style={{
+                                  display: 'flex', flexWrap: 'wrap', gap: 4,
+                                  maxHeight: 130, overflowY: 'auto',
+                                  padding: '2px 2px 2px 0',
+                                }}>
+                                  {epoquesYears.map((year) => {
+                                    const isActive = activeYears.length === 1 && activeYears[0] === year;
+                                    return (
+                                      <button
+                                        key={year}
+                                        onClick={(e) => {
+                                          e.stopPropagation();
+                                          setSelectedYear(String(year));
+                                        }}
+                                        style={{
+                                          padding: '4px 7px',
+                                          borderRadius: 6,
+                                          border: `1.5px solid ${isActive ? C.mint : 'rgba(255,255,255,0.06)'}`,
+                                          background: isActive ? `${C.mint}22` : 'rgba(255,255,255,0.03)',
+                                          color: isActive ? C.mint : 'rgba(251,243,238,0.40)',
+                                          fontSize: 9,
+                                          fontWeight: 700,
+                                          cursor: 'pointer',
+                                          fontFamily: "'JetBrains Mono', monospace",
+                                          transition: 'all 0.15s'
+                                        }}
+                                        onMouseEnter={e => {
+                                          if (!isActive) e.currentTarget.style.color = '#fff';
+                                        }}
+                                        onMouseLeave={e => {
+                                          if (!isActive) e.currentTarget.style.color = 'rgba(251,243,238,0.40)';
+                                        }}
+                                      >
+                                        {year}
+                                      </button>
+                                    );
+                                  })}
+                                </div>
+                              </div>
+                            );
+                          })()}
                         </div>
                       )}
 
@@ -439,8 +548,9 @@ export default function FilterPanel({
                         {subKeys.map((sub) => {
                           const isChecked = !!activeSubcategories[sub];
                           const count = subs[sub].length;
+                          const yearTargets = sub === 'annees' ? parseYearQuery(selectedYear) : null;
                           const displayCount = sub === 'annees'
-                            ? subs[sub].filter(q => parseYearQuery(selectedYear).includes(q.year)).length
+                            ? (yearTargets.length > 0 ? subs[sub].filter(q => yearTargets.includes(q.year)).length : count)
                             : count;
                           return (
                             <button

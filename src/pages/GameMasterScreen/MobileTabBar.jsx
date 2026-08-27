@@ -1,10 +1,12 @@
 import React from 'react';
 import { C } from '../../constants/theme';
 
+// Réglages n'est volontairement pas un onglet ici : c'est une action occasionnelle,
+// pas une zone de jeu au même niveau que Filtres/Jeu/Scores. Elle vit dans le bouton
+// ⚙️ flottant (voir GameMasterScreen/index.jsx), accessible depuis n'importe quel onglet.
 export default function MobileTabBar({
   activeTab,
   setActiveTab,
-  setShowSettings,
 }) {
   return (
     <nav style={{
@@ -16,21 +18,13 @@ export default function MobileTabBar({
         { id: 'filters', label: 'Filtres', icon: '📑' },
         { id: 'jeu',     label: 'Jeu',     icon: '🎮' },
         { id: 'scores',  label: 'Scores',  icon: '🏆' },
-        { id: 'settings', label: 'Réglages', icon: '⚙️' },
       ].map(t => {
         const active = activeTab === t.id;
 
         return (
           <button
             key={t.id}
-            onClick={() => {
-              setActiveTab(t.id);
-              if (t.id === 'settings') {
-                setShowSettings(true);
-              } else {
-                setShowSettings(false);
-              }
-            }}
+            onClick={() => setActiveTab(t.id)}
             className="no-tap-highlight"
             style={{
               flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',

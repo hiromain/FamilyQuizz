@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { useGame } from '../../context/GameContext';
 import { C, DIFF } from '../../constants/theme';
 import { CATEGORY_TREE } from '../../constants/design';
@@ -23,13 +23,14 @@ export default function GameMasterScreen({ onBackToWelcome }) {
   } = useGame();
 
   const [activeSubcategories, setActiveSubcategories] = useState({});
-  const [selectedYear, setSelectedYear] = useState('1998');
+  // Chaîne vide = aucune restriction d'année (toutes les questions "Époques" sont dans le pool).
+  const [selectedYear, setSelectedYear] = useState('');
   const [activeDifficulties, setActiveDifficulties] = useState({ facile: true, moyen: true, difficile: true });
   const [bonusPoints, setBonusPoints] = useState(0);
-  const [expandedSubcatPanel, setExpandedSubcatPanel] = useState(null); // category name or null
+  const [expandedSubcatPanel, setExpandedSubcatPanel] = useState(() => new Set()); // Set<category name> — plusieurs catégories dépliables en même temps
 
   const [width, setWidth] = useState(window.innerWidth);
-  const [activeTab, setActiveTab] = useState('jeu'); // 'filters' | 'jeu' | 'scores' | 'settings'
+  const [activeTab, setActiveTab] = useState('jeu'); // 'filters' | 'jeu' | 'scores' — Réglages n'est pas un onglet, voir showSettings
   const [revealedAnswer, setRevealedAnswer] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
   const [masterError, setMasterError] = useState(null);
@@ -83,7 +84,11 @@ export default function GameMasterScreen({ onBackToWelcome }) {
   }, []);
 
   const toggleSubcatPanel = (cat) =>
-    setExpandedSubcatPanel(prev => prev === cat ? null : cat);
+    setExpandedSubcatPanel(prev => {
+      const next = new Set(prev);
+      next.has(cat) ? next.delete(cat) : next.add(cat);
+      return next;
+    });
 
   const toggleSubcategory = (sub) =>
     setActiveSubcategories(prev => ({ ...prev, [sub]: !prev[sub] }));
@@ -114,7 +119,7 @@ export default function GameMasterScreen({ onBackToWelcome }) {
     setActiveSubcategories(upd);
   };
 
-  const getActiveQuestionPool = () => {
+  const activeQuestionPool = useMemo(() => {
     const pool = [];
     Object.keys(CATEGORY_TREE).forEach(cat => {
       Object.keys(CATEGORY_TREE[cat]).forEach(sub => {
@@ -123,7 +128,11 @@ export default function GameMasterScreen({ onBackToWelcome }) {
           const filtered = list.filter(q => activeDifficulties[q.difficulty?.toLowerCase() || 'facile']);
           if (sub === 'annees') {
             const targetYears = parseYearQuery(selectedYear);
-            filtered.filter(q => targetYears.includes(q.year)).forEach(q =>
+            // Pas d'année tapée = pas de restriction (toutes les questions passent).
+            const yearFiltered = targetYears.length > 0
+              ? filtered.filter(q => targetYears.includes(q.year))
+              : filtered;
+            yearFiltered.forEach(q =>
               pool.push({ category: cat, subcategory: sub, questionObj: q }));
           } else {
             filtered.forEach(q => pool.push({ category: cat, subcategory: sub, questionObj: q }));
@@ -131,10 +140,15 @@ export default function GameMasterScreen({ onBackToWelcome }) {
         }
       });
     });
+    // Mélange le pool (Fisher-Yates) pour que les questions des différentes
+    // catégories sélectionnées s'enchaînent aléatoirement, au lieu d'épuiser
+    // une catégorie avant de passer à la suivante.
+    for (let i = pool.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pool[i], pool[j]] = [pool[j], pool[i]];
+    }
     return pool;
-  };
-
-  const activeQuestionPool = getActiveQuestionPool();
+  }, [activeSubcategories, activeDifficulties, selectedYear]);
 
   const handleRandomQuestionDraw = async () => {
     try {
@@ -312,20 +326,14 @@ export default function GameMasterScreen({ onBackToWelcome }) {
         <MobileTabBar
           activeTab={activeTab}
           setActiveTab={setActiveTab}
-          setShowSettings={setShowSettings}
         />
       )}
 
       {/* Settings Panel Overlay */}
-      {(showSettings || (isMobile && activeTab === 'settings')) && (
+      {showSettings && (
         <MasterSettingsPage
           onBackToWelcome={onBackToWelcome}
-          onClose={() => {
-            setShowSettings(false);
-            if (activeTab === 'settings') {
-              setActiveTab('jeu');
-            }
-          }}
+          onClose={() => setShowSettings(false)}
         />
       )}
     </div>

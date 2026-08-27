@@ -27,7 +27,9 @@ export default function ScorePanel({
           <div style={{ fontWeight: 700, fontSize: 15, letterSpacing: '-0.02em' }}>Classement 🏆</div>
           <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 9, color: 'rgba(251,243,238,0.40)', letterSpacing: '0.14em', textTransform: 'uppercase', marginTop: 2 }}>Temps réel</div>
         </div>
-        <button onClick={clearAllPlayers} style={{
+        <button onClick={() => {
+          if (window.confirm("Réinitialiser le classement ? Tous les joueurs et leurs scores seront effacés.")) clearAllPlayers();
+        }} style={{
           padding: '5px 10px', borderRadius: 8, fontSize: 11, fontWeight: 700, cursor: 'pointer',
           background: `${C.red}18`, border: `1px solid ${C.red}33`, color: C.red,
         }}>Reset</button>

@@ -4,6 +4,7 @@ import Pill from '../../components/ui/Pill';
 import TimerBar from '../../components/ui/TimerBar';
 import MonoLabel from '../../components/ui/MonoLabel';
 import Avatar from '../../components/ui/Avatar';
+import GoogleSearchButton from '../../components/ui/GoogleSearchButton';
 
 /* ─── Styles et utilitaires en ligne pour une robustesse maximale ─── */
 const btnStyle = (color, glow, isHov, disabled) => ({
@@ -353,6 +354,26 @@ export default function GamePanel({
             </button>
           </div>
         )}
+
+        {/* Mobile : Réglages n'est pas un onglet à part (voir MobileTabBar) — juste
+            cette icône, atteignable depuis l'onglet Jeu comme sur desktop. */}
+        {isMobile && (
+          <button
+            onClick={() => setShowSettings(true)}
+            aria-label="Réglages"
+            className="no-tap-highlight"
+            style={{
+              display: 'flex', alignItems: 'center', justifyContent: 'center',
+              width: 38, height: 38, borderRadius: 10, flexShrink: 0,
+              background: 'rgba(255,255,255,0.06)',
+              border: '1px solid rgba(255,255,255,0.12)',
+              color: 'rgba(251,243,238,0.85)', fontSize: 15, cursor: 'pointer',
+              touchAction: 'manipulation',
+            }}
+          >
+            ⚙️
+          </button>
+        )}
       </div>
 
       {/* ══════════════════════════════════════════════════════════════
@@ -602,6 +623,9 @@ export default function GamePanel({
                       }}>
                         {activeQuestion.explanation}
                       </p>
+                      <div style={{ marginTop: 8 }}>
+                        <GoogleSearchButton question={activeQuestion.question} />
+                      </div>
                     </div>
                   )}
                 </div>
@@ -626,14 +650,15 @@ export default function GamePanel({
                     const revealed = isAnswerRevealed && isCorrect;
                     const wrong    = isAnswerRevealed && !isCorrect;
                     return (
+                      // Lecture seule : la seule façon de révéler la réponse est le bouton
+                      // "Révéler la réponse" plus bas — évite d'avoir deux interactions
+                      // différentes (bouton + clic sur une option) pour la même action.
                       <div
                         key={i}
-                        onClick={() => { revealAnswer(!isAnswerRevealed); setRevealedAnswer(!isAnswerRevealed); }}
                         style={{
                         display: 'flex', alignItems: 'center', gap: 14,
                         padding: isMobile ? '13px 15px' : '16px 20px',
                         borderRadius: 15,
-                        cursor: 'pointer',
                         background: revealed
                           ? `linear-gradient(135deg, ${C.mint}22, ${C.mint}0d)`
                           : wrong ? 'rgba(255,255,255,0.02)'
@@ -644,8 +669,6 @@ export default function GamePanel({
                         opacity: wrong ? 0.40 : 1,
                         position: 'relative', overflow: 'hidden',
                       }}
-                        onMouseEnter={e => { if (!isAnswerRevealed) e.currentTarget.style.transform = 'scale(1.015)'; }}
-                        onMouseLeave={e => { e.currentTarget.style.transform = 'scale(1)'; }}
                       >
                         <div style={{
                           width: isMobile ? 36 : 42, height: isMobile ? 36 : 42,
@@ -883,7 +906,8 @@ export default function GamePanel({
                 {/* Divider */}
                 <div style={{ borderTop: '1px solid rgba(255,255,255,0.06)' }} />
 
-                {/* Row 3: Player screens visibility control */}
+                {/* Row 3: Player screens visibility control — usage occasionnel (mode "oral"),
+                    volontairement plus discret que les Buzzers/Réponse du dessus. */}
                 <div style={{
                   display: 'flex',
                   flexDirection: isMobile ? 'column' : 'row',
@@ -895,7 +919,7 @@ export default function GamePanel({
                     color: 'rgba(251,243,238,0.30)', textTransform: 'uppercase', letterSpacing: '0.15em',
                     minWidth: 84, marginBottom: isMobile ? 2 : 0,
                   }}>Écrans Joueurs</span>
-                  
+
                   <div style={{
                     display: 'grid',
                     gridTemplateColumns: isMobile ? 'repeat(2, 1fr)' : 'auto auto',
@@ -906,19 +930,19 @@ export default function GamePanel({
                       onClick={() => revealQuestion(true)}
                       style={{
                         display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
-                        padding: isMobile ? '6px 10px' : '8px 14px', borderRadius: isMobile ? 20 : 10, border: 'none',
+                        padding: isMobile ? '6px 10px' : '7px 13px', borderRadius: isMobile ? 20 : 10,
                         fontWeight: 700, fontSize: isMobile ? 11 : 12, cursor: 'pointer',
                         fontFamily: "'Space Grotesk', sans-serif",
-                        background: `linear-gradient(135deg, ${C.sky}, #5fa8ee)`,
-                        color: '#0d1a2a',
-                        opacity: (gameState.show_question !== false) ? 0.5 : 1,
-                        boxShadow: `0 4px 14px -4px ${C.sky}44`,
-                        transition: 'transform 0.15s',
+                        border: `1px solid ${C.sky}44`,
+                        background: (gameState.show_question !== false) ? 'transparent' : `${C.sky}14`,
+                        color: C.sky,
+                        opacity: (gameState.show_question !== false) ? 0.6 : 1,
+                        transition: 'all 0.18s',
                         height: isMobile ? 38 : 'auto',
                         touchAction: 'manipulation',
                       }}
-                      onMouseEnter={e => { if (!isMobile) e.currentTarget.style.transform = 'scale(1.02)'; }}
-                      onMouseLeave={e => { if (!isMobile) e.currentTarget.style.transform = 'scale(1)'; }}
+                      onMouseEnter={e => { e.currentTarget.style.background = `${C.sky}14`; }}
+                      onMouseLeave={e => { e.currentTarget.style.background = (gameState.show_question !== false) ? 'transparent' : `${C.sky}14`; }}
                     >
                       {isMobile ? '📺 Afficher' : '📺 Afficher la question'}
                     </button>
@@ -927,19 +951,19 @@ export default function GamePanel({
                       onClick={() => revealQuestion(false)}
                       style={{
                         display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
-                        padding: isMobile ? '6px 10px' : '8px 14px', borderRadius: isMobile ? 20 : 10, border: 'none',
+                        padding: isMobile ? '6px 10px' : '7px 13px', borderRadius: isMobile ? 20 : 10,
                         fontWeight: 700, fontSize: isMobile ? 11 : 12, cursor: 'pointer',
                         fontFamily: "'Space Grotesk', sans-serif",
-                        background: `linear-gradient(135deg, ${C.amber}, #e09d2f)`,
-                        color: '#0d2820',
-                        opacity: (gameState.show_question === false) ? 0.5 : 1,
-                        boxShadow: `0 4px 14px -4px ${C.amber}44`,
-                        transition: 'transform 0.15s',
+                        border: `1px solid ${C.amber}44`,
+                        background: (gameState.show_question === false) ? `${C.amber}14` : 'transparent',
+                        color: C.amber,
+                        opacity: (gameState.show_question === false) ? 1 : 0.6,
+                        transition: 'all 0.18s',
                         height: isMobile ? 38 : 'auto',
                         touchAction: 'manipulation',
                       }}
-                      onMouseEnter={e => { if (!isMobile) e.currentTarget.style.transform = 'scale(1.02)'; }}
-                      onMouseLeave={e => { if (!isMobile) e.currentTarget.style.transform = 'scale(1)'; }}
+                      onMouseEnter={e => { e.currentTarget.style.background = `${C.amber}14`; }}
+                      onMouseLeave={e => { e.currentTarget.style.background = (gameState.show_question === false) ? `${C.amber}14` : 'transparent'; }}
                     >
                       {isMobile ? '🗣️ Oral seul' : '🙈 Masquer la question (oral)'}
                     </button>

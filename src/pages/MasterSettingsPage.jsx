@@ -426,6 +426,10 @@ export default function MasterSettingsPage({ onClose, onBackToWelcome }) {
           </GlassCard>
         </section>
 
+        {/* Rupture visuelle volontaire : tout ce qui précède est cosmétique/réglable sans risque,
+            tout ce qui suit efface des données. Ce n'est pas juste une section de plus. */}
+        <div style={{ borderTop: `1px dashed ${C.red}33`, margin: '4px 0' }} />
+
         {/* ── SECTION: DANGER ZONE ── */}
         <section style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
           <MonoLabel color={C.red}>Danger Zone 🚨</MonoLabel>
